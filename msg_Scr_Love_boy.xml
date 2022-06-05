@@ -1,100 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entries Count="1522">
-  <Entry Index="0">Pg. siguiente</Entry>
+  <Entry Index="0">Pg. seguinte</Entry>
   <Entry Index="1">Pg. anterior</Entry>
   <Entry Index="2">Karen</Entry>
   <Entry Index="3">Popuri</Entry>
   <Entry Index="4">Ran</Entry>
   <Entry Index="5">Marie</Entry>
-  <Entry Index="6">Seleccionar</Entry>
+  <Entry Index="6">Selecionar</Entry>
   <Entry Index="7">Elli</Entry>
-  <Entry Index="8">Volver</Entry>
+  <Entry Index="8">Voltar</Entry>
   <Entry Index="9">¡&lt;gender&gt;("Bem-vindo","Bem-vinda")!
 &lt;wait&gt;</Entry>
-  <Entry Index="10">Creo que tu cara no me suena. ¿Has venido a hacer algo
-de turismo?&lt;wait&gt;</Entry>
-  <Entry Index="11">Oh. Ya había oído por ahí que alguien se había mudado a
-esa vieja granja.&lt;wait&gt;&lt;page&gt;
-Así que te llamas &lt;playername&gt;.
-Yo soy Karen. Es un placer.&lt;wait&gt;</Entry>
-  <Entry Index="12">Oh. Ya había oído por ahí que alguien se había mudado a
-esa vieja granja.&lt;wait&gt;&lt;page&gt;
-Así que te llamas &lt;playername&gt;.
-Yo soy Karen. Es un placer.&lt;wait&gt;</Entry>
-  <Entry Index="13">Vaya, pero si es &lt;playername&gt;.
-¿Has venido a hacer la compra?&lt;wait&gt;</Entry>
-  <Entry Index="14">Vaya, pero si es &lt;playername&gt;.
-¿Has venido a hacer la compra?&lt;wait&gt;</Entry>
-  <Entry Index="15">Sin problemas. Tómate tu tiempo.&lt;wait&gt;</Entry>
-  <Entry Index="16">¿Encuentras lo que necesitas?
-Si necesitas cualquier cosa, avísame.&lt;wait&gt;</Entry>
-  <Entry Index="17">Acabas de empezar en la granja, ¿no es así?
-Seguro que es un quebradero de cabeza pensar
-en cómo comenzar siquiera.&lt;wait&gt;</Entry>
-  <Entry Index="18">Necesitarás semillas para cultivarlas y semillas de
-forraje para alimentar a los animales, además de las
-herramientas para cosecharlas, por supuesto.&lt;wait&gt;</Entry>
-  <Entry Index="19">La lista de cosas por hacer y por comprar
-no tiene fin. ¿Me sigues?&lt;wait&gt;</Entry>
-  <Entry Index="20">Eh... Creo que necesito ayuda...</Entry>
-  <Entry Index="21">¡Sí, creo que sí!</Entry>
-  <Entry Index="22">Por supuesto. Lo entiendo.
-Espera aquí un momento.&lt;wait&gt;</Entry>
-  <Entry Index="23">¿Papá? Voy a darle unas semillas a &lt;playername&gt;.
-¿Te importa?&lt;wait&gt;</Entry>
-  <Entry Index="24">¿Papá? Voy a darle unas semillas a &lt;playername&gt;.
-¿Te importa?&lt;wait&gt;</Entry>
-  <Entry Index="25">¿Ah, sí? ¿Quieres regalar nuestra mercancía? ¿Así como
-así?&lt;wait&gt;</Entry>
-  <Entry Index="26">¡Pues sí! ¡Los amigos se ayudan! &lt;playername&gt; se
-acaba de mudar aquí, ¿sabes? Lo correcto es ayudar en
-todo lo que podamos.&lt;wait&gt;</Entry>
-  <Entry Index="27">Karen tiene razón, cariño. ¿Por qué no das la talla y le
-muestras lo generoso que puedes ser?&lt;wait&gt;</Entry>
-  <Entry Index="28">Eh... Bueno... Si lo dices así... Supongo que le podría dar unas
-cuantas muestras.&lt;wait&gt;</Entry>
-  <Entry Index="29">¡Gracias, papá! ♪&lt;wait&gt;</Entry>
-  <Entry Index="30">Este es el marido cariñoso del que me enamoré.
-Sabía que me casé contigo por un buen motivo.&lt;wait&gt;</Entry>
-  <Entry Index="31">Oh, venga, ya vale.
-Que me estoy poniendo rojo.&lt;wait&gt;</Entry>
-  <Entry Index="32">Aquí tienes. Invita la casa, así que no te preocupes por el
-precio.&lt;wait&gt;</Entry>
-  <Entry Index="33">Esperamos volver a verte en nuestro bazar pronto.
-Buena suerte con tu granja. Tienes todo nuestro apoyo.&lt;wait&gt;</Entry>
-  <Entry Index="34">¿Eh? Supongo que sabes algo más sobre agricultura de lo
-que pensaba. Bueno.&lt;wait&gt;&lt;page&gt;
-Si hay algo que pueda hacer para ayudar, avísame, ¿vale?&lt;wait&gt;</Entry>
-  <Entry Index="35">Cuidar de los cultivos, del ganado... Es una profesión muy
-laboriosa, sí. Te deseo buena suerte.&lt;wait&gt;</Entry>
-  <Entry Index="36">Si tienes alguna duda sobre cómo utilizar las semillas o
-herramientas, le puedes preguntar a mi padre.&lt;wait&gt;</Entry>
-  <Entry Index="37">Buena suerte con tu granja, cariño. Pásate por aquí si
-necesitas un consejo o alguien con quien hablar.&lt;wait&gt;</Entry>
-  <Entry Index="38">Venga, venga. ¿Por qué no respiráis hondo? Si viniese un
-cliente y os viese así, huiría despavorido.&lt;wait&gt;</Entry>
-  <Entry Index="39">Ah, cierra el pico. Esto es entre Karen y yo.&lt;wait&gt;</Entry>
-  <Entry Index="40">Eh, pero...&lt;wait&gt;</Entry>
-  <Entry Index="41">¡Calla, papá! ¡No me digas que estás de parte de mamá!&lt;wait&gt;</Entry>
-  <Entry Index="42">Tranquila, mi furiosa hija. No tienes por qué enfadarte
-por eso... Oh, vaya. Ahora me está dando un dolor de tripa...&lt;wait&gt;</Entry>
-  <Entry Index="43">Ay. Ay, ay, ay. Qué dolor.&lt;wait&gt;</Entry>
-  <Entry Index="44">¿Eh? ¡Ah! Pero si eres tú, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="45">&lt;playername&gt;.  &lt;gender&gt;("Bienvenido","Bienvenida"). Venga, vosotras dos.
-Tenemos un cliente. ¿Por qué no dejáis el tema por un
+  <Entry Index="10">Acho que não conheço seu rosto. Você já veio aqui fazer algum turismo?&lt;wait&gt;</Entry>
+  <Entry Index="11">Oh. Eu tinha ouvido falar que alguém tinha se mudado para aquela velha fazenda.&lt;wait&gt;&lt;page&gt;
+Então seu nome é &lt;playername&gt;.
+Eu sou Karen. É um prazer conhecê-lo.&lt;wait&gt;</Entry>
+  <Entry Index="12">Oh. Eu tinha ouvido falar que alguém tinha se mudado para aquela velha fazenda.&lt;wait&gt;&lt;page&gt;
+Então seu nome é &lt;playername&gt;.
+Eu sou Karen. É um prazer te conhecer.&lt;wait&gt;</Entry>
+  <Entry Index="13">Olha, se não é &lt;playername&gt;.
+Você veio fazer suas compras?&lt;wait&gt;</Entry>
+  <Entry Index="14">Olha, se não é &lt;playername&gt;.
+Você veio fazer suas compras?&lt;wait&gt;</Entry>
+  <Entry Index="15">Sem problemas. Leve o tempo que precisar.&lt;wait&gt;</Entry>
+  <Entry Index="16">Você encontrou o que precisava?
+Se precisar de qualquier coisa, me avise.&lt;wait&gt;</Entry>
+  <Entry Index="17">Você acabou de começar na fazenda, não é mesmo?
+Tenho certeza de que é uma dor de cabeça
+pensar em como começar.&lt;wait&gt;</Entry>
+  <Entry Index="18">Você precisará de sementes para cultivar e forragem para alimentar os animais.
+bem como as ferramentas para colhê-las, é claro.&lt;wait&gt;</Entry>
+  <Entry Index="19">A lista de coisas a fazer e a comprar é interminável. Não é?&lt;wait&gt;</Entry>
+  <Entry Index="20">Eh... Acho que preciso de alguma ajuda...</Entry>
+  <Entry Index="21">Sim, eu acho que sim!</Entry>
+  <Entry Index="22">Mas é claro. Eu te entendo.
+Espera aqui um segundinho.</Entry>
+  <Entry Index="23">Papai vou dar umas sementes para &lt;playername&gt;.
+você se importa?&lt;wait&gt;</Entry>
+  <Entry Index="24">Papai vou dar umas sementes para &lt;playername&gt;.
+você se importa?&lt;wait&gt;</Entry>
+  <Entry Index="25">Que? Você quer dar nossa mercadoria? assim sem mais nem menos?&lt;wait&gt;</Entry>
+  <Entry Index="26">Mas é claro! Os amigos se ajudam!
+&lt;playername&gt; acabou de se mudar pra cá sabe?, A coisa certa a fazer é ajudar
+no que pudermos.&lt;wait&gt;</Entry>
+  <Entry Index="27">Karen tem razão, amor.
+Por quê você não mostra o quão generoso você pode ser?&lt;wait&gt;</Entry>
+  <Entry Index="28">Eh... Bom... Falando desse jeito... Suponho que eu poderia dar umas
+amostras.&lt;wait&gt;</Entry>
+  <Entry Index="29">Obrigada, papai! ♪&lt;wait&gt;</Entry>
+  <Entry Index="30">Este é o marido amoroso pelo qual eu me apaixonei.
+Eu sabia que tinha me casado com você por uma boa razão.&lt;wait&gt;</Entry>
+  <Entry Index="31">Ah, para, vai.
+Que eu já estou ficando vermelho.&lt;wait&gt;</Entry>
+  <Entry Index="32">Aqui está. É por conta da casa, portanto, não se preocupe com o preço.&lt;wait&gt;</Entry>
+  <Entry Index="33">Esperamos vê-lo em nosso bazar novamente em breve.
+Boa sorte com sua fazenda. Você tem todo nosso apoio.&lt;wait&gt;</Entry>
+  <Entry Index="34">Oh? Eu acho que você tem um controle mais firme sobre a agricultura do que eu pensava. Tudo bem então.&lt;wait&gt;&lt;page&gt;
+Se houver algo que eu possa fazer para ajudar, me avise, ok?&lt;wait&gt;</Entry>
+  <Entry Index="35">Cuidando das colheitas, do gado... É uma profissão muito
+trabalhosa. Te desejo boa sorte.&lt;wait&gt;</Entry>
+  <Entry Index="36">Se tiver alguma duvida sobre como utilizar as sementes ou
+ferramentas, você pode perguntar a meu pai.&lt;wait&gt;</Entry>
+  <Entry Index="37">Boa sorte com sua fazenda,  &lt;gender&gt;("Querido","Querida").
+Passe por aqui se precisar de conselhos ou alguem para conversar.&lt;wait&gt;</Entry>
+  <Entry Index="38">Venha, venha. Por que você não respira fundo? Se algum cliente te ver assim, fugiria em pânico.&lt;wait&gt;</Entry>
+  <Entry Index="39">Ah, cale-se. Isto é entre mim e Karen.&lt;wait&gt;</Entry>
+  <Entry Index="40">Eh, mas...&lt;wait&gt;</Entry>
+  <Entry Index="41">Cala a boca, pai! Não me diga que você está do lado da mãe!&lt;wait&gt;</Entry>
+  <Entry Index="42">Se acalma, minha filha furiosa. Não precisa ficar brava por iso...
+Ah, não, Agora estou tendo uma dor de barriga....&lt;wait&gt;</Entry>
+  <Entry Index="43">Ai. Ai, ai, ai. Que dor.&lt;wait&gt;</Entry>
+  <Entry Index="44">Eh? Ah! Mas é você, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="45">&lt;playername&gt;.  &lt;gender&gt;("Bem-vindo,"Bem-vinda"). Vem, vocês dois.
+Temos um cliente. Por que vocês não deixa isso pra lá um
 momento?&lt;wait&gt;</Entry>
-  <Entry Index="46">Creo que es nuestra oportunidad para conseguir la
-opinión de alguien imparcial.&lt;wait&gt;</Entry>
-  <Entry Index="47">Bien pensado, mamá. &lt;playername&gt; es la persona
-perfecta a la que preguntárselo. &lt;playername&gt;,
-¿tienes un momento?&lt;wait&gt;</Entry>
-  <Entry Index="48">¿Eh? ¡Ah! Pero si eres tú, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="46">Acho que essa é a nossa oportunidade para conseguir a
+opinião de alguiem imparcial.&lt;wait&gt;</Entry>
+  <Entry Index="47">Bem pensado, mãe. &lt;playername&gt; é a pessoa perfeita para perguntar.
+&lt;playername&gt;, Você tem um momento? &lt;wait&gt;</Entry>
+  <Entry Index="48">Eh? Ah! Mas é você, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="49">&lt;playername&gt;. &lt;gender&gt;("Bienvenido","Bienvenida"). Venga, vosotras dos.
 Tenemos un cliente. ¿Por qué no dejáis el tema por un
 momento?&lt;wait&gt;</Entry>
-  <Entry Index="50">Bien pensado, mamá.&lt;playername&gt; es la persona
-perfecta a la que preguntárselo. &lt;playername&gt;,
-¿tienes un momento?&lt;wait&gt;</Entry>
+  <Entry Index="50">Bem pensado, mãe. &lt;playername&gt; é a pessoa perfeita para perguntar.
+&lt;playername&gt;, Você tem um momento? &lt;wait&gt;</Entry>
   <Entry Index="51">Verás, acaban de ingresar en el hospital al hijo de un
 pariente.&lt;wait&gt;</Entry>
   <Entry Index="52">Hemos pensado que estaría bien enviarles unas semillas
