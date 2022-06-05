@@ -11,11 +11,14 @@
   <Entry Index="8">Voltar</Entry>
   <Entry Index="9">¡&lt;gender&gt;("Bem-vindo","Bem-vinda")!
 &lt;wait&gt;</Entry>
-  <Entry Index="10">Acho que não conheço seu rosto. Você já veio aqui fazer algum turismo?&lt;wait&gt;</Entry>
-  <Entry Index="11">Oh. Eu tinha ouvido falar que alguém tinha se mudado para aquela velha fazenda.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="10">Acho que não conheço seu rosto. Você já veio aqui fazer
+algum turismo?&lt;wait&gt;</Entry>
+  <Entry Index="11">Oh. Eu tinha ouvido falar que alguém tinha se mudado 
+para aquela velha fazenda.&lt;wait&gt;&lt;page&gt;
 Então seu nome é &lt;playername&gt;.
 Eu sou Karen. É um prazer conhecê-lo.&lt;wait&gt;</Entry>
-  <Entry Index="12">Oh. Eu tinha ouvido falar que alguém tinha se mudado para aquela velha fazenda.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="12">Oh. Eu tinha ouvido falar que alguém tinha se mudado 
+para aquela velha fazenda.&lt;wait&gt;&lt;page&gt;
 Então seu nome é &lt;playername&gt;.
 Eu sou Karen. É um prazer te conhecer.&lt;wait&gt;</Entry>
   <Entry Index="13">Olha, se não é &lt;playername&gt;.
