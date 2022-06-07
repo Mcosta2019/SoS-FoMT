@@ -11,14 +11,11 @@
   <Entry Index="8">Voltar</Entry>
   <Entry Index="9">¡&lt;gender&gt;("Bem-vindo","Bem-vinda")!
 &lt;wait&gt;</Entry>
-  <Entry Index="10">Acho que não conheço seu rosto. Você já veio aqui fazer
-algum turismo?&lt;wait&gt;</Entry>
-  <Entry Index="11">Oh. Eu tinha ouvido falar que alguém tinha se mudado 
-para aquela velha fazenda.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="10">Acho que não conheço seu rosto. Você já veio aqui fazer algum turismo?&lt;wait&gt;</Entry>
+  <Entry Index="11">Oh. Eu tinha ouvido falar que alguém tinha se mudado para aquela velha fazenda.&lt;wait&gt;&lt;page&gt;
 Então seu nome é &lt;playername&gt;.
 Eu sou Karen. É um prazer conhecê-lo.&lt;wait&gt;</Entry>
-  <Entry Index="12">Oh. Eu tinha ouvido falar que alguém tinha se mudado 
-para aquela velha fazenda.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="12">Oh. Eu tinha ouvido falar que alguém tinha se mudado para aquela velha fazenda.&lt;wait&gt;&lt;page&gt;
 Então seu nome é &lt;playername&gt;.
 Eu sou Karen. É um prazer te conhecer.&lt;wait&gt;</Entry>
   <Entry Index="13">Olha, se não é &lt;playername&gt;.
@@ -82,182 +79,162 @@ opinião de alguiem imparcial.&lt;wait&gt;</Entry>
   <Entry Index="47">Bem pensado, mãe. &lt;playername&gt; é a pessoa perfeita para perguntar.
 &lt;playername&gt;, Você tem um momento? &lt;wait&gt;</Entry>
   <Entry Index="48">Eh? Ah! Mas é você, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="49">&lt;playername&gt;. &lt;gender&gt;("Bienvenido","Bienvenida"). Venga, vosotras dos.
-Tenemos un cliente. ¿Por qué no dejáis el tema por un
+  <Entry Index="49">&lt;playername&gt;.  &lt;gender&gt;("Bem-vindo,"Bem-vinda"). Vem, vocês dois.
+Temos um cliente. Por que vocês não deixa isso pra lá um
 momento?&lt;wait&gt;</Entry>
   <Entry Index="50">Bem pensado, mãe. &lt;playername&gt; é a pessoa perfeita para perguntar.
 &lt;playername&gt;, Você tem um momento? &lt;wait&gt;</Entry>
-  <Entry Index="51">Verás, acaban de ingresar en el hospital al hijo de un
-pariente.&lt;wait&gt;</Entry>
-  <Entry Index="52">Hemos pensado que estaría bien enviarles unas semillas
-de flores de regalo.&lt;wait&gt;</Entry>
-  <Entry Index="53">Yo creo que la opción más OBVIA es enviarles semillas de
-flor lunar, pero mamá es una cabezota.&lt;wait&gt;</Entry>
-  <Entry Index="54">Cielos, no. Ni hablar de flores lunares. Las semillas de flor
-de gato rosa son mucho mejores.&lt;wait&gt;</Entry>
-  <Entry Index="55">Bueno. Las dos llevan el día peleándose por algo que no
-tiene mayor importancia...&lt;wait&gt;</Entry>
-  <Entry Index="56">Así que ahora te necesitamos a ti, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="57">Sí. Vamos a zanjar el tema, ¿vale? Mandaremos lo que
-escoja &lt;playername&gt;. Sin resentimientos.&lt;wait&gt;</Entry>
-  <Entry Index="58">Dios santo... ¿en serio? Pues vaya. Si eso significa que no
-habrá más quejas, supongo que está bien.&lt;wait&gt;</Entry>
-  <Entry Index="59">¡Bien! Enviaremos esas.&lt;wait&gt;</Entry>
-  <Entry Index="60">Así que ahora te necesitamos a ti, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="61">Bueno, &lt;playername&gt;. Tú decides. Escoge las semillas
-de flores que crees que deberíamos mandar.&lt;wait&gt;</Entry>
-  <Entry Index="62">Bueno, &lt;playername&gt;. Tú decides. Escoge las semillas
-de flores que crees que deberíamos mandar.&lt;wait&gt;</Entry>
-  <Entry Index="63">Semillas de flor lunar</Entry>
-  <Entry Index="64">Semillas de flor de gato rosa</Entry>
-  <Entry Index="65">¡Ajá! ¡Sabía que estarías de acuerdo
-conmigo, &lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="66">¡Ay! No tenéis ni idea de lo que es bueno. 
-Pero bueno, es lo acordado. 
-Supongo que enviaremos las semillas que Karen escogió.&lt;wait&gt;</Entry>
-  <Entry Index="67">¡Por supuesto! ♪
-¡Gracias, &lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="68">¡Ajá! ¡Sabía que estarías de acuerdo conmigo,
-&lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="69">¡Por supuesto! ♪
-¡Gracias, &lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="70">¡¿En serio?! ¿Te gustan más las semillas de mamá que las
-mías, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="71">Bueno. Dijimos que nada de resentimientos. La decisión
-está tomada, así que vamos a tener que vivir con ella,
-cariño.&lt;wait&gt;</Entry>
-  <Entry Index="72">Está bien. Estoy un poco decepcionada, eso es todo.&lt;wait&gt;&lt;page&gt;
-Supongo que prepararé las semillas que mamá escogió
-para poder enviarlas.&lt;wait&gt;</Entry>
-  <Entry Index="73">¡¿En serio?! ¿Te gustan más las semillas de mamá que las
-mías, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="74">¡Uf! Me alegro de que hayan dejado de pelearse.
-Gracias, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="75">¡Uf! Me alegro de que hayan dejado de pelearse. Gracias,
-&lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="76">Bueno... Por lo menos han dejado de pelearse. Aunque
-Karen da bastante miedo cuando se enfada...&lt;wait&gt;</Entry>
-  <Entry Index="77">Supongo que esto significa que nos gustan las mismas
-flores. Creo que me gusta la idea.&lt;wait&gt;</Entry>
-  <Entry Index="78">Supongo que esto significa que nos gustan las mismas
-flores. Creo que me gusta la idea.&lt;wait&gt;</Entry>
-  <Entry Index="79">Bueno, es cierto que yo misma me lo he buscado, así que
-tendré que aceptarlo. Sin resentimientos.&lt;wait&gt;</Entry>
-  <Entry Index="80">Ay... Sigo pensando que las semillas que yo escogí
-eran mucho mejores.&lt;wait&gt;&lt;page&gt;
-La mente de los jóvenes es muy desconcertante,
-no hay duda...&lt;wait&gt;</Entry>
-  <Entry Index="81">¡Ay! Y pensar que estarías de acuerdo con las semillas
-que escogí. Tienes muy buen gusto.&lt;wait&gt;</Entry>
-  <Entry Index="82">... Aquí tienes.&lt;wait&gt;</Entry>
-  <Entry Index="83">¿En serio?&lt;wait&gt;</Entry>
-  <Entry Index="84">¡Yuju! ¡Aquí viene el néctar de los dioses! ¡Qué emoción!&lt;wait&gt;</Entry>
-  <Entry Index="85">Mamá. Papá. ¡Muchísimas gracias!&lt;wait&gt;</Entry>
-  <Entry Index="86">Madre mía, ¿ya ha pasado tanto tiempo?
-No me extraña que me sienta un poco mayor.&lt;wait&gt;</Entry>
-  <Entry Index="87">Ver a Karen tan feliz hace que esté el doble de contento
-con esta decisión.&lt;wait&gt;</Entry>
-  <Entry Index="88">Ah. &lt;playername&gt;, &lt;gender&gt;("bienvenido","bienvenida").&lt;wait&gt;</Entry>
-  <Entry Index="89">¡Mira esto! ¡Mamá y papá prepararon una partida de
-vino el año en el que nací!&lt;wait&gt;&lt;page&gt;
-No tenía ni idea de que se guardarían un regalo así en
-secreto durante tantos años. ¡Estoy tan patidifusa como
-eufórica!&lt;wait&gt;</Entry>
-  <Entry Index="90">Mmm. A Jeff siempre se le ocurren muy buenas ideas, ¿no
-crees?&lt;wait&gt;&lt;page&gt;
-Esa partida está lista para beberla, así que pensé en
-venir a contároslo.&lt;wait&gt;</Entry>
-  <Entry Index="91">Ah. &lt;playername&gt;, &lt;gender&gt;("bienvenido","bienvenida").&lt;wait&gt;</Entry>
-  <Entry Index="92">¿Y bien? ¿Tienes ganas de ir a recogerla? O también
-podrías dejar que repose un rato más.&lt;wait&gt;</Entry>
-  <Entry Index="93">Voy a ir a por ella, por supuesto. Ahora que sé que existe,
-¿cómo no voy a querer probarlo enseguida?&lt;wait&gt;</Entry>
-  <Entry Index="94">¡Ya lo sé! &lt;playername&gt;, ¿por qué no vas a recoger
-esa partida de vino con Karen?&lt;wait&gt;</Entry>
-  <Entry Index="95">Papá, &lt;playername&gt; está muy &lt;gender&gt;("ocupado","ocupada"), no seas
-maleducado. No puedes imponerle a alguien una tarea así
-como así.&lt;wait&gt;&lt;page&gt;
-Además, se hace en un periquete. Puedo hacerlo yo sola.&lt;wait&gt;</Entry>
-  <Entry Index="96">Sí, ya sé que eres mayorcita. Es que no quiero que te
-emociones y se te caiga de camino a casa, ¿vale?&lt;wait&gt;</Entry>
-  <Entry Index="97">Agh. No soy TAN patosa, papá. Si a alguien se le fuese a
-caer de camino a casa, ese alguien serías tú. Aun así...&lt;wait&gt;</Entry>
-  <Entry Index="98">¡Ya lo sé! &lt;playername&gt;, ¿por qué no vas a recoger
-esa partida de vino con Karen?&lt;wait&gt;</Entry>
-  <Entry Index="99">Papá, &lt;playername&gt; está muy &lt;gender&gt;("ocupado","ocupada"), no seas
-maleducado. No puedes imponerle a alguien una tarea así
-como así.&lt;wait&gt;&lt;page&gt;
-Además, se hace en un periquete. Puedo hacerlo yo sola.&lt;wait&gt;</Entry>
-  <Entry Index="100">Un paseo con &lt;playername&gt; suena divertido.&lt;wait&gt;</Entry>
-  <Entry Index="101">Bueno, &lt;playername&gt;.
-¿Todo listo para el vino?&lt;wait&gt;</Entry>
-  <Entry Index="102">Un paseo con &lt;playername&gt; suena divertido.&lt;wait&gt;</Entry>
-  <Entry Index="103">Bueno, &lt;playername&gt;.
-¿Todo listo para darle al vino?&lt;wait&gt;</Entry>
-  <Entry Index="104">Que corra el vino.</Entry>
-  <Entry Index="105">Lo siento. No tengo tiempo.</Entry>
-  <Entry Index="106">¿Te vienes?
-Me ayudarías mucho, la verdad.&lt;wait&gt;</Entry>
-  <Entry Index="107">Venga. Vamos allá. ♪&lt;wait&gt;</Entry>
-  <Entry Index="108">Ahí tienes.&lt;wait&gt;</Entry>
-  <Entry Index="109">¡Oh! ¡Muchas gracias, tío Duke! Mira, hasta tiene mi
-nombre en la etiqueta. ¡Voy a disfrutar cada trago, lo
-prometo!&lt;wait&gt;</Entry>
-  <Entry Index="110">No hay problema. Verte tan feliz hace que todo el trabajo
-merezca muchísimo la pena.&lt;wait&gt;</Entry>
-  <Entry Index="111">Ji, ji, ji. Me pregunto cómo sabrá. ¡Me muero de ganas por
-probarlo!&lt;wait&gt;</Entry>
-  <Entry Index="112">Venga. Volvamos a casa rápido.&lt;wait&gt;</Entry>
-  <Entry Index="113">Eh, un momento. ¿Adónde vais?&lt;wait&gt;</Entry>
-  <Entry Index="114">¿Eh? ¿A qué te refieres? Hemos recogido el vino, así que
-nos vamos a casa.&lt;wait&gt;</Entry>
-  <Entry Index="115">Para el carro. En ningún momento dije que solo hubiera
-hecho una botella.&lt;wait&gt;</Entry>
-  <Entry Index="116">Espera, ¿hay más? Supongo que podríamos traer una bolsa
-o dos y llevarlas así.&lt;wait&gt;</Entry>
-  <Entry Index="117">¡Ja! ¡Si fuese algo que una persona pudiese llevar las
-habría llevado yo mismo!&lt;wait&gt;&lt;page&gt;
-Pero Jeff estaba tan contento cuando naciste que me
-llamó gritando: "¡Duke, hazme TRES CAJAS de vino!".&lt;wait&gt;&lt;page&gt;
-Y tres cajas que hice. Cada botella de esa estantería es
-parte de la partida. Venga, ayúdame a cogerlas.&lt;wait&gt;</Entry>
-  <Entry Index="118">Menos mal que hay que beber con moderación... Lo siento,
-&lt;playername&gt;. No sabía que iban a ser tantas. ¿Me
-ayudas a llevarlas?&lt;wait&gt;</Entry>
-  <Entry Index="119">Pues sí que se ha pasado papá... ¿Y cómo espera que
-llevemos todo esto entre dos?&lt;wait&gt;</Entry>
-  <Entry Index="120">Lo siento, &lt;playername&gt;, ¿te importa echarme una
-mano?&lt;wait&gt;</Entry>
-  <Entry Index="121">Agh. Estoy agotada. Gracias por ayudarme a
-transportarlas. No habría podido hacerlo yo sola.&lt;wait&gt;&lt;page&gt;
-Está bien saber que mamá y papá se alegraron cuando
-nací, pero aun así... No hacía falta que abrieran su propia
-bodega...&lt;wait&gt;</Entry>
-  <Entry Index="122">Aunque... Supongo que esto sirve de "prueba" de lo mucho
-que les importo. Eh.&lt;wait&gt;</Entry>
-  <Entry Index="123">¡Espera, ya sé! Un momento, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="124">Toma. Una botella de mi vino especial. Quédatela por
-haberme ayudado hoy.&lt;wait&gt;</Entry>
-  <Entry Index="125">Me ha alegrado mucho tenerte conmigo. Gracias.&lt;wait&gt;</Entry>
-  <Entry Index="126">Me ha alegrado mucho tenerte conmigo. Gracias.&lt;wait&gt;</Entry>
-  <Entry Index="127">Oh. Si estás muy &lt;gender&gt;("ocupado","ocupada") no tienes por qué hacer nada.
-Karen, podemos ir a recogerlo en un rato.&lt;wait&gt;</Entry>
-  <Entry Index="128">Espera, ¿quieres venir tú, papá? Pues vaya. Me vale.&lt;wait&gt;</Entry>
-  <Entry Index="129">Esperaba que pudieses ir con Karen y ayudarla a recoger
-el vino, pero si estás muy &lt;gender&gt;("ocupado","ocupada") no tienes por qué
-hacer nada.</Entry>
-  <Entry Index="130">¡Ah, el suspense me está matando! ¿Habrá terminado ya
-papá su turno?&lt;wait&gt;</Entry>
-  <Entry Index="131">Ver a Karen tan feliz me hace feliz.&lt;wait&gt;</Entry>
-  <Entry Index="132">Así que Jeff vendrá a recogerlo, ¿no? Eh... No creo que sea
-capaz de llevarlo todo.&lt;wait&gt;&lt;page&gt;
-Se acordará de que me dijo que le fabricase tres cajas,
-¿no?&lt;wait&gt;</Entry>
-  <Entry Index="133">Ahora solo me queda sazonarlo... Mmm, tal vez le debería
-echar una pizca de esto. Oh, pero esto también le
-quedaría bien...&lt;wait&gt;</Entry>
-  <Entry Index="134">(¿Por qué? ¿Por qué ha tenido que pasar esto?)&lt;wait&gt;</Entry>
-  <Entry Index="135">(¡Shh! Baja la voz, cariño. Karen te va a oír).&lt;wait&gt;</Entry>
+  <Entry Index="51">Veja, o filho de um parente acaba de ser internado no hospital.&lt;wait&gt;</Entry>
+  <Entry Index="52">Achamos que seria bom enviar-lhe algumas sementes de flores como um presente.&lt;wait&gt;</Entry>
+  <Entry Index="53">Acho que a opção mais ÓBVIA é enviar sementes de
+flor da lua, mas a mãe é teimosa.&lt;wait&gt;</Entry>
+  <Entry Index="54">Céus, não. Sementes de flores da lua?. As sementes de flores de gato rosa são muito melhores!.&lt;wait&gt;</Entry>
+  <Entry Index="55">Bom. As duas têm brigado o dia todo por algo sem a menor importância...&lt;wait&gt;</Entry>
+  <Entry Index="56">Então agora precisamos de você, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="57">Sim. Vamos resolver este assunto, Ok? Enviaremos o que &lt;playername&gt; escolher. Sem ressentimentos.&lt;wait&gt;</Entry>
+  <Entry Index="58">Jesus... é serio? Bem. Se isso significa que não haverá mais reclamações, acho que tudo bem.&lt;wait&gt;</Entry>
+  <Entry Index="59">Otimo!&lt;wait&gt;</Entry>
+  <Entry Index="60">Então agora precisamos de você, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="61">Bem, &lt;playername&gt;. Você decide. Escolha as sementes de flores que você acha que devemos enviar.&lt;wait&gt;</Entry>
+  <Entry Index="62">Bem, &lt;playername&gt;. Você decide. Escolha as sementes de flores que você acha que devemos enviar.&lt;wait&gt;</Entry>
+  <Entry Index="63">Sementes de flores da lua</Entry>
+  <Entry Index="64">Sementes de flores de gato rosa</Entry>
+  <Entry Index="65">Ahá! Eu sabia que você ia concordar comigo, &lt;playername&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="66">Que! Você não faz idéia do que é bom. 
+Mas, combinado é combinado. 
+Acho que vamos enviar as sementes que a Karen escolheu.&lt;wait&gt;</Entry>
+  <Entry Index="67">É claro! ♪
+Obrigada, &lt;playername&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="68">Ahá! Eu sabia que você ia concordar comigo, &lt;playername&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="69">É claro! ♪
+Obrigada, &lt;playername&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="70">É sério?! Você gosta mais das sementes da minha mãe do que das minhas, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="71">Bem. Dissemos que não haveria ressentimentos. A decisão já foi tomada, então teremos que viver com ela, querida.&lt;wait&gt;</Entry>
+  <Entry Index="72">Tá bom. Estou um pouco decepcionada, é só isso.&lt;wait&gt;&lt;page&gt;
+Acho que vou prepar as sementes que a mãe escolheu
+para poder enviá-las.&lt;wait&gt;</Entry>
+  <Entry Index="73">É sério?! Você gosta mais das sementes da minha mãe do que das minhas, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="74">Ufa! Estou feliz que elas tenham parado de brigar. Obrigado, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="75">Ufa! Estou feliz que elas tenham parado de brigar. Obrigado, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="76">Bem... Ao menos elas pararam de brigar. Embora que a Karen seja bastante assustadora quando fica com raiva...&lt;wait&gt;</Entry>
+  <Entry Index="77">Acho que isso significa que nos gostamos das mesmas
+flores. Acredito que aprovo a ideia.&lt;wait&gt;</Entry>
+  <Entry Index="78">Acho que isso significa que nos gostamos das mesmas
+flores. Acredito que aprovo a ideia.&lt;wait&gt;</Entry>
+  <Entry Index="79">Bem, é verdade que eu mesmo trouxe isto, então
+terei que aceitar. Sem ressentimentos.&lt;wait&gt;</Entry>
+  <Entry Index="80">Mas... Eu ainda acho que as sementes que escolhi eram muito melhores.&lt;wait&gt;&lt;page&gt;
+A mente dos jovens é muito desconcertantes, não há dúvida....&lt;wait&gt;</Entry>
+  <Entry Index="81">Nossa! E pensar que você estaria de acordo com as sementes que eu escolhi. Você tem muito bom gosto.&lt;wait&gt;</Entry>
+  <Entry Index="82">... Aqui está.&lt;wait&gt;</Entry>
+  <Entry Index="83">É Serio?&lt;wait&gt;</Entry>
+  <Entry Index="84">Uhu! Aí vem o néctar dos deuses! que empolgante!&lt;wait&gt;</Entry>
+  <Entry Index="85">Mamãe. Papai. Muito obrigada&lt;wait&gt;</Entry>
+  <Entry Index="86">Minha nossa, já se passou tanto tempo?
+Não é atoa que me sinto tão velho.&lt;wait&gt;</Entry>
+  <Entry Index="87">Ver Karen tão feliz me deixa duas vezes mais feliz
+com essa decisão.&lt;wait&gt;</Entry>
+  <Entry Index="88">Ah. &lt;playername&gt;, &lt;gender&gt;("bem-vindo","bem-vinda").&lt;wait&gt;</Entry>
+  <Entry Index="89">Olha só! A mamãe e o papai prepararam um lote de
+vinho no ano em que eu nasci!&lt;wait&gt;&lt;page&gt;
+Não fazia ideia de que eles guardariam un presente desses em
+segredo durante tantos anos. Estou tão surpresa quanto
+emocionada!&lt;wait&gt;</Entry>
+  <Entry Index="90">Mmm. Jeff sempre tem grandes idéias,
+você não acha?&lt;wait&gt;&lt;page&gt;
+Aquele lote está pronto para beber, então pensei em
+vir e contar a vocês sobre isso.&lt;wait&gt;</Entry>
+  <Entry Index="91">Ah. &lt;playername&gt;, &lt;gender&gt;("bem-vindo","bem-vinda").&lt;wait&gt;</Entry>
+  <Entry Index="92">E então? Você tem vontade de experimentar? Ou
+você poderia deixá-la descansando mais um pouco&lt;wait&gt;</Entry>
+  <Entry Index="93">Vou pegar ela, é claro. Agora que sei que ela existe,
+Como eu não poderia experimentar agora mesmo?&lt;wait&gt;</Entry>
+  <Entry Index="94">Já sei! &lt;playername&gt;, Por que você não vai buscar
+aquele lote de vinho com a Karen?&lt;wait&gt;</Entry>
+  <Entry Index="95">Papai, &lt;playername&gt; está muito &lt;gender&gt;("ocupado","ocupada"), não seja
+mal-educado. Não pode impor uma tarefa pra alguem assim
+sem mais nem menos.&lt;wait&gt;&lt;page&gt;
+Além disso, isso pode ser feito em um instante. Eu mesmo posso fazer isso sozinha.&lt;wait&gt;</Entry>
+  <Entry Index="96">Sim, eu sei que você é uma garota crescida. Só não quero que você
+fique emocionada e deixe cair pelo caminho, entendeu?&lt;wait&gt;</Entry>
+  <Entry Index="97">Agh. Não sou TÃO desajeitada assim, pai. Se alguém fosse deixar
+cair pelo caminho, esse alguém seria você. Ainda que...&lt;wait&gt;</Entry>
+  <Entry Index="98">Já sei! &lt;playername&gt;, Por que você não vai buscar
+aquele lote de vinho com a Karen?&lt;wait&gt;</Entry>
+  <Entry Index="99">Papai, &lt;playername&gt; está muito &lt;gender&gt;("ocupado","ocupada"), não seja
+mal-educado. Não pode impor uma tarefa pra alguem assim
+sem mais nem menos.&lt;wait&gt;&lt;page&gt;
+Além disso, isso pode ser feito em um instante. Eu mesmo posso fazer isso sozinha.&lt;wait&gt;</Entry>
+  <Entry Index="100">Um passeio com &lt;playername&gt; parece divertido.&lt;wait&gt;</Entry>
+  <Entry Index="101">Muito bem, &lt;playername&gt;.
+Tudo pronto para o vinho?&lt;wait&gt;</Entry>
+  <Entry Index="102">Um passeio com &lt;playername&gt; parece divertido.&lt;wait&gt;</Entry>
+  <Entry Index="103">Muito bem, &lt;playername&gt;.
+Tudo pronto para o vinho?&lt;wait&gt;</Entry>
+  <Entry Index="104">Deixe o vinho fluir.</Entry>
+  <Entry Index="105">Sinto muito. Eu não tenho tempo.</Entry>
+  <Entry Index="106">Você vem?
+Você me ajudaria muito, de verdade.&lt;wait&gt;</Entry>
+  <Entry Index="107">Vem. Vamos lá. ♪&lt;wait&gt;</Entry>
+  <Entry Index="108">Aí está.&lt;wait&gt;</Entry>
+  <Entry Index="109">Ah, muito obrigada, tio Duke! Veja, tem até o meu
+nome no rótulo. Eu vou aproveitar cada gole,
+eu prometo!&lt;wait&gt;</Entry>
+  <Entry Index="110">Não tem problema. Vê-la tão feliz assim faz todo esse trabalho
+ter valido a pena.&lt;wait&gt;</Entry>
+  <Entry Index="111">Ha, ha, ha. Me pregunto qual será o sabor. Mal posso esperar para
+prova-lo!&lt;wait&gt;</Entry>
+  <Entry Index="112">Vem. Vamos para casa logo.&lt;wait&gt;</Entry>
+  <Entry Index="113">Ei, espere um pouco. Aonde pensa que vai?&lt;wait&gt;</Entry>
+  <Entry Index="114">Ue? como assim? Nós pegamos o vinho, então
+nos vamos para casa.&lt;wait&gt;</Entry>
+  <Entry Index="115">Pode ir parando aí. Em nenhum momento disse que só tinha
+feito uma garrafa.&lt;wait&gt;</Entry>
+  <Entry Index="116">Espera, tem mais? Acho que poderíamos trazer uma ou
+duas sacolas e carregá-las dessa forma.&lt;wait&gt;</Entry>
+  <Entry Index="117">Ha! Se fosse algo que uma pessoa pudese levar
+eu mesmo teria levado!&lt;wait&gt;&lt;page&gt;
+Mas Jeff estava tão contente quando você nasceu que me
+gritou: "¡Duke, me faz TRÊS CAIXAS de vinho!".&lt;wait&gt;&lt;page&gt;
+E três caixas eu fiz. Cada garrafa naquela prateleira é
+parte do lote. Venha, me ajude a pegá-las.&lt;wait&gt;</Entry>
+  <Entry Index="118">Felizmente terá que beber com moderação... sinto muito,
+&lt;playername&gt;. Não sabia que eram tantas. ¿Me
+ajuda a levá-las?&lt;wait&gt;</Entry>
+  <Entry Index="119">O papai foi realmente longe demais... E como você espera que
+vamos levar tudo isso só nós dois&lt;wait&gt;</Entry>
+  <Entry Index="120">Desculpe, &lt;playername&gt;, você se importa de me
+dar uma mãozinha?&lt;wait&gt;</Entry>
+  <Entry Index="121">Agh. Estou exausta. Obrigada por me ajudar
+transportá-las. Eu não poderia ter feito isso sozinha.&lt;wait&gt;&lt;page&gt;
+É bom saber que mamãe e papai estavam felizes quando
+nasci, mas ainda assim... Não havia necessidade de abrir sua
+própria vinícola...&lt;wait&gt;</Entry>
+  <Entry Index="122">Embora... Acho que isto serve como "prova" do quanto
+eles se importam comigo. Eh.&lt;wait&gt;</Entry>
+  <Entry Index="123">Espere, já sei! Só um momento, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="124">Aqui está. Uma garrafa do meu vinho especial. fique com ela
+por ter me ajudado hoje.&lt;wait&gt;</Entry>
+  <Entry Index="125">Fiquei muito feliz em poder contar com você. Obrigada.&lt;wait&gt;</Entry>
+  <Entry Index="126">Fiquei muito feliz em poder contar com você. Obrigada.&lt;wait&gt;</Entry>
+  <Entry Index="127">Ah. Se você estiver muito &lt;gender&gt;("ocupado","ocupada") não precisa fazer nada.
+Karen, podemos ir buscá-los em um estante.&lt;wait&gt;</Entry>
+  <Entry Index="128">Espera, você quer vir, papai? então tá. Por mim tudo bem.&lt;wait&gt;</Entry>
+  <Entry Index="129">Eu esperava que você pudesse ir com Karen e ajudá-la
+a pegar o vinho, mas se você estiver muito &lt;gender&gt;("ocupado","ocupada")
+não precisa fazer nada..</Entry>
+  <Entry Index="130">Ah, o suspense está me matando! O papai já terminou
+seu turno?&lt;wait&gt;</Entry>
+  <Entry Index="131">Ver Karen tão feliz me faz feliz.&lt;wait&gt;</Entry>
+  <Entry Index="132">Então Jeff vem buscá-lo, não é? Uh... Não acho que seja
+capaz de levar tudo.&lt;wait&gt;&lt;page&gt;
+Você se lembrará que você me disse para fazer três caixas
+para você, né?&lt;wait&gt;</Entry>
+  <Entry Index="133">Agora só preciso temperá-lo... Mmm, talvez eu devesse
+jogar uma pitada disto. Oh, mas isso também
+ficaria bem nele...&lt;wait&gt;</Entry>
+  <Entry Index="134">(Por quê? Por que isto tinha que acontecer?)&lt;wait&gt;</Entry>
+  <Entry Index="135">(Shh! Fala baixo, querido. Karen vai te ouvir).&lt;wait&gt;</Entry>
   <Entry Index="136">(Que los cielos tengan piedad... Ojalá pudieses estar ahí
 dentro para echarle un vistazo...).&lt;wait&gt;</Entry>
   <Entry Index="137">(Quería, pero me sonrió y me dijo que quería
