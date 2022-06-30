@@ -11,11 +11,14 @@
   <Entry Index="8">Voltar</Entry>
   <Entry Index="9">¡&lt;gender&gt;("Bem-vindo","Bem-vinda")!
 &lt;wait&gt;</Entry>
-  <Entry Index="10">Acho que não conheço seu rosto. Você já veio aqui fazer algum turismo?&lt;wait&gt;</Entry>
-  <Entry Index="11">Oh. Eu tinha ouvido falar que alguém tinha se mudado para aquela velha fazenda.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="10">Acho que não conheço seu rosto. Você já veio aqui
+fazer algum turismo?&lt;wait&gt;</Entry>
+  <Entry Index="11">Oh. Eu tinha ouvido falar que alguém tinha se mudado para aquela
+velha fazenda.&lt;wait&gt;&lt;page&gt;
 Então seu nome é &lt;playername&gt;.
 Eu sou Karen. É um prazer conhecê-lo.&lt;wait&gt;</Entry>
-  <Entry Index="12">Oh. Eu tinha ouvido falar que alguém tinha se mudado para aquela velha fazenda.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="12">Oh. Eu tinha ouvido falar que alguém tinha se mudado para aquela
+velha fazenda.&lt;wait&gt;&lt;page&gt;
 Então seu nome é &lt;playername&gt;.
 Eu sou Karen. É um prazer te conhecer.&lt;wait&gt;</Entry>
   <Entry Index="13">Olha, se não é &lt;playername&gt;.
@@ -28,9 +31,11 @@ Se precisar de qualquier coisa, me avise.&lt;wait&gt;</Entry>
   <Entry Index="17">Você acabou de começar na fazenda, não é mesmo?
 Tenho certeza de que é uma dor de cabeça
 pensar em como começar.&lt;wait&gt;</Entry>
-  <Entry Index="18">Você precisará de sementes para cultivar e forragem para alimentar os animais.
-bem como as ferramentas para colhê-las, é claro.&lt;wait&gt;</Entry>
-  <Entry Index="19">A lista de coisas a fazer e a comprar é interminável. Não é?&lt;wait&gt;</Entry>
+  <Entry Index="18">Você precisará de sementes para cultivar e forragem
+para alimentar os animais.
+Bem como as ferramentas para colhê-las, é claro.&lt;wait&gt;</Entry>
+  <Entry Index="19">A lista de coisas a fazer e a comprar é interminável.
+Não é?&lt;wait&gt;</Entry>
   <Entry Index="20">Eh... Acho que preciso de alguma ajuda...</Entry>
   <Entry Index="21">Sim, eu acho que sim!</Entry>
   <Entry Index="22">Mas é claro. Eu te entendo.
@@ -52,10 +57,12 @@ amostras.&lt;wait&gt;</Entry>
 Eu sabia que tinha me casado com você por uma boa razão.&lt;wait&gt;</Entry>
   <Entry Index="31">Ah, para, vai.
 Que eu já estou ficando vermelho.&lt;wait&gt;</Entry>
-  <Entry Index="32">Aqui está. É por conta da casa, portanto, não se preocupe com o preço.&lt;wait&gt;</Entry>
+  <Entry Index="32">Aqui está. É por conta da casa, portanto, não se preocupe
+com o preço.&lt;wait&gt;</Entry>
   <Entry Index="33">Esperamos vê-lo em nosso bazar novamente em breve.
 Boa sorte com sua fazenda. Você tem todo nosso apoio.&lt;wait&gt;</Entry>
-  <Entry Index="34">Oh? Eu acho que você tem um controle mais firme sobre a agricultura do que eu pensava. Tudo bem então.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="34">Oh? Eu acho que você tem um controle mais firme sobre
+a agricultura do que eu pensava. Tudo bem então.&lt;wait&gt;&lt;page&gt;
 Se houver algo que eu possa fazer para ajudar, me avise, ok?&lt;wait&gt;</Entry>
   <Entry Index="35">Cuidando das colheitas, do gado... É uma profissão muito
 trabalhosa. Te desejo boa sorte.&lt;wait&gt;</Entry>
@@ -63,7 +70,8 @@ trabalhosa. Te desejo boa sorte.&lt;wait&gt;</Entry>
 ferramentas, você pode perguntar a meu pai.&lt;wait&gt;</Entry>
   <Entry Index="37">Boa sorte com sua fazenda,  &lt;gender&gt;("Querido","Querida").
 Passe por aqui se precisar de conselhos ou alguem para conversar.&lt;wait&gt;</Entry>
-  <Entry Index="38">Venha, venha. Por que você não respira fundo? Se algum cliente te ver assim, fugiria em pânico.&lt;wait&gt;</Entry>
+  <Entry Index="38">Venha, venha. Por que você não respira fundo?
+Se algum cliente te ver assim, fugiria em pânico.&lt;wait&gt;</Entry>
   <Entry Index="39">Ah, cale-se. Isto é entre mim e Karen.&lt;wait&gt;</Entry>
   <Entry Index="40">Eh, mas...&lt;wait&gt;</Entry>
   <Entry Index="41">Cala a boca, pai! Não me diga que você está do lado da mãe!&lt;wait&gt;</Entry>
@@ -239,10 +247,10 @@ ficaria bem nele...&lt;wait&gt;</Entry>
   <Entry Index="135">(Shh! Fala baixo, querido. Karen vai te ouvir).&lt;wait&gt;</Entry>
   <Entry Index="136">(Deus tenha piedade... eu gostaria que você pudesse
 dar uma olhada...).&lt;wait&gt;</Entry>
-  <Entry Index="137">(Eu queria, mas ele sorriu para mim e disse que queria
+  <Entry Index="137">(Eu queria, mas ela sorriu para mim e disse que queria
 nos compensar por tudo o que fizemos...)&lt;wait&gt;&lt;page&gt;
-(Eu não poderia dizer não a ela.).&lt;wait&gt;</Entry>
-  <Entry Index="138">(Ugh. Vejo como é difícil dizer não a isso. Mas mesmo
+(Eu não poderia dizer não.).&lt;wait&gt;</Entry>
+  <Entry Index="138">(Ugh. Sei como é difícil dizer não. Mas mesmo
 assim...).&lt;wait&gt;</Entry>
   <Entry Index="139">É isso aí! Tudo pronto! ♪ Isso é alta gastronomia,
 sem dúvida!&lt;wait&gt;</Entry>
