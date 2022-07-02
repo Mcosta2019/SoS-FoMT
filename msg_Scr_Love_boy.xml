@@ -331,61 +331,64 @@ dizer. Experimente!&lt;wait&gt;</Entry>
 Você está bem?! Aguente firme!&lt;wait&gt;</Entry>
   <Entry Index="185">¡AAAAH! &lt;playername&gt;, O que está acontecendo!
 Você está bem?! Aguente firme!&lt;wait&gt;</Entry>
-  <Entry Index="186">¡Ajá! ¡Estás &lt;gender&gt;("despierto","despierta")!&lt;wait&gt;</Entry>
-  <Entry Index="187">&lt;playername&gt;, ¿cómo te sientes? Estás en la clínica.&lt;wait&gt;&lt;page&gt;
-Te desmayaste en la casa de Karen. Ella misma te trajo
-hasta aquí.&lt;wait&gt;&lt;page&gt;
-Te examiné y no hay nada que parezca estar mal, pero te
-sugiero que te quedes aquí y descanses un poco.&lt;wait&gt;</Entry>
-  <Entry Index="188">¡Ay, madre! Estaba tan preocupada por ti. Me alegra que
-hayas despertado.&lt;wait&gt;</Entry>
-  <Entry Index="189">Si estabas tan &lt;gender&gt;("cansado","cansada") de trabajar en la granja,
-deberías habérmelo dicho.&lt;wait&gt;&lt;page&gt;
-Cuando te desmayaste, estaba tan preocupada que creía
-que se me iba a salir el corazón del pecho.&lt;wait&gt;</Entry>
-  <Entry Index="190">Si estabas tan &lt;gender&gt;("cansado","cansada") de trabajar en la granja,
-deberías habérmelo dicho.&lt;wait&gt;&lt;page&gt;
-Cuando te desmayaste, estaba tan preocupada que creía
-que se me iba a salir el corazón del pecho.&lt;wait&gt;</Entry>
-  <Entry Index="191">Karen, ¿tienes idea de por qué le ha ocurrido 
-esto a &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="192">¿Eh? ¿No fue por el agotamiento causado por 
-el trabajo manual?&lt;wait&gt;</Entry>
-  <Entry Index="193">Em... Ya veo... Si no lo sabes, no pasa nada.&lt;wait&gt;</Entry>
-  <Entry Index="194">A veces eres un poco raro, doctor. En cualquier caso,
-&lt;playername&gt; se ha despertado, así que bien está lo
-que bien acaba.&lt;wait&gt;</Entry>
-  <Entry Index="195">A veces eres un poco raro, doctor. En cualquier caso,
-&lt;playername&gt; se ha despertado, así que bien está lo
-que bien acaba.&lt;wait&gt;</Entry>
-  <Entry Index="196">¡Oh, ya sé, &lt;playername&gt;! ¡La próxima vez haré un
-plato tan rico que te curará el agotamiento de un bocado!&lt;wait&gt;</Entry>
-  <Entry Index="197">Oh, ¿qué ingredientes le pondré? Una buena opción son
-hierbas y medicina. ¡Prepárate para quitarte el
-sombrero!&lt;wait&gt;</Entry>
-  <Entry Index="198">¡Oh, ya sé, &lt;playername&gt;! ¡La próxima vez haré un
-plato tan rico que te curará el agotamiento de un bocado!&lt;wait&gt;</Entry>
-  <Entry Index="199">Oh... Vale... Claro, ¿quién querría probar lo que he cocinado
-de todas formas? Nadie, claramente.&lt;wait&gt;</Entry>
-  <Entry Index="200">Venga, &lt;playername&gt;. No seas así. Seguro que puedes
-hacer hueco para un bocadito o dos.&lt;wait&gt;</Entry>
-  <Entry Index="201">Sí. ¿Es que no te caemos bien?</Entry>
-  <Entry Index="202">No pasa nada. Hice esto para vosotros, mamá y papá. Lo
-justo es que lo probéis vosotros.&lt;wait&gt;</Entry>
-  <Entry Index="203">Em... S-supongo que tienes razón, Karen. Ah... Me alegra
-tanto que pensases en nosotros...&lt;wait&gt;</Entry>
-  <Entry Index="204">Aaah... Debo hacerlo. Por mi preciosa hija. Pero... me da
-dolor de tripa con solo pensarlo...&lt;wait&gt;</Entry>
-  <Entry Index="205">&lt;playername&gt;, te arrepentirás de dejar pasar esta
-oportunidad, pero ya es tarde.&lt;wait&gt;&lt;page&gt;
-Es el mejor plato que he hecho hasta ahora, después de
-todo. ¡Está delicioso! O eso creo...&lt;wait&gt;</Entry>
-  <Entry Index="206">&lt;playername&gt;, te arrepentirás de dejar pasar esta
-oportunidad, pero ya es tarde.&lt;wait&gt;&lt;page&gt;
-Es el mejor plato que he hecho hasta ahora, después de
-todo. ¡Está delicioso! O eso creo...&lt;wait&gt;</Entry>
-  <Entry Index="207">¿Dónde puse los antiácidos? Tengo que tenerlos
-preparados...&lt;wait&gt;</Entry>
+  <Entry Index="186">Ah! Você está &lt;gender&gt;("acordado","acordada")!&lt;wait&gt;</Entry>
+  <Entry Index="187">&lt;playername&gt;, como está se sentindo? Você está na clínica.&lt;wait&gt;&lt;page&gt;
+Você desmaiou na casa de Karen. Ela o trouxe
+até aqu.&lt;wait&gt;&lt;page&gt;
+Eu te examinei e não parece haver nada de errado, mas
+sugiro que fique aqui e descanse um pouco.&lt;wait&gt;</Entry>
+  <Entry Index="188">Oh, meu deus! Eu estava tão preocupada. Fico contente
+que você acordou.&lt;wait&gt;</Entry>
+  <Entry Index="189">Se estava tão &lt;gender&gt;("cansado","cansada") por trabalhar na fazenda,
+deveria ter me contado.&lt;wait&gt;&lt;page&gt;
+Quando você desmaiou, eu fiquei tão preocupada que achei
+que meu coração ia saltar para fora.&lt;wait&gt;</Entry>
+  <Entry Index="190">Se estava tão &lt;gender&gt;("cansado","cansada") por trabalhar na fazenda,
+deveria ter me contado.&lt;wait&gt;&lt;page&gt;
+Quando você desmaiou, eu fiquei tão preocupada que achei
+que meu coração ia saltar para fora.&lt;wait&gt;</Entry>
+  <Entry Index="191">Karen, você tem alguma ideia de por que isso
+aconteceu com &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="192">Hein? Não foi pelo cansaço causado pelo
+trabalho manual?&lt;wait&gt;</Entry>
+  <Entry Index="193">Hm... Entendo... Se você não sabe, tudo bem.&lt;wait&gt;</Entry>
+  <Entry Index="194">Às vezes você é um pouco estranho, doutor. De qualquer forma,
+&lt;playername&gt; está acordado, tudo fica bem quando
+acaba bem.&lt;wait&gt;</Entry>
+  <Entry Index="195">Às vezes você é um pouco estranho, doutor. De qualquer forma,
+&lt;playername&gt; está acordado, tudo fica bem quando
+acaba bem.&lt;wait&gt;</Entry>
+  <Entry Index="196">Ah, já sei, &lt;playername&gt;! Da próxima vez vou
+preparar um prato tão delicioso que vai curar a
+exaustão em uma só garfada!&lt;wait&gt;</Entry>
+  <Entry Index="197">Ah, quais ingredientes vou colocar nele? Uma boa
+opção são ervas medicinais. Prepare-se para tirar o
+seu chapéu!&lt;wait&gt;</Entry>
+  <Entry Index="198">Ah, já sei, &lt;playername&gt;! Da próxima vez vou
+preparar um prato tão delicioso que vai curar a
+exaustão em uma só garfada!&lt;wait&gt;</Entry>
+  <Entry Index="199">Oh... Ok... Claro, quem iria querer provar o
+que eu cozinhei de qualquer forma? Ninguém, provavelmente.&lt;wait&gt;</Entry>
+  <Entry Index="200">Vamos lá, &lt;playername&gt;. Não seja assim.
+Certamente você pode abrir espaço para uma ou
+duas garfadas.&lt;wait&gt;</Entry>
+  <Entry Index="201">Sim. Você não gosta de nós?</Entry>
+  <Entry Index="202">Não tem problema. Preparei isso para vocês
+mamãe e papai. É justo que vocês experimentem.&lt;wait&gt;</Entry>
+  <Entry Index="203">Hum... E-eu acho que você está certa, Karen.
+Ah... estou tão feliz que você pensou em nós...&lt;wait&gt;</Entry>
+  <Entry Index="204">Aaah... eu preciso. Para minha preciosa filha.
+Mas... isso me dá dor de estômago só de pensar...&lt;wait&gt;</Entry>
+  <Entry Index="205">&lt;playername&gt;, você vai se arrepender de perder essa
+oportunidade, mas é tarde demais.&lt;wait&gt;&lt;page&gt;
+É o melhor prato que fiz até agora, depois de
+tudo. Está delícioso! É o que eu acho...&lt;wait&gt;</Entry>
+  <Entry Index="206">&lt;playername&gt;, você vai se arrepender de perder essa
+oportunidade, mas é tarde demais.&lt;wait&gt;&lt;page&gt;
+É o melhor prato que fiz até agora, depois de
+tudo. Está delícioso! É o que eu acho...&lt;wait&gt;</Entry>
+  <Entry Index="207">Onde coloquei os antiácidos? Vou precisar
+deles...&lt;wait&gt;</Entry>
   <Entry Index="208">Ay, madre, &lt;playername&gt;. A veces eres tan
 &lt;gender&gt;("atrevido","atrevida"). ¿O es que siempre has sido así? Ha sido toda
 una sorpresa, eso seguro.&lt;wait&gt;</Entry>
