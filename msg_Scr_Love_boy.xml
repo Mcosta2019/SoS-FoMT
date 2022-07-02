@@ -11,11 +11,14 @@
   <Entry Index="8">Voltar</Entry>
   <Entry Index="9">¡&lt;gender&gt;("Bem-vindo","Bem-vinda")!
 &lt;wait&gt;</Entry>
-  <Entry Index="10">Acho que não conheço seu rosto. Você já veio aqui fazer algum turismo?&lt;wait&gt;</Entry>
-  <Entry Index="11">Oh. Eu tinha ouvido falar que alguém tinha se mudado para aquela velha fazenda.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="10">Acho que não conheço seu rosto. Você já veio aqui
+fazer algum turismo?&lt;wait&gt;</Entry>
+  <Entry Index="11">Oh. Eu tinha ouvido falar que alguém tinha se mudado para aquela
+velha fazenda.&lt;wait&gt;&lt;page&gt;
 Então seu nome é &lt;playername&gt;.
 Eu sou Karen. É um prazer conhecê-lo.&lt;wait&gt;</Entry>
-  <Entry Index="12">Oh. Eu tinha ouvido falar que alguém tinha se mudado para aquela velha fazenda.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="12">Oh. Eu tinha ouvido falar que alguém tinha se mudado para aquela
+velha fazenda.&lt;wait&gt;&lt;page&gt;
 Então seu nome é &lt;playername&gt;.
 Eu sou Karen. É um prazer te conhecer.&lt;wait&gt;</Entry>
   <Entry Index="13">Olha, se não é &lt;playername&gt;.
@@ -28,9 +31,11 @@ Se precisar de qualquier coisa, me avise.&lt;wait&gt;</Entry>
   <Entry Index="17">Você acabou de começar na fazenda, não é mesmo?
 Tenho certeza de que é uma dor de cabeça
 pensar em como começar.&lt;wait&gt;</Entry>
-  <Entry Index="18">Você precisará de sementes para cultivar e forragem para alimentar os animais.
-bem como as ferramentas para colhê-las, é claro.&lt;wait&gt;</Entry>
-  <Entry Index="19">A lista de coisas a fazer e a comprar é interminável. Não é?&lt;wait&gt;</Entry>
+  <Entry Index="18">Você precisará de sementes para cultivar e feno
+para alimentar os animais.
+Bem como as ferramentas para colhê-las, é claro.&lt;wait&gt;</Entry>
+  <Entry Index="19">A lista de coisas a fazer e a comprar é interminável.
+Não é?&lt;wait&gt;</Entry>
   <Entry Index="20">Eh... Acho que preciso de alguma ajuda...</Entry>
   <Entry Index="21">Sim, eu acho que sim!</Entry>
   <Entry Index="22">Mas é claro. Eu te entendo.
@@ -39,64 +44,78 @@ Espera aqui um segundinho.</Entry>
 você se importa?&lt;wait&gt;</Entry>
   <Entry Index="24">Papai vou dar umas sementes para &lt;playername&gt;.
 você se importa?&lt;wait&gt;</Entry>
-  <Entry Index="25">Que? Você quer dar nossa mercadoria? assim sem mais nem menos?&lt;wait&gt;</Entry>
+  <Entry Index="25">Que? Você quer dar nossa mercadoria? assim sem mais
+nem menos?&lt;wait&gt;</Entry>
   <Entry Index="26">Mas é claro! Os amigos se ajudam!
-&lt;playername&gt; acabou de se mudar pra cá sabe?, A coisa certa a fazer é ajudar
-no que pudermos.&lt;wait&gt;</Entry>
+&lt;playername&gt; acabou de se mudar para a cidade, sabe? A coisa certa a
+fazer é ajudar no que pudermos.&lt;wait&gt;</Entry>
   <Entry Index="27">Karen tem razão, amor.
 Por quê você não mostra o quão generoso você pode ser?&lt;wait&gt;</Entry>
-  <Entry Index="28">Eh... Bom... Falando desse jeito... Suponho que eu poderia dar umas
-amostras.&lt;wait&gt;</Entry>
+  <Entry Index="28">Eh... Bom... Falando desse jeito... Suponho que
+eu poderia dar umas amostras.&lt;wait&gt;</Entry>
   <Entry Index="29">Obrigada, papai! ♪&lt;wait&gt;</Entry>
   <Entry Index="30">Este é o marido amoroso pelo qual eu me apaixonei.
 Eu sabia que tinha me casado com você por uma boa razão.&lt;wait&gt;</Entry>
   <Entry Index="31">Ah, para, vai.
 Que eu já estou ficando vermelho.&lt;wait&gt;</Entry>
-  <Entry Index="32">Aqui está. É por conta da casa, portanto, não se preocupe com o preço.&lt;wait&gt;</Entry>
+  <Entry Index="32">Aqui está. É por conta da casa, portanto, não se preocupe
+com o preço.&lt;wait&gt;</Entry>
   <Entry Index="33">Esperamos vê-lo em nosso bazar novamente em breve.
 Boa sorte com sua fazenda. Você tem todo nosso apoio.&lt;wait&gt;</Entry>
-  <Entry Index="34">Oh? Eu acho que você tem um controle mais firme sobre a agricultura do que eu pensava. Tudo bem então.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="34">Oh? Eu acho que você tem um controle mais firme sobre
+a agricultura do que eu pensava. Tudo bem então.&lt;wait&gt;&lt;page&gt;
 Se houver algo que eu possa fazer para ajudar, me avise, ok?&lt;wait&gt;</Entry>
   <Entry Index="35">Cuidando das colheitas, do gado... É uma profissão muito
 trabalhosa. Te desejo boa sorte.&lt;wait&gt;</Entry>
-  <Entry Index="36">Se tiver alguma duvida sobre como utilizar as sementes ou
+  <Entry Index="36">Se tiver alguma dúvida sobre como utilizar as sementes ou
 ferramentas, você pode perguntar a meu pai.&lt;wait&gt;</Entry>
   <Entry Index="37">Boa sorte com sua fazenda,  &lt;gender&gt;("Querido","Querida").
 Passe por aqui se precisar de conselhos ou alguem para conversar.&lt;wait&gt;</Entry>
-  <Entry Index="38">Venha, venha. Por que você não respira fundo? Se algum cliente te ver assim, fugiria em pânico.&lt;wait&gt;</Entry>
+  <Entry Index="38">Venha, venha. Por que você não respira fundo?
+Se algum cliente te ver assim, fugiria em pânico.&lt;wait&gt;</Entry>
   <Entry Index="39">Ah, cale-se. Isto é entre mim e Karen.&lt;wait&gt;</Entry>
   <Entry Index="40">Eh, mas...&lt;wait&gt;</Entry>
-  <Entry Index="41">Cala a boca, pai! Não me diga que você está do lado da mãe!&lt;wait&gt;</Entry>
-  <Entry Index="42">Se acalma, minha filha furiosa. Não precisa ficar brava por iso...
-Ah, não, Agora estou tendo uma dor de barriga....&lt;wait&gt;</Entry>
+  <Entry Index="41">Cala a boca, papai! Não me diga que você está
+do lado da mamãe!&lt;wait&gt;</Entry>
+  <Entry Index="42">Se acalme, minha filhinha furiosa. Não precisa ficar brava
+por isso... Ah, não, Agora estou tendo uma dor
+de barriga....&lt;wait&gt;</Entry>
   <Entry Index="43">Ai. Ai, ai, ai. Que dor.&lt;wait&gt;</Entry>
-  <Entry Index="44">Eh? Ah! Mas é você, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="44">Uh? Ah! Mas é você, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="45">&lt;playername&gt;.  &lt;gender&gt;("Bem-vindo,"Bem-vinda"). Vem, vocês dois.
 Temos um cliente. Por que vocês não deixa isso pra lá um
 momento?&lt;wait&gt;</Entry>
   <Entry Index="46">Acho que essa é a nossa oportunidade para conseguir a
-opinião de alguiem imparcial.&lt;wait&gt;</Entry>
-  <Entry Index="47">Bem pensado, mãe. &lt;playername&gt; é a pessoa perfeita para perguntar.
+opinião de alguém imparcial.&lt;wait&gt;</Entry>
+  <Entry Index="47">Bem pensado, mamãe. &lt;playername&gt; é a pessoa perfeita para perguntar.
 &lt;playername&gt;, Você tem um momento? &lt;wait&gt;</Entry>
-  <Entry Index="48">Eh? Ah! Mas é você, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="48">Uh? Ah! Mas é você, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="49">&lt;playername&gt;.  &lt;gender&gt;("Bem-vindo,"Bem-vinda"). Vem, vocês dois.
 Temos um cliente. Por que vocês não deixa isso pra lá um
 momento?&lt;wait&gt;</Entry>
-  <Entry Index="50">Bem pensado, mãe. &lt;playername&gt; é a pessoa perfeita para perguntar.
+  <Entry Index="50">Bem pensado, mamãe. &lt;playername&gt; é a pessoa perfeita para perguntar.
 &lt;playername&gt;, Você tem um momento? &lt;wait&gt;</Entry>
-  <Entry Index="51">Veja, o filho de um parente acaba de ser internado no hospital.&lt;wait&gt;</Entry>
-  <Entry Index="52">Achamos que seria bom enviar-lhe algumas sementes de flores como um presente.&lt;wait&gt;</Entry>
+  <Entry Index="51">Veja, o filho de um parente acaba de ser internado
+no hospital.&lt;wait&gt;</Entry>
+  <Entry Index="52">Achamos que seria bom enviar-lhe algumas
+sementes de flores como um presente.&lt;wait&gt;</Entry>
   <Entry Index="53">Acho que a opção mais ÓBVIA é enviar sementes de
-flor da lua, mas a mãe é teimosa.&lt;wait&gt;</Entry>
-  <Entry Index="54">Céus, não. Sementes de flores da lua?. As sementes de flores de gato rosa são muito melhores!.&lt;wait&gt;</Entry>
-  <Entry Index="55">Bom. As duas têm brigado o dia todo por algo sem a menor importância...&lt;wait&gt;</Entry>
+flor da lua, mas a mamãe é teimosa.&lt;wait&gt;</Entry>
+  <Entry Index="54">Céus, não. Sementes de flores da lua?. As sementes de
+flores de gato rosa são muito melhores!.&lt;wait&gt;</Entry>
+  <Entry Index="55">Bom. As duas têm brigado o dia todo por algo
+sem a menor importância...&lt;wait&gt;</Entry>
   <Entry Index="56">Então agora precisamos de você, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="57">Sim. Vamos resolver este assunto, Ok? Enviaremos o que &lt;playername&gt; escolher. Sem ressentimentos.&lt;wait&gt;</Entry>
-  <Entry Index="58">Jesus... é serio? Bem. Se isso significa que não haverá mais reclamações, acho que tudo bem.&lt;wait&gt;</Entry>
+  <Entry Index="57">Sim. Vamos resolver este assunto, Ok? Enviaremos
+o que &lt;playername&gt; escolher. Sem ressentimentos.&lt;wait&gt;</Entry>
+  <Entry Index="58">Jesus... é serio? Bem. Se isso significa que não
+haverá mais reclamações, acho que tudo bem.&lt;wait&gt;</Entry>
   <Entry Index="59">Otimo!&lt;wait&gt;</Entry>
   <Entry Index="60">Então agora precisamos de você, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="61">Bem, &lt;playername&gt;. Você decide. Escolha as sementes de flores que você acha que devemos enviar.&lt;wait&gt;</Entry>
-  <Entry Index="62">Bem, &lt;playername&gt;. Você decide. Escolha as sementes de flores que você acha que devemos enviar.&lt;wait&gt;</Entry>
+  <Entry Index="61">Bem, &lt;playername&gt;. Você decide. Escolha as sementes de
+flores que você acha que devemos enviar.&lt;wait&gt;</Entry>
+  <Entry Index="62">Bem, &lt;playername&gt;. Você decide. Escolha as sementes de
+flores que você acha que devemos enviar.&lt;wait&gt;</Entry>
   <Entry Index="63">Sementes de flores da lua</Entry>
   <Entry Index="64">Sementes de flores de gato rosa</Entry>
   <Entry Index="65">Ahá! Eu sabia que você ia concordar comigo, &lt;playername&gt;!&lt;wait&gt;</Entry>
@@ -108,27 +127,39 @@ Obrigada, &lt;playername&gt;!&lt;wait&gt;</Entry>
   <Entry Index="68">Ahá! Eu sabia que você ia concordar comigo, &lt;playername&gt;!&lt;wait&gt;</Entry>
   <Entry Index="69">É claro! ♪
 Obrigada, &lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="70">É sério?! Você gosta mais das sementes da minha mãe do que das minhas, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="71">Bem. Dissemos que não haveria ressentimentos. A decisão já foi tomada, então teremos que viver com ela, querida.&lt;wait&gt;</Entry>
+  <Entry Index="70">É sério?! Você gosta mais das sementes
+da minha mãe do que das minhas, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="71">Bem. Dissemos que não haveria ressentimentos.
+A decisão já foi tomada, então teremos que viver
+com ela, querida.&lt;wait&gt;</Entry>
   <Entry Index="72">Tá bom. Estou um pouco decepcionada, é só isso.&lt;wait&gt;&lt;page&gt;
-Acho que vou prepar as sementes que a mãe escolheu
+Acho que vou prepar as sementes que a mamãe escolheu
 para poder enviá-las.&lt;wait&gt;</Entry>
-  <Entry Index="73">É sério?! Você gosta mais das sementes da minha mãe do que das minhas, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="74">Ufa! Estou feliz que elas tenham parado de brigar. Obrigado, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="75">Ufa! Estou feliz que elas tenham parado de brigar. Obrigado, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="76">Bem... Ao menos elas pararam de brigar. Embora que a Karen seja bastante assustadora quando fica com raiva...&lt;wait&gt;</Entry>
-  <Entry Index="77">Acho que isso significa que nos gostamos das mesmas
-flores. Acredito que aprovo a ideia.&lt;wait&gt;</Entry>
-  <Entry Index="78">Acho que isso significa que nos gostamos das mesmas
-flores. Acredito que aprovo a ideia.&lt;wait&gt;</Entry>
+  <Entry Index="73">É sério?! Você gosta mais das sementes
+da minha mãe do que das minhas, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="74">Ufa! Estou feliz que elas tenham parado de brigar.
+Obrigado, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="75">Ufa! Estou feliz que elas tenham parado de brigar.
+Obrigado, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="76">Bem... Ao menos elas pararam de brigar.
+Embora a Karen seja bastante assustadora quando
+fica com raiva...&lt;wait&gt;</Entry>
+  <Entry Index="77">Acho que isso significa que nós gostamos das mesmas
+flores. Acredito que aprove a idéia.&lt;wait&gt;</Entry>
+  <Entry Index="78">Acho que isso significa que nós gostamos das mesmas
+flores. Acredito que aprove a idéia.&lt;wait&gt;</Entry>
   <Entry Index="79">Bem, é verdade que eu mesmo trouxe isto, então
 terei que aceitar. Sem ressentimentos.&lt;wait&gt;</Entry>
-  <Entry Index="80">Mas... Eu ainda acho que as sementes que escolhi eram muito melhores.&lt;wait&gt;&lt;page&gt;
-A mente dos jovens é muito desconcertantes, não há dúvida....&lt;wait&gt;</Entry>
-  <Entry Index="81">Nossa! E pensar que você estaria de acordo com as sementes que eu escolhi. Você tem muito bom gosto.&lt;wait&gt;</Entry>
+  <Entry Index="80">Mas... Eu ainda acho que as sementes
+que escolhi eram muito melhores.&lt;wait&gt;&lt;page&gt;
+A mente dos jovens é muito confusa, não há dúvida....&lt;wait&gt;</Entry>
+  <Entry Index="81">Nossa! E pensar que você estaria de acordo
+com as sementes que eu escolhi.
+Você tem muito bom gosto.&lt;wait&gt;</Entry>
   <Entry Index="82">... Aqui está.&lt;wait&gt;</Entry>
   <Entry Index="83">É Serio?&lt;wait&gt;</Entry>
-  <Entry Index="84">Uhu! Aí vem o néctar dos deuses! que empolgante!&lt;wait&gt;</Entry>
+  <Entry Index="84">Uhu! Aí vem o néctar dos deuses!
+que empolgante!&lt;wait&gt;</Entry>
   <Entry Index="85">Mamãe. Papai. Muito obrigada&lt;wait&gt;</Entry>
   <Entry Index="86">Minha nossa, já se passou tanto tempo?
 Não é atoa que me sinto tão velho.&lt;wait&gt;</Entry>
@@ -215,8 +246,10 @@ eles se importam comigo. Eh.&lt;wait&gt;</Entry>
   <Entry Index="123">Espere, já sei! Só um momento, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="124">Aqui está. Uma garrafa do meu vinho especial. fique com ela
 por ter me ajudado hoje.&lt;wait&gt;</Entry>
-  <Entry Index="125">Fiquei muito feliz em poder contar com você. Obrigada.&lt;wait&gt;</Entry>
-  <Entry Index="126">Fiquei muito feliz em poder contar com você. Obrigada.&lt;wait&gt;</Entry>
+  <Entry Index="125">Fiquei muito feliz em poder contar com você.
+Obrigada.&lt;wait&gt;</Entry>
+  <Entry Index="126">Fiquei muito feliz em poder contar com você.
+Obrigada.&lt;wait&gt;</Entry>
   <Entry Index="127">Ah. Se você estiver muito &lt;gender&gt;("ocupado","ocupada") não precisa fazer nada.
 Karen, podemos ir buscá-los em um estante.&lt;wait&gt;</Entry>
   <Entry Index="128">Espera, você quer vir, papai? então tá. Por mim tudo bem.&lt;wait&gt;</Entry>
@@ -231,314 +264,324 @@ capaz de levar tudo.&lt;wait&gt;&lt;page&gt;
 Você se lembrará que você me disse para fazer três caixas
 para você, né?&lt;wait&gt;</Entry>
   <Entry Index="133">Agora só preciso temperá-lo... Mmm, talvez eu devesse
-jogar uma pitada disto. Oh, mas isso também
+jogar uma pitada disto. Oh, isso também
 ficaria bem nele...&lt;wait&gt;</Entry>
   <Entry Index="134">(Por quê? Por que isto tinha que acontecer?)&lt;wait&gt;</Entry>
   <Entry Index="135">(Shh! Fala baixo, querido. Karen vai te ouvir).&lt;wait&gt;</Entry>
-  <Entry Index="136">(Que los cielos tengan piedad... Ojalá pudieses estar ahí
-dentro para echarle un vistazo...).&lt;wait&gt;</Entry>
-  <Entry Index="137">(Quería, pero me sonrió y me dijo que quería
-compensarnos por todo lo que hemos hecho...)&lt;wait&gt;&lt;page&gt;
-(No podía decirle que no).&lt;wait&gt;</Entry>
-  <Entry Index="138">(Uf. Veo lo difícil que es decirle que no a eso. Pero aun
-así...).&lt;wait&gt;</Entry>
-  <Entry Index="139">¡Ya está! ¡Todo listo! ♪ ¡Esto es alta cocina, no hay duda!&lt;wait&gt;</Entry>
-  <Entry Index="140">¿D-de verdad? ¡Qué rico, sí! Eh, claro, ¿Sasha?&lt;wait&gt;</Entry>
-  <Entry Index="141">S-sí, cariño.&lt;wait&gt;</Entry>
-  <Entry Index="142">¡Gracias! Tomad, ¿por qué no lo probáis por mí?&lt;wait&gt;</Entry>
-  <Entry Index="143">Espera... ¿No lo has probado todavía, Karen?</Entry>
-  <Entry Index="144">¡No! Quería que fueseis los primeros en probarlo. Que
-sepáis que me tuve que contener.&lt;wait&gt;</Entry>
-  <Entry Index="145">(Eh, ¿cariño? ¿Y ahora qué? Karen parece que va en
-serio).&lt;wait&gt;</Entry>
-  <Entry Index="146">(¿A qué te refieres con "y ahora qué"? Karen nos está
-poniendo ojitos...).&lt;wait&gt;</Entry>
-  <Entry Index="147">(Sí, pero la última vez que cocinó para nosotros, 
-lo probaste y te dio un patatús. 
-No me pienso morir hoy).&lt;wait&gt;&lt;page&gt;
-(Depende de ti hacer o no el sacrificio. Pruébalo por el
-bien de tus queridas esposa e hija).&lt;wait&gt;</Entry>
-  <Entry Index="148">(¡Qué golpe más bajo! No puedo decir que no cuando te
-pones así. Uf, ay. Ay, ay, ay. Me está empezando a doler ya
-la tripa...).&lt;wait&gt;</Entry>
-  <Entry Index="149">¿Eh? ¿Qué pasa? ¿Es que ninguno de los dos tenéis
-hambre?&lt;wait&gt;</Entry>
-  <Entry Index="150">¿Eh? N-no es nada, cariño. Papá me estaba contando la de
-ganas que tiene de probarlo.&lt;wait&gt;</Entry>
-  <Entry Index="151">Ja, ja... ja... S-sí, la verdad es que sí...&lt;wait&gt;</Entry>
-  <Entry Index="152">¡Oh, mira! Ha venido alguien. Podría ser un cliente.&lt;wait&gt;</Entry>
-  <Entry Index="153">¡Sí! Debería ir a ver quién es, ¿verdad? Karen, cariño, ¿te
-importa si posponemos la cata un momento?&lt;wait&gt;</Entry>
-  <Entry Index="154">No, claro. Es de mala educación dejar a un cliente
-esperando. La comida no se va a ninguna parte.&lt;wait&gt;</Entry>
-  <Entry Index="155">&lt;gender&gt;("Bienvenido","Bienvenida"), &lt;playername&gt;. ¿Qué necesitas hoy?&lt;wait&gt;</Entry>
-  <Entry Index="156">&lt;gender&gt;("Bienvenido","Bienvenida"), &lt;playername&gt;. ¿Qué necesitas hoy?&lt;wait&gt;</Entry>
-  <Entry Index="157">¿Qué? ¿Has terminado tus tareas hoy y has pensado en
-pasarte a charlar ?&lt;wait&gt;</Entry>
-  <Entry Index="158">Ji, ji, ji. Vaya, qué adorable por tu parte.&lt;wait&gt;</Entry>
-  <Entry Index="159">Ji, ji, ji. Vaya, qué adorable por tu parte.&lt;wait&gt;</Entry>
-  <Entry Index="160">¡&lt;playername&gt;! ¡Me alegro de verte! Ven y quítate un
-peso de encima.&lt;wait&gt;</Entry>
-  <Entry Index="161">Sí. No podrías haber llegado en mejor momento. Es más, no
-sabes la suerte que tienes.&lt;wait&gt;</Entry>
-  <Entry Index="162">¡&lt;playername&gt;! ¡Me alegro de verte! Ven y quítate un
-peso de encima.&lt;wait&gt;</Entry>
-  <Entry Index="163">Karen, &lt;playername&gt; y yo tenemos una sugerencia.&lt;wait&gt;&lt;page&gt;
-¿Por qué no le dejas que pruebe el plato que has hecho?&lt;wait&gt;</Entry>
-  <Entry Index="164">¿Eh? Pero lo hice para ti y para mamá.&lt;wait&gt;</Entry>
-  <Entry Index="165">L-lo sabemos, cariño. Pero nosotros podemos disfrutar de
-tu cocina en cualquier momento.&lt;wait&gt;&lt;page&gt;
-Piensa que es una forma de practicar para la vida de
-casada. Deja que &lt;playername&gt; haga de tu cónyuge.&lt;wait&gt;</Entry>
-  <Entry Index="166">¡¿C-casad...?! ¡Um!&lt;wait&gt;</Entry>
-  <Entry Index="167">S-supongo... Eh, ¿&lt;playername&gt;? ¿Quieres probar lo
-que he cocinado?&lt;wait&gt;</Entry>
-  <Entry Index="168">Karen, &lt;playername&gt; y yo tenemos una sugerencia.&lt;wait&gt;&lt;page&gt;
-¿Por qué no le dejas que pruebe el plato que has hecho?&lt;wait&gt;</Entry>
-  <Entry Index="169">S-supongo... Eh, ¿&lt;playername&gt;? ¿Quieres probar lo
-que he cocinado?&lt;wait&gt;</Entry>
-  <Entry Index="170">Claro. ¡A comer!</Entry>
-  <Entry Index="171">Lo siento. Prefiero la comida comestible.</Entry>
-  <Entry Index="172">¿En serio?&lt;wait&gt;</Entry>
-  <Entry Index="173">Así, ¿ves? ¿No es genial, Karen?&lt;wait&gt;</Entry>
-  <Entry Index="174">Uf. Menos mal.&lt;wait&gt;</Entry>
-  <Entry Index="175">¿Eh? ¿A qué te refieres con "menos mal"? Mamá. Papá.
-Habéis estado un poco raros...&lt;wait&gt;</Entry>
-  <Entry Index="176">¿Qué? ¿De verdad? ¿Ah, sí? ¡Eso son cosas tuyas! ¡Ja, ja!
-No dejes a &lt;playername&gt; esperando con el alma en
-vilo!&lt;wait&gt;</Entry>
-  <Entry Index="177">Eh, vale... &lt;playername&gt;, ven por aquí.&lt;wait&gt;</Entry>
-  <Entry Index="178">Eh, vale... &lt;playername&gt;, ven por aquí.&lt;wait&gt;</Entry>
-  <Entry Index="179">&lt;playername&gt;... Perdónanos.&lt;wait&gt;</Entry>
-  <Entry Index="180">&lt;playername&gt;... Perdónanos.&lt;wait&gt;</Entry>
-  <Entry Index="181">Venga. &lt;playername&gt; es &lt;gender&gt;("un","una") &lt;gender&gt;("granjero","granjera") con mucho
-saque. No te preocupes demasiado. Estará bien... Creo.&lt;wait&gt;</Entry>
-  <Entry Index="182">¡Toma! Es de lo mejorcito que he hecho, si se me permite
-decirlo. ¡Pruébalo!&lt;wait&gt;</Entry>
-  <Entry Index="183">¿Qué pasa? Si no te das prisa, se va a enfriar.&lt;wait&gt;</Entry>
-  <Entry Index="184">¡AAAAH! &lt;playername&gt;, ¡¿qué ocurre?! ¿¡Estás bien?!
-¡Aguanta ahí!&lt;wait&gt;</Entry>
-  <Entry Index="185">¡AAAAH! &lt;playername&gt;, ¡¿qué ocurre?! ¿¡Estás bien?!
-¡Aguanta!&lt;wait&gt;</Entry>
-  <Entry Index="186">¡Ajá! ¡Estás &lt;gender&gt;("despierto","despierta")!&lt;wait&gt;</Entry>
-  <Entry Index="187">&lt;playername&gt;, ¿cómo te sientes? Estás en la clínica.&lt;wait&gt;&lt;page&gt;
-Te desmayaste en la casa de Karen. Ella misma te trajo
-hasta aquí.&lt;wait&gt;&lt;page&gt;
-Te examiné y no hay nada que parezca estar mal, pero te
-sugiero que te quedes aquí y descanses un poco.&lt;wait&gt;</Entry>
-  <Entry Index="188">¡Ay, madre! Estaba tan preocupada por ti. Me alegra que
-hayas despertado.&lt;wait&gt;</Entry>
-  <Entry Index="189">Si estabas tan &lt;gender&gt;("cansado","cansada") de trabajar en la granja,
-deberías habérmelo dicho.&lt;wait&gt;&lt;page&gt;
-Cuando te desmayaste, estaba tan preocupada que creía
-que se me iba a salir el corazón del pecho.&lt;wait&gt;</Entry>
-  <Entry Index="190">Si estabas tan &lt;gender&gt;("cansado","cansada") de trabajar en la granja,
-deberías habérmelo dicho.&lt;wait&gt;&lt;page&gt;
-Cuando te desmayaste, estaba tan preocupada que creía
-que se me iba a salir el corazón del pecho.&lt;wait&gt;</Entry>
-  <Entry Index="191">Karen, ¿tienes idea de por qué le ha ocurrido 
-esto a &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="192">¿Eh? ¿No fue por el agotamiento causado por 
-el trabajo manual?&lt;wait&gt;</Entry>
-  <Entry Index="193">Em... Ya veo... Si no lo sabes, no pasa nada.&lt;wait&gt;</Entry>
-  <Entry Index="194">A veces eres un poco raro, doctor. En cualquier caso,
-&lt;playername&gt; se ha despertado, así que bien está lo
-que bien acaba.&lt;wait&gt;</Entry>
-  <Entry Index="195">A veces eres un poco raro, doctor. En cualquier caso,
-&lt;playername&gt; se ha despertado, así que bien está lo
-que bien acaba.&lt;wait&gt;</Entry>
-  <Entry Index="196">¡Oh, ya sé, &lt;playername&gt;! ¡La próxima vez haré un
-plato tan rico que te curará el agotamiento de un bocado!&lt;wait&gt;</Entry>
-  <Entry Index="197">Oh, ¿qué ingredientes le pondré? Una buena opción son
-hierbas y medicina. ¡Prepárate para quitarte el
-sombrero!&lt;wait&gt;</Entry>
-  <Entry Index="198">¡Oh, ya sé, &lt;playername&gt;! ¡La próxima vez haré un
-plato tan rico que te curará el agotamiento de un bocado!&lt;wait&gt;</Entry>
-  <Entry Index="199">Oh... Vale... Claro, ¿quién querría probar lo que he cocinado
-de todas formas? Nadie, claramente.&lt;wait&gt;</Entry>
-  <Entry Index="200">Venga, &lt;playername&gt;. No seas así. Seguro que puedes
-hacer hueco para un bocadito o dos.&lt;wait&gt;</Entry>
-  <Entry Index="201">Sí. ¿Es que no te caemos bien?</Entry>
-  <Entry Index="202">No pasa nada. Hice esto para vosotros, mamá y papá. Lo
-justo es que lo probéis vosotros.&lt;wait&gt;</Entry>
-  <Entry Index="203">Em... S-supongo que tienes razón, Karen. Ah... Me alegra
-tanto que pensases en nosotros...&lt;wait&gt;</Entry>
-  <Entry Index="204">Aaah... Debo hacerlo. Por mi preciosa hija. Pero... me da
-dolor de tripa con solo pensarlo...&lt;wait&gt;</Entry>
-  <Entry Index="205">&lt;playername&gt;, te arrepentirás de dejar pasar esta
-oportunidad, pero ya es tarde.&lt;wait&gt;&lt;page&gt;
-Es el mejor plato que he hecho hasta ahora, después de
-todo. ¡Está delicioso! O eso creo...&lt;wait&gt;</Entry>
-  <Entry Index="206">&lt;playername&gt;, te arrepentirás de dejar pasar esta
-oportunidad, pero ya es tarde.&lt;wait&gt;&lt;page&gt;
-Es el mejor plato que he hecho hasta ahora, después de
-todo. ¡Está delicioso! O eso creo...&lt;wait&gt;</Entry>
-  <Entry Index="207">¿Dónde puse los antiácidos? Tengo que tenerlos
-preparados...&lt;wait&gt;</Entry>
-  <Entry Index="208">Ay, madre, &lt;playername&gt;. A veces eres tan
-&lt;gender&gt;("atrevido","atrevida"). ¿O es que siempre has sido así? Ha sido toda
-una sorpresa, eso seguro.&lt;wait&gt;</Entry>
-  <Entry Index="209">Ay, madre, &lt;playername&gt;. A veces eres tan
-&lt;gender&gt;("atrevido","atrevida"). ¿O es que siempre has sido así? Ha sido toda
-una sorpresa, eso seguro.&lt;wait&gt;</Entry>
-  <Entry Index="210">Bueno. ¿Podemos empezar desde el principio, 
+  <Entry Index="136">(Deus tenha piedade... eu gostaria que você pudesse
+dar uma olhada...).&lt;wait&gt;</Entry>
+  <Entry Index="137">(Eu queria, mas ela sorriu para mim e disse que queria
+nos compensar por tudo o que fizemos...)&lt;wait&gt;&lt;page&gt;
+(Eu não poderia dizer não.).&lt;wait&gt;</Entry>
+  <Entry Index="138">(Ugh. Sei como é difícil dizer não. Mas mesmo
+assim...).&lt;wait&gt;</Entry>
+  <Entry Index="139">É isso aí! Tudo pronto! ♪ Isso é alta gastronomia,
+sem dúvida!&lt;wait&gt;</Entry>
+  <Entry Index="140">S-sério? Que ótimo, sim! Não é, Sasha?&lt;wait&gt;</Entry>
+  <Entry Index="141">S-sim, querido.&lt;wait&gt;</Entry>
+  <Entry Index="142">Obrigado! Aqui, por que você não experimenta para mim?&lt;wait&gt;</Entry>
+  <Entry Index="143">Espere... Você ainda não experimentou, Karen?</Entry>
+  <Entry Index="144">Não! Eu queria que você fosse o primeiro a experimentar.
+Tive que me conter.&lt;wait&gt;</Entry>
+  <Entry Index="145">(Ei, querido? E agora? Karen parece estar
+falando sério).&lt;wait&gt;</Entry>
+  <Entry Index="146">(O que você quer dizer com "e agora"? Karen está
+olhando para nós..).&lt;wait&gt;</Entry>
+  <Entry Index="147">(Sim, mas da última vez que ela cozinhou para nós, 
+você provou e te deu urticárias. 
+Não pretendo morrer hoje).&lt;wait&gt;&lt;page&gt;
+(Cabe a você fazer o sacrifício. Experimente para o
+bem de sua querida esposa e filha).&lt;wait&gt;</Entry>
+  <Entry Index="148">(G-golpe baixo! Não posso dizer não quando você
+coloca assim. Ugh, uh. Ugh, uh, uh. Já está começando
+a doer meu intestino...).&lt;wait&gt;</Entry>
+  <Entry Index="149">Hm? O que está acontecendo? Não me diga que
+nenhum de vocês está com fome.&lt;wait&gt;</Entry>
+  <Entry Index="150">Eh? N-não é nada, querida. Papai estava me falando
+que não ve a hora de provar.&lt;wait&gt;</Entry>
+  <Entry Index="151">Aha ha... ha... S-sim, Não vejo a hora...&lt;wait&gt;</Entry>
+  <Entry Index="152">Oh, veja! Vem vindo alguém. Pode ser um cliente.&lt;wait&gt;</Entry>
+  <Entry Index="153">Sim! Deveria ir ver quem é, certo? Karen, querida,
+se importa se adiarmos a degustação um pouco?&lt;wait&gt;</Entry>
+  <Entry Index="154">Não, tudo bem. É falta de educação deixar um
+cliente esperando. A comida não vai fugir.&lt;wait&gt;</Entry>
+  <Entry Index="155">&lt;gender&gt;("Bem-vindo","Bem-vinda"), &lt;playername&gt;. Em que posso ajudar?&lt;wait&gt;</Entry>
+  <Entry Index="156">&lt;gender&gt;("Bem-vindo","Bem-vinda"), &lt;playername&gt;. Em que posso ajudar?&lt;wait&gt;</Entry>
+  <Entry Index="157">O quê? Terminou suas tarefas diárias e decidiu
+passar para dar olá?&lt;wait&gt;</Entry>
+  <Entry Index="158">Ha ha ha. Bem, que adorável de sua parte.&lt;wait&gt;</Entry>
+  <Entry Index="159">Ha ha ha. Bem, que adorável de sua parte.&lt;wait&gt;</Entry>
+  <Entry Index="160">¡&lt;playername&gt;Fico feliz em te ver! Venha e
+descanse um pouco.&lt;wait&gt;</Entry>
+  <Entry Index="161">Sim. Não poderia ter chegado em melhor hora. De fato,
+não sabe a sorte quem tem.&lt;wait&gt;</Entry>
+  <Entry Index="162">¡&lt;playername&gt;Fico feliz em te ver! Venha e
+descanse um pouco.&lt;wait&gt;</Entry>
+  <Entry Index="163">Karen, &lt;playername&gt;, tive uma idéia.&lt;wait&gt;&lt;page&gt;
+Por que você não deixa ele provar o que preparou?&lt;wait&gt;</Entry>
+  <Entry Index="164">Huh? Mas eu fiz ele para você e para mamãe.&lt;wait&gt;</Entry>
+  <Entry Index="165">S-sabemos, querida. Mas podemos desfrutar da
+sua culinária a qualquer momento.&lt;wait&gt;&lt;page&gt;
+Veja como uma forma de praticar para a vida de
+casada. Deixe &lt;playername&gt; fingir que é seu cônjuge.&lt;wait&gt;</Entry>
+  <Entry Index="166">C-casada...? Hm!&lt;wait&gt;</Entry>
+  <Entry Index="167">A-acho que... Eh, &lt;playername&gt;? Você gostaria de
+provar o que preparei?&lt;wait&gt;</Entry>
+  <Entry Index="168">Karen, &lt;playername&gt;, tive uma idéia.&lt;wait&gt;&lt;page&gt;
+Por que você não deixa ele provar o que preparou?&lt;wait&gt;</Entry>
+  <Entry Index="169">S-supongo... Eh, &lt;playername&gt;? Você gostaria de
+provar o que preparei?&lt;wait&gt;</Entry>
+  <Entry Index="170">Claro. Vamos comer!</Entry>
+  <Entry Index="171">Desculpe. Prefiro algo comestível.</Entry>
+  <Entry Index="172">Sério?&lt;wait&gt;</Entry>
+  <Entry Index="173">Então, viu? Não é ótimo, Karen?&lt;wait&gt;</Entry>
+  <Entry Index="174">Ufa. Ainda bem.&lt;wait&gt;</Entry>
+  <Entry Index="175">Huh? O que você quer dizer com "Ainda bem"?
+Mamãe. Papai. Vocês estão agindo um pouco estranho...&lt;wait&gt;</Entry>
+  <Entry Index="176">O que? Sério? Estamos? Deve ser sua imaginação! Ha Ha!
+Não deixe &lt;playername&gt; esperando de barriga
+vazia!&lt;wait&gt;</Entry>
+  <Entry Index="177">Uh, Ok... &lt;playername&gt;, venha por aqui.&lt;wait&gt;</Entry>
+  <Entry Index="178">Uh, Ok... &lt;playername&gt;, venha por aqui.&lt;wait&gt;</Entry>
+  <Entry Index="179">&lt;playername&gt;... Perdoe-nos.&lt;wait&gt;</Entry>
+  <Entry Index="180">&lt;playername&gt;... Perdoe-nos.&lt;wait&gt;</Entry>
+  <Entry Index="181">Venha. &lt;playername&gt; é &lt;gender&gt;("um","uma") &lt;gender&gt;("fazendeiro","fazendeira") experiente.
+Não se preocupe. Ficará bem... Espero.&lt;wait&gt;</Entry>
+  <Entry Index="182">Pegue! É o melhor prato que ja fiz, se me permite
+dizer. Experimente!&lt;wait&gt;</Entry>
+  <Entry Index="183">O que houve? Se você não se apressar, vai esfriar.&lt;wait&gt;</Entry>
+  <Entry Index="184">AAAAH! &lt;playername&gt;, O que está acontecendo!?
+Você está bem?! Aguente firme!&lt;wait&gt;</Entry>
+  <Entry Index="185">¡AAAAH! &lt;playername&gt;, O que está acontecendo!?
+Você está bem?! Aguente firme!&lt;wait&gt;</Entry>
+  <Entry Index="186">Ah! Você está &lt;gender&gt;("acordado","acordada")!&lt;wait&gt;</Entry>
+  <Entry Index="187">&lt;playername&gt;, como está se sentindo? Você está na clínica.&lt;wait&gt;&lt;page&gt;
+Você desmaiou na casa de Karen. Ela o trouxe
+até aqui.&lt;wait&gt;&lt;page&gt;
+Eu te examinei e não parece haver nada de errado, mas
+sugiro que fique aqui e descanse um pouco.&lt;wait&gt;</Entry>
+  <Entry Index="188">Oh, meu deus! Eu estava tão preocupada. Fico contente
+que você acordou.&lt;wait&gt;</Entry>
+  <Entry Index="189">Se estava tão &lt;gender&gt;("cansado","cansada") por trabalhar na fazenda,
+deveria ter me contado.&lt;wait&gt;&lt;page&gt;
+Quando você desmaiou, eu fiquei tão preocupada que achei
+que meu coração ia saltar para fora.&lt;wait&gt;</Entry>
+  <Entry Index="190">Se estava tão &lt;gender&gt;("cansado","cansada") por trabalhar na fazenda,
+deveria ter me contado.&lt;wait&gt;&lt;page&gt;
+Quando você desmaiou, eu fiquei tão preocupada que achei
+que meu coração ia saltar para fora.&lt;wait&gt;</Entry>
+  <Entry Index="191">Karen, você tem alguma ideia de por que isso
+aconteceu com &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="192">Hein? Não foi pelo cansaço causado pelo
+trabalho manual?&lt;wait&gt;</Entry>
+  <Entry Index="193">Hm... Entendo... Se você não sabe, tudo bem.&lt;wait&gt;</Entry>
+  <Entry Index="194">Às vezes você é um pouco estranho, doutor. De qualquer forma,
+&lt;playername&gt; está acordado, tudo fica bem quando
+acaba bem.&lt;wait&gt;</Entry>
+  <Entry Index="195">Às vezes você é um pouco estranho, doutor. De qualquer forma,
+&lt;playername&gt; está acordado, tudo fica bem quando
+acaba bem.&lt;wait&gt;</Entry>
+  <Entry Index="196">Ah, já sei, &lt;playername&gt;! Da próxima vez vou
+preparar um prato tão delicioso que vai curar a
+exaustão em uma só garfada!&lt;wait&gt;</Entry>
+  <Entry Index="197">Ah, quais ingredientes vou colocar nele? Uma boa
+opção são ervas medicinais. Prepare-se para tirar o
+seu chapéu!&lt;wait&gt;</Entry>
+  <Entry Index="198">Ah, já sei, &lt;playername&gt;! Da próxima vez vou
+preparar um prato tão delicioso que vai curar a
+exaustão em uma só garfada!&lt;wait&gt;</Entry>
+  <Entry Index="199">Oh... Ok... Claro, quem iria querer provar o
+que eu cozinhei de qualquer forma? Ninguém, provavelmente.&lt;wait&gt;</Entry>
+  <Entry Index="200">Vamos lá, &lt;playername&gt;. Não seja assim.
+Certamente você pode abrir espaço para uma ou
+duas garfadas.&lt;wait&gt;</Entry>
+  <Entry Index="201">Sim. Você não gosta de nós?</Entry>
+  <Entry Index="202">Não tem problema. Preparei isso para vocês
+mamãe e papai. É justo que vocês experimentem.&lt;wait&gt;</Entry>
+  <Entry Index="203">Hum... E-eu acho que você está certa, Karen.
+Ah... estou tão feliz que você pensou em nós...&lt;wait&gt;</Entry>
+  <Entry Index="204">Aaah... eu preciso. Para minha preciosa filha.
+Mas... isso me dá dor de estômago só de pensar...&lt;wait&gt;</Entry>
+  <Entry Index="205">&lt;playername&gt;, você vai se arrepender de perder essa
+oportunidade, mas é tarde demais.&lt;wait&gt;&lt;page&gt;
+É o melhor prato que fiz até agora, depois de
+tudo. Está delícioso! É o que eu acho...&lt;wait&gt;</Entry>
+  <Entry Index="206">&lt;playername&gt;, você vai se arrepender de perder essa
+oportunidade, mas é tarde demais.&lt;wait&gt;&lt;page&gt;
+É o melhor prato que fiz até agora, depois de
+tudo. Está delícioso! É o que eu acho...&lt;wait&gt;</Entry>
+  <Entry Index="207">Onde coloquei os antiácidos? Vou precisar
+deles...&lt;wait&gt;</Entry>
+  <Entry Index="208">Oh, meu deus, &lt;playername&gt;. Às vezes você é tão
+&lt;gender&gt;("ousado","ousada"). Ou será que você sempre foi assim? tem sido
+uma surpresa, com certeza.&lt;wait&gt;</Entry>
+  <Entry Index="209">Ay, madre, &lt;playername&gt;. Às vezes você é tão
+&lt;gender&gt;("ousado","ousada"). Ou será que você sempre foi assim? tem sido
+uma surpresa, com certeza.&lt;wait&gt;</Entry>
+  <Entry Index="210">Bom. Podemos começar do início,
 por favor?&lt;wait&gt;&lt;page&gt;
-Ahora que estoy más calmada, quiero escucharlo con la
-atención que merece.&lt;wait&gt;</Entry>
-  <Entry Index="211">Bueno. ¿Podemos empezar desde el principio, por favor?&lt;wait&gt;&lt;page&gt;
-Ahora que estoy más calmada, quiero escucharlo con la
-atención que merece.&lt;wait&gt;</Entry>
-  <Entry Index="212">Vale. Sí. No te entendí mal.&lt;wait&gt;</Entry>
-  <Entry Index="213">¿Sabes? Siempre admiré y adoré el cariño que había entre
-mi madre y mi padre.&lt;wait&gt;&lt;page&gt;
-Desde que era pequeña, siempre quise encontrar a
-alguien que fuese así de importante para mí. Con quien
-pudiese estar para siempre.&lt;wait&gt;</Entry>
-  <Entry Index="214">He escuchado historias de la boda de mamá y papá desde
-que era pequeña. Me encantaba pensar que eso me
-ocurriría a mí algún día.&lt;wait&gt;</Entry>
-  <Entry Index="215">Aunque nunca pensé que serías tú quien me lo pidiese,
+Agora que estou mais calma, quero ouvir com a
+atenção que merece.&lt;wait&gt;</Entry>
+  <Entry Index="211">Bom. Podemos começar do início,
+por favor?&lt;wait&gt;&lt;page&gt;
+Agora que estou mais calma, quero ouvir com a
+atenção que merece.&lt;wait&gt;</Entry>
+  <Entry Index="212">Ok. Certo. Não entendi errado.&lt;wait&gt;</Entry>
+  <Entry Index="213">Sabe? Sempre admirei e adorei o carinho que existia
+entre minha mãe e meu pai.&lt;wait&gt;&lt;page&gt;
+Desde pequena sempre quis encontrar
+alguém que era tão importante para mim. Com quem
+podusse ficar para sempre.&lt;wait&gt;</Entry>
+  <Entry Index="214">Ouvi histórias do casamento de papai e mamãe desde
+que era pequena. Eu adorava pensar se isso
+aconteceria comigo algum dia.&lt;wait&gt;</Entry>
+  <Entry Index="215">Embora eu nunca tenha pensado que seria você
+quem me pediria,
 &lt;playername&gt;...&lt;wait&gt;</Entry>
-  <Entry Index="216">¿Mi respuesta? ¿Y qué podría ser si no? ¡SÍ!&lt;wait&gt;</Entry>
-  <Entry Index="217">Estaba esperando que esa persona... Esa persona tan
-importante... fueses tú, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-¿Mi respuesta? ¿Y qué podría ser si no? ¡SÍ!&lt;wait&gt;</Entry>
+  <Entry Index="216">Minha resposta? E o que poderia ser se não? SIM!&lt;wait&gt;</Entry>
+  <Entry Index="217">Eu esperava que essa pessoa... Essa pessoa tão
+importante... fosse você, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Minha resposta? E o que poderia ser se não? SIM!&lt;wait&gt;</Entry>
   <Entry Index="218">Si esto es un sueño, no quiero despertarme jamás.
 &lt;playername&gt;, vamos a crear una magnífica vida
 &lt;gender&gt;("juntos","juntas").&lt;wait&gt;</Entry>
-  <Entry Index="219">Si esto es un sueño, no quiero despertarme jamás.
-&lt;playername&gt;, vamos a crear una magnífica vida
+  <Entry Index="219">Se isso for um sonho, nunca mais quero acordar.
+&lt;playername&gt;, vamos ter uma vida magnífica
 &lt;gender&gt;("juntos","juntas").&lt;wait&gt;</Entry>
-  <Entry Index="220">Tengo que contarles a mis padres lo que acaba de ocurrir.&lt;wait&gt;</Entry>
-  <Entry Index="221">Tengo que contarles a mis padres lo que acaba de ocurrir.&lt;wait&gt;</Entry>
-  <Entry Index="222">Sé que les va a poner muy contentos. Papá
-a lo mejor hasta se echa a llorar. Nos vemos luego.&lt;wait&gt;</Entry>
-  <Entry Index="223">¡Madre mía! ¡¿Es esto cierto, Karen?! ¡Sabía que llegaría
-este día! Me alegro mucho por ti, cariño. ¡Enhorabuena!&lt;wait&gt;</Entry>
-  <Entry Index="224">*sollozo* Ya... ya ha llegado, ¿no? El día en el que tengo que
-dejar marchar a mi querida hija. Karen, no me dejes.&lt;wait&gt;</Entry>
-  <Entry Index="225">Ah, venga ya, cariño. Deja de ser un quejica. No es que
-vaya a desaparecer para siempre. Sécate las lágrimas y
-regálale una sonrisa.&lt;wait&gt;</Entry>
-  <Entry Index="226">Gracias, mamá. Y sí... Me imaginé que llorarías, papá.&lt;wait&gt;</Entry>
-  <Entry Index="227">Pero no te preocupes. &lt;playername&gt; y yo vamos a
-crear una familia con tanto amor como el que hay entre
-mamá y tú. Y más, incluso.&lt;wait&gt;</Entry>
-  <Entry Index="228">Pero no te preocupes. &lt;playername&gt; y yo vamos a
-crear una familia con tanto amor como el que hay entre
-mamá y tú. Y más, incluso.&lt;wait&gt;</Entry>
-  <Entry Index="229">Sí... ya sé que sí.
-&lt;playername&gt;, cuida bien de Karen.&lt;wait&gt;</Entry>
-  <Entry Index="230">Sí... lo sé.
-&lt;playername&gt;, cuida bien de Karen.&lt;wait&gt;</Entry>
-  <Entry Index="231">Dejadnos los preparativos de la ceremonia a nosotros.&lt;wait&gt;&lt;page&gt;
-Hablaremos con Thomas, reservaremos el local y
-enviaremos las invitaciones. Creo que tardaremos una
-semana o así.&lt;wait&gt;</Entry>
-  <Entry Index="232">Dejadnos los preparativos de la ceremonia a nosotros.&lt;wait&gt;&lt;page&gt;
-Hablaremos con Thomas, reservaremos el local y
-enviaremos las invitaciones. Creo que tardaremos una
-semana o así.&lt;wait&gt;</Entry>
-  <Entry Index="233">Así es, cariño. No tenéis que preocuparos de nada.
-¡Relajaos y esperad con ganas vuestro día especial!&lt;wait&gt;</Entry>
-  <Entry Index="234">Vale. Gracias, mamá y papá.
-Os lo dejaremos a vosotros.&lt;wait&gt;</Entry>
-  <Entry Index="235">Queridos hermanos, estamos hoy aquí reunidos para ver a
-&lt;playername&gt; y Karen unirse en sagrado matrimonio.
-Empecemos.&lt;wait&gt;</Entry>
-  <Entry Index="236">Queridos hermanos, estamos hoy aquí reunidos para ver a
-&lt;playername&gt; y Karen unirse en sagrado matrimonio.
-Empecemos.&lt;wait&gt;</Entry>
-  <Entry Index="237">&lt;playername&gt;. Karen. ¿Juráis ser fieles el resto de
-vuestras vidas...&lt;wait&gt;&lt;page&gt;
-...y amaros y respetaros en las alegrías y las penas, en la
-salud y en la enfermedad? ¿Ahora y para siempre?&lt;wait&gt;</Entry>
-  <Entry Index="238">Delante de todos los aquí reunidos, declaro la unión en
-sagrado matrimonio de esta pareja.&lt;wait&gt;&lt;page&gt;
-Que la gloria de este día ilumine vuestros corazones y
-construyáis un precioso futuro en común.&lt;wait&gt;</Entry>
-  <Entry Index="239">¡Ah, Karen! ¡Mi querida hija! ¡Enhorabuena!
-&lt;playername&gt; y tú vais a tener una vida muy feliz
-&lt;gender&gt;("juntos","juntas"), ¿sabes?</Entry>
-  <Entry Index="240">¡Ah, Karen! ¡Mi querida hija! ¡Enhorabuena!
-&lt;playername&gt; y tú vais a tener una vida muy feliz
-&lt;gender&gt;("juntos","juntas"), ¡no hay duda!</Entry>
-  <Entry Index="241">Karen, eres la mejor hija que podría haber tenido.
-Siempre te querré. Sé buena con &lt;playername&gt;,
+  <Entry Index="220">Tenho que contar aos meus pais o que acabou de acontecer.&lt;wait&gt;</Entry>
+  <Entry Index="221">Tenho que contar aos meus pais o que acabou de acontecer.&lt;wait&gt;</Entry>
+  <Entry Index="222">Sei que isso os deixará muito feliz. Papai
+talvez até comece a chorar. Até logo.&lt;wait&gt;</Entry>
+  <Entry Index="223">Meu Deus! É verdade, Karen?! Eu sabia que esse
+dia viria! Estou tão feliz por você, querida. Parabéns!&lt;wait&gt;</Entry>
+  <Entry Index="224">*soluço* Então... Então chegou, certo? o dia em
+que eu terei que deixar minha querida filha ir embora.
+Karen, não me deixe.&lt;wait&gt;</Entry>
+  <Entry Index="225">Ah, vamos, querido. Pare de reclamar. Não é
+como se ela fosse ir embora para sempre.
+Enxugue as lágrimas e sorria.&lt;wait&gt;</Entry>
+  <Entry Index="226">Obrigado, mamãe. E sim... Achei que você choraria,
+papai.&lt;wait&gt;</Entry>
+  <Entry Index="227">Mas não se preocupe. &lt;playername&gt; e eu vamos
+formar uma família com tanto amor quanto o que existe
+entre a mamãe e você. E muito mais.&lt;wait&gt;</Entry>
+  <Entry Index="228">Mas não se preocupe. &lt;playername&gt; e eu vamos
+formar uma família com tanto amor quanto o que existe
+entre a mamãe e você. E muito mais.&lt;wait&gt;</Entry>
+  <Entry Index="229">Sim... Eu sei que vão.
+&lt;playername&gt;, cuide bem de Karen.&lt;wait&gt;</Entry>
+  <Entry Index="230">Sim... Eu sei que vão.
+&lt;playername&gt;, cuide bem de Karen.&lt;wait&gt;</Entry>
+  <Entry Index="231">Deixem os preparativos da cerimônia com a gente.&lt;wait&gt;&lt;page&gt;
+Vamos falar com o Thomas, reservar o local e
+enviar os convites. Acho que vai demorar um
+semana mais ou menos.&lt;wait&gt;</Entry>
+  <Entry Index="232">Deixem os preparativos da cerimônia com a gente.&lt;wait&gt;&lt;page&gt;
+Vamos falar com o Thomas, reservar o local e
+enviar os convites. Acho que vai demorar um
+semana mais ou menos.&lt;wait&gt;</Entry>
+  <Entry Index="233">Isso mesmo, querida. Você não precisa se preocupar com nada.
+Relaxe e aguarde seu dia especial!&lt;wait&gt;</Entry>
+  <Entry Index="234">Ok. Obrigado, mamãe e papai.
+Vamos deixar isso com vocês.&lt;wait&gt;</Entry>
+  <Entry Index="235">Queridos irmãos, estamos reunidos aqui hoje para
+celebrar a união de &lt;playername&gt; e Karen em
+sagrado matrimonio. Vamos começar.&lt;wait&gt;</Entry>
+  <Entry Index="236">Queridos irmãos, estamos reunidos aqui hoje para
+celebrar a união de &lt;playername&gt; e Karen em
+sagrado matrimonio. Vamos começar.&lt;wait&gt;</Entry>
+  <Entry Index="237">&lt;playername&gt;. Karen. Vocês juram ser fiéis um ao outro
+pelo resto de suas vidas...&lt;wait&gt;&lt;page&gt;
+...e se amarem e se respeitarem, nas alegrias e tristezas,
+na saúde e na doença? Agora e para sempre?&lt;wait&gt;</Entry>
+  <Entry Index="238">Diante de todos aqui reunidos, declaro a união em
+sagrado matrimônio deste casal.&lt;wait&gt;&lt;page&gt;
+Que a glória deste dia ilumine seus corações e
+que construam um belo futuro juntos.&lt;wait&gt;</Entry>
+  <Entry Index="239">Ah Karen! Minha filha querida! !! Parabéns!!
+&lt;playername&gt; e você vai ter uma vida muito feliz
+&lt;gender&gt;("juntos","juntas"), sabe?</Entry>
+  <Entry Index="240">Ah Karen! Minha filha querida! !! Parabéns!!
+&lt;playername&gt; e você vai ter uma vida muito feliz
+&lt;gender&gt;("juntos","juntas"), sem dúvida!</Entry>
+  <Entry Index="241">Karen, você é a melhor filha que eu poderia ter tido.
+Eu sempre vou te amar. Seja gentil com &lt;playername&gt;,
 ¿vale?&lt;wait&gt;</Entry>
-  <Entry Index="242">¡Enhorabuena a &lt;gender&gt;("los","las") dos! ¡Espero que tengáis un gran
-futuro en común!&lt;wait&gt;</Entry>
-  <Entry Index="243">¡Estáis muy elegantes! Seguro que tendréis una bonita y
-feliz familia.&lt;wait&gt;</Entry>
-  <Entry Index="244">&lt;playername&gt;... Ahora sí que podremos estar &lt;gender&gt;("juntos","juntas")
-para siempre, &lt;playername&gt;... Te quiero. ∀&lt;wait&gt;</Entry>
-  <Entry Index="245">&lt;playername&gt;... Ahora sí que podremos estar &lt;gender&gt;("juntos","juntas")
-para siempre, &lt;playername&gt;... Te quiero. ∀&lt;wait&gt;</Entry>
-  <Entry Index="246">Bien. Y ahora, para conmemorar este gran día, nos
-haremos una foto de grupo. ¡Venid todos aquí!&lt;wait&gt;</Entry>
-  <Entry Index="247">¡Paa taa taa! ♪ ¡&lt;playername&gt;, enhorabuena!&lt;wait&gt;&lt;page&gt;
-Dejad que toque las campanas de la fortuna para que os
-bendigan. ¡Tachán! ♪&lt;wait&gt;</Entry>
-  <Entry Index="248">¡Uf! Por fin se calman las cosas. Primero la ceremonia,
-después la foto, el banquete, y muchas cosas más.&lt;wait&gt;</Entry>
-  <Entry Index="249">¡Uf! Por fin se calman las cosas. Primero la ceremonia,
-después la foto, el banquete, y muchas cosas más.&lt;wait&gt;</Entry>
-  <Entry Index="250">A papá y a mamá se les ha ido de las manos. Me alegro de
-que lo hayan organizado ellos. Pero, ahora en serio, ¡ha
-sido demasiada comida!&lt;wait&gt;</Entry>
-  <Entry Index="251">Ahora por fin podremos disfrutar de un tiempo a solas.&lt;wait&gt;</Entry>
-  <Entry Index="252">Ahora por fin podremos disfrutar de un tiempo a solas.&lt;wait&gt;</Entry>
-  <Entry Index="253">Bueno, como ahora estamos &lt;gender&gt;("casados","casadas"), ¿qué te parece si
-nos ponemos apodos?&lt;wait&gt;&lt;page&gt;
-A mí me parece muy bien si quieres seguir llamándome
-"Karen", como siempre.&lt;wait&gt;&lt;page&gt;
-¿Cómo quieres que te llame? &lt;wait&gt;</Entry>
-  <Entry Index="254">Bueno, como ahora estamos &lt;gender&gt;("casados","casadas"), ¿qué te parece si
-nos ponemos apodos?&lt;wait&gt;&lt;page&gt;
-A mí me parece muy bien si quieres seguir llamándome
-"Karen", como siempre.&lt;wait&gt;&lt;page&gt;
-¿Cómo quieres que te llame? &lt;wait&gt;</Entry>
+  <Entry Index="242">Parabéns &lt;gender&gt;("aos dois","as duas")! Espero que tenham um
+ótimo futuro!&lt;wait&gt;</Entry>
+  <Entry Index="243">Você está muito elegante! Tenho certeza que terá uma linda
+família feliz.&lt;wait&gt;</Entry>
+  <Entry Index="244">&lt;playername&gt;... Agora podemos finalmente ficar &lt;gender&gt;("juntos","juntas")
+para sempre, &lt;playername&gt;... Eu te amo. ∀&lt;wait&gt;</Entry>
+  <Entry Index="245">&lt;playername&gt;... Agora podemos finalmente ficar &lt;gender&gt;("juntos","juntas")
+para sempre, &lt;playername&gt;... Eu te amo. ∀&lt;wait&gt;</Entry>
+  <Entry Index="246">Bom. E agora, para comemorar este grande dia,
+Vamos tirar uma foto em grupo. Todos venham aqui!&lt;wait&gt;</Entry>
+  <Entry Index="247">¡Paa taa taa! ♪ ¡&lt;playername&gt;, parabéns!&lt;wait&gt;&lt;page&gt;
+Deixe-me tocar os sinos da fortuna te
+abençoar. Tachan! ♪&lt;wait&gt;</Entry>
+  <Entry Index="248">Ah! As coisas finalmente se acalmaram.
+Primeiro a cerimônia, depois a foto, o banquete
+e muito mais.&lt;wait&gt;</Entry>
+  <Entry Index="249">Ah! As coisas finalmente se acalmaram.
+Primeiro a cerimônia, depois a foto, o banquete
+e muito mais.&lt;wait&gt;</Entry>
+  <Entry Index="250">Mamãe e papai ficaram fora de controle. Estou feliz
+que eles organizaram tudo. Mas sério, havia
+muita comida!&lt;wait&gt;</Entry>
+  <Entry Index="251">Agora podemos finalmente curtir um tempo a sós.&lt;wait&gt;</Entry>
+  <Entry Index="252">Agora podemos finalmente curtir um tempo a sós.&lt;wait&gt;</Entry>
+  <Entry Index="253">Bom, já que agora somos &lt;gender&gt;("casados","casadas"), que tal se
+dermos apelidos um ao outro?&lt;wait&gt;&lt;page&gt;
+Por mim está tudo bem se você quiser continuar
+me chamando de "Karen", como sempre.&lt;wait&gt;&lt;page&gt;
+Como você quer que eu te chame? &lt;wait&gt;</Entry>
+  <Entry Index="254">Bom, já que agora somos &lt;gender&gt;("casados","casadas"), que tal se
+dermos apelidos um ao outro?&lt;wait&gt;&lt;page&gt;
+Por mim está tudo bem se você quiser continuar
+me chamando de "Karen", como sempre.&lt;wait&gt;&lt;page&gt;
+Como você quer que eu te chame? &lt;wait&gt;</Entry>
   <Entry Index="255">&lt;playername&gt;</Entry>
-  <Entry Index="256">Cariño</Entry>
-  <Entry Index="257">Cielo</Entry>
-  <Entry Index="258">Otra cosa</Entry>
-  <Entry Index="259">Pareja</Entry>
+  <Entry Index="256">Querido</Entry>
+  <Entry Index="257">Anjo</Entry>
+  <Entry Index="258">Outro apelido</Entry>
+  <Entry Index="259">Marido</Entry>
   <Entry Index="260">Amor</Entry>
-  <Entry Index="261">¿&lt;playername&gt;, eh?</Entry>
-  <Entry Index="262">Está bien. ¡Me parece bien!&lt;wait&gt;</Entry>
-  <Entry Index="263">¿Quieres que te llame de otra forma? ¿Como qué?&lt;wait&gt;</Entry>
-  <Entry Index="264">Está bien. De ahora en adelante, así te llamaré,
-&lt;nickname&gt;. ¿Qué te parece?∀&lt;wait&gt;</Entry>
-  <Entry Index="265">Vale, y antes de que se me olvide: quiero seguir ayudando
-en el bazar durante el día. ¿Te importa?&lt;wait&gt;</Entry>
-  <Entry Index="266">¡Dale duro!</Entry>
-  <Entry Index="267">¡No, quédate en casa!</Entry>
-  <Entry Index="268">Ji, ji, ji. Me alegra que te parezca bien. ¡Gracias!&lt;wait&gt;</Entry>
-  <Entry Index="269">¡Perfecto! ¡Mañana empieza nuestra nueva vida &lt;gender&gt;("juntos","juntas")!&lt;wait&gt;</Entry>
-  <Entry Index="270">¡Perfecto! ¡Mañana empieza nuestra nueva vida &lt;gender&gt;("juntos","juntas")!&lt;wait&gt;</Entry>
-  <Entry Index="271">Ah... Vale. Si insistes. Desde mañana, pasaré el día aquí en
-casa.&lt;wait&gt;</Entry>
-  <Entry Index="272">Y, eh... ¿&lt;nickname&gt;? Estoy deseando pasar mi vida
-junto a ti. ∀&lt;wait&gt;</Entry>
-  <Entry Index="273">Y, eh... ¿&lt;nickname&gt;? Estoy deseando pasar mi vida
-junto a ti. ∀&lt;wait&gt;</Entry>
-  <Entry Index="274">¡Ah! ¡Nooooo!&lt;wait&gt;</Entry>
-  <Entry Index="275">¡Espera, Pollito! ¡Vuelve aquí! ¡No puedes irte de aquí!&lt;wait&gt;</Entry>
-  <Entry Index="276">¡Madre mía, Pollito! Solo las gallinitas malas salen
-huyendo así. ¿No te he dicho que no te muevas?&lt;wait&gt;</Entry>
-  <Entry Index="277">Oh, gracias por atrapar a Pollito por mí. Es una de las
-gallinas de nuestra tienda.&lt;wait&gt;</Entry>
-  <Entry Index="278">Creo que no hemos tenido el placer de conocernos. Me
-llamo Popuri. Es un placer conocerte.&lt;wait&gt;</Entry>
-  <Entry Index="279">Debes ser la persona que se ha mudado a esa granja. Así
-que te llamas &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Qué nombre más bonito. Gracias por ser tan amable
-desde el principio.&lt;wait&gt;</Entry>
-  <Entry Index="280">¡Ah! Hola, &lt;playername&gt;. Gracias por atraparla.&lt;wait&gt;</Entry>
-  <Entry Index="281">Solo le quité los ojos de encima durante un segundo, pero
-esta pillina de Pollito tenía que intentar escaparse.&lt;wait&gt;</Entry>
-  <Entry Index="282">Es tan rápida que me cuesta alcanzarla y siempre sale
-volando a toda pastilla. No quiero que se haga daño.&lt;wait&gt;</Entry>
+  <Entry Index="261">¿&lt;playername&gt;, hein?</Entry>
+  <Entry Index="262">Ok. Parece bom para mim!&lt;wait&gt;</Entry>
+  <Entry Index="263">Você quer que eu te chame de outra forma? Como o quê?&lt;wait&gt;</Entry>
+  <Entry Index="264">Ok. De agora em diante, é assim que eu vou te chamar,
+&lt;nickname&gt;. O que você acha?∀&lt;wait&gt;</Entry>
+  <Entry Index="265">Ok, e antes que eu esqueça: quero continuar ajudando
+no mercado durante o dia. Você se importa?&lt;wait&gt;</Entry>
+  <Entry Index="266">Dê o seu melhor!</Entry>
+  <Entry Index="267">Não, fique em casa!</Entry>
+  <Entry Index="268">He he he. Fico feliz que não se importe. Obrigado!&lt;wait&gt;</Entry>
+  <Entry Index="269">Perfeito! Amanhã nossa nova vida começa &lt;gender&gt;("juntos","juntas")!&lt;wait&gt;</Entry>
+  <Entry Index="270">Perfeito! Amanhã nossa nova vida começa &lt;gender&gt;("juntos","juntas")!&lt;wait&gt;</Entry>
+  <Entry Index="271">Ah... Certo. Se você insiste. A partir de amanhã,
+vou passar o dia aqui em casa.&lt;wait&gt;</Entry>
+  <Entry Index="272">E, uh... ¿&lt;nickname&gt;? Estou ansiosa para ficar pelo
+resto da minha vida ao seu lado. ∀&lt;wait&gt;</Entry>
+  <Entry Index="273">E, uh... ¿&lt;nickname&gt;? Estou ansiosa para ficar pelo
+resto da minha vida ao seu lado. ∀&lt;wait&gt;</Entry>
+  <Entry Index="274">Ah! Nãooooo!&lt;wait&gt;</Entry>
+  <Entry Index="275">Espere, garota! Volte! Você não pode sair daqui!&lt;wait&gt;</Entry>
+  <Entry Index="276">Meu Deus, garota! Só as galinhas más
+saem correndo assim. Eu não falei para você não se mexer?&lt;wait&gt;</Entry>
+  <Entry Index="277">Ah, obrigada por pegar essa danada para mim.
+É uma das galinhas do nosso armazém.&lt;wait&gt;</Entry>
+  <Entry Index="278">Acho que não nos conhecemos ainda. Eu me
+chamo Popuri. Prazer em conhecê-lo.&lt;wait&gt;</Entry>
+  <Entry Index="279">Você deve ser a pessoa que se mudou para aquela
+fazenda. Então seu nome é &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Que nome bonito. Obrigado por ser tão gentil
+comigo .&lt;wait&gt;</Entry>
+  <Entry Index="280">Ah! Olá, &lt;playername&gt;. Obrigado por pegá-la.&lt;wait&gt;</Entry>
+  <Entry Index="281">Tirei os olhos dela só por um segundo e
+a danada já tentou escapar.&lt;wait&gt;</Entry>
+  <Entry Index="282">Ela é tão rápida que é difícil alcançá-la, sempre sai
+voando a todo vapor. Não quero que ela se machuque.&lt;wait&gt;</Entry>
   <Entry Index="283">Oye, &lt;playername&gt;. ¿Te gustan las gallinas?&lt;wait&gt;</Entry>
   <Entry Index="284">¡Sí! ¿A quién no?</Entry>
   <Entry Index="285">¿Gallinas? ¡Más bien puaj-llinas!</Entry>
