@@ -31,7 +31,7 @@ Se precisar de qualquier coisa, me avise.&lt;wait&gt;</Entry>
   <Entry Index="17">Você acabou de começar na fazenda, não é mesmo?
 Tenho certeza de que é uma dor de cabeça
 pensar em como começar.&lt;wait&gt;</Entry>
-  <Entry Index="18">Você precisará de sementes para cultivar e feno
+  <Entry Index="18">Você precisará de sementes para cultivar e forragem
 para alimentar os animais.
 Bem como as ferramentas para colhê-las, é claro.&lt;wait&gt;</Entry>
   <Entry Index="19">A lista de coisas a fazer e a comprar é interminável.
@@ -605,52 +605,58 @@ galinhas, venha nos ver, ok??&lt;wait&gt;</Entry>
 Boa garota!♪&lt;wait&gt;</Entry>
   <Entry Index="289">Oooh! Você não gosta? Mas... como é possível! Elas são
 tão fofinhas e adoráveis!&lt;wait&gt;</Entry>
-  <Entry Index="290">Como tienes una granja, supuse que te tenían que gustar
-las gallinas, pero... parece que me equivoqué.&lt;wait&gt;&lt;page&gt;
-Y a pesar de que no te gustan, atrapaste a Pollito por mí.
-Siento que tuvieses que hacer eso.&lt;wait&gt;</Entry>
-  <Entry Index="291">Bueno, mejor que me lleve a Pollito a casa antes de se
-meta en problemas.&lt;wait&gt;&lt;page&gt;
-Venga, Pollito. Es hora de irse a casa. Sígueme, ¡venga!
-¡Qué buena chica!♪&lt;wait&gt;</Entry>
-  <Entry Index="292">¡Buenos días! Supongo que no debería sorprenderme que
-&lt;gender&gt;("un granjero","una granjera") esté &lt;gender&gt;("despierto","despierta") tan temprano.&lt;wait&gt;&lt;page&gt;
-Pues... Bueno, ¡adivina! He venido de visita porque tengo
-algo que pedirte, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="293">Sabes que mi familia tiene ganado en la tienda, ¿verdad?&lt;wait&gt;&lt;page&gt;
-Pues lo cierto es que me dio curiosidad saber cómo cuidas
-a tus animales en comparación con nosotros, y me
-preguntaba si podía echar un vistazo.&lt;wait&gt;&lt;page&gt;
-¿Me dejarías ver cómo cuidas de todos tus animales?&lt;wait&gt;
+  <Entry Index="290">Como você tem uma fazenda, achei que gostasse de
+galinhas, mas... parece que eu estava errado.&lt;wait&gt;&lt;page&gt;
+E mesmo não gostando delas, você pegou a danadinha para mim.
+Lamento que você teve que fazer isso.&lt;wait&gt;</Entry>
+  <Entry Index="291">Bem, é melhor eu levar a danada para casa
+antes que ela se meta em problemas.&lt;wait&gt;&lt;page&gt;
+Vamos, danadinha. É hora de ir para casa. Siga-me, vamos!
+Boa garota!♪&lt;wait&gt;</Entry>
+  <Entry Index="292">Bom dia! Acho que eu não deveria estar surpreso
+por &lt;gender&gt;("um fazendeiro","uma fazendeira") estar &lt;gender&gt;("acordado","acordada") tão cedo.&lt;wait&gt;&lt;page&gt;
+Pois... Bem, adivinha? vim visita-lo porque tenho
+algo para te perguntar, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="293">Você sabe que minha família tem animais
+no nosso armazém, certo?&lt;wait&gt;&lt;page&gt;
+Bem, a verdade é que eu estava curiosa para saber como
+você cuida dos seus animais comparados a nós, e eu
+gostaria de saber se posso dar uma olhada.&lt;wait&gt;&lt;page&gt;
+Você deixaria eu ver como você cuida de todos
+os seus animais?&lt;wait&gt;
 </Entry>
-  <Entry Index="294">Lo siento. No tengo tiempo.</Entry>
-  <Entry Index="295">Claro. Mira y aprende.</Entry>
-  <Entry Index="296">Oh, ¿de verdad? Y yo que pensaba que me lo ibas a
-enseñar seguro.&lt;wait&gt;</Entry>
-  <Entry Index="297">Bueno, no pasa nada. Me voy a casa. Adiós.&lt;wait&gt;</Entry>
-  <Entry Index="298">Oh, ¿en serio? ¡Sí! ¡Sabía que dirías que sí,
+  <Entry Index="294">Desculpe. Não tenho tempo.</Entry>
+  <Entry Index="295">Claro. Observe e aprenda.</Entry>
+  <Entry Index="296">>Ah, é mesmo? Eu achei que você
+me ensinaria com segurança.&lt;wait&gt;</Entry>
+  <Entry Index="297">Bem, sem problema. Estou indo para casa. Tchau.&lt;wait&gt;</Entry>
+  <Entry Index="298">Ah, sério? Legal! Eu sabia que você ia dizer sim
 &lt;playername&gt;!&lt;wait&gt;&lt;page&gt;
-¡Perfecto! ¿Me enseñas tu granja entonces? ♪&lt;wait&gt;</Entry>
-  <Entry Index="299">Ajá... Así que aquí es donde viven tus vacas y tus ovejas.
-Bien. Vale. Ya veo.&lt;wait&gt;</Entry>
-  <Entry Index="300">Y este es el silo en el que pones todo el forraje. Pues vaya,
-hay un montón de cosas importantes en una granja.&lt;wait&gt;</Entry>
-  <Entry Index="301">¡Oh! ¡Así que este es el corral en el que viven tus gallinas!&lt;wait&gt;&lt;page&gt;
-Qué corral más pintoresco. Parece robusto, ¡y el interior
-es muy espacioso!&lt;wait&gt;</Entry>
-  <Entry Index="302">Tiene que ser muy laborioso llevar una granja tan grande
-tú &lt;gender&gt;("solo","sola"). Nunca podría hacer lo que tú haces.&lt;wait&gt;&lt;page&gt;
-Tienes más fortaleza y ética de trabajo de lo que imaginé.
-Estoy impresionada.&lt;wait&gt;</Entry>
-  <Entry Index="303">Aunque eso solo me hace querer saber más sobre ti,
+Perfeito! Você vai me mostrar sua fazenda então? ♪&lt;wait&gt;</Entry>
+  <Entry Index="299">Uh-huh... Então é aqui que suas vacas e ovelhas vivem.
+Bem. Certo. Entendi.&lt;wait&gt;</Entry>
+  <Entry Index="300">E este é o silo onde você coloca toda a forragem.
+Pois bem, há muitas coisas importantes em
+uma fazenda.&lt;wait&gt;</Entry>
+  <Entry Index="301">Ah! Então, este é o galinheiro onde suas
+galinhas vivem!&lt;wait&gt;&lt;page&gt;
+Que galinheiro adorável. Parece resistente, e o interior
+é muito espaçoso!&lt;wait&gt;</Entry>
+  <Entry Index="302">Deve ser muito trabalhoso administrar uma fazenda
+tão grande &lt;gender&gt;("sozinho","sozinha"). Eu nunca conseguiria fazer
+o mesmo.&lt;wait&gt;&lt;page&gt;
+Você tem mais força e ética de trabalho
+do que eu imaginava. Estou impressionada.&lt;wait&gt;</Entry>
+  <Entry Index="303">Isso só me faça querer saber mais sobre você,
 &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="304">Tiene que ser muy laborioso llevar una granja tan grande
-tú &lt;gender&gt;("solo","sola"). Nunca podría hacer lo que tú haces.&lt;wait&gt;&lt;page&gt;
-Tienes más fortaleza y ética de trabajo de lo que imaginé.
-Estoy impresionada.&lt;wait&gt;</Entry>
-  <Entry Index="305">Gracias por enseñarme los animales, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Ha sido muy divertido y he aprendido un montón. ♪ Aunque
-se está haciendo tarde. Debería irme. ¡Hasta otra!&lt;wait&gt;</Entry>
+  <Entry Index="304">Deve ser muito trabalhoso administrar uma fazenda
+tão grande &lt;gender&gt;("sozinho","sozinha"). Eu nunca conseguiria fazer
+o mesmo.&lt;wait&gt;&lt;page&gt;
+Você tem mais força e ética de trabalho
+do que eu imaginava. Estou impressionada.&lt;wait&gt;</Entry>
+  <Entry Index="305">Obrigado por me mostrar os animais, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Tem sido muito divertido e eu aprendi muito. ♪ No entanto,
+está ficando tarde. Tenho que ir. Até a próxima!&lt;wait&gt;</Entry>
   <Entry Index="306">¿Qué? ¿Quieres jugar a las casitas fuera otra vez?&lt;wait&gt;</Entry>
   <Entry Index="307">¿Qué hay de malo en jugar a las casitas? ¡Es divertido! Me
 gusta mucho.&lt;wait&gt;</Entry>
