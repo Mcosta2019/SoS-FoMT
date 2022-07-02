@@ -327,14 +327,14 @@ Não se preocupe. Ficará bem... Espero.&lt;wait&gt;</Entry>
   <Entry Index="182">Pegue! É o melhor prato que ja fiz, se me permite
 dizer. Experimente!&lt;wait&gt;</Entry>
   <Entry Index="183">O que houve? Se você não se apressar, vai esfriar.&lt;wait&gt;</Entry>
-  <Entry Index="184">AAAAH! &lt;playername&gt;, O que está acontecendo!
+  <Entry Index="184">AAAAH! &lt;playername&gt;, O que está acontecendo!?
 Você está bem?! Aguente firme!&lt;wait&gt;</Entry>
-  <Entry Index="185">¡AAAAH! &lt;playername&gt;, O que está acontecendo!
+  <Entry Index="185">¡AAAAH! &lt;playername&gt;, O que está acontecendo!?
 Você está bem?! Aguente firme!&lt;wait&gt;</Entry>
   <Entry Index="186">Ah! Você está &lt;gender&gt;("acordado","acordada")!&lt;wait&gt;</Entry>
   <Entry Index="187">&lt;playername&gt;, como está se sentindo? Você está na clínica.&lt;wait&gt;&lt;page&gt;
 Você desmaiou na casa de Karen. Ela o trouxe
-até aqu.&lt;wait&gt;&lt;page&gt;
+até aqui.&lt;wait&gt;&lt;page&gt;
 Eu te examinei e não parece haver nada de errado, mas
 sugiro que fique aqui e descanse um pouco.&lt;wait&gt;</Entry>
   <Entry Index="188">Oh, meu deus! Eu estava tão preocupada. Fico contente
