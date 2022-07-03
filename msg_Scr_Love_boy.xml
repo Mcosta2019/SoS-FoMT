@@ -1213,100 +1213,106 @@ Bem, o que eu ia...&lt;wait&gt;</Entry>
 Embora eu possa não ser muito imparcial.
 E parece que vocês se dão tão bem.&lt;wait&gt;</Entry>
   <Entry Index="578">Ah, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda")!&lt;wait&gt;</Entry>
-  <Entry Index="579">Oye, Ran. ¿Has terminado de limpiar el segundo piso? No
-habrás escuchado lo que hemos estado hablando, ¿no?&lt;wait&gt;</Entry>
-  <Entry Index="580">Sí, he terminado. ¿Escuchar qué? ¿De qué estabais
-hablando?&lt;wait&gt;</Entry>
-  <Entry Index="581">Oh, no, de nada, de verdad. Ja, ja, ja...&lt;wait&gt;</Entry>
-  <Entry Index="582">¡Calla, papá! ¡Deja de meter a &lt;playername&gt; en tus
-maquinaciones!&lt;wait&gt;</Entry>
-  <Entry Index="583">¡Calla, papá! ¡Deja de meter a &lt;playername&gt; en tus
-maquinaciones!&lt;wait&gt;</Entry>
-  <Entry Index="584">¿Pero quién está maquinando? Eres mi única hija, ¿no?
-¡No puedo fingir que no eres importante para mí!&lt;wait&gt;</Entry>
-  <Entry Index="585">¡Agh!&lt;wait&gt;</Entry>
-  <Entry Index="586">Ay... Lo siento, &lt;playername&gt;. Mi padre puede ser un
-poco... rotundo, a veces.&lt;wait&gt;</Entry>
+  <Entry Index="579">Ei, Ran. Você terminou de limpar o segundo andar?
+Você não ouviu a nossa conversa, ouviu?&lt;wait&gt;</Entry>
+  <Entry Index="580">Sim, terminei. Ouvir o quê? Do que estavam
+falando?&lt;wait&gt;</Entry>
+  <Entry Index="581">Ah, não, de nada. Ha ha ha...&lt;wait&gt;</Entry>
+  <Entry Index="582">Fica quieto, papai! Pare de incluir &lt;playername&gt; nas suas
+tramoias!&lt;wait&gt;</Entry>
+  <Entry Index="583">Fica quieto, papai! Pare de incluir &lt;playername&gt; na suas
+armações!&lt;wait&gt;</Entry>
+  <Entry Index="584">Mas quem é que está tramando? Você é minha
+única filha, certo? Não posso fingir que você
+não é importante para mim!&lt;wait&gt;</Entry>
+  <Entry Index="585">Agh!&lt;wait&gt;</Entry>
+  <Entry Index="586">Hm... Desculpe, &lt;playername&gt;. Meu pai costuma
+ser um pouco... incisivo, as vezes.&lt;wait&gt;</Entry>
   <Entry Index="587">Ay... Lo siento, &lt;playername&gt;. Mi padre puede ser un
 poco... rotundo, a veces.&lt;wait&gt;</Entry>
-  <Entry Index="588">Ay... Lo siento, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-No sé de qué estabais hablando, pero conociendo a mi
-padre, tengo una sospecha...&lt;wait&gt;</Entry>
-  <Entry Index="589">Ay... Lo siento, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-No sé de qué estabais hablando, pero conociendo a mi
-padre, tengo una sospecha...&lt;wait&gt;</Entry>
-  <Entry Index="590">Hace un tiempo, empecé a hablar con un huésped de la
-pensión, y papá le preguntó qué sentía por mí.&lt;wait&gt;</Entry>
-  <Entry Index="591">Es así de directo. Por supuesto, se quedó de piedra y dejó
-de venir a la pensión.&lt;wait&gt;</Entry>
-  <Entry Index="592">No tiene nada de tacto.</Entry>
-  <Entry Index="593">Pero es buen padre.</Entry>
-  <Entry Index="594">Ja, ja. En serio. Pero solo charlábamos porque tenía
-historias muy interesantes que contarme.&lt;wait&gt;</Entry>
-  <Entry Index="595">Sé que se preocupa por mí, pero debería dejarme a mí con
-esas cosas y ocuparse de sí mismo.&lt;wait&gt;</Entry>
-  <Entry Index="596">Cuando me haya enfriado un rato, volveré al trabajo. Le
-echaré una bronca luego, no te preocupes.</Entry>
-  <Entry Index="597">Sí. Sé que está intentando quererme también por parte
-de mamá.&lt;wait&gt;</Entry>
-  <Entry Index="598">Pero a veces se pasa y acabo hasta las narices. Como hoy.&lt;wait&gt;</Entry>
-  <Entry Index="599">Bueno, voy a volver al trabajo en un rato. Le echaré una
-bronca luego, no te preocupes.</Entry>
-  <Entry Index="600">Oye, &lt;playername&gt;. ¿Cómo estaba Ran?&lt;wait&gt;&lt;page&gt;
-Bueno, eh... No importa lo que sientas por Ran, me alegro
-de que tenga &lt;gender&gt;("un amigo","una amiga") como tú.&lt;wait&gt;</Entry>
-  <Entry Index="601">Dejaré que estés con Ran como te plazca.&lt;wait&gt;</Entry>
-  <Entry Index="602">¿Qué pasa? ¿Has venido a por comida?&lt;wait&gt;</Entry>
-  <Entry Index="603">Se supone que hoy no venía nadie hoy, ¿no? Podemos
-hablar en privado aquí, ¿verdad?&lt;wait&gt;</Entry>
-  <Entry Index="604">Bueno, sobre lo que estábamos hablando antes... Um...
-¿Podemos aclarar algo?&lt;wait&gt;</Entry>
-  <Entry Index="605">&lt;playername&gt;... ¿Estás &lt;gender&gt;("seguro","segura")? ¿Seguro que quieres
-estar conmigo?&lt;wait</Entry>
-  <Entry Index="606">&lt;playername&gt;... ¿Estás &lt;gender&gt;("seguro","segura")? ¿Seguro que quieres
-estar conmigo?&lt;wait</Entry>
-  <Entry Index="607">¡Aaaah! ¡Estoy más feliz que un suelo recién pulido!&lt;wait&gt;</Entry>
-  <Entry Index="608">He soñado con este día desde que empezamos a salir.&lt;wait&gt;&lt;page&gt;
-Te has vuelto tan importante para mí, &lt;playername&gt;.
-Me pongo muy triste los días que no te veo.&lt;wait&gt;&lt;page&gt;
-¡Por eso decir que estoy en el séptimo cielo sería
-quedarse corta! ∀&lt;wait&gt;</Entry>
-  <Entry Index="609">He soñado con este día desde que empezamos a salir.&lt;wait&gt;&lt;page&gt;
-Te has vuelto tan importante para mí, &lt;playername&gt;.
-Me pongo muy triste los días que no te veo.&lt;wait&gt;&lt;page&gt;
-¡Por eso decir que estoy en el séptimo cielo sería
-quedarse corta! ∀&lt;wait&gt;</Entry>
-  <Entry Index="610">¡Tengo que ir a decírselo a papá!&lt;wait&gt;</Entry>
-  <Entry Index="611">¡Ya veo! ¡Así que has decidido estar con
+  <Entry Index="588">Hm... Desculpe, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Eu não sei do que vocês estavam falando, mas conhecendo
+meu pai, tenho minhas suspeitas...&lt;wait&gt;</Entry>
+  <Entry Index="589">Hm... Desculpe, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Eu não sei do que vocês estavam falando, mas conhecendo
+meu pai, tenho minhas suspeitas...&lt;wait&gt;</Entry>
+  <Entry Index="590">Um tempo atrás, comecei a conversar com um
+hóspede da pousada e papai perguntou a ele como
+se sentia em relação a mim.&lt;wait&gt;</Entry>
+  <Entry Index="591">Foi tão direto. Claro, ele ficou assustado
+e parou de vir a pousada.&lt;wait&gt;</Entry>
+  <Entry Index="592">Não tem delicadeza.</Entry>
+  <Entry Index="593">Mas é um bom pai.</Entry>
+  <Entry Index="594">Ha ha. Mas sério. Nós só conversamos porque
+ele tinhas algumas histórias muito interessantes
+para me contar.&lt;wait&gt;</Entry>
+  <Entry Index="595">Sei que se preocupa comigo, mas deveria deixar
+cuidar da minha vida eu mesma.&lt;wait&gt;</Entry>
+  <Entry Index="596">Vou esperar as coisas esfriarem um pouco,
+e voltarei ao trabalho. Eu vou repreender ele
+mais tarde, não se preocupe.</Entry>
+  <Entry Index="597">Sim. Eu sei que você está tentando me amar
+pela da mamãe também.&lt;wait&gt;</Entry>
+  <Entry Index="598">Mas as vezes vai longe de mais, e eu acabo
+me dando mal. Como hoje.&lt;wait&gt;</Entry>
+  <Entry Index="599">Bem, voltarei ao trabalho em breve. Eu vou
+repreender ele, não se preocupe.</Entry>
+  <Entry Index="600">Ei, &lt;playername&gt;. Como foi com a Ran?&lt;wait&gt;&lt;page&gt;
+Bem, uh... Não importa como você sente em relação
+a Ran, Fico feliz que tenho &lt;gender&gt;("um amigo","uma amiga") como você.&lt;wait&gt;</Entry>
+  <Entry Index="601">Vou deixar você e Ran se resolverem.&lt;wait&gt;</Entry>
+  <Entry Index="602">E aí? Você veio para comer?&lt;wait&gt;</Entry>
+  <Entry Index="603">Ninguém deve aparecer, certo?
+Podemos conversar em particular aqui, certo?&lt;wait&gt;</Entry>
+  <Entry Index="604">Bem, sobre o que estavamos conversando antes...
+Hm... Podemos esclarecer uma coisa?&lt;wait&gt;</Entry>
+  <Entry Index="605">&lt;playername&gt;... Você tem &lt;gender&gt;("certeza","certeza")? Tem certeza
+que quer ficar conmigo?&lt;wait</Entry>
+  <Entry Index="606">&lt;playername&gt;... Você tem &lt;gender&gt;("certeza","certeza")? Tem certeza
+que quer ficar conmigo?&lt;wait</Entry>
+  <Entry Index="607">Aaah! Estou mais feliz do que um piso recém-polido!&lt;wait&gt;</Entry>
+  <Entry Index="608">Sonhei com este dia desde que começamos a sair.&lt;wait&gt;&lt;page&gt;
+Você se tornou tão importante para mim, &lt;playername&gt;.
+Fico muito triste nos dias em que não nos vemos.&lt;wait&gt;&lt;page&gt;
+Então dizer que estou no paraíso seria
+eufemismo! ∀&lt;wait&gt;</Entry>
+  <Entry Index="609">Sonhei com este dia desde que começamos a sair.&lt;wait&gt;&lt;page&gt;
+Você se tornou tão importante para mim, &lt;playername&gt;.
+Fico muito triste nos dias em que não nos vemos.&lt;wait&gt;&lt;page&gt;
+Então dizer que estou no paraíso seria
+eufemismo! ∀&lt;wait&gt;</Entry>
+  <Entry Index="610">Tenho que contar ao papai!&lt;wait&gt;</Entry>
+  <Entry Index="611">Entendo! Então você decidiu ficar com
 &lt;playername&gt;!&lt;wait&gt;&lt;page&gt;
-¡Claro que tienes mi aprobación, Ran!&lt;wait&gt;</Entry>
-  <Entry Index="612">¡Gracias, papá!&lt;wait&gt;</Entry>
-  <Entry Index="613">Estoy seguro de que tu madre, allí en el cielo, también
-piensa que &lt;playername&gt; es &lt;gender&gt;("el adecuado","la adecuada") para ti.&lt;wait&gt;</Entry>
-  <Entry Index="614">Sí. Sé que mamá diría eso si estuviese aquí.&lt;wait&gt;</Entry>
-  <Entry Index="615">En ese caso, hay que prepararse para la boda. Es el
-primer día de vuestra nueva vida, así que hay que
-celebrarlo por todo lo alto.&lt;wait&gt;&lt;page&gt;
-Tengo que empezar a organizarlo. Primero se lo diré al
-alcalde, después reservaré el local y hablaré con el resto
-del pueblo, ¿qué más?&lt;wait&gt;</Entry>
-  <Entry Index="616">En ese caso, hay que prepararse para la boda. Es el
-primer día de vuestra nueva vida, así que hay que
-celebrarlo por todo lo alto.&lt;wait&gt;&lt;page&gt;
-Tengo que empezar a organizarlo. Primero se lo diré al
-alcalde, después reservaré el local y hablaré con el resto
-del pueblo, ¿qué más?&lt;wait&gt;</Entry>
-  <Entry Index="617">Papá, ya tienes bastante con la pensión. No tienes que
-esforzarte tanto con nuestra ceremonia.&lt;wait&gt;</Entry>
-  <Entry Index="618">No seas tonta, Ran. Esto es para ti y mi nuevo hijo. Hay
-que darlo todo.&lt;wait&gt;&lt;page&gt;
-La ceremonia será en una semana más o menos. ¡Empezad
-a emocionaros!&lt;wait&gt;</Entry>
-  <Entry Index="619">No seas tonta, Ran. Esto es para ti y mi nueva hija. Hay
-que darlo todo.&lt;wait&gt;&lt;page&gt;
-La ceremonia será en una semana más o menos. ¡Empezad
-a emocionaros!&lt;wait&gt;</Entry>
-  <Entry Index="620">Oh, papá... Sí, tienes razón. Bueno, lo dejo en tus manos.&lt;wait&gt;</Entry>
+Claro que você tem minha aprovação, Ran!&lt;wait&gt;</Entry>
+  <Entry Index="612">Obrigado, papai!&lt;wait&gt;</Entry>
+  <Entry Index="613">Tenho certeza de que sua mãe, lá no céu, também
+pensa que &lt;playername&gt; é &lt;gender&gt;("o escolhido","a escolhida") para você.&lt;wait&gt;</Entry>
+  <Entry Index="614">Sim. Eu sei que a mamãe diria isso se ela estivesse aqui.&lt;wait&gt;</Entry>
+  <Entry Index="615">Nesse caso, você precisa se preparar para o casamento.
+Será o primeiro dia de sua nova vida, então você tem que
+comemorá-lo em grande estilo.&lt;wait&gt;&lt;page&gt;
+Tenho que começar a organizá-lo. vou contar primeiro
+ao Prefeito, depois irei reservar o local
+e falar com o resto da cidade, algo a mais?&lt;wait&gt;</Entry>
+  <Entry Index="616">Nesse caso, você precisa se preparar para o casamento.
+Será o primeiro dia de sua nova vida, então você tem que
+comemorá-lo em grande estilo.&lt;wait&gt;&lt;page&gt;
+Tenho que começar a organizá-lo. vou contar primeiro
+ao Prefeito, depois irei reservar o local
+e falar com o resto da cidade, algo a mais?&lt;wait&gt;</Entry>
+  <Entry Index="617">Papai, sua pousada é mais que o suficiente.
+Não precisa se esforçar com a nossa cerimônia.&lt;wait&gt;</Entry>
+  <Entry Index="618">Não seja boba, Ran. Isto é para você e para o meu
+novo filho. Darei tudo de mim.&lt;wait&gt;&lt;page&gt;
+A cerimônia será em uma semana ou algo assim.
+Comecei a ficar empolgado!&lt;wait&gt;</Entry>
+  <Entry Index="619">Não seja boba, Ran. Isto é para você e para o meu
+novo filho. Darei tudo de mim.&lt;wait&gt;&lt;page&gt;
+A cerimônia será em uma semana ou algo assim.
+Comecei a ficar empolgado!&lt;wait&gt;</Entry>
+  <Entry Index="620">Oh papai... Sim, você está certo.
+Bem, vou deixar isso com você.&lt;wait&gt;</Entry>
   <Entry Index="621">Queridos hermanos, estamos hoy aquí reunidos para ver a
 &lt;playername&gt; y Ran unirse en sagrado matrimonio.
 Empecemos.&lt;wait&gt;</Entry>
