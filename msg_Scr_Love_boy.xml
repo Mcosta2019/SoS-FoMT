@@ -1721,80 +1721,85 @@ para jamais colocar em risco a saúde de
 qualquer outro paciente.&lt;wait&gt;&lt;page&gt;
 Obrigada pelo seu incentivo, &lt;playername&gt;. Meu prognóstico
 ficou melhor graças a você..&lt;wait&gt;</Entry>
-  <Entry Index="814">A lo mejor mi elección de carrera ha sido una pérdida de
-tiempo...&lt;wait&gt;&lt;page&gt;
-Siento mucho estar así, pero no me apetece hablar con
-nadie ahora mismo.&lt;wait&gt;&lt;page&gt;
-Ya hablaremos en otro momento. Espero que lo entiendas.&lt;wait&gt;&lt;page&gt;
-Nos vemos.&lt;wait&gt;</Entry>
-  <Entry Index="815">Elly trabaja duro.&lt;wait&gt;</Entry>
-  <Entry Index="816">No debo bajar la guardia.&lt;wait&gt;</Entry>
-  <Entry Index="817">Me alegro de verte, &lt;playername&gt;.
+  <Entry Index="814">Talvez minha escolha de carreira tenha
+sido uma perda de tempo...&lt;wait&gt;&lt;page&gt;
+Sinto muito por isso, mas não quero falar com
+ninguém agora.&lt;wait&gt;&lt;page&gt;
+Nos falamos outra hora. Espero que você entenda.&lt;wait&gt;&lt;page&gt;
+Até mais.&lt;wait&gt;</Entry>
+  <Entry Index="815">Elly trabalha duro.&lt;wait&gt;</Entry>
+  <Entry Index="816">Não devo baixar a guarda.&lt;wait&gt;</Entry>
+  <Entry Index="817">Fico feliz em ver você, &lt;playername&gt;.
 &lt;wait&gt;</Entry>
-  <Entry Index="818">&lt;gender&gt;("Bienvenido","Bienvenida")...&lt;wait&gt;</Entry>
-  <Entry Index="819">Sonríe, Elly, cariño.&lt;wait&gt;</Entry>
-  <Entry Index="820">Claro...&lt;wait&gt;</Entry>
-  <Entry Index="821">Está un poco desanimada. Cocinó para Yu, pero...&lt;wait&gt;&lt;page&gt;
-Lo probó, dijo que ya no tenía hambre y
-salió corriendo fuera.&lt;wait&gt;</Entry>
+  <Entry Index="818">&lt;gender&gt;("Bem-vindo","Bem-vinda")...&lt;wait&gt;</Entry>
+  <Entry Index="819">Sorria, Elly, querida.&lt;wait&gt;</Entry>
+  <Entry Index="820">Tudo bem...&lt;wait&gt;</Entry>
+  <Entry Index="821">Ela está um pouco desanimada.
+Cozinhou para Yu, mas...&lt;wait&gt;&lt;page&gt;
+Ele experimentou, disse que não estava mais com
+fome e correu para fora.&lt;wait&gt;</Entry>
   <Entry Index="822">...&lt;wait&gt;</Entry>
-  <Entry Index="823">Con las piernas como las tengo, no puedo salir corriendo
-detrás de él.&lt;wait&gt;</Entry>
-  <Entry Index="824">¡Ah, tengo una idea! ¿Puedes ir tú a por él,
+  <Entry Index="823">Com minhas pernas do jeito que estão,
+não posso ir atrás dele.&lt;wait&gt;</Entry>
+  <Entry Index="824">Ah, tive uma ideia! Você poderia buscá-lo?
 &lt;playername&gt;?&lt;wait&gt;&lt;page&gt;
-Supongo que estará alrededor de la iglesia.&lt;wait&gt;</Entry>
-  <Entry Index="825">Rechazarlo</Entry>
-  <Entry Index="826">Aceptarlo</Entry>
-  <Entry Index="827">No pasa nada. No distingo la sal del azúcar, así que no me
-extraña que lo odiase.&lt;wait&gt;</Entry>
-  <Entry Index="828">Ah, sabes que eso no es verdad, cariño. Yu volverá pronto.&lt;wait&gt;</Entry>
+Presumo que ele esteja perto da igreja.&lt;wait&gt;</Entry>
+  <Entry Index="825">Rejeitar</Entry>
+  <Entry Index="826">Aceitar</Entry>
+  <Entry Index="827">Tudo bem. Não consigo distinguir o sal do açúcar,
+então não é de se admirar que ele odiasse.&lt;wait&gt;</Entry>
+  <Entry Index="828">Ah, você sabe que isso não é verdade, querida.
+Yu estará de volta em breve.&lt;wait&gt;</Entry>
   <Entry Index="829">...&lt;wait&gt;</Entry>
-  <Entry Index="830">Snif... Lo siento mucho, Elly.&lt;wait&gt;&lt;page&gt;
-Lo hiciste para mí, pero te dije que no lo quería.&lt;wait&gt;</Entry>
-  <Entry Index="831">No pasa nada. Yo también lo siento.&lt;wait&gt;</Entry>
-  <Entry Index="832">Elly te perdona, así que ya no hay que llorar más, Yu.&lt;wait&gt;</Entry>
-  <Entry Index="833">Vale. Lo siento, hermanita.&lt;wait&gt;</Entry>
-  <Entry Index="834">¡Genial! Bueno, si eres tan amable de traerlo de vuelta...&lt;wait&gt;</Entry>
-  <Entry Index="835">¡Ah! ¡Hola, señor!&lt;wait&gt;</Entry>
-  <Entry Index="836">¡Ah! ¡Hola, señora!&lt;wait&gt;</Entry>
-  <Entry Index="837">¿Mi hermana está muy triste? Ahora me siento mal.&lt;wait&gt;&lt;page&gt;
-Pero es que su comida... No, no importa.&lt;wait&gt;&lt;page&gt;
-No pasa nada. Volveré.&lt;wait&gt;</Entry>
-  <Entry Index="838">Siento haberme ido corriendo sin decir nada, Elly.&lt;wait&gt;</Entry>
-  <Entry Index="839">No pasa nada. No debería haberte obligado a comértelo.&lt;wait&gt;&lt;page&gt;
-Practicaré más para que pueda hacer comida que te
-encante, ¿vale?&lt;wait&gt;</Entry>
-  <Entry Index="840">¡Sí! ¡Me parece bien!&lt;wait&gt;</Entry>
-  <Entry Index="841">Uf. Menos mal. Siento que te hayan metido en esto,
-&lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Me gusta la comida más... digamos "tradicional"... que
-cocina Elly, así que no me ha disgustado, pero...&lt;wait&gt;&lt;page&gt;
-A partir de ahora, tendré en cuenta las preferencias de
-Yu y enseñaré a cocinar a Elly.&lt;wait&gt;</Entry>
+  <Entry Index="830">Snif... Sinto muito, Elly.&lt;wait&gt;&lt;page&gt;
+Você fez para mim, mas eu disse que não queria.&lt;wait&gt;</Entry>
+  <Entry Index="831">Sem problema. Também sinto muito.&lt;wait&gt;</Entry>
+  <Entry Index="832">Elly já te perdoou, então chega de chorar, Yu.&lt;wait&gt;</Entry>
+  <Entry Index="833">Ok. Desculpe irmãzinha.&lt;wait&gt;</Entry>
+  <Entry Index="834">ótimo! Bem, se você fizer a gentileza de
+trazê-lo de volta...&lt;wait&gt;</Entry>
+  <Entry Index="835">Ah! Olá senhor!&lt;wait&gt;</Entry>
+  <Entry Index="836">Ah! Olá senhora!&lt;wait&gt;</Entry>
+  <Entry Index="837">Minha irmã está muito triste? Agora me sinto mal.&lt;wait&gt;&lt;page&gt;
+Mas é que a comida dela... Não, não importa.&lt;wait&gt;&lt;page&gt;
+Sem problema. Voltarei.&lt;wait&gt;</Entry>
+  <Entry Index="838">Desculpe, fugi sem dizer nada, Elly.&lt;wait&gt;</Entry>
+  <Entry Index="839">Tudo bem. Eu não deveria ter te obrigado
+a comer.&lt;wait&gt;&lt;page&gt;
+Vou praticar mais para poder fazer a comida que
+você gosta, ok?&lt;wait&gt;</Entry>
+  <Entry Index="840">Sim! Parece bom para mim!&lt;wait&gt;</Entry>
+  <Entry Index="841">Ufa. Menos mal. Me desculpe por ter-mos metido
+você nisso, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Eu gosto mais de comida... digamos "tradicional"... que
+a Elly cozinha, então não me importei, mas...&lt;wait&gt;&lt;page&gt;
+De agora em diante, levarei em consideração as preferências
+de Yu e ensinarei a Elly como cozinhar.&lt;wait&gt;</Entry>
   <Entry Index="842">Gracias, &lt;playername&gt;.
 Ah, ¡antes de que te vayas!&lt;wait&gt;</Entry>
-  <Entry Index="843">Gracias, &lt;playername&gt;.
-Ah, ¡antes de que te vayas!&lt;wait&gt;</Entry>
-  <Entry Index="844">Para darte las gracias me gustaría darte estas flores
-secas que hice hace un tiempo. ¿Las quieres?&lt;wait&gt;</Entry>
-  <Entry Index="845">Bien. Ya me siento mejor.&lt;wait&gt;</Entry>
-  <Entry Index="846">Bueno, ahora que Yu ha vuelto, debería volver a la cocina
-para practicar mis platos.&lt;wait&gt;</Entry>
-  <Entry Index="847">¡¿Qué?! ¿Vas a hacer MÁS comida?&lt;wait&gt;</Entry>
-  <Entry Index="848">Me alegra que Yu haya vuelto.&lt;wait&gt;</Entry>
-  <Entry Index="849">Gracias, &lt;playername&gt;.
-Eres un primor.&lt;wait&gt;</Entry>
-  <Entry Index="850">Tengo que aprender a hacer mejor comida. No solo para
-mí, sino también para Yu.&lt;wait&gt;</Entry>
-  <Entry Index="851">No voy a mezclar la sal con el azúcar, sea como sea.&lt;wait&gt;</Entry>
+  <Entry Index="843">Obrigada, &lt;playername&gt;.
+Ah, antes de ir!&lt;wait&gt;</Entry>
+  <Entry Index="844">Para agradecer, gostaria de lhe dar estas flores
+secas que fiz há algum tempo. Você as quer?&lt;wait&gt;</Entry>
+  <Entry Index="845">Bom. Já me sinto melhor.&lt;wait&gt;</Entry>
+  <Entry Index="846">Bem, agora que Yu voltou, devo retornar para
+a cozinha para praticar meus pratos.&lt;wait&gt;</Entry>
+  <Entry Index="847">O que?! Você vai fazer MAIS comida?&lt;wait&gt;</Entry>
+  <Entry Index="848">Estou feliz por Yu estar de volta.&lt;wait&gt;</Entry>
+  <Entry Index="849">Obrigada, &lt;playername&gt;.
+Você é um amor.&lt;wait&gt;</Entry>
+  <Entry Index="850">Tenho que aprender a cozinhar melhor.
+Não apenas para mim, mas também para Yu.&lt;wait&gt;</Entry>
+  <Entry Index="851">Não vou mais misturar o sal com o açúcar,
+de qualquer forma.&lt;wait&gt;</Entry>
   <Entry Index="852">...&lt;wait&gt;</Entry>
-  <Entry Index="853">Ay... No me gusta lo que pasa cuando Elly
-se mete en la cocina...&lt;wait&gt;</Entry>
+  <Entry Index="853">Ai... não gosto do que acontece quando Elly
+entra na cozinha...&lt;wait&gt;</Entry>
   <Entry Index="854">Ah, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="855">Ah, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="856">¿Eh? ¿Dices que no parezco el tipo de persona que va a la
-playa?
-Ja, ja, no puedo negarlo, la verdad.&lt;wait&gt;</Entry>
+  <Entry Index="856">Uh? Está dizendo que não pareço o tipo
+de pessoa que vai à praia?
+Ha ha, não posso negar.&lt;wait&gt;</Entry>
   <Entry Index="857">Pero cuando mis padres estaban vivos, solíamos venir aquí
 en familia.&lt;wait&gt;&lt;page&gt;
 Tengo muy buenos recuerdos con ellos aquí.&lt;wait&gt;</Entry>
