@@ -299,7 +299,7 @@ Não pretendo morrer hoje).&lt;wait&gt;&lt;page&gt;
 bem de sua querida esposa e filha).&lt;wait&gt;</Entry>
   <Entry Index="148">(G-golpe baixo! Não posso dizer não quando você
 coloca assim. Ugh, uh. Ugh, uh, uh. Já está começando
-a doer meu intestino...).&lt;wait&gt;</Entry>
+a doer meu estômago...).&lt;wait&gt;</Entry>
   <Entry Index="149">Hm? O que está acontecendo? Não me diga que
 nenhum de vocês está com fome.&lt;wait&gt;</Entry>
   <Entry Index="150">Eh? N-não é nada, querida. Papai estava me falando
@@ -1001,215 +1001,218 @@ para toda a vida!</Entry>
   <Entry Index="458">Tudo bem para você, papai?&lt;wait&gt;</Entry>
   <Entry Index="459">Que filha esperta eu tenho. Pode se tornar
 comum depois disso.&lt;wait&gt;</Entry>
-  <Entry Index="460">Bueno, ya la has oído.
-Hoy invito yo, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="461">¿Ves? Hasta a papá le parece bien.
-¿Qué te parece?&lt;wait&gt;</Entry>
-  <Entry Index="462">¡La comida gratis sabe mucho mejor!</Entry>
-  <Entry Index="463">Lo siento, pero paso.</Entry>
-  <Entry Index="464">¡Sabía que dirías eso! Bueno, papá.
-Ve a preparar algo rico.&lt;wait&gt;</Entry>
-  <Entry Index="465">¡A la orden! Ve preparando tus papilas gustativas, porque
-vas a alucinar. Espera y verás.&lt;wait&gt;</Entry>
-  <Entry Index="466">La comida de papá es increíble.
-Te espera algo fantástico.&lt;wait&gt;</Entry>
-  <Entry Index="467">Ah, parece que está todo listo.&lt;wait&gt;</Entry>
-  <Entry Index="468">Bien, aquí tienes.
-Híncale el diente antes de que se te enfríe.&lt;wait&gt;</Entry>
-  <Entry Index="469">Adelante, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="470">Adelante, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="471">¿Qué tal está?&lt;wait&gt;</Entry>
-  <Entry Index="472">¿Está rico, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="473">¿Está rico, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="474">¿Sí? ¡Genial, me alegra que te guste!&lt;wait&gt;</Entry>
-  <Entry Index="475">¡Sabía que podías hacerlo, papá!&lt;wait&gt; ¡Perfecto!&lt;wait&gt;</Entry>
-  <Entry Index="476">¿Qué esperabas? ¡Me conozco la cocina como la palma de
-mi mano! ¡Ja, ja, ja, ja!&lt;wait&gt;&lt;page&gt;
-Venga, &lt;playername&gt;
-No te contengas. Pide lo que quieras de segundo,
-¡o incluso de tercero!&lt;wait&gt;</Entry>
-  <Entry Index="477">Guau, has comido un montón. ¡Tu cara mientras tragabas
-ha sido la verdadera recompensa!&lt;wait&gt;</Entry>
-  <Entry Index="478">Sí. Ver a la gente disfrutar de mi comida es lo que hace
-que merezca la pena. Me caes bien.&lt;wait&gt;</Entry>
-  <Entry Index="479">Oye. No tienes por qué darnos las gracias. No tienes más
-que volver a nuestra pensión. ¿Trato hecho? Siempre
-estaré por aquí ocupándome de alguna cosa pendiente.&lt;wait&gt;</Entry>
-  <Entry Index="480">Eres siempre &lt;gender&gt;("bienvenido","bienvenida"). Pásate a saludar a Ran
-siempre que te apetezca, ¿vale?&lt;wait&gt;</Entry>
-  <Entry Index="481">Agh, papá. Calla ya.&lt;wait&gt;</Entry>
-  <Entry Index="482">Oye, no tienes por qué ser tan amable, ¿sabes?&lt;wait&gt;</Entry>
-  <Entry Index="483">¿Qué clase de persona rechaza comida gratis? ¿Eres de
-&lt;gender&gt;("esos","esas") a los que no les gusta estar en deuda con los demás?&lt;wait&gt;</Entry>
-  <Entry Index="484">Eh... Supongo que sí que hay gente así. No te obligaremos a
-nada.&lt;wait&gt;</Entry>
-  <Entry Index="485">Pásate en otro momento a comer algo, ¿vale? Aunque la
-próxima vez no será gratis.&lt;wait&gt;</Entry>
-  <Entry Index="486">No dudes en volver. Te estaremos esperando.&lt;wait&gt;</Entry>
-  <Entry Index="487">¡Lalalá, lalá, laaa, la, lalalá! ♪&lt;wait&gt;&lt;page&gt;
-¡Creced muuuy muy fuertes! ♪
-¡Os regaré muuuucho! ♪
-¡Lalalá, lalá, laaa, la! ♪&lt;wait&gt;</Entry>
-  <Entry Index="488">¡Lalalá, lalá, laaa, la, laaa, la, la! ♪
-¡Lalalá, lalá, laaa, la, lalá, la, laaa! ♪&lt;wait&gt;</Entry>
-  <Entry Index="489">¡Aaah! ¿Quién anda ahí?&lt;wait&gt;</Entry>
-  <Entry Index="490">¡Ah! Ufff... Eres tú, &lt;playername&gt;.
-Deberías haber dicho algo.&lt;wait&gt;</Entry>
-  <Entry Index="491">¡Ah! Ufff... Eres tú, &lt;playername&gt;.
-Deberías haber dicho algo.&lt;wait&gt;</Entry>
-  <Entry Index="492">Oh, no tienes que disculparte. No estoy enfadada.</Entry>
-  <Entry Index="493">Es que pensaba que no había nadie aquí, así que cuando
-escuché la puerta abrirse, pensé que habían entrado a
-robar. Solo me has asustando un poco.&lt;wait&gt;</Entry>
-  <Entry Index="494">¿Dices que me has oído cantar y querías saber
-qué estaba haciendo?&lt;wait&gt;</Entry>
-  <Entry Index="495">Ja, ja, ja, así que me has oído. Vaya, qué vergüenza.
-Estaba limpiando.&lt;wait&gt;</Entry>
-  <Entry Index="496">Me encanta limpiar. Me siento tan contenta cuando
-limpio que no puedo evitar ponerme a cantar.&lt;wait&gt;</Entry>
-  <Entry Index="497">Y ver una habitación impecable hace que mi corazón se
-sienta limpio como una patena.&lt;wait&gt;&lt;page&gt;
-¿Te gusta limpiar, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="498">Y ver una habitación impecable hace que mi corazón se
-sienta limpio como una patena.&lt;wait&gt;&lt;page&gt;
-¿Te gusta limpiar, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="499">¡La pulcritud es una cualidad casi divina!</Entry>
-  <Entry Index="500">Me gusta la mugre.</Entry>
-  <Entry Index="501">Me imaginé que eras &lt;gender&gt;("ordenado","ordenada"). Somos tal para cual, ¿no?&lt;wait&gt;</Entry>
-  <Entry Index="502">Mi padre odia limpiar, así que me toca limpiar toooda la
-pensión y las habitaciones de los clientes a mí sola.&lt;wait&gt;&lt;page&gt;
-Me gusta, así que no es mucho problema, aunque
-preferiría que recogiese más sus cosas. Ya no es un crío.&lt;wait&gt;</Entry>
-  <Entry Index="503">Me imaginé que eras &lt;gender&gt;("ordenado","ordenada"). 
-Somos tal para cual, ¿no?&lt;wait&gt;</Entry>
-  <Entry Index="504">Ups, ahora parece que me ruge el estómago. ¡Ji, ji, ji!&lt;wait&gt;</Entry>
-  <Entry Index="505">Bueno, tengo que seguir limpiando. El suelo no se va a
-barrer solo.&lt;wait&gt;</Entry>
-  <Entry Index="506">Oh, así que antes &lt;gender&gt;("muerto","muerta") que ponerte a limpiar.&lt;wait&gt;</Entry>
-  <Entry Index="507">¡Pues menuda actitud! ¡Es imposible trabajar bien si vives
-en una pocilga!&lt;wait&gt;</Entry>
-  <Entry Index="508">Bueno, mi padre también odia limpiar, así que... Supongo
-que es más común de lo que pensaba. ¿Quieres que te de
-unos consejitos?&lt;wait&gt;</Entry>
-  <Entry Index="509">Oh, así que antes &lt;gender&gt;("muerto","muerta") que ponerte a limpiar.&lt;wait&gt;</Entry>
-  <Entry Index="510">Bueno, tengo que limpiar las mesas y sacar la basura.
-Tengo que seguir currando.&lt;wait&gt;</Entry>
-  <Entry Index="511">Espero que te acabe gustando la limpieza,
+  <Entry Index="460">Bom, você ouviu.
+Hoje você é meu convidado, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="461">Até o papai está bem com isso.
+O que você acha?&lt;wait&gt;</Entry>
+  <Entry Index="462">Comida grátis tem um gosto muito melhor!</Entry>
+  <Entry Index="463">Desculpe, mas vou passar.</Entry>
+  <Entry Index="464">Eu sabia que você diria isso! Bem, papai.
+Prepare algo delicioso.&lt;wait&gt;</Entry>
+  <Entry Index="465">Às suas ordens! Prepare o seu paladar, porque
+você vai alucinar. Espere para ver.&lt;wait&gt;</Entry>
+  <Entry Index="466">A comida do papai é incrível.
+Algo fantástico espera por você.&lt;wait&gt;</Entry>
+  <Entry Index="467">Ah, parece que está tudo pronto.&lt;wait&gt;</Entry>
+  <Entry Index="468">Ok, aqui está.
+Afunde seus dentes antes que esfrie.&lt;wait&gt;</Entry>
+  <Entry Index="469">Vá em frente, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="470">Vá em frente, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="471">O que achou?&lt;wait&gt;</Entry> <Entry Index="472">¿Está rico, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="473">Está bom, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="474">Sim? Ótimo, que bom que gostou!&lt;wait&gt;</Entry>
+  <Entry Index="475">Eu sabia que você conseguiria, papai!&lt;wait&gt; Perfeito!&lt;wait&gt;</Entry>
+  <Entry Index="476">O que você esperava? Conheço a cozinha como
+a palma da minha mão! Meu chapa! Ha ha ha ha!&lt;wait&gt;&lt;page&gt;
+Vamos, &lt;playername&gt;.
+Não se contenha. Peça o que quiser em segundo lugar
+ou até mesmo em um terceiro!&lt;wait&gt;</Entry>
+  <Entry Index="477">Uau, você comeu bastante. Sua cara de satisfação
+é a verdadeira recompensa!&lt;wait&gt;</Entry>
+  <Entry Index="478">Sim. Ver as pessoas gostando da minha comida é o que
+faz valer a pena. Eu gostei de você.&lt;wait&gt;</Entry>
+
+  <Entry Index="479">Ei. Você não precisa nos agradecer. Apenas
+volte a nossa pousada. Pode ser? Sempre
+estarei aqui cuidando das coisas.&lt;wait&gt;</Entry>
+  <Entry Index="480">Você é sempre &lt;gender&gt;("bem-vindo","bem-vinda"). Passe
+para dizer olá a Ran sempre que quiser, ok?&lt;wait&gt;</Entry>
+  <Entry Index="481">Ugh, pai. Cale a boca.&lt;wait&gt;</Entry>
+  <Entry Index="482">Ei, você não precisa ser tão legal, sabia?&lt;wait&gt;</Entry>
+  <Entry Index="483">Que tipo de pessoa recusa comida grátis? Você é
+&lt;gender&gt;("daqueles","daquelas") que não gosta de ficar em dívida com os outros?&lt;wait&gt;</Entry>
+  <Entry Index="484">Eh... Acho que existem pessoas assim. Não vamos
+forçá-lo a nada.&lt;wait&gt;</Entry>
+  <Entry Index="485">Venha outra hora para comer alguma coisa, ok?
+Apesar de que da próxima vez não será grátis.&lt;wait&gt;</Entry>
+  <Entry Index="486">Não hesite em voltar. Estaremos esperando.&lt;wait&gt;</Entry>
+  <Entry Index="487">Lalala, lala, laaa, la, lalala! ♪&lt;wait&gt;&lt;page&gt;
+Cresça muuuito, muito saudável! ♪
+Eu os regarei bastaaante! ♪
+Lalala, lala, laa, la! ♪&lt;wait&gt;</Entry>
+  <Entry Index="488">Lalala, lala, laaa, la, laaa, la, la! ♪
+Lalala, lala, laaa, la, lala, la, laaa! ♪&lt;wait&gt;</Entry>
+  <Entry Index="489">Aaah! Quem está aí?&lt;wait&gt;</Entry>
+  <Entry Index="490">Ah! Ufa... É você, &lt;playername&gt;.
+Você deveria ter dito algo.&lt;wait&gt;</Entry>
+  <Entry Index="491">Ah! Ufa... É você, &lt;playername&gt;.
+Você deveria ter dito algo.&lt;wait&gt;</Entry>
+  <Entry Index="492">Oh, você não precisa se desculpar. Não estou brava.</Entry>
+  <Entry Index="493">Achei que não havia ninguém aqui, então quando
+ouvi a porta se abrir, pensei que tinha entrado
+um ladrão. Você só me assustou um pouco.&lt;wait&gt;</Entry>
+  <Entry Index="494">Você diz que me ouviu cantar e queria saber
+o que eu estava fazendo?&lt;wait&gt;</Entry>
+  <Entry Index="495">Ha ha ha, então você me ouviu. Nossa, que vergonha.
+Eu estava limpando.&lt;wait&gt;</Entry>
+  <Entry Index="496">Adoro limpeza. Eu me sinto tão feliz quando
+organizo as coisas que não posso deixar de cantar.&lt;wait&gt;</Entry>
+  <Entry Index="497">E ver um quarto impecável faz meu coração
+ficar suave como a neve.&lt;wait&gt;&lt;page&gt;
+Você gosta de limpeza, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="498">E ver um quarto impecável faz meu coração
+ficar suave como a neve.&lt;wait&gt;&lt;page&gt;
+Você gosta de limpeza, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="499">A limpeza é uma qualidade quase divina!</Entry>
+  <Entry Index="500">Gosto de sujeira.</Entry>
+  <Entry Index="501">Já imaginava que você era &lt;gender&gt;("organizado","organizada"). Somos farinha
+do mesmo saco, não?&lt;wait&gt;</Entry>
+  <Entry Index="502"Meu pai odeia limpar, então eu tenho que arrumar toooda
+a área comercial e os quartos sozinha.&lt;wait&gt;&lt;page&gt;
+Eu gosto, então não é um grande problema.
+Mas eu adoraria que ele guardasse melhor as coisas.
+Ele não é mais criança.&lt;wait&gt;</Entry>
+  <Entry Index="503">Já imaginava que você era &lt;gender&gt;("organizado","organizada"). Somos farinha
+do mesmo saco, não?&lt;wait&gt;</Entry>
+  <Entry Index="504">Ops, agora meu estômago parece estar roncando. He he he!&lt;wait&gt;</Entry>
+  <Entry Index="505">Bom, eu tenho que continuar limpando. O chão não vai
+se varrer sozinho.&lt;wait&gt;</Entry>
+  <Entry Index="506">Oh, então antes que &lt;gender&gt;("morra","morra") comece a limpar.&lt;wait&gt;</Entry>
+  <Entry Index="507">Bom, que atitude! É impossível trabalhar bem se você vive
+em um chiqueiro!&lt;wait&gt;</Entry>
+  <Entry Index="508">Bem, meu pai também odeia limpeza, então... eu acho
+que é mais comum do que eu pensava. Você quer
+que eu te dê algumas dicas?&lt;wait&gt;</Entry>
+  <Entry Index="509">Oh, então antes que &lt;gender&gt;("morra","morra") comece a limpar.&lt;wait&gt;</Entry>
+  <Entry Index="510">Bem, eu tenho que limpar as mesas e tirar o lixo.
+Tenho que continuar trabalhando.&lt;wait&gt;</Entry>
+  <Entry Index="511">Espero que comece a gostar de limpeza,
 &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="512">Espero que te acabe gustando la limpieza,
+  <Entry Index="512">Espero que comece a gostar de limpeza,
 &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="513">¿Te pasa algo, Ran? No tienes muy buen aspecto.&lt;wait&gt;</Entry>
-  <Entry Index="514">Ah, ¿no? Te lo estarás imaginando.
-Estoy perfectamente.&lt;wait&gt;</Entry>
-  <Entry Index="515">No me mientas. Estás blanca como la leche.&lt;wait&gt;</Entry>
-  <Entry Index="516">Te he dicho que estoy bien...&lt;wait&gt;</Entry>
-  <Entry Index="517">Au... Agh...
-Ay, ay, ay...&lt;wait&gt;</Entry>
-  <Entry Index="518">¡Ran! ¿Qué pasa?&lt;wait&gt;</Entry>
-  <Entry Index="519">Me duele... la tripa.&lt;wait&gt;</Entry>
-  <Entry Index="520">¡&lt;playername&gt;!
-¡Ayúdame! ¡Ran está...!&lt;wait&gt;</Entry>
-  <Entry Index="521">Agh... Au...
-Me duele mucho... la tripa.&lt;wait&gt;</Entry>
-  <Entry Index="522">¡Oye! Aguanta, Ran.
-¿Q-qué podemos hacer?&lt;wait&gt;</Entry>
-  <Entry Index="523">¡Rápido, a la clínica!</Entry>
-  <Entry Index="524">No... no lo sé.</Entry>
-  <Entry Index="525">¡Claro...! ¡La clínica!&lt;wait&gt;&lt;page&gt;
-¡Hay que llevarla a la clínica, rápido! ¡Ayúdame,
-&lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="526">¿Qué clase de respuesta es esa? Eh... Mmmm... Cuando esto
-pasa, se supone que...&lt;wait&gt;&lt;page&gt;
-¡Ah! ¡Doctor! Tenemos que llevarla a ver al doctor.
-¡Ayúdame, &lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="527">Agh... ¿Se va a poner bien Ran? No es nada grave, ¿no?&lt;wait&gt;</Entry>
-  <Entry Index="528">¡Oyeee, Ran! ¿Estás bien?&lt;wait&gt;</Entry>
-  <Entry Index="529">Sí, estoy bien. Después de que me atendiese el doctor, dejó
-de dolerme la tripa.&lt;wait&gt;</Entry>
-  <Entry Index="530">Doctor, ¿Ran está bien? No está enferma, ¡¿no?!&lt;wait&gt;</Entry>
-  <Entry Index="531">Se pondrá bien. Simplemente ha comido demasiado.&lt;wait&gt;</Entry>
-  <Entry Index="532">¿Eh? ¿Qué has dicho? Que ha comido... ¿demasiado?&lt;wait&gt;</Entry>
-  <Entry Index="533">¿Pero qué has comido exactamente?&lt;wait&gt;</Entry>
-  <Entry Index="534">Eh... Mmmm...&lt;wait&gt;</Entry>
-  <Entry Index="535">Salteado de verduras, tortilla con arroz,
-okonomiyake y udon en tempura.
-Después tarta de queso, pastel de manzana...&lt;wait&gt;</Entry>
-  <Entry Index="536">... tarta, helado, y... flan de calabaza
-para rematar la faena.&lt;wait&gt;</Entry>
-  <Entry Index="537">¿Pero qué clase de hija he criado? ¡No me extraña que te
-doliese la tripa después de comerte todo eso!&lt;wait&gt;</Entry>
-  <Entry Index="538">No es culpa mía que todo tuviese tan buena pinta.&lt;wait&gt;</Entry>
-  <Entry Index="539">Bueno. Relajaos los dos. Ran no está enferma, y eso es lo
-más importante.&lt;wait&gt;</Entry>
-  <Entry Index="540">Sí, supongo que sí. Pero me he preocupado un montón, y lo
-único que pasaba era que había comido demasiado.&lt;wait&gt;</Entry>
-  <Entry Index="541">No sé ni qué decir.&lt;wait&gt;</Entry>
-  <Entry Index="542">¿Has visto lo preocupado que tenías a Dudley, Ran?
-Tienes que tener cuidado con lo que comes.&lt;wait&gt;</Entry>
-  <Entry Index="543">Sí, vaaale. Tendré cuidado.&lt;wait&gt;</Entry>
-  <Entry Index="544">Ay... Por fin se han calmado las cosas.
-Menuda bronca me ha echado papá.&lt;wait&gt;</Entry>
-  <Entry Index="545">También debería disculparme contigo, &lt;playername&gt;,
+  <Entry Index="513">Há algo errado, Ran? Você não parece muito bem.&lt;wait&gt;</Entry>
+  <Entry Index="514">Ah, o que? Você está imaginando coisas.
+Estou bem.&lt;wait&gt;</Entry>
+  <Entry Index="515">Não minta para mim. Você está pálida como um vampiro.&lt;wait&gt;</Entry>
+  <Entry Index="516">Eu disse que estou bem...&lt;wait&gt;</Entry>
+  <Entry Index="517">Ai... Ugh...
+Ai ai ai...&lt;wait&gt;</Entry>
+  <Entry Index="518">Ran! o que houve?&lt;wait&gt;</Entry>
+  <Entry Index="519">Meu estômago... Está doendo.&lt;wait&gt;</Entry>
+  <Entry Index="520">&lt;playername&gt;!
+Me ajude! Ran está...!&lt;wait&gt;</Entry>
+  <Entry Index="521">Ugh... Ai...
+Meu estômago... está doendo muito...&lt;wait&gt;</Entry>
+  <Entry Index="522">Ei! Espere, Ran.
+O-o que podemos fazer?&lt;wait&gt;</Entry>
+  <Entry Index="523">Depressa, para a clínica!</Entry>
+  <Entry Index="524">Não... Não sei.</Entry>
+  <Entry Index="525">Claro...! A clínica!&lt;wait&gt;&lt;page&gt;
+Temos que levá-la para a clínica, o quanto antes!
+Me ajude, &lt;playername&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="526">Que resposta é essa? Uh... Hmm...
+O que fazer, acho que...&lt;wait&gt;&lt;page&gt;
+Oh! O Doutor! Temos que leva-la ao Doutor.
+Me ajude, &lt;playername&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="527">Ugh... Ran vai ficar bem? Não é nada grave, certo?&lt;wait&gt;</Entry>
+  <Entry Index="528">Ei, Ran! Você está bem?&lt;wait&gt;</Entry>
+  <Entry Index="529">Sim, estou bem. Depois que o Doutor me atendeu,
+minha dor no estômago foi embora.&lt;wait&gt;</Entry>
+  <Entry Index="530">Doutor, Ran está bem? Ela não está doente, está?!&lt;wait&gt;</Entry>
+  <Entry Index="531">Ela ficará bem. Apenas comeu demais.&lt;wait&gt;</Entry>
+  <Entry Index="532">Hein? O que você disse? Que ela comeu... demais?&lt;wait&gt;</Entry>
+  <Entry Index="533">Mas o que você comeu exatamente?&lt;wait&gt;</Entry>
+  <Entry Index="534">Uh... Mmmm...&lt;wait&gt;</Entry>
+  <Entry Index="535">Legumes salteados, tortilha com arroz,
+okonomiyake e udon em tempura.
+Então torta de queijo, pastel de maçã...&lt;wait&gt;</Entry>
+  <Entry Index="536">... torta de bolacha, sorvete e... pudim de abóbora
+para finalizar.&lt;wait&gt;</Entry>
+  <Entry Index="537">Mas que tipo de filha criei? Não me admira que
+você ficou com dor de estômago depois de
+comer tudo isso!&lt;wait&gt;</Entry>
+  <Entry Index="538">Não é minha culpa que parecia tudo tão saboroso.&lt;wait&gt;</Entry>
+  <Entry Index="539">Bom. Relaxem vocês dois. Ran não está doente,
+e é isso o que importa.&lt;wait&gt;</Entry>
+  <Entry Index="540">Sim, acho que sim. Mas eu fiquei preocupado, e
+a única coisa que aconteceu foi que ela comeu demais.&lt;wait&gt;</Entry>
+  <Entry Index="541">Nem sei o que dizer.&lt;wait&gt;</Entry>
+  <Entry Index="542">Você viu como Dudley estava preocupado, Ran?
+Você tem que ter cuidado com o que come.&lt;wait&gt;</Entry>
+  <Entry Index="543">>Sim, ok. Serei cuidadosa.&lt;wait&gt;</Entry>
+  <Entry Index="544"Ah... As coisas finalmente se acalmaram.
+Papai me deu um grande bronca.&lt;wait&gt;</Entry>
+  <Entry Index="545">Eu também devo pedir desculpas a você, &lt;playername&gt;,
 por causar tantos problemas.
 &lt;wait&gt;</Entry>
-  <Entry Index="546">También debería disculparme contigo, &lt;playername&gt;,
+  <Entry Index="546">Eu também devo pedir desculpas a você, &lt;playername&gt;,
 por causar tantos problemas.&lt;wait&gt;</Entry>
-  <Entry Index="547">Y... gracias. Ha sido bastante conmovedor.&lt;wait&gt;&lt;page&gt;
-Estabas tan &lt;gender&gt;("preocupado","preocupada") por mí que me llevaste hasta la
-clínica.&lt;wait&gt;</Entry>
-  <Entry Index="548">Ah, antes de que se me olvide... Espera un momento.&lt;wait&gt;</Entry>
-  <Entry Index="549">Y... gracias. Ha sido bastante conmovedor.&lt;wait&gt;&lt;page&gt;
-Estabas tan &lt;gender&gt;("preocupado","preocupada") por mí que me llevaste hasta la
-clínica.&lt;wait&gt;</Entry>
-  <Entry Index="550">Está roto, así que ya no reproduce música, pero es uno de
-mis tesoros más preciados. Quédatelo, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="551">No lo hago con ninguna intención oculta ni nada.
-Es solo mi forma de darte las gracias.&lt;wait&gt;</Entry>
-  <Entry Index="552">Está roto, así que ya no reproduce música, pero es uno de
-mis tesoros más preciados. Quédatelo, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="553">Cuídalo bien, ¿vale?&lt;wait&gt;</Entry>
-  <Entry Index="554">Gracias.&lt;wait&gt;</Entry>
-  <Entry Index="555">Bueno, voy a volver al trabajo. Nos vemos,
+  <Entry Index="547">E... Obrigada. Foi bastante comovente.&lt;wait&gt;&lt;page&gt;
+Você estava tão &lt;gender&gt;("preocupado","preocupada") comigo que me levou
+a clínica.&lt;wait&gt;</Entry>
+  <Entry Index="548">Ah, antes que eu esqueça... espere um minuto.&lt;wait&gt;</Entry>
+  <Entry Index="549">E... Obrigada. Foi bastante comovente.&lt;wait&gt;&lt;page&gt;
+Estabas tan &lt;gender&gt;("preocupado","preocupada") comigo que me levou
+a clínica.&lt;wait&gt;</Entry>
+  <Entry Index="550">Está quebrado, então não toca mais música, mas é um dos
+meus tesouros mais preciosos, fique com isso, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="551">Não estou fazendo isso com nenhuma intenção oculta
+nem nada. É apenas a minha maneira de agradecer.&lt;wait&gt;</Entry>
+  <Entry Index="552">Está quebrado, então não toca mais música, mas é um dos
+meus tesouros mais preciosos, fique com isso, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="553">Cuide bem dele, ok?&lt;wait&gt;</Entry>
+  <Entry Index="554">Obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="555">Bem, vou voltar ao trabalho. A gente se vê,
 &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="556">Bueno, voy a volver al trabajo. Nos vemos,
+  <Entry Index="556">Bem, vou voltar ao trabalho. A gente se vê,
 &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="557">Ah, &lt;playername&gt;. &lt;gender&gt;("Bienvenido","Bienvenida").&lt;wait&gt;</Entry>
-  <Entry Index="558">Justo a tiempo. Tengo que hablar contigo.&lt;wait&gt;</Entry>
-  <Entry Index="559">Es sobre Ran. Ha pasado por mucho a lo largo de su vida.&lt;wait&gt;&lt;page&gt;
-Después de que su madre muriera, la crié yo mismo por mi
-cuenta. Esto puede sonar impresionante desde fuera,
-pero...&lt;wait&gt;&lt;page&gt;
-Si te soy sincero, solo he logrado hacerlo porque ella tiene
-una sensatez admirable.&lt;wait&gt;</Entry>
-  <Entry Index="560">Quiero que encuentre una buena pareja y sea feliz. Para
-compensar todos los momentos difíciles que ha vivido,
-¿sabes?&lt;wait&gt;</Entry>
-  <Entry Index="561">Pero nunca hemos hablado sobre el amor.&lt;wait&gt;&lt;page&gt;
-Aunque últimamente no hace más que hablar sobre ti.&lt;wait&gt;&lt;page&gt;
-Bueno, tras haber dicho eso, tengo una pregunta para ti.
-¿Qué sientes tú por Ran?&lt;wait&gt;</Entry>
-  <Entry Index="562">Se ha "posado" en mi corazón.</Entry>
-  <Entry Index="563">Eh... ¿Somos &lt;gender&gt;("amigos","amigas")?</Entry>
-  <Entry Index="564">Ah, ¿sí? ¡Qué alivio!&lt;wait&gt;</Entry>
-  <Entry Index="565">Ah, &lt;playername&gt;. ¡&lt;gender&gt;("Bienvenido","Bienvenida")!&lt;wait&gt;</Entry>
-  <Entry Index="566">Ran, ven con &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="567">Eh, vale, pero... ¿por qué?&lt;wait&gt;</Entry>
-  <Entry Index="568">Da igual por qué. Tú hazlo.</Entry>
-  <Entry Index="569">Ah, &lt;playername&gt;. ¡&lt;gender&gt;("Bienvenido","Bienvenida")!&lt;wait&gt;</Entry>
-  <Entry Index="570">Ejem... Ran, ¿tú qué sientes por &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="571">Eh... ¿Pero qué clase de pregunta es esa?&lt;wait&gt;</Entry>
-  <Entry Index="572">¡N-no es asunto tuyo!&lt;wait&gt;</Entry>
-  <Entry Index="573">Pues claro que es asunto mío. Tengo razones de sobra
-para preguntar. ¡Eres mi única hija!&lt;wait&gt;</Entry>
-  <Entry Index="574">¡Agh!&lt;wait&gt;</Entry>
-  <Entry Index="575">¡Ja, ja, ja, ja! ¿Pero a qué viene tanta vergüenza? ¡Ya no
-eres una niña!&lt;wait&gt;</Entry>
-  <Entry Index="576">¡Oye, tú también estás &lt;gender&gt;("rojo","roja")!&lt;wait&gt;&lt;page&gt;
-Bueno, a lo que iba...&lt;wait&gt;</Entry>
-  <Entry Index="577">¿Ah, sí? Es una buena chica, si me permites decirlo. Aunque
-puede que yo no sea muy imparcial. Y parece que os lleváis
-tan bien.&lt;wait&gt;</Entry>
-  <Entry Index="578">Ah, &lt;playername&gt;. ¡&lt;gender&gt;("Bienvenido","Bienvenida")!&lt;wait&gt;</Entry>
+  <Entry Index="557">Ah, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda").&lt;wait&gt;</Entry>
+  <Entry Index="558">Bem a tempo. Preciso falar com você.&lt;wait&gt;</Entry>
+  <Entry Index="559"É sobre Ran. Ela já passou por muita coisa na vida.&lt;wait&gt;&lt;page&gt;
+Depois que a mãe dela morreu, eu a criei sozinho.
+Isso pode soar impressionante vendo de fora,
+mas...&lt;wait&gt;&lt;page&gt;
+Para ser sincero, só consegui fazer isso porque ela
+tem uma sabedoria admirável.&lt;wait&gt;</Entry>
+  <Entry Index="560">Quero que ela encontre um bom parceiro e seja feliz.
+Para compensar por todos os momentos difíceis que
+ela passou, você entende?&lt;wait&gt;</Entry>
+  <Entry Index="561">Mas nunca falamos sobre amor.&lt;wait&gt;&lt;page&gt;
+Embora ultimamente ela esteja falando sobre você.&lt;wait&gt;&lt;page&gt;
+Bem, tendo dito isso, eu tenho uma pergunta para você.
+O que você acha da Ran?&lt;wait&gt;</Entry>
+  <Entry Index="562">Ela tomou conta do meu coração.</Entry>
+  <Entry Index="563">Eh... Somos apenas &lt;gender&gt;("amigos","amigas")?</Entry>
+  <Entry Index="564">Ah, sim? Que alívio!&lt;wait&gt;</Entry>
+  <Entry Index="565">Ah, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda")!&lt;wait&gt;</Entry>
+  <Entry Index="566">Ran, venha com &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="567">Ah, tudo bem, mas... Por quê?&lt;wait&gt;</Entry>
+  <Entry Index="568">Não importa o motivo. Venha mesmo assim.</Entry>
+  <Entry Index="569">Ah, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda")!&lt;wait&gt;</Entry>
+  <Entry Index="570">Então... Ran, o que você acha de &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="571">Ei... Mas que tipo de pergunta é essa?&lt;wait&gt;</Entry>
+  <Entry Index="572">N-não é da sua conta!&lt;wait&gt;</Entry>
+  <Entry Index="573">Claro que é da minha conta. tenho muitos motivos
+para perguntar. Você é minha única filha!&lt;wait&gt;</Entry>
+  <Entry Index="574">Agh!&lt;wait&gt;</Entry>
+  <Entry Index="575">Ha ha ha ha! Mas porque está tão envergonhada?
+Você já não é mais criança!&lt;wait&gt;</Entry>
+  <Entry Index="576">Ei, você também está &lt;gender&gt;("vermelho","vermelha")!&lt;wait&gt;&lt;page&gt;
+Bem, o que eu ia...&lt;wait&gt;</Entry>
+  <Entry Index="577">Ah, certo? Ela é uma boa menina, se assim posso dizer.
+Embora eu possa não ser muito imparcial.
+E parece que vocês se dão tão bem.&lt;wait&gt;</Entry>
+  <Entry Index="578">Ah, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda")!&lt;wait&gt;</Entry>
   <Entry Index="579">Oye, Ran. ¿Has terminado de limpiar el segundo piso? No
 habrás escuchado lo que hemos estado hablando, ¿no?&lt;wait&gt;</Entry>
   <Entry Index="580">Sí, he terminado. ¿Escuchar qué? ¿De qué estabais
