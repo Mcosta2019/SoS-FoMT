@@ -657,205 +657,212 @@ do que eu imaginava. Estou impressionada.&lt;wait&gt;</Entry>
   <Entry Index="305">Obrigado por me mostrar os animais, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
 Foi muito divertido e eu aprendi bastante. ♪ No entanto,
 está ficando tarde. Tenho que ir. Até a próxima!&lt;wait&gt;</Entry>
-  <Entry Index="306">¿Qué? ¿Quieres jugar a las casitas fuera otra vez?&lt;wait&gt;</Entry>
-  <Entry Index="307">¿Qué hay de malo en jugar a las casitas? ¡Es divertido! Me
-gusta mucho.&lt;wait&gt;</Entry>
-  <Entry Index="308">Agh, ¿en serio? ¿Qué tiene de divertido?&lt;wait&gt;</Entry>
-  <Entry Index="309">Hoy, el señor Carter puede ser papá y Popuri puede ser
-mamá.&lt;wait&gt;</Entry>
-  <Entry Index="310">¿Entonces yo soy la mamá? ¡Vale!&lt;wait&gt;</Entry>
-  <Entry Index="311">Eh, lo siento, pero tengo asuntos de los que ocuparme. No
-tengo tiempo para jugar.&lt;wait&gt;</Entry>
-  <Entry Index="312">¡Oooh! ¿Y quién va a hacer de papá?&lt;wait&gt;&lt;page&gt;
-¡No quiero jugar a las casitas si nadie puede ser el papá!&lt;wait&gt;</Entry>
-  <Entry Index="313">Pues no jugamos a las casitas. Podemos jugar a otra cosa.&lt;wait&gt;</Entry>
-  <Entry Index="314">¡Ooooh! Menudo rollo.&lt;wait&gt;</Entry>
-  <Entry Index="315">Vaya... Menudo problemilla sacerdotal. Quiero que todos
-puedan jugar juntos y pasárselo bien, pero...&lt;wait&gt;</Entry>
-  <Entry Index="316">¡Ajá, &lt;playername&gt;! ¡Has llegado en el momento
-oportuno!&lt;wait&gt;</Entry>
-  <Entry Index="317">¡Ajá, &lt;playername&gt;! ¡Has llegado en el momento
-oportuno!&lt;wait&gt;</Entry>
-  <Entry Index="318">Ah, hola, &lt;playername&gt;. Estábamos buscando a
-alguien que venga a jugar con estos dos.&lt;wait&gt;&lt;page&gt;
-Carter tiene que ocuparse de unos asuntos, así que no
-puede venir hoy.&lt;wait&gt;</Entry>
-  <Entry Index="319">S-sí. Lamentablemente, tengo un recado que no puedo
-posponer...&lt;wait&gt;</Entry>
-  <Entry Index="320">&lt;playername&gt;, ¿te importaría jugar con Popuri, Yu y
-Mei durante un rato?&lt;wait&gt;</Entry>
-  <Entry Index="321">Por favor, &lt;playername&gt;. Me encantaría que
-pudieses jugar con nosotros.&lt;wait&gt;</Entry>
-  <Entry Index="322">&lt;playername&gt;, ¿te importaría jugar con Popuri, Yu y
-Mei durante un rato?&lt;wait&gt;</Entry>
-  <Entry Index="323">Mucho trabajo, poca diversión...</Entry>
-  <Entry Index="324">Lo siento. Tengo cosas que hacer.</Entry>
-  <Entry Index="325">¡Oh, qué bien! Fantástico. Sabía que aceptarías.&lt;wait&gt;</Entry>
-  <Entry Index="326">Gracias, &lt;playername&gt;. Sabía que tenías un corazón
-de oro.&lt;wait&gt;</Entry>
-  <Entry Index="327">¡Bieeeen! ♪ &lt;playername&gt;, tú vas a ser el papá, ¿vale?&lt;wait&gt;</Entry>
-  <Entry Index="328">¡Oh, no! ¿Vamos a jugar a las casitas al final?&lt;wait&gt;</Entry>
-  <Entry Index="329">¡Bieeeen! ♪ &lt;playername&gt;, tú vas a ser el papá, ¿vale?&lt;wait&gt;</Entry>
-  <Entry Index="330">¡Oh, no! ¿Vamos a jugar a las casitas al final? ¿Y con una
-chica haciendo de papá?&lt;wait&gt;</Entry>
-  <Entry Index="331">¿Y qué problema hay con eso, eh? Ser papá es una
-cuestión mental. Estoy segura de que &lt;playername&gt;
-será &lt;gender&gt;("un","una") gran papá.&lt;wait&gt;</Entry>
-  <Entry Index="332">Mamá Popuri, ¿ha llegado ya papá &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="333">Todavía no, Mei. Ten paciencia. Seguro que papá volverá a
-casa pronto.&lt;wait&gt;</Entry>
-  <Entry Index="334">&lt;gender&gt;("Bienvenido","Bienvenida") a casa, cariño. ∀&lt;wait&gt;</Entry>
-  <Entry Index="335">¡Ajá! ¡Papá &lt;playername&gt;!
-¡Ya estás aquí, ya estás aquí!&lt;wait&gt;</Entry>
-  <Entry Index="336">&lt;gender&gt;("Bienvenido","Bienvenida") a casa.&lt;wait&gt;</Entry>
-  <Entry Index="337">Seguro que ha sido un día duro en el trabajo, cariño.
-¿Quieres cenar primero? ¿O prefieres bañarte antes?&lt;wait&gt;</Entry>
-  <Entry Index="338">Papá &lt;playername&gt;, ¡adivina qué! ¡No te lo vas a
-creer, pero Yu ha vuelto a hacerse pipí en la cama!&lt;wait&gt;</Entry>
-  <Entry Index="339">Oh, Yu. ¿Te has hecho pipí en la cama?&lt;wait&gt;</Entry>
-  <Entry Index="340">¡¿Qué?! ¡Eh! ¡¿Cómo has sabido que me he hecho pipí?!
+  <Entry Index="306">O quê? Quer brincar de casinha lá fora de novo?&lt;wait&gt;</Entry>
+  <Entry Index="307">O que há de errado em brincar de casinha? É divertido!
+Eu gostei muito.&lt;wait&gt;</Entry>
+  <Entry Index="308">Ah, sério? O que há de tão divertido nisso?&lt;wait&gt;</Entry>
+  <Entry Index="309">Hoje, o Sr. Carter pode ser papai e a Popuri
+pode ser a mamãe.&lt;wait&gt;</Entry>
+  <Entry Index="310">Então eu serei a mamãe? Ok!&lt;wait&gt;</Entry>
+  <Entry Index="311"Uh, desculpe, mas tenho alguns negócios para resolver.
+Não tenho tempo para brincar.&lt;wait&gt;</Entry>
+  <Entry Index="312">Oooh! E quem vai ser o papai?&lt;wait&gt;&lt;page&gt;
+Não quero brincar de casinha se ninguém for o papai!&lt;wait&gt;</Entry>
+  <Entry Index="313">Pois não brincamos de casinha. Podemos brincar
+de outra coisa.&lt;wait&gt;</Entry>
+  <Entry Index="314">Ooooh! Que chatice.&lt;wait&gt;</Entry>
+  <Entry Index="315">O-oh minha cara... É um problema sacerdotal.
+Eu quero que todos possam brincar juntos e
+se divertir, mas...&lt;wait&gt;</Entry>
+  <Entry Index="316">¡Ajá, &lt;playername&gt;! Você chegou em uma ótima
+hora!&lt;wait&gt;</Entry>
+  <Entry Index="317">¡Ajá, &lt;playername&gt;! Você chegou em uma ótima
+hora!&lt;wait&gt;</Entry>
+  <Entry Index="318">Oh, Olá, &lt;playername&gt;. nós estávamos procurando
+alguém para brincar com esses dois.&lt;wait&gt;&lt;page&gt;
+Carter tem alguns negócios para resolver, então não
+poderá brincar hoje.&lt;wait&gt;</Entry>
+  <Entry Index="319">S-sim. Infelizmente, tenho uma tarefa que não posso
+adiar...&lt;wait&gt;</Entry>
+  <Entry Index="320">&lt;playername&gt;, você se importaria de brincar com Popuri,
+Yu e Mei um pouco?&lt;wait&gt;</Entry>
+  <Entry Index="321">Por favor, &lt;playername&gt;. eu adoraria que
+você brincasse com a gente.&lt;wait&gt;</Entry>
+  <Entry Index="322">&lt;playername&gt;, você se importaria de brincar com Popuri,
+Yu e Mei um pouco?&lt;wait&gt;</Entry>
+  <Entry Index="323">Muito trabalho, pouca diversão...</Entry>
+  <Entry Index="324">Desculpe. Tenho coisas para fazer.</Entry>
+  <Entry Index="325">Ótimo! Fantástico. Eu sabia que você concordaria.&lt;wait&gt;</Entry>
+  <Entry Index="326">Obrigado, &lt;playername&gt;. Eu sabia que você tinha
+um coração de ouro.&lt;wait&gt;</Entry>
+  <Entry Index="327">Yaaay! ♪ &lt;playername&gt;, você vai ser o papai, ok?&lt;wait&gt;</Entry>
+  <Entry Index="328">Ah, não! Vamos brincar de casinha no afinal?&lt;wait&gt;</Entry>
+  <Entry Index="329">Yaaay! ♪ &lt;playername&gt;, você vai ser o papai, ok?&lt;wait&gt;</Entry>
+  <Entry Index="330">Ah, não! Vamos brincar de casinha no afinal? E com
+com uma menina fazendo o papai?&lt;wait&gt;</Entry>
+  <Entry Index="331">E o que há de errado com isso, hein? ser papai é uma
+questão de imaginação. Tenho certeza de que &lt;playername&gt;
+será &lt;gender&gt;("um","uma") grande pai.&lt;wait&gt;</Entry>
+  <Entry Index="332">Mamãe Popuri, o papai &lt;playername&gt; já chegou?&lt;wait&gt;</Entry>
+  <Entry Index="333">Ainda não, Mei. Tenha paciência. tenho certeza
+que o papai chegará em breve.&lt;wait&gt;</Entry>
+  <Entry Index="334">&lt;gender&gt;("Bem-vindo","Bem-vinda") em casa, querido. ∀&lt;wait&gt;</Entry>
+  <Entry Index="335">Ah! Papai &lt;playername&gt;!
+Você chegou, você chegou!&lt;wait&gt;</Entry>
+  <Entry Index="336">&lt;gender&gt;("Bem-vindo","Bem-vinda") em casa.&lt;wait&gt;</Entry>
+  <Entry Index="337">Com certeza foi um dia difícil no trabalho, querido.
+Você quer jantar primeiro? Ou prefere tomar
+um banho antes?&lt;wait&gt;</Entry>
+  <Entry Index="338">Papai &lt;playername&gt;, adivinha! Você não vai
+acreditar, mas Yu molhou a cama de novo!&lt;wait&gt;</Entry>
+  <Entry Index="339">Oh Yu. Você fez xixi na cama?&lt;wait&gt;</Entry>
+  <Entry Index="340">O que?! Ei! Como você sabe que eu fiz xixi?!
 &lt;wait&gt;</Entry>
-  <Entry Index="341">Oh, venga, Yu. Solo estamos jugando a las casitas. No te
-tienes que enfadar de verdad.&lt;wait&gt;</Entry>
-  <Entry Index="342">Oh, espera... a no ser que te hayas hecho pipí de verdad.&lt;wait&gt;</Entry>
-  <Entry Index="343">N-No, qué va, ¡y no podrías demostrarlo aunque lo hubiese
-hecho! ¿Sabes qué? Esto es un asco. Me he cansado de
-jugar a las casitas. ¡Me largo!&lt;wait&gt;</Entry>
-  <Entry Index="344">¿Eh? ¡Yu, espera! ¡Vuelve aquí! ¡Yuuuuuu!</Entry>
-  <Entry Index="345">¡Oh, no! Pues sí que se ha ido todo al garete.&lt;wait&gt;</Entry>
-  <Entry Index="346">Bueno, hacía mucho tiempo que no jugaba a las casitas. Mi
-hermano y yo solíamos jugar hace muchos años.&lt;wait&gt;</Entry>
-  <Entry Index="347">Y nos peleábamos, igual que Yu y Mei. Verlos me trae
-tantos recuerdos...&lt;wait&gt;</Entry>
-  <Entry Index="348">Gracias por jugar con nosotros hoy. Recordar el pasado
-me ha inspirado para hacer esto. Toma. 
-Espero que te guste.&lt;wait&gt;</Entry>
-  <Entry Index="349">Aunque estoy un poco preocupada por Yu y Mei. Debería
-ir a ver cómo están. Hasta otra.&lt;wait&gt;</Entry>
-  <Entry Index="350">Ya veo... Es una pena, aunque no te puedo culpar.&lt;wait&gt;</Entry>
-  <Entry Index="351">Sí. Te hemos soltado el plan sin avisarte con antelación. Si
-estás &lt;gender&gt;("ocupado","ocupada"), no hay más que hablar.&lt;wait&gt;</Entry>
-  <Entry Index="352">Parece que no vamos a poder jugar a las casitas. ¡Pues
-vaya! ¿Por qué no jugamos a los héroes?&lt;wait&gt;</Entry>
-  <Entry Index="353">¡Agh! ¡No! No, no, no. ¡No quiero jugar al rollo de los
-héroes!&lt;wait&gt;</Entry>
-  <Entry Index="354">Ah, venga. ¿Qué les pasa a los héroes? Es superdivertido.&lt;wait&gt;</Entry>
-  <Entry Index="355">Bueno, vosotros dos. Ya vale de pelearse. ¿Por qué no os
-llevo a un sitio divertido?&lt;wait&gt;</Entry>
-  <Entry Index="356">Oh, ¿en serio? ¿De verdad, Popuri?&lt;wait&gt;</Entry>
-  <Entry Index="357">¡Claro! Por supuesto que sí. Podemos ir al bazar y
-comprar dulces, y después ir a jugar junto al manantial
-del bosque.&lt;wait&gt;</Entry>
-  <Entry Index="358">¡Bieeeen! ¡Eso sí, eso sí! ♪&lt;wait&gt;</Entry>
-  <Entry Index="359">¡Yuju! ¡Sí, eso me gusta! ¡Vamos, Popuri!&lt;wait&gt;</Entry>
-  <Entry Index="360">Fantástico. Entonces está decidido. Bueno, debo irme.&lt;wait&gt;&lt;page&gt;
-¿Puedes salir para que pueda cerrar la iglesia 
-hasta mañana?&lt;wait&gt;</Entry>
-  <Entry Index="361">¡Y por eso digo que papá fue un estúpido y un
-irresponsable! Abandonar a su familia y largarse... ¡No es
-mi padre!</Entry>
-  <Entry Index="362">¡No digas esas cosas sobre papá! ¡Por Dios, Rick, por qué
-tienes que ser siempre así!&lt;wait&gt;</Entry>
-  <Entry Index="363">Ya basta, niños. No os peleéis por vuestro padre.&lt;wait&gt;</Entry>
-  <Entry Index="364">Vaya. Hola, &lt;playername&gt;. Has venido en el momento
-oportuno.&lt;wait&gt;</Entry>
-  <Entry Index="365">Vaya. Hola, &lt;playername&gt;. Has venido en el momento
-oportuno.&lt;wait&gt;</Entry>
-  <Entry Index="366">Escucha, cariño. Popuri y Rick están riñendo sobre mi
-marido.&lt;wait&gt;&lt;page&gt;
-No me escuchan. ¿Puedes hablar con ellos, por favor? A lo
-mejor a ti sí que te escuchan.&lt;wait&gt;</Entry>
-  <Entry Index="367">¡Pero mamá! ¡Rick se está portando fatal!&lt;wait&gt;&lt;page&gt;
-Papá se fue para buscar una flor que podría curar 
-tu enfermedad, y Rick lo está llamando 
-irresponsable y estúpido.&lt;wait&gt;&lt;page&gt;
-Creo que el hecho de que se fuese demuestra lo mucho
-que le importamos. ¡Llamarlo estúpido es ser malo!&lt;wait&gt;</Entry>
-  <Entry Index="368">Mira, me parece bien lo de hacer algo para intentar
-ayudar a mamá. Genial, incluso.&lt;wait&gt;&lt;page&gt;
-¡Pero se marchó después de escuchar un simple rumor! 
-¡Ni siquiera sabemos si esa maldita flor existe de verdad!&lt;wait&gt;&lt;page&gt;
-¡Eso sí es irresponsable! ¡Ahora mismo lo mejor que podría
-hacer es estar aquí para apoyar a mamá!&lt;wait&gt;</Entry>
-  <Entry Index="369">Escucha, cariño. Popuri y Rick están discutiendo sobre mi
-marido.&lt;wait&gt;&lt;page&gt;
-No me escuchan. ¿Podrías hablar con ellos, por favor? A lo
-mejor a ti sí que te escuchan.&lt;wait&gt;</Entry>
-  <Entry Index="370">Creo que Popuri lleva razón.</Entry>
-  <Entry Index="371">Creo que Rick lleva razón.</Entry>
-  <Entry Index="372">Estáis haciendo que Lillia se sienta mal.</Entry>
-  <Entry Index="373">Así, ¿ves? Hasta &lt;playername&gt; dice que llevo razón.&lt;wait&gt;</Entry>
-  <Entry Index="374">¡&lt;playername&gt;! ¿Podrías no entrometerte en
-nuestros asuntos privados? Es de mala educación.&lt;wait&gt;</Entry>
-  <Entry Index="375">¡No tienes por qué ponerte borde solo porque
-&lt;playername&gt; diga que no llevas razón, Rick!&lt;wait&gt;</Entry>
+  <Entry Index="341">Ah, vamos, Yu. Estamos apenas brincando de casinha.
+Você não precisa ficar nervoso.&lt;wait&gt;</Entry>
+  <Entry Index="342">Ah, espere... A menos que você realmente faça xixi.&lt;wait&gt;</Entry>
+  <Entry Index="343">N-Não, não, e você não teria como provar mesmo
+que eu fizesse! Quer saber? Isso é um saco. Estou cansado
+de brincar de casinha. Tô fora!&lt;wait&gt;</Entry>
+  <Entry Index="344">Heim? Yu, espera! Volta aqui! Yuuuuuu!</Entry>
+  <Entry Index="345">Ah, não! Foi por água abaixo.&lt;wait&gt;</Entry>
+  <Entry Index="346">Bem, fazia tempo que eu não brincava de casinha.
+Meu irmão e eu costumávamos brincar há muitos anos.&lt;wait&gt;</Entry>
+  <Entry Index="347">E nós brigávamos, assim como Yu e Mei.
+Vê-los me traz tantas lembranças...&lt;wait&gt;</Entry>
+  <Entry Index="348">Obrigada por brincar com a gente hoje.
+Lembrar do passado me inspirou a fazer isso.
+Pegue. Espero que goste.&lt;wait&gt;</Entry>
+  <Entry Index="349">Estou um pouco preocupada com Yu e Mei.
+Eu deveria ir ver como estão. Tchau Tchau.&lt;wait&gt;</Entry>
+  <Entry Index="350">Entendo... É uma pena, não posso culpá-lo.&lt;wait&gt;</Entry>
+  <Entry Index="351">Sim. Sugerimos a idéia antes de avisá-lo. Se
+você está &lt;gender&gt;("ocupado","ocupada"), não há o que fazer.&lt;wait&gt;</Entry>
+  <Entry Index="352">Parece que não poderemos brincar de casinha.
+Pois bem! Por que não brincamos de heróis?&lt;wait&gt;</Entry>
+  <Entry Index="353">Ah! Não! Não não não. Eu não quero brincar
+de heróis!&lt;wait&gt;</Entry>
+  <Entry Index="354">AAh, vamos lá. O que há com os heróis? É super divertido.&lt;wait&gt;</Entry>
+  <Entry Index="355">Muito bem, vocês dois. Já chega de brigar.
+Por que não vamos a um lugar divertido?&lt;wait&gt;</Entry>
+  <Entry Index="356">Ah, é mesmo? Sério, Popuri?&lt;wait&gt;</Entry>
+  <Entry Index="357">Claro! Claro que sim. Podemos ir ao armazém
+comprar doces e ir brincar na
+floresta secreta.&lt;wait&gt;</Entry>
+  <Entry Index="358">Oooh! Pode ser, pode ser! ♪&lt;wait&gt;</Entry>
+  <Entry Index="359">Eba! Gostei! Vamos, Popuri!!&lt;wait&gt;</Entry>
+  <Entry Index="360">Fantástico. Então está decidido. Bem, eu tenho que ir.&lt;wait&gt;&lt;page&gt;
+Você poderia sair para que eu possa fechar a igreja
+está manhã?&lt;wait&gt;</Entry>
+  <Entry Index="361">E é por isso que digo que papai era estúpido e um
+irresponsável! Abandonou sua família e fujiu... Não é
+meu pai!!</Entry>
+  <Entry Index="362">Não diga essas coisas sobre o papai! Meu Deus, Rick, por que
+você tem que ser sempre assim!&lt;wait&gt;</Entry>
+  <Entry Index="363">Chega, crianças. Não briguem por causa do seu pai.&lt;wait&gt;</Entry>
+  <Entry Index="364">Oh, nossa. Olá, &lt;playername&gt;. Você chegou
+na hora certa.&lt;wait&gt;</Entry>
+  <Entry Index="365">Oh, nossa. Olá, &lt;playername&gt;. Você chegou
+na hora certa.&lt;wait&gt;</Entry>
+  <Entry Index="366">Ouça, querido. Popuri e Rick estão brigando por
+causa do meu marido.&lt;wait&gt;&lt;page&gt;
+Eles não me ouvem. Você poderia falar com eles por favor?
+Talvez eles te escutem.&lt;wait&gt;</Entry>
+  <Entry Index="367">Mas mamãe! Rick está sendo mau!&lt;wait&gt;&lt;page&gt;
+Papai partiu para encontrar uma flor que pudesse curar
+sua doença, e Rick io está chamando de
+irresponsável e estúpido.&lt;wait&gt;&lt;page&gt;
+Acho que o fato de ele ter partido mostra o quanto
+se importa com a gente. Chama-lo de estúpido
+seria cruel!&lt;wait&gt;</Entry>
+  <Entry Index="368">Olha, eu estou bem com a idéia de
+fazer algo para ajudar a mamãe. Ótimo, mesmo.&lt;wait&gt;&lt;page&gt;
+Mas ele saiu depois de ouvir um simples boato!
+Nós nem sabemos se aquela maldita flor
+realmente existe!&lt;wait&gt;&lt;page&gt;
+ISSO É irresponsável! Agora, a melhor coisa que
+ele poderia fazer era é estar aqui para
+dar apoio a mamãe!&lt;wait&gt;</Entry>
+  <Entry Index="369">Ouça, querida. Popuri e Rick estão brigando por
+causa do meu marido.&lt;wait&gt;&lt;page&gt;
+Eles não me ouvem. Você poderia falar com eles por favor?
+Talvez eles te escutem.&lt;wait&gt;</Entry>
+  <Entry Index="370">Acho que Popuri está certa.</Entry>
+  <Entry Index="371">Acho que Rick está certo.</Entry>
+  <Entry Index="372">Vocês estão fazendo mal a Lillia.</Entry>
+  <Entry Index="373">Viu só? Até &lt;playername&gt; concorda comigo.&lt;wait&gt;</Entry>
+  <Entry Index="374">¡&lt;playername&gt;! Poderia não se intrometer em nossos
+assuntos particulares? É falta de educação.&lt;wait&gt;</Entry>
+  <Entry Index="375">Você não precisa criar uma regra só porque
+&lt;playername&gt; não concorda com você, Rick!&lt;wait&gt;</Entry>
   <Entry Index="376">Agh...&lt;wait&gt;</Entry>
-  <Entry Index="377">¡&lt;playername&gt;! ¿Podrías no entrometerte en
-nuestros asuntos privados? Es de mala educación.&lt;wait&gt;</Entry>
-  <Entry Index="378">&lt;playername&gt;, gracias por ponerte de mi lado. Me
-alegró que me dieras la razón.&lt;wait&gt;</Entry>
-  <Entry Index="379">Ah, bien. Por fin han dejado de discutir. Gracias, cariño.
-Te lo agradezco.&lt;wait&gt;</Entry>
+  <Entry Index="377">¡&lt;playername&gt;! Poderia não se intrometer em nossos
+assuntos particulares? É falta de educação.&lt;wait&gt;</Entry>
+  <Entry Index="378">&lt;playername&gt;, obrigada por ficar do meu lado. Eu
+estou feliz por você ter concordado comigo.&lt;wait&gt;</Entry>
+  <Entry Index="379">Ah, que bom. Eles finalmente pararam de discutir.
+Obrigado, querido. Obrigado.&lt;wait&gt;</Entry>
   <Entry Index="380">...&lt;wait&gt;</Entry>
-  <Entry Index="381">Ah, bien. Por fin han dejado de discutir. Gracias, cariño.
-Te lo agradezco.&lt;wait&gt;</Entry>
-  <Entry Index="382">¡¿QUÉ?! Pero... Pero ¿por qué?&lt;wait&gt;</Entry>
-  <Entry Index="383">Así, ¿ves? Hasta &lt;playername&gt; dice
-que lo que papá hizo estuvo mal.&lt;wait&gt;</Entry>
-  <Entry Index="384">¡Agh! ¡&lt;playername&gt;, no me lo puedo creer! ¡Creía que
-eras más &lt;gender&gt;("majo","maja")!&lt;wait&gt;</Entry>
-  <Entry Index="385">Oye, Popuri. No digas cosas malas sobre
-&lt;playername&gt; solo porque no lleves razón.&lt;wait&gt;</Entry>
-  <Entry Index="386">¿Lo ves? Hasta &lt;playername&gt; dice que lo que papá
-hizo estuvo mal.&lt;wait&gt;</Entry>
-  <Entry Index="387">Oye, Popuri. No digas cosas malas sobre
-&lt;playername&gt; solo porque no lleves razón.&lt;wait&gt;</Entry>
-  <Entry Index="388">¡No me sermonees, Rick! ¡No lo entiendes! ¡Nunca
-entiendes nada!&lt;wait&gt;</Entry>
-  <Entry Index="389">Ay, no... Ahora se están peleando por ti en lugar de por mi
-marido.&lt;wait&gt;&lt;page&gt;
-¿Hasta cuándo vais a estar peleándoos? Los hermanos y
-hermanas tienen que portarse bien entre ellos. ¿Por
-favor? ¿Por mamá?</Entry>
-  <Entry Index="390">Ay, no... Ahora se están peleando por ti en lugar de por mi
-marido.&lt;wait&gt;&lt;page&gt;
-¿Hasta cuándo vais a estar peleándoos? Los hermanos y
-hermanas tienen que portarse bien entre ellos. ¿Por
-favor? ¿Por mamá?</Entry>
-  <Entry Index="391">Oh... Mamá, siento haberte hecho sentir mal. No era mi
-intención.&lt;wait&gt;</Entry>
-  <Entry Index="392">Sí. Lo siento, mamá. Hablar sobre papá es un tema
-complicado para mí, supongo...&lt;wait&gt;</Entry>
-  <Entry Index="393">Uf. Por fin habéis dejado de discutir. Qué alivio.&lt;wait&gt;</Entry>
-  <Entry Index="394">Ahora. Popuri. Rick. Dejad de discutir sobre vuestro
-padre. No es culpa suya. Todo esto es culpa mía por estar
-enferma.&lt;wait&gt;</Entry>
-  <Entry Index="395">¡Mamá, no! ¡No te puedes echar la culpa!&lt;wait&gt;</Entry>
-  <Entry Index="396">Sí. Tú no has hecho nada malo, mamá. Y oye... Sí. Siento
-haber llamado estúpido a papá.&lt;wait&gt;</Entry>
-  <Entry Index="397">Está bien, cariño. Sé que estás preocupado por el
-bienestar de tu familia.&lt;wait&gt;</Entry>
-  <Entry Index="398">Esto no es asunto tuyo. ¿Cómo puedes pretender que
-sabes algo?&lt;wait&gt;</Entry>
-  <Entry Index="399">Me alegra que opines igual que yo. Perdona por meterte
-en nuestros problemas familiares.&lt;wait&gt;</Entry>
-  <Entry Index="400">Perdona por meterte en nuestros problemas familiares.
-Intentaré no preocuparme mucho por papá a partir de
-ahora.&lt;wait&gt;</Entry>
-  <Entry Index="401">&lt;playername&gt;, gracias por ponerte de mi parte.&lt;wait&gt;</Entry>
-  <Entry Index="402">¡Umpf! ¡Si te vas a poner de parte de Rick, ya no me caes
-bien!&lt;wait&gt;</Entry>
-  <Entry Index="403">Perdona por hacerte pasar por todo esto,
-&lt;playername&gt;. Tiene que haber sido un verdadero
-suplicio.&lt;wait&gt;</Entry>
-  <Entry Index="404">Siento todo esto. Pero no te preocupes. Ya está todo bien.&lt;wait&gt;</Entry>
-  <Entry Index="405">&lt;playername&gt;, gracias por conseguir que dejen de
-pelearse. Eres un primor.&lt;wait&gt;</Entry>
-  <Entry Index="406">&lt;playername&gt;, gracias por conseguir que dejen de
-pelearse. Eres un primor.&lt;wait&gt;</Entry>
-  <Entry Index="407">¡Ay, madre! ¡Por favor! Me alegro de que mis niños
-tengan tanta energía, pero me gustaría que dejasen de
-pelearse tanto.&lt;wait&gt;</Entry>
+  <Entry Index="381">Ufa, que bom. Eles finalmente pararam de discutir.
+Obrigado, querida. Obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="382">O QUE?! Mas... Mas por quê?&lt;wait&gt;</Entry>
+  <Entry Index="383">Viu só? Até &lt;playername&gt; concorda
+que o nosso pai está errado.&lt;wait&gt;</Entry>
+  <Entry Index="384">Agh! ¡&lt;playername&gt;, não acredito! Eu achava
+que você era mais &lt;gender&gt;("legal","legal")!&lt;wait&gt;</Entry>
+  <Entry Index="385">Ei, Popuri. Não fale assim do
+&lt;playername&gt; só porque você está errada.&lt;wait&gt;</Entry>
+  <Entry Index="386">Viu só? Até &lt;playername&gt; concorda
+que o nosso pai está errado.&lt;wait&gt;</Entry>
+  <Entry Index="387">Ei, Popuri. Não fale assim da
+&lt;playername&gt; só porque você está errada.&lt;wait&gt;</Entry>
+  <Entry Index="388">Não me dê sermão, Rick! Você não entede!
+Você nunca entende nada!&lt;wait&gt;</Entry>
+  <Entry Index="389">Ah não... Agora eles estão discutindo
+por sua causa do que por causa do meu marido.&lt;wait&gt;&lt;page&gt;
+Até quando vão discutir? Os irmãos e irmãs
+precisam se dar bem uns com os outros.
+Por favor? Pela mamãe?</Entry>
+  <Entry Index="390">Ah não... Agora eles estão discutindo
+por sua causa do que por causa do meu marido.&lt;wait&gt;&lt;page&gt;
+Até quando vão discutir? Os irmãos e irmãs
+precisam se dar bem uns com os outros.
+Por favor? Pela mamãe?</Entry>
+  <Entry Index="391">Ah... Mamãe, desculpe por ter feito você se sentir mal.
+Não era minha intenção.&lt;wait&gt;</Entry>
+  <Entry Index="392">Sim. Me desculpe mamãe. Falar sobre o papai
+é um assunto complicado para mim, eu acho...&lt;wait&gt;</Entry>
+  <Entry Index="393">Ufa. Finalmente pararam de discutir. Que alívio.&lt;wait&gt;</Entry>
+  <Entry Index="394">Agora. Popuri. Rick. Parem de discutir sobre o seu
+pai. Não é culpa dele. Isso é tudo minha culpa por
+estár doente.&lt;wait&gt;</Entry>
+  <Entry Index="395">Mamãe, não! Você não pode se culpar!&lt;wait&gt;</Entry>
+  <Entry Index="396">Sim. Você não fez nada de errado, mãe. E ei... Olha.
+desculpa por ter chamado o papai de estúpido.&lt;wait&gt;</Entry>
+  <Entry Index="397">Tudo bem, querido. Sei que você está preocupado
+com o bem-estar da sua família.&lt;wait&gt;</Entry>
+  <Entry Index="398">Isso não é da sua conta. Como você pode achar
+que sabe de alguma coisa?&lt;wait&gt;</Entry>
+  <Entry Index="399">Fico feliz que você sinta o mesmo. Desculpe por
+envolve-lo em nossos problemas familiares.&lt;wait&gt;</Entry>
+  <Entry Index="400">Desculpe por envolve-lo em nossos problemas familiares.
+Vou tentar não pensar muito no papai de agora
+em diante.&lt;wait&gt;</Entry>
+  <Entry Index="401">&lt;playername&gt;, Obrigado por ficar do meu lado.&lt;wait&gt;</Entry>
+  <Entry Index="402">¡Umpf! Se você vai ficar do lado de Rick,
+eu não gosto mais de você!&lt;wait&gt;</Entry>
+  <Entry Index="403">Desculpe por fazê-lo passar por tudo isso,
+&lt;playername&gt;. deve ter sido um verdadeiro
+incômodo.&lt;wait&gt;</Entry>
+  <Entry Index="404">Sinto muito por tudo isso. Mas não se preocupe.
+Está tudo bem agora.&lt;wait&gt;</Entry>
+  <Entry Index="405">&lt;playername&gt;, obrigada por fazê-los parar
+de discutir. Você é um doce.&lt;wait&gt;</Entry>
+  <Entry Index="406">&lt;playername&gt;, obrigada por fazê-los parar
+de discutir. Você é um doce.&lt;wait&gt;</Entry>
+  <Entry Index="407">Oh, deus! Por favor! Estou feliz que meus filhos
+possuam tanta energia, mas gostaria que não
+discutissem tanto.&lt;wait&gt;</Entry>
   <Entry Index="408">Vale, creo que nadie nos molestará aquí. Me has dado
 toda una sorpresa, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="409">Así que, eh... ¿Podrías repetírmelo otra vez? ¿Desde el
