@@ -1926,89 +1926,91 @@ Tenho certeza de que ele fará um ótimo trabalho
 organizando a cerimônia, então não se
 preocupe com nada.&lt;wait&gt;</Entry>
   <Entry Index="888">Está bem. Obrigada vovó.&lt;wait&gt;</Entry>
-  <Entry Index="889">Queridos hermanos, estamos hoy aquí reunidos para ver a
-&lt;playername&gt; y Elly unirse en sagrado matrimonio.
-Empecemos.&lt;wait&gt;</Entry>
-  <Entry Index="890">Queridos hermanos, estamos hoy aquí reunidos para ver a
-&lt;playername&gt; y Elly unirse en sagrado matrimonio.
-Empecemos.&lt;wait&gt;</Entry>
-  <Entry Index="891">&lt;playername&gt;. Elly. ¿Juráis ser fieles el resto de
-vuestras vidas...&lt;wait&gt;&lt;page&gt;
-... y amaros y respetaros en las alegrías y las penas, en la
-salud y en la enfermedad? ¿Ahora y para siempre?&lt;wait&gt;</Entry>
-  <Entry Index="892">Elly, estás tan guapa. Brillas más que cualquier estrella.
-Lo que daría por que todo el mundo pudiese verte sonreír.&lt;wait&gt;</Entry>
-  <Entry Index="893">¡Qué elegantes! Y oye... ¿Qué era lo que tenía que decir?&lt;wait&gt;&lt;page&gt;
-¡Ah, sí! "¡Que seáis felices y comáis perdices!". ¿A que lo he
-hecho bien?&lt;wait&gt;</Entry>
-  <Entry Index="894">¡Espero que Elly y tú os cuidéis mientras comenzáis
-vuestra nueva vida en común!&lt;wait&gt;</Entry>
-  <Entry Index="895">Te quiero, &lt;playername&gt;.
-Seré tu cariñosa esposa para siempre.&lt;wait&gt;</Entry>
-  <Entry Index="896">Te quiero, &lt;playername&gt;.
-Seré tu fiel esposa mientras viva.&lt;wait&gt;</Entry>
-  <Entry Index="897">Por fin estamos &lt;gender&gt;("juntos","juntas").&lt;wait&gt;&lt;page&gt;
-Qué día tan maravilloso. Me siento muy arropada por
-nuestros amigos y vecinos.&lt;wait&gt;&lt;page&gt;
-Mi abuela no paraba de llorar. ¿La has visto?&lt;wait&gt;&lt;page&gt;
-Verla así me ha llenado de muchas emociones a la vez.&lt;wait&gt;&lt;page&gt;
-Así es como me di cuenta de que me estaba casando
-de verdad.&lt;wait&gt;</Entry>
-  <Entry Index="898">Por fin estamos &lt;gender&gt;("juntos","juntas").&lt;wait&gt;&lt;page&gt;
-Qué día tan maravilloso. Me siento muy arropada por
-nuestros amigos y vecinos.&lt;wait&gt;&lt;page&gt;
-Mi abuela no paraba de llorar. ¿La has visto?&lt;wait&gt;&lt;page&gt;
-Verla así me ha llenado de muchas emociones a la vez.&lt;wait&gt;&lt;page&gt;
-Así es como me di cuenta de que me estaba casando
-de verdad.&lt;wait&gt;</Entry>
-  <Entry Index="899">Ah, sí. Quería hablarte sobre cómo nos llamamos
-entre &lt;gender&gt;("nosotros","nosotras")...&lt;wait&gt;&lt;page&gt;
-¿Por qué no lo cambiamos un poco?&lt;wait&gt;</Entry>
-  <Entry Index="900">Sí, vale. &lt;nickname&gt;...
-&lt;nickname&gt;, ¿no?&lt;wait&gt;</Entry>
-  <Entry Index="901">¿Hay algún otro nombre que te guste?&lt;wait&gt;</Entry>
-  <Entry Index="902">Vale. De ahora en adelante, te llamaré así.&lt;wait&gt;</Entry>
-  <Entry Index="903">Mañana empieza nuestra nueva vida juntos,
-&lt;nickname&gt;. Me muero de ganas por ver
-cómo nos va.&lt;wait&gt;</Entry>
-  <Entry Index="904">Pg. siguiente</Entry>
-  <Entry Index="905">Pg. anterior</Entry>
-  <Entry Index="906">Popuri (encuentro)</Entry>
+  <Entry Index="889">Queridos irmãos, estamos reunidos aqui hoje para
+celebrar a união de &lt;playername&gt; e Elly  em
+sagrado matrimonio. Vamos começar.&lt;wait&gt;</Entry>
+  <Entry Index="890">Queridos irmãos, estamos reunidos aqui hoje para
+celebrar a união de &lt;playername&gt; e Elly em
+sagrado matrimonio. Vamos começar.&lt;wait&gt;</Entry>
+  <Entry Index="891">&lt;playername&gt;. Elly. Vocês juram ser fiéis um ao outro
+pelo resto de suas vidas...&lt;wait&gt;&lt;page&gt;
+...e se amarem e se respeitarem, nas alegrias e tristezas,
+na saúde e na doença? Agora e para sempre?&lt;wait&gt;</Entry>
+  <Entry Index="892">Elly, você está tão bonita. Você brilha mais
+do que qualquer estrela. O que eu daria para o mundo
+inteiro te ver sorrir.&lt;wait&gt;</Entry>
+  <Entry Index="893">Que chique! E ei... O que eu tinha pra dizer?&lt;wait&gt;&lt;page&gt;
+Ah sim! "Sejam felizes e comam raizes!". Fiz certo?&lt;wait&gt;</Entry>
+  <Entry Index="894">Espero que você e Elly cuidem um do outro
+enquanto iniciam sua nova vida juntos!&lt;wait&gt;</Entry>
+  <Entry Index="895">Eu te amo, &lt;playername&gt;.
+Serei sua esposa amorosa para sempre.&lt;wait&gt;</Entry>
+  <Entry Index="896">Eu te amo, &lt;playername&gt;.
+Serei sua fiel esposa enquanto viver.&lt;wait&gt;</Entry>
+  <Entry Index="897">Finalmente estamos &lt;gender&gt;("juntos","juntas").&lt;wait&gt;&lt;page&gt;
+Que dia maravilhoso. Me senti muito apoiada pelos
+nossos amigos e vizinhos.&lt;wait&gt;&lt;page&gt;
+Minha avó não parava de chorar. Você viu?&lt;wait&gt;&lt;page&gt;
+Fiquei muito emocionada ao vê-la
+daquele jeito.&lt;wait&gt;&lt;page&gt;
+Foi assim que percebi que estava me casando
+de verdade.&lt;wait&gt;</Entry>
+  <Entry Index="898">Finalmente estamos &lt;gender&gt;("juntos","juntas").&lt;wait&gt;&lt;page&gt;
+Que dia maravilhoso. Me senti muito apoiada pelos
+nossos amigos e vizinhos.&lt;wait&gt;&lt;page&gt;
+Minha avó não parava de chorar. Você viu?&lt;wait&gt;&lt;page&gt;
+Fiquei muito emocionada ao vê-la
+daquele jeito.&lt;wait&gt;&lt;page&gt;
+Foi assim que percebi que estava me casando
+de verdade.&lt;wait&gt;</Entry>
+  <Entry Index="899">Ah, sim. Eu queria falar com você sobre
+como nós chamaremos &lt;gender&gt;("um ao outro","uma a outra")...&lt;wait&gt;&lt;page&gt;
+Por que não mudamos um pouco?&lt;wait&gt;</Entry>
+  <Entry Index="900">Sim, tudo bem. &lt;nickname&gt;...
+&lt;nickname&gt;, certo?&lt;wait&gt;</Entry>
+  <Entry Index="901">Há algum outro nome que você goste?&lt;wait&gt;</Entry>
+  <Entry Index="902">Ok. De agora em diante, te chamarei assim.&lt;wait&gt;</Entry>
+  <Entry Index="903">Amanhã começa nossa nova vida juntos,
+&lt;nickname&gt;. Mal posso esperar para
+ver como vai ser.&lt;wait&gt;</Entry>
+  <Entry Index="904">Próxima Pág.</Entry>
+  <Entry Index="905">Pág. Anterior</Entry>
+  <Entry Index="906">Popuri (encontro)</Entry>
   <Entry Index="907">Popuri #1</Entry>
   <Entry Index="908">Popuri #2</Entry>
   <Entry Index="909">Popuri #3</Entry>
   <Entry Index="910">Popuri #4</Entry>
-  <Entry Index="911">Popuri (boda)</Entry>
-  <Entry Index="912">Popuri (apodo)</Entry>
+  <Entry Index="911">Popuri (casamento)</Entry>
+  <Entry Index="912">Popuri (apelido)</Entry>
   <Entry Index="913">Salir</Entry>
-  <Entry Index="914">Karen (encuentro)</Entry>
+  <Entry Index="914">Karen (encontro)</Entry>
   <Entry Index="915">Karen #1</Entry>
   <Entry Index="916">Karen #2</Entry>
   <Entry Index="917">Karen #3</Entry>
   <Entry Index="918">Karen #4</Entry>
-  <Entry Index="919">Karen (boda)</Entry>
-  <Entry Index="920">Karen (apodo)</Entry>
-  <Entry Index="921">Ran (encuentro)</Entry>
+  <Entry Index="919">Karen (casamento)</Entry>
+  <Entry Index="920">Karen (apelido)</Entry>
+  <Entry Index="921">Ran (encontro)</Entry>
   <Entry Index="922">Ran #1</Entry>
   <Entry Index="923">Ran #2</Entry>
   <Entry Index="924">Ran #3</Entry>
   <Entry Index="925">Ran #4</Entry>
-  <Entry Index="926">Ran (boda)</Entry>
-  <Entry Index="927">Ran (apodo)</Entry>
-  <Entry Index="928">Marie (encuentro)</Entry>
+  <Entry Index="926">Ran (casamento)</Entry>
+  <Entry Index="927">Ran (apelido)</Entry>
+  <Entry Index="928">Marie (encontro)</Entry>
   <Entry Index="929">Marie #1</Entry>
   <Entry Index="930">Marie #2</Entry>
   <Entry Index="931">Marie #3</Entry>
   <Entry Index="932">Marie #4</Entry>
-  <Entry Index="933">Marie (boda)</Entry>
-  <Entry Index="934">Marie (apodo)</Entry>
-  <Entry Index="935">Elly (encuentro)</Entry>
+  <Entry Index="933">Marie (casamento)</Entry>
+  <Entry Index="934">Marie (apelido)</Entry>
+  <Entry Index="935">Elly (encontro)</Entry>
   <Entry Index="936">Elly #1</Entry>
   <Entry Index="937">Elly #2</Entry>
   <Entry Index="938">Elly #3</Entry>
   <Entry Index="939">Elly #4</Entry>
-  <Entry Index="940">Elly (boda)</Entry>
-  <Entry Index="941">Elly (apodo)</Entry>
+  <Entry Index="940">Elly (casamento)</Entry>
+  <Entry Index="941">Elly (apelido)</Entry>
   <Entry Index="942">Pero bueno, &lt;playername&gt;, ¿de dónde ha salido eso?
 ¡Te juro que el corazón me ha dado un vuelco!&lt;wait&gt;</Entry>
   <Entry Index="943">Pero bueno, &lt;playername&gt;, ¿de dónde ha salido eso?
