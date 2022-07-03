@@ -623,8 +623,7 @@ Bem, a verdade é que eu estava curiosa para saber como
 você cuida dos seus animais comparados a nós, e eu
 gostaria de saber se posso dar uma olhada.&lt;wait&gt;&lt;page&gt;
 Você deixaria eu ver como você cuida de todos
-os seus animais?&lt;wait&gt;
-</Entry>
+os seus animais?&lt;wait&gt;</Entry>
   <Entry Index="294">Desculpe. Não tenho tempo.</Entry>
   <Entry Index="295">Claro. Observe e aprenda.</Entry>
   <Entry Index="296">>Ah, é mesmo? Eu achei que você
@@ -1031,7 +1030,6 @@ ou até mesmo em um terceiro!&lt;wait&gt;</Entry>
 é a verdadeira recompensa!&lt;wait&gt;</Entry>
   <Entry Index="478">Sim. Ver as pessoas gostando da minha comida é o que
 faz valer a pena. Eu gostei de você.&lt;wait&gt;</Entry>
-
   <Entry Index="479">Ei. Você não precisa nos agradecer. Apenas
 volte a nossa pousada. Pode ser? Sempre
 estarei aqui cuidando das coisas.&lt;wait&gt;</Entry>
@@ -1313,9 +1311,9 @@ A cerimônia será em uma semana ou algo assim.
 Comecei a ficar empolgado!&lt;wait&gt;</Entry>
   <Entry Index="620">Oh papai... Sim, você está certo.
 Bem, vou deixar isso com você.&lt;wait&gt;</Entry>
-  <Entry Index="621">Queridos hermanos, estamos hoy aquí reunidos para ver a
-&lt;playername&gt; y Ran unirse en sagrado matrimonio.
-Empecemos.&lt;wait&gt;</Entry>
+  <Entry Index="621">Queridos irmãos, estamos reunidos aqui hoje para
+celebrar a união de &lt;playername&gt; e Ran em
+sagrado matrimonio. Vamos começar.&lt;wait&gt;</Entry>
   <Entry Index="622">Queridos irmãos, estamos reunidos aqui hoje para
 celebrar a união de &lt;playername&gt; e Ran em
 sagrado matrimonio. Vamos começar.&lt;wait&gt;</Entry>
@@ -1505,7 +1503,7 @@ Mmmm. Certo, Acho que isso é tudo. Obrigada por
 responder as minhas perguntas.&lt;wait&gt;</Entry>
   <Entry Index="718">Oh, olha a hora. Desculpe por consumir tanto do seu tempo.&lt;wait&gt;</Entry>
   <Entry Index="719">Mas agora me sinto inspirada a escrever um
-romance fantástico. Eu vou trabalhar duas vezes mais para re retribuir
+romance fantástico. Eu vou trabalhar duas vezes mais para retribuir
 por toda a sua ajuda.</Entry>
   <Entry Index="720">Ah! Meu trabalho, você diz? O que você acha, Marie?&lt;wait&gt;</Entry>
   <Entry Index="721">Mmmm...&lt;wait&gt;&lt;page&gt;
@@ -1514,95 +1512,96 @@ de você ter se dado ao trabalho de me ajudar.&lt;wait&gt;</Entry>
   <Entry Index="722">Oh...&lt;wait&gt;</Entry>
   <Entry Index="723">Vou dar mais algumas voltas.
 Logo terei uma ideia brilhante.&lt;wait&gt;</Entry>
-  <Entry Index="724">Ummm... Creo que aquí estará bien. Sigamos con nuestra
-conversación anterior.&lt;wait&gt;&lt;page&gt;
-&lt;playername&gt;... ¿Esto va en serio? Me dolerá mucho
-si me estás gastando una broma.&lt;wait&gt;</Entry>
-  <Entry Index="725">Sí. He leído tanto sobre el matrimonio y siempre había
-soñado con vivirlo yo misma.&lt;wait&gt;&lt;page&gt;
-Pero nunca pensé que me podría pasar a mí algún día.&lt;wait&gt;</Entry>
-  <Entry Index="726">Sí. He leído tanto sobre el matrimonio y siempre había
-soñado con vivirlo yo misma.&lt;wait&gt;&lt;page&gt;
-Pero nunca pensé que me podría pasar a mí algún día.&lt;wait&gt;</Entry>
-  <Entry Index="727">Gracias. No podría estar más feliz. Por supuesto que mi
-respuesta es sí.&lt;wait&gt;</Entry>
-  <Entry Index="728">Sí. Te quiero, &lt;playername&gt;.
-Deseo que estemos &lt;gender&gt;("juntos","juntas") para siempre.</Entry>
-  <Entry Index="729">Sí. Te quiero, &lt;playername&gt;.
-Ojalá que estemos &lt;gender&gt;("juntos","juntas") para siempre.</Entry>
-  <Entry Index="730">Ahora tengo que ir a contárselo a mis padres.&lt;wait&gt;&lt;page&gt;
-Seguro que se quedan alucinados.&lt;wait&gt;</Entry>
-  <Entry Index="731">Así que por fin os habéis decidido.&lt;wait&gt;&lt;page&gt;
-Me alegro mucho por ti, Marie.&lt;wait&gt;</Entry>
-  <Entry Index="732">Siempre has sido tan tímida que nos costaba imaginarte
-abandonando el nido.&lt;wait&gt;&lt;page&gt;
-Me estoy emocionando. Y parece que fue ayer cuando
-estabas todavía en pañales...&lt;wait&gt;</Entry>
-  <Entry Index="733">No seas tonto, papá.&lt;wait&gt;</Entry>
-  <Entry Index="734">No, no, era una broma. Pero el tiempo sí que vuela,
-¿verdad?&lt;wait&gt;&lt;page&gt;
-Encuentras a alguien a quien quieres, y antes de que te
-des cuenta ya te estás casando.&lt;wait&gt;</Entry>
-  <Entry Index="735">No, no, era una broma. Pero el tiempo sí que vuela,
-¿verdad?&lt;wait&gt;&lt;page&gt;
-Encuentras a alguien a quien quieres, y antes de que te
-des cuenta ya te estás casando.&lt;wait&gt;</Entry>
-  <Entry Index="736">Sí, los hijos definitivamente crecen delante de tus narices.&lt;wait&gt;&lt;page&gt;
-Lo único que podemos hacer los padres es intentar que lo
-hagáis con una sonrisa.&lt;wait&gt;&lt;page&gt;
-Sé feliz, Marie.
-Y cuida de ella, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="737">Papá... Mamá... Gracias.&lt;wait&gt;</Entry>
-  <Entry Index="738">Déjanos los preparativos de la boda a nosotros.&lt;wait&gt;&lt;page&gt;
-Hablaremos con Thomas, reservaremos el local y
-avisaremos a la gente del pueblo.&lt;wait&gt;&lt;page&gt;
-La ceremonia será... Mmmm... Teniendo en cuenta los
-preparativos, será probablemente en una semana.&lt;wait&gt;</Entry>
-  <Entry Index="739">Vale. Dejaré que os encarguéis de organizarlo.&lt;wait&gt;</Entry>
-  <Entry Index="740">Queridos hermanos, estamos hoy aquí reunidos para ver a
-&lt;playername&gt; y Marie unirse en sagrado matrimonio.
-Empecemos.&lt;wait&gt;</Entry>
-  <Entry Index="741">Queridos hermanos, estamos hoy aquí reunidos para ver a
-&lt;playername&gt; y Marie unirse en sagrado matrimonio.
-Empecemos.&lt;wait&gt;</Entry>
-  <Entry Index="742">&lt;playername&gt;. Marie. ¿Juráis ser fieles el resto de
-vuestras vidas...&lt;wait&gt;&lt;page&gt;
-... y amaros y respetaros en las alegrías y las penas, en la
-salud y en la enfermedad? ¿Ahora y para siempre?&lt;wait&gt;</Entry>
-  <Entry Index="743">Marie, estás tan guapa. ¡No te olvides de venir a vernos al
-menos una vez a la semana!&lt;wait&gt;</Entry>
-  <Entry Index="744">Vuestras sonrisas me alegran el corazón.
-&lt;playername&gt;, es nuestra única hija, ¡así que
-asegúrate de hacerla feliz!&lt;wait&gt;</Entry>
-  <Entry Index="745">&lt;playername&gt;... ahora sí que podremos estar &lt;gender&gt;("juntos","juntas")
-el resto de nuestras vidas. Te quiero. ∀&lt;wait&gt;</Entry>
-  <Entry Index="746">&lt;playername&gt;... ahora sí que podremos estar &lt;gender&gt;("juntos","juntas")
-el resto de nuestras vidas. Te quiero. ∀&lt;wait&gt;</Entry>
-  <Entry Index="747">Hoy ha sido como un sueño.&lt;wait&gt;&lt;page&gt;
-No hay mejor sensación que estar con todos los que nos
-conocen y nos quieren.&lt;wait&gt;&lt;page&gt;
-Y mis padres estaban encantados también. Me estuve
-conteniendo mucho tiempo, pero cuando los vi, ya no pude
-evitar las lágrimas.&lt;wait&gt;&lt;page&gt;
-Viviré aquí a partir de ahora.&lt;wait&gt;</Entry>
-  <Entry Index="748">Oh, vale.&lt;wait&gt;&lt;page&gt;
-Te he llamado &lt;playername&gt; hasta ahora, pero...&lt;wait&gt;&lt;page&gt;
-He pensado que a lo mejor debería llamarte de otra
-manera. ¿Pero cómo podría llamarte?</Entry>
-  <Entry Index="749">Sí, me gusta.
+  <Entry Index="724">Ummm... Acho que aqui está bom. Vamos continuar
+com a nossa conversa anterior.&lt;wait&gt;&lt;page&gt;
+&lt;playername&gt;... Isso é sério? vai doer muito
+se você estiver brincando comigo.&lt;wait&gt;</Entry>
+  <Entry Index="725">Sim. Eu li muito sobre casamentos e sempre
+sonhei em vivê-lo.&lt;wait&gt;&lt;page&gt;
+Mas nunca pensei que isso pudesse acontecer comigo um dia.&lt;wait&gt;</Entry>
+  <Entry Index="726">Sim. Eu li muito sobre casamentos e sempre
+sonhei em vivê-lo.&lt;wait&gt;&lt;page&gt;
+Mas nunca pensei que isso pudesse acontecer comigo um dia.&lt;wait&gt;</Entry>
+  <Entry Index="727">Obrigada. Não poderia estar mais feliz. claro que a
+minha resposta é sim.&lt;wait&gt;</Entry>
+  <Entry Index="728">Sim. Eu te amo, &lt;playername&gt;.
+Quero que a gente fique &lt;gender&gt;("juntos","juntas") para sempre.</Entry>
+  <Entry Index="729">Sim. Eu te amo, &lt;playername&gt;.
+Espero que a gente fique &lt;gender&gt;("juntos","juntas") para sempre.</Entry>
+  <Entry Index="730">Agora tenho que ir contar aos meu pais.&lt;wait&gt;&lt;page&gt;
+Eles certamente ficarão surpresos.&lt;wait&gt;</Entry>
+  <Entry Index="731">Então você finalmente decidiu.&lt;wait&gt;&lt;page&gt;
+Estou muito feliz por você, Marie.&lt;wait&gt;</Entry>
+  <Entry Index="732">Você sempre foi tão tímida que não conseguíamos
+imaginá-la saindo de casa.&lt;wait&gt;&lt;page&gt;
+Estou ficando emocionado. Parece que foi ontem que
+você ainda usava fraldas...&lt;wait&gt;</Entry>
+  <Entry Index="733">Não seja bobo, papai.&lt;wait&gt;</Entry>
+  <Entry Index="734">Não, não, foi uma piada. Mas o tempo voa
+não é mesmo?&lt;wait&gt;&lt;page&gt;
+Você encontra alguém que ama, e antes que você
+se de conta, já vai estár se casando.&lt;wait&gt;</Entry>
+  <Entry Index="735">Não, não, foi uma piada. Mas o tempo voa
+não é mesmo?&lt;wait&gt;&lt;page&gt;
+Você encontra alguém que ama, e antes que você
+se de conta, já vai estár se casando.&lt;wait&gt;</Entry>
+  <Entry Index="736">Sim, as crianças definitivamente crescem bem
+debaixo do seu nariz.&lt;wait&gt;&lt;page&gt;
+A única coisa que nós pais podemos fazer é tentar
+ajuda-la a fazer isso com um sorriso.&lt;wait&gt;&lt;page&gt;
+Seja feliz, Marie.
+E cuide dela, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="737">Papai... Mamãe... Obrigada.&lt;wait&gt;</Entry>
+  <Entry Index="738">Deixe os preparativos do casamento com a gente.&lt;wait&gt;&lt;page&gt;
+Vamos falar com o Thomas, reservar o local e
+avisar os moradores da cidade.&lt;wait&gt;&lt;page&gt;
+A cerimónia será... Hmm... Levando em conta os
+preparativos, provavelmente será em uma semana.&lt;wait&gt;</Entry>
+  <Entry Index="739">Ok. Vou deixar que vocês se encarreguem de tudo.&lt;wait&gt;</Entry>
+  <Entry Index="740">Queridos irmãos, estamos reunidos aqui hoje para
+celebrar a união de &lt;playername&gt; e Marie em
+sagrado matrimonio. Vamos começar.&lt;wait&gt;</Entry>
+  <Entry Index="741">Queridos irmãos, estamos reunidos aqui hoje para
+celebrar a união de &lt;playername&gt; e Marie em
+sagrado matrimonio. Vamos começar.&lt;wait&gt;</Entry>
+  <Entry Index="742">&lt;playername&gt;. Marie.  Vocês juram ser fiéis um ao outro
+pelo resto de suas vidas...&lt;wait&gt;&lt;page&gt;
+...e se amarem e se respeitarem, nas alegrias e tristezas,
+na saúde e na doença? Agora e para sempre?&lt;wait&gt;</Entry>
+  <Entry Index="743">Marie, você está tão bonita. Não se esqueça
+de nos visitar pelo menos uma vez por semana!&lt;wait&gt;</Entry>
+  <Entry Index="744">Seus sorrisos alegram meu coração.
+&lt;playername&gt;, ela é nossa única filha, então
+certifique-se de fazê-la feliz!&lt;wait&gt;</Entry>
+  <Entry Index="745">&lt;playername&gt;... Agora poderemos ficar &lt;gender&gt;("juntos","juntas")
+pelo resto de nossas vidas. Eu te amo. ∀&lt;wait&gt;</Entry>
+  <Entry Index="746">&lt;playername&gt;... Agora poderemos ficar &lt;gender&gt;("juntos","juntas")
+pelo resto de nossas vidas. Eu te amo. ∀&lt;wait&gt;</Entry>
+  <Entry Index="747">Hoje foi como um sonho.&lt;wait&gt;&lt;page&gt;
+Não há sensação melhor do que estar junto a todos
+que nos conhecem e amam.&lt;wait&gt;&lt;page&gt;
+E meus pais também ficaram encantados. Eu estava me
+contendo o tempo todo, mas quando os vi, não consegui
+segurar as lágrimas&lt;wait&gt;&lt;page&gt;
+Vou morar aqui a partir de agora.&lt;wait&gt;</Entry>
+  <Entry Index="748">Oh, ok.&lt;wait&gt;&lt;page&gt;
+Eu chamei você de &lt;playername&gt; até agora, mas...&lt;wait&gt;&lt;page&gt;
+Estive pensando que seria melhor chama-lo
+de outra maneira. Mas como poderia ser?</Entry>
+  <Entry Index="749">Sim, gostei.
 &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="750">Un nombre distinto estaría mejor, ¿no? ¿Qué prefieres?&lt;wait&gt;</Entry>
-  <Entry Index="751">Nuestra nueva vida empieza mañana, &lt;nickname&gt;. ∀&lt;wait&gt;</Entry>
-  <Entry Index="752">Sí. Me gusta.
-Nuestra nueva vida empieza mañana, &lt;nickname&gt;. ∀&lt;wait&gt;</Entry>
-  <Entry Index="753">Ah, antes de que se me olvide. Quiero seguir trabajando en
-la biblioteca como hasta ahora. ¿Te parece bien?&lt;wait&gt;</Entry>
-  <Entry Index="754">¡Tengo algo increíble que enseñarte, Elly!&lt;wait&gt;</Entry>
-  <Entry Index="755">¿Ah, sí? ¡Bueno, pues no me tengas en ascuas!&lt;wait&gt;</Entry>
-  <Entry Index="756">¡Pues mira ESTO!&lt;wait&gt;</Entry>
-  <Entry Index="757">¡Pero bueno! ¡¿Cuántas veces te he dicho que esto es un
-entorno esterilizado?! ¡Eso significa que nada de bichos!
-¡Ni uno solo!&lt;wait&gt;</Entry>
+  <Entry Index="750">Um nome diferente seria melhor, certo? O que você prefere?&lt;wait&gt;</Entry>
+  <Entry Index="751">Nossa nova vida começa amanhã, &lt;nickname&gt;. ∀&lt;wait&gt;</Entry>
+  <Entry Index="752">Sim, gostei.
+Nossa nova vida começa amanhã, &lt;nickname&gt;. ∀&lt;wait&gt;</Entry>
+  <Entry Index="753">Ah, antes que eu esqueça. quero continuar trabalhando
+na biblioteca como antes. Tudo bem para você?&lt;wait&gt;</Entry>
+  <Entry Index="754">Tenho algo incrível para lhe mostrar, Elly!&lt;wait&gt;</Entry>
+  <Entry Index="755">Ah, sério? Bem, não me deixe curiosa!!&lt;wait&gt;</Entry>
+  <Entry Index="756">Bem, veja ISSO!&lt;wait&gt;</Entry>
+  <Entry Index="757">Francamente! Quantas vezes eu já te falei
+que este é um ambiente esterilizado!?! Isso significa
+nada de aniamis! Nem mesmo um!&lt;wait&gt;</Entry>
   <Entry Index="758">Je, je, je. ¡Si sigues enfadándote te vas a convertir
 en una vieja arrugada!&lt;wait&gt;</Entry>
   <Entry Index="759">¿P-pero qué...?&lt;wait&gt;</Entry>
