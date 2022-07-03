@@ -506,10 +506,10 @@ sagrado matrimônio deste casal.&lt;wait&gt;&lt;page&gt;
 Que a glória deste dia ilumine seus corações e
 que construam um belo futuro juntos.&lt;wait&gt;</Entry>
   <Entry Index="239">Ah Karen! Minha filha querida! !! Parabéns!!
-&lt;playername&gt; e você vai ter uma vida muito feliz
+&lt;playername&gt; e você terão uma vida muito feliz
 &lt;gender&gt;("juntos","juntas"), sabe?</Entry>
   <Entry Index="240">Ah Karen! Minha filha querida! !! Parabéns!!
-&lt;playername&gt; e você vai ter uma vida muito feliz
+&lt;playername&gt; e você terão uma vida muito feliz
 &lt;gender&gt;("juntos","juntas"), sem dúvida!</Entry>
   <Entry Index="241">Karen, você é a melhor filha que eu poderia ter tido.
 Eu sempre vou te amar. Seja gentil com &lt;playername&gt;,
@@ -924,9 +924,9 @@ semana, certo?&lt;wait&gt;</Entry>
   <Entry Index="424">Não se esqueça de enviar uma carta ao papai também.
 Espero que chegue a tempo.&lt;wait&gt;</Entry>
   <Entry Index="425">Certo. Deixaremos tudo com você, ok?</Entry>
-  <Entry Index="426">Queridos hermanos, estamos hoy aquí reunidos para ver a
-&lt;playername&gt; y Popuri unirse en sagrado
-matrimonio. Empecemos.&lt;wait&gt;</Entry>
+  <Entry Index="426">Queridos irmãos, estamos reunidos aqui hoje para
+celebrar a união de &lt;playername&gt; e Popuri em
+sagrado matrimonio. Vamos começar.&lt;wait&gt;</Entry>
   <Entry Index="427">Queridos irmãos, estamos reunidos aqui hoje para
 celebrar a união de &lt;playername&gt; e Popuri em
 sagrado matrimonio. Vamos começar.&lt;wait&gt;</Entry>
@@ -934,10 +934,10 @@ sagrado matrimonio. Vamos começar.&lt;wait&gt;</Entry>
 pelo resto de suas vidas...&lt;wait&gt;&lt;page&gt;
 ...e se amarem e se respeitarem, nas alegrias e tristezas,
 na saúde e na doença? Agora e para sempre?&lt;wait&gt;</Entry>
-  <Entry Index="429">Popuri! ¡&lt;playername&gt;! Parabéns
+  <Entry Index="429">Popuri! &lt;playername&gt;! Parabéns
 &lt;gender&gt;("aos","as") dois! Que tenham uma vida
 muito feliz &lt;gender&gt;("juntos","juntas")&lt;wait&gt;</Entry>
-  <Entry Index="430">Popuri! ¡&lt;playername&gt;! Parabéns
+  <Entry Index="430">Popuri! &lt;playername&gt;! Parabéns
 &lt;gender&gt;("aos","as") dois! Que tenham uma vida
 muito feliz &lt;gender&gt;("juntos","juntas")&lt;wait&gt;</Entry>
   <Entry Index="431">Parabéns, querida! Você está tão bonita!&lt;wait&gt;&lt;page&gt;
@@ -1009,7 +1009,7 @@ O que você acha?&lt;wait&gt;</Entry>
   <Entry Index="463">Desculpe, mas vou passar.</Entry>
   <Entry Index="464">Eu sabia que você diria isso! Bem, papai.
 Prepare algo delicioso.&lt;wait&gt;</Entry>
-  <Entry Index="465">Às suas ordens! Prepare o seu paladar, porque
+  <Entry Index="465">Ao seu dispor! Prepare o seu paladar, porque
 você vai alucinar. Espere para ver.&lt;wait&gt;</Entry>
   <Entry Index="466">A comida do papai é incrível.
 Algo fantástico espera por você.&lt;wait&gt;</Entry>
@@ -1316,87 +1316,89 @@ Bem, vou deixar isso com você.&lt;wait&gt;</Entry>
   <Entry Index="621">Queridos hermanos, estamos hoy aquí reunidos para ver a
 &lt;playername&gt; y Ran unirse en sagrado matrimonio.
 Empecemos.&lt;wait&gt;</Entry>
-  <Entry Index="622">Queridos hermanos, estamos hoy aquí reunidos para ver a
-&lt;playername&gt; y Ran unirse en sagrado matrimonio.
-Empecemos.&lt;wait&gt;</Entry>
-  <Entry Index="623">&lt;playername&gt;. Ran. ¿Juráis ser fieles el resto de
-vuestras vidas...&lt;wait&gt;&lt;page&gt;
-...y amaros y respetaros en las alegrías y las penas, en la
-salud y en la enfermedad? ¿Ahora y para siempre?&lt;wait&gt;</Entry>
-  <Entry Index="624">¡Ran! ¡&lt;playername&gt;! ¡Enhorabuena! ¡Que creéis una
-familia feliz &lt;gender&gt;("juntos","juntas")!&lt;wait&gt;&lt;page&gt;
-Tu felicidad es mi felicidad. ¡No lo olvides nunca!&lt;wait&gt;</Entry>
-  <Entry Index="625">&lt;playername&gt;... ahora sí que podremos estar &lt;gender&gt;("juntos","juntas")
-por siempre. Te quiero. ∀&lt;wait&gt;</Entry>
-  <Entry Index="626">&lt;playername&gt;... ahora sí que podremos estar &lt;gender&gt;("juntos","juntas")
-por siempre. Te quiero. ∀&lt;wait&gt;</Entry>
-  <Entry Index="627">¡Uf, por fin en casa! Después de la ceremonia tocaban las
-fotos, después el banquete... ¡Ha sido la bomba!&lt;wait&gt;&lt;page&gt;
-Gracias a papá y a la ayuda de todo el mundo,
-recordaremos este día para siempre.&lt;wait&gt;</Entry>
-  <Entry Index="628">Ha sido un día magnífico para celebrarlo con todos, pero
-por fin estamos a solas.&lt;wait&gt;</Entry>
-  <Entry Index="629">¡Uf, por fin en casa! Después de la ceremonia tocaban
-las fotos, después el banquete... ¡Ha sido la bomba!&lt;wait&gt;&lt;page&gt;
-Gracias a papá y a la ayuda de todo el mundo,
-recordaremos este día para siempre.&lt;wait&gt;&lt;page&gt;
-Ha sido un día magnífico para celebrarlo con todos,
-pero por fin estamos a solas.&lt;wait&gt;</Entry>
-  <Entry Index="630">¡Ah, ahora me acuerdo! He estado pensando...&lt;wait&gt;&lt;page&gt;
-Ahora que vivimos &lt;gender&gt;("juntos","juntas"), estaría bien llamarnos por
-nombres especiales.&lt;wait&gt;</Entry>
-  <Entry Index="631">¿Qué te parece?&lt;wait&gt;</Entry>
-  <Entry Index="632">¡Vale, te llamaré así!&lt;wait&gt;</Entry>
-  <Entry Index="633">¿Prefieres otro nombre? ¿Qué te gusta entonces?&lt;wait&gt;</Entry>
-  <Entry Index="634">¡A la orden! ¡De ahora en adelante, así te llamaré,
+  <Entry Index="622">Queridos irmãos, estamos reunidos aqui hoje para
+celebrar a união de &lt;playername&gt; e Ran em
+sagrado matrimonio. Vamos começar.&lt;wait&gt;</Entry>
+  <Entry Index="623">&lt;playername&gt;. Ran. Vocês juram ser fiéis um ao outro
+pelo resto de suas vidas...&lt;wait&gt;&lt;page&gt;
+...e se amarem e se respeitarem, nas alegrias e tristezas,
+na saúde e na doença? Agora e para sempre?&lt;wait&gt;</Entry>
+  <Entry Index="624">Ran! &lt;playername&gt;! Parabéns! Que construam
+uma família feliz &lt;gender&gt;("juntos","juntas")!&lt;wait&gt;&lt;page&gt;
+A sua felicidade é a minha felicidade.
+Nunca se esqueça disso!&lt;wait&gt;</Entry>
+  <Entry Index="625">&lt;playername&gt;... Agora poderemos ficar &lt;gender&gt;("juntos","juntas")
+para sempre. Eu te amo. ∀&lt;wait&gt;</Entry>
+  <Entry Index="626">&lt;playername&gt;... Agora poderemos ficar &lt;gender&gt;("juntos","juntas")
+para sempre. Eu te amo. ∀&lt;wait&gt;</Entry>
+  <Entry Index="627">Ufa, finalmente em casa! Após a cerimônia, eles tiraram
+fotos, depois teve o banquete... Foi uma loucura!&lt;wait&gt;&lt;page&gt;
+Graças ao papai e a ajuda de todos,
+lembraremos deste dia para sempre.&lt;wait&gt;</Entry>
+  <Entry Index="628">Foi um ótimo dia para comemorar com todos, mas
+finalmente estamos sozinhos.&lt;wait&gt;</Entry>
+  <Entry Index="629">Ufa, finalmente em casa! Após a cerimônia, eles tiraram
+fotos, depois teve o banquete... Foi uma loucura!&lt;wait&gt;&lt;page&gt;
+Graças ao papai e a ajuda de todos,
+lembraremos deste dia para sempre.&lt;wait&gt;&lt;page&gt;
+Foi um ótimo dia para comemorar com todos, mas
+finalmente estamos sozinhas.&lt;wait&gt;</Entry>
+  <Entry Index="630">Ah, agora me lembrei! Estive pensando...&lt;wait&gt;&lt;page&gt;
+Agora que estamos &lt;gender&gt;("juntos","juntas"), seria bom nos chamarmos por
+nomes especiais.&lt;wait&gt;</Entry>
+  <Entry Index="631">O que você acha?&lt;wait&gt;</Entry>
+  <Entry Index="632">Ok, eu te chamarei assim!&lt;wait&gt;</Entry>
+  <Entry Index="633">Você prefere outro nome? Qual você prefereentão?&lt;wait&gt;</Entry>
+  <Entry Index="634">Ao seu dispor! De agora em diante, eu te chamarei de
 &lt;nickname&gt;! ∀&lt;wait&gt;</Entry>
-  <Entry Index="635">Ah, tengo otra cosa importante que comentarte.&lt;wait&gt;&lt;page&gt;
-Quiero seguir ayudando a papá en la pensión. ¿Te parece
-bien?&lt;wait&gt;</Entry>
-  <Entry Index="636">Sí, claro. ¡Vamos a trabajar &lt;gender&gt;("juntos","juntas") como pareja!&lt;wait&gt;</Entry>
-  <Entry Index="637">Bueno, &lt;nickname&gt;. ∀ Nuestra nueva vida en común
-comienza mañana.&lt;wait&gt;</Entry>
-  <Entry Index="638">Bueno, &lt;nickname&gt;. ∀ Nuestra nueva vida en común
-comienza mañana.&lt;wait&gt;</Entry>
-  <Entry Index="639">Mmmm... A ver... ¿Y ahora qué hago?&lt;wait&gt;&lt;page&gt;
-Oh, y si...
-No, no funcionaría.&lt;wait&gt;</Entry>
-  <Entry Index="640">¡Ay!&lt;wait&gt;&lt;page&gt;
-Oh, lo siento mucho. Estaba completamente ensimismada.&lt;wait&gt;</Entry>
-  <Entry Index="641">¿Eh? No te había visto por aquí antes.
-¿Has venido a hacer turismo?&lt;wait&gt;</Entry>
-  <Entry Index="642">¡Oh! ¡Eres &lt;gender&gt;("el que","la que") se está alojando en esa granja!&lt;wait&gt;&lt;page&gt;
-Me llamo Marie. Es un placer conocerte.&lt;wait&gt;</Entry>
-  <Entry Index="643">Ah, &lt;playername&gt;. Me alegro de verte.&lt;wait&gt;</Entry>
-  <Entry Index="644">Es muy amable por tu parte pasarte por aquí. No suele
-venir mucha gente a esta biblioteca.&lt;wait&gt;</Entry>
-  <Entry Index="645">Perdóname por lo de antes. Cuando me concentro mucho,
-no me doy cuenta de lo que pasa a mi alrededor.&lt;wait&gt;</Entry>
-  <Entry Index="646">¿Te preocupa algo?</Entry>
-  <Entry Index="647">Deberías tener más cuidado.</Entry>
-  <Entry Index="648">No, no es eso. Estoy escribiendo una novela,
-pero no consigo seguir, así que estoy intentando
-superar el bloqueo.&lt;wait&gt;</Entry>
-  <Entry Index="649">Gracias por preocuparte.&lt;wait&gt;</Entry>
-  <Entry Index="650">Pásate siempre que tengas ganas de leer. Estoy segura
-de que tengo muchos libros que pueden ayudarte o
-servirte de inspiración.&lt;wait&gt;</Entry>
-  <Entry Index="651">De verdad que lo siento. Estaré más atenta
-a partir de ahora.&lt;wait&gt;</Entry>
-  <Entry Index="652">Puedes coger cualquier libro que te llame la atención y
-echarle un vistazo.&lt;wait&gt;</Entry>
-  <Entry Index="653">No es este. Y este tampoco... Pero qué raro.
-¿Dónde estará?&lt;wait&gt;</Entry>
-  <Entry Index="654">¡Ah! Pero qué sorpresa. Intenta no asustarme así,
+  <Entry Index="635">Ah, tenho outra coisa importante para te contar.&lt;wait&gt;&lt;page&gt;
+Quero continuar ajudando meu pai na pousada.
+Tudo bem?&lt;wait&gt;</Entry>
+  <Entry Index="636">Sim, claro. Vamos trabalhar &lt;gender&gt;("juntos","juntas") como um casal!&lt;wait&gt;</Entry>
+  <Entry Index="637">Bem, &lt;nickname&gt;. ∀ Nossa nova vida juntos
+começa agora.&lt;wait&gt;</Entry>
+  <Entry Index="638">Bem, &lt;nickname&gt;. ∀ Nossa nova vida juntas
+começa agora.&lt;wait&gt;</Entry>
+  <Entry Index="639">Mmmm... Vamos ver... Agora, o que eu faço?&lt;wait&gt;&lt;page&gt;
+Oh, e se...
+Não, não funcionaria.&lt;wait&gt;</Entry>
+  <Entry Index="640">Ai!&lt;wait&gt;&lt;page&gt;
+Ah, sinto muito. Eu estava completamente perdida
+em pensamentos.&lt;wait&gt;</Entry>
+  <Entry Index="641">Uh? Não te vi por aqui antes.
+Você está aqui a passeio?&lt;wait&gt;</Entry>
+  <Entry Index="642">Ah! Você é &lt;gender&gt;("o novo morador","a nova moradora") daquela fazenda!&lt;wait&gt;&lt;page&gt;
+Meu nome é Marie. Prazer em conhecê-lo.&lt;wait&gt;</Entry>
+  <Entry Index="643">Ah, &lt;playername&gt;. Fico feliz em ver você.&lt;wait&gt;</Entry>
+  <Entry Index="644">É muito gentil da sua parte passar por aqui. Não costuma
+vir muitas gente a esta biblioteca.&lt;wait&gt;</Entry>
+  <Entry Index="645">Desculpe por antes. Quando eu me concentro demais
+esqueço do que está ao meu redor.&lt;wait&gt;</Entry>
+  <Entry Index="646">Está preocupada com algo?</Entry>
+  <Entry Index="647">Você deveria ter mais cuidado.</Entry>
+  <Entry Index="648">Não, não é nada. Estou escrevendo um romance
+mas eu não consigo continuar, estou tentando
+superar um bloqueio criativo.&lt;wait&gt;</Entry>
+  <Entry Index="649">Agradeço por sua preocupação.&lt;wait&gt;</Entry>
+  <Entry Index="650">Venha sempre que sentir vontade de ler. Tenho certeza
+que tenho muitos livros que podem ajudá-lo ou
+servi-lo de inspiração.&lt;wait&gt;</Entry>
+  <Entry Index="651">Sinto muito. Vou ficar mais atenta
+a partir de agora.&lt;wait&gt;</Entry>
+  <Entry Index="652">Você pode pegar qualquer livro que chamar sua atenção
+e dar uma olhada.&lt;wait&gt;</Entry>
+  <Entry Index="653">Não é esse. Esse também não... Mas que estranho.
+Onde você está?&lt;wait&gt;</Entry>
+  <Entry Index="654">Ah! Mas que surpresa. Tente não me assustar assim
 &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-¿Eh? ¿Quieres saber qué estaba haciendo?&lt;wait&gt;</Entry>
-  <Entry Index="655">&lt;gender&gt;("Bienvenido","Bienvenida"). ¿Has venido a leer libros? ¿Eh?&lt;wait&gt;&lt;page?
-¿Quieres saber qué estaba haciendo?&lt;wait&gt;</Entry>
-  <Entry Index="656">Bueno, la verdad es que estoy escribiendo una novela y
-hay un libro que quería usar como referencia.&lt;wait&gt;&lt;page&gt;
-Creo que está por aquí, en la primera planta, pero...&lt;wait&gt;</Entry>
-  <Entry Index="657">¡Oh, ya sé, &lt;playername&gt;! Lo siento muchísimo, pero
-¿podrías ayudarme a buscarlo?&lt;wait&gt;</Entry>
+Uh? Você quer saber o que eu estava fazendo?&lt;wait&gt;</Entry>
+  <Entry Index="655">&lt;gender&gt;("Bem-vindo","Bem-vinda"). Você veio ler alguns livros? Hein?&lt;wait&gt;&lt;page?
+Você quer saber o que eu estava fazendo?&lt;wait&gt;</Entry>
+  <Entry Index="656">Bem, a verdade é que estou escrevendo um romance e
+há um livro que eu queria usar como referência.&lt;wait&gt;&lt;page&gt;
+Acho que é aqui no primeiro andar, mas...&lt;wait&gt;</Entry>
+  <Entry Index="657">Ah, já sei, &lt;playername&gt;! Sinto muito, mas
+você poderia me ajudar a encontrá-lo?&lt;wait&gt;</Entry>
   <Entry Index="658">¡Encuadernado! ¡Digo, encontrado!</Entry>
   <Entry Index="659">No puedo. Lo siento.</Entry>
   <Entry Index="660">¿De verdad?&lt;wait&gt;&lt;page&gt;
