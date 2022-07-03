@@ -865,141 +865,142 @@ de discutir. Você é um doce.&lt;wait&gt;</Entry>
   <Entry Index="407">Oh, deus! Por favor! Estou feliz que meus filhos
 possuam tanta energia, mas gostaria que não
 discutissem tanto.&lt;wait&gt;</Entry>
-  <Entry Index="408">Vale, creo que nadie nos molestará aquí. Me has dado
-toda una sorpresa, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="409">Así que, eh... ¿Podrías repetírmelo otra vez? ¿Desde el
-principio?&lt;wait&gt;&lt;page&gt;
-Una vez que lo asimile, podré darte la respuesta
-adecuada.&lt;wait&gt;</Entry>
+  <Entry Index="408">Ok, acho que ninguém vai nos incomodar aqui.
+Você com certeza me surpreendeu, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="409">Então, hum... Você poderia repetir de novo? Desde o
+início?&lt;wait&gt;&lt;page&gt;
+Assim que eu assimilar, poderei lhe dar uma resposta
+apropriada.&lt;wait&gt;</Entry>
   <Entry Index="410">&lt;playername&gt;...
-Por supuesto que la respuesta es sí.&lt;wait&gt;</Entry>
-  <Entry Index="411">¡Sí, sí, sí! ¡Es increíble! ¡Estoy llena de felicidad ahora
-mismo!&lt;wait&gt;&lt;page&gt;
-Desde que somos pareja, pasar tiempo contigo ha sido
-cada vez más divertido.&lt;wait&gt;&lt;page&gt;
-Deseaba que pudiese ser así para siempre... y ahora ese
-deseo se ha hecho realidad.&lt;wait&gt;</Entry>
-  <Entry Index="412">¡Sí, sí, sí! ¡Es increíble! ¡Estoy llena de felicidad ahora
-mismo!&lt;wait&gt;&lt;page&gt;
-Desde que somos pareja, pasar tiempo contigo ha sido
-cada vez más divertido.&lt;wait&gt;&lt;page&gt;
-Deseaba que pudiese ser así para siempre... y ahora ese
-deseo se ha hecho realidad.&lt;wait&gt;</Entry>
-  <Entry Index="413">Tengo que ir a contárselo a mamá y a Rick.&lt;wait&gt;&lt;page&gt;
-Estoy segura de que se pondrán muy contentos. Bueno,
-puede que Rick se ponga un pelín... ¿furioso?&lt;wait&gt;&lt;page&gt;
-Bueno, ¡volveré pronto!</Entry>
-  <Entry Index="414">¡Ay, madre! ¡Por favor! Me alegro mucho por ti, Popuri.
-Sabía que llegaría este día. Tienes la bendición de tu
-madre.</Entry>
-  <Entry Index="415">Sabía que este día llegaría desde que empezasteis a salir
-&lt;gender&gt;("juntos","juntas").&lt;wait&gt;</Entry>
-  <Entry Index="416">Sabía que este día llegaría desde que empezasteis a salir
-&lt;gender&gt;("juntos","juntas").&lt;wait&gt;</Entry>
-  <Entry Index="417">Eh... ¿Rick? ¿No estás enfadado?&lt;wait&gt;</Entry>
-  <Entry Index="418">¿Qué...? ¡Claro que no! ¿Por qué iba a estarlo? No hay
-nadie que pueda cuidar mejor de ti que &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-La última vez... Bueno, fue un recordatorio de que ya sois
-mayores, y me estoy poniendo un poco sensiblero, ¿vale?</Entry>
-  <Entry Index="419">¿Qué...? ¡Claro que no! ¿Por qué iba a estarlo? No hay
-nadie que pueda cuidar mejor de ti que &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-La última vez... Bueno, fue un recordatorio de que ya sois
-mayores, y me estoy poniendo un poco sensiblero, ¿vale?</Entry>
-  <Entry Index="420">&lt;playername&gt;, cuida bien de Popuri.&lt;wait&gt; A veces puede
-ser un poco egoísta, pero seguro que podéis hacer que
-funcione.&lt;wait&gt;</Entry>
-  <Entry Index="421">&lt;playername&gt;, cuida bien de Popuri.&lt;wait&gt; A veces puede
-ser un poco egoísta, pero seguro que podéis hacer que
-funcione.&lt;wait&gt;</Entry>
-  <Entry Index="422">¡Vale! Ahora hay que empezar a organizarlo. Tengo que
-hablar con el señor Thomas, conseguir un local y enviar
-las invitaciones.&lt;wait&gt;&lt;page&gt;
-Reunir a todo el mundo nos llevará más o menos una
-semana, ¿no?&lt;wait&gt;</Entry>
-  <Entry Index="423">¡Vale! Ahora hay que empezar a organizarlo. Tengo que
-hablar con el señor Thomas, conseguir un local y enviar
-las invitaciones.&lt;wait&gt;&lt;page&gt;
-Reunir a todo el mundo nos llevará más o menos una
-semana, ¿no?&lt;wait&gt;</Entry>
-  <Entry Index="424">No te olvides de enviarle una carta a papá también.
-Espero que le llegue a tiempo.&lt;wait&gt;</Entry>
-  <Entry Index="425">Sí. Te lo dejamos todo a ti, ¿vale?</Entry>
+Claro que a resposta é SIM.&lt;wait&gt;</Entry>
+  <Entry Index="411">Sim, sim, sim! É incrível! Estou muito feliz
+nesse momento!&lt;wait&gt;&lt;page&gt;
+Desde que formamos um casal, passar o tempo com você tem
+sido cada vez mais divertido.&lt;wait&gt;&lt;page&gt;
+Eu desejava que pudesse ser assim para sempre... E agora
+meu desejo se tornou realidade.&lt;wait&gt;</Entry>
+  <Entry Index="412">¡Sim, sim, sim! É incrível! Estou muito feliz
+nesse momento!&lt;wait&gt;&lt;page&gt;
+Desde que formamos um casal, passar o tempo com você tem
+sido cada vez mais divertido.&lt;wait&gt;&lt;page&gt;
+Eu desejava que pudesse ser assim para sempre... E agora
+meu desejo se tornou realidade.&lt;wait&gt;</Entry>
+  <Entry Index="413">Tenho que contar para a mamãe e Rick.&lt;wait&gt;&lt;page&gt;
+Tenho certeza que eles ficarão muito felizes. Ok,
+talvez Rick fique um pouco... furioso?&lt;wait&gt;&lt;page&gt;
+Bem, voltarei logo</Entry>
+  <Entry Index="414">Oh, meu deus! Por favor! Estou tão feliz por você
+Popuri. Eu sabia que esse dia chegaria. você tem
+a bênção da sua mãe.</Entry>
+  <Entry Index="415">Eu sabia que esse dia chegaria desde que
+vocês começaram a sair &lt;gender&gt;("juntos","juntas").&lt;wait&gt;</Entry>
+  <Entry Index="416">Eu sabia que esse dia chegaria desde que
+vocês começaram a sair &lt;gender&gt;("juntos","juntas").&lt;wait&gt;</Entry>
+  <Entry Index="417">Uh...Rick? Você não está bravo?&lt;wait&gt;</Entry>
+  <Entry Index="418">O que...? Claro que não! Por que estaria? Não há
+ninguém melhor para cuidar de você do que &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Da última vez... Bem, foi um lembrete de que vocês já são
+maduros e eu estou ficando um pouco sentimental, ok?</Entry>
+  <Entry Index="419">O que...? Claro que não! Por que estaria? Não há
+ninguém melhor para cuidar de você do que &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Da última vez... Bem, foi um lembrete de que vocês já são
+maduros e eu estou ficando um pouco sentimental, ok?</Entry>
+  <Entry Index="420">&lt;playername&gt;, cuide bem da Popuri.&lt;wait&gt; Às vezes pode
+ser um pouco egoísta, mas teho certeza que pode
+fazer dar certo.&lt;wait&gt;</Entry>
+  <Entry Index="421">&lt;playername&gt;, cuide bem da Popuri.&lt;wait&gt; Às vezes pode
+ser um pouco egoísta, mas teho certeza que pode
+fazer dar certo.&lt;wait&gt;</Entry>
+  <Entry Index="422">Ok! Agora temos que começar a organizá-lo. Tenho que
+falar com o Sr. Thomas, reservar um local e enviar
+os convites.&lt;wait&gt;&lt;page&gt;
+Reunir todos levará cerca de uma
+semana, certo?&lt;wait&gt;</Entry>
+  <Entry Index="423">Ok! Agora temos que começar a organizá-lo. Tenho que
+falar com o Sr. Thomas, reservar um local e enviar
+os convites.&lt;wait&gt;&lt;page&gt;
+Reunir todos levará cerca de uma
+semana, certo?&lt;wait&gt;</Entry>
+  <Entry Index="424">Não se esqueça de enviar uma carta ao papai também.
+Espero que chegue a tempo.&lt;wait&gt;</Entry>
+  <Entry Index="425">Certo. Deixaremos tudo com você, ok?</Entry>
   <Entry Index="426">Queridos hermanos, estamos hoy aquí reunidos para ver a
 &lt;playername&gt; y Popuri unirse en sagrado
 matrimonio. Empecemos.&lt;wait&gt;</Entry>
-  <Entry Index="427">Queridos hermanos, estamos hoy aquí reunidos para ver a
-&lt;playername&gt; y Popuri unirse en sagrado
-matrimonio. Empecemos.&lt;wait&gt;</Entry>
-  <Entry Index="428">&lt;playername&gt;. Popuri. ¿Juráis ser fieles el resto de
-vuestras vidas...&lt;wait&gt;&lt;page&gt;
-...y amaros y respetaros en las alegrías y las penas, en la
-salud y en la enfermedad? ¿Ahora y para siempre?&lt;wait&gt;</Entry>
-  <Entry Index="429">¡Popuri! ¡&lt;playername&gt;! ¡Enhorabuena a
-&lt;gender&gt;("los","las") dos! ¡Que tengáis una vida muy
-feliz &lt;gender&gt;("juntos","juntas")&lt;wait&gt;</Entry>
-  <Entry Index="430">¡Popuri! ¡&lt;playername&gt;! ¡Enhorabuena a
-&lt;gender&gt;("los","las") dos! ¡Que tengáis una vida muy
-feliz &lt;gender&gt;("juntos","juntas")&lt;wait&gt;</Entry>
-  <Entry Index="431">¡Enhorabuena, cariño! ¡Estáis muy elegantes!&lt;wait&gt;&lt;page&gt;
-Papá no ha podido venir, pero estoy segura de que desea
-que seáis felices más que nadie.&lt;wait&gt;</Entry>
+  <Entry Index="427">Queridos irmãos, estamos reunidos aqui hoje para
+celebrar a união de &lt;playername&gt; e Popuri em
+sagrado matrimonio. Vamos começar.&lt;wait&gt;</Entry>
+  <Entry Index="428">&lt;playername&gt;. Popuri. Vocês juram ser fiéis um ao outro
+pelo resto de suas vidas...&lt;wait&gt;&lt;page&gt;
+...e se amarem e se respeitarem, nas alegrias e tristezas,
+na saúde e na doença? Agora e para sempre?&lt;wait&gt;</Entry>
+  <Entry Index="429">Popuri! ¡&lt;playername&gt;! Parabéns
+&lt;gender&gt;("aos","as") dois! Que tenham uma vida
+muito feliz &lt;gender&gt;("juntos","juntas")&lt;wait&gt;</Entry>
+  <Entry Index="430">Popuri! ¡&lt;playername&gt;! Parabéns
+&lt;gender&gt;("aos","as") dois! Que tenham uma vida
+muito feliz &lt;gender&gt;("juntos","juntas")&lt;wait&gt;</Entry>
+  <Entry Index="431">Parabéns, querida! Você está tão bonita!&lt;wait&gt;&lt;page&gt;
+Papai não pôde vir, mas tenho certeza que ele
+te deseja toda a felicidade do mundo.&lt;wait&gt;</Entry>
   <Entry Index="432">&lt;playername&gt;...
-Ahora podremos estar &lt;gender&gt;("juntos","juntas") para siempre.
-Te quiero. ∀&lt;wait&gt;</Entry>
+Agora poderemos ficar &lt;gender&gt;("juntos","juntas") para sempre.
+Eu te amo. ∀&lt;wait&gt;</Entry>
   <Entry Index="433">&lt;playername&gt;...
-Ahora podremos estar &lt;gender&gt;("juntos","juntas") para siempre.
-Te quiero. ∀&lt;wait&gt;</Entry>
-  <Entry Index="434">¡Uf! ¡Por fin puedo respirar tranquila! La ceremonia, la
-foto, el banquete... ¡Menudo torbellino de emociones!&lt;wait&gt;</Entry>
-  <Entry Index="435">¡Uf! ¡Por fin puedo respirar tranquila! La ceremonia, la
-foto, el banquete... ¡Menudo torbellino de emociones!&lt;wait&gt;</Entry>
-  <Entry Index="436">Se les ha ido de las manos a mamá y a Rick. ¡Y han llorado
-tanto! Verlos llorar a ellos me ha hecho llorar a mí
-también.&lt;wait&gt;</Entry>
-  <Entry Index="437">Han pasado tantas cosas hoy... pero ahora por fin
-podremos pasar un tiempo a solas.&lt;wait&gt;</Entry>
-  <Entry Index="438">Han pasado tantas cosas hoy... pero ahora por fin
-podremos pasar un tiempo a solas.&lt;wait&gt;</Entry>
-  <Entry Index="439">Así que, bueno, ahora que estamos &lt;gender&gt;("casados","casadas"), ¿no crees que
-estaría guay que nos pusiésemos apodos?&lt;wait&gt;&lt;page&gt;
-Tú puedes llamarme Popuri, igual que siempre.&lt;wait&gt;&lt;page&gt;
-¿Cómo te gustaría que te llamase?&lt;wait&gt;</Entry>
-  <Entry Index="440">¡Vale! ¡Me parece bien!&lt;wait&gt;</Entry>
-  <Entry Index="441">¿Otra cosa? Vale. ¿Cómo quieres que te llame? &lt;wait&gt;</Entry>
-  <Entry Index="442">¡Vale! De ahora en adelante, te llamaré
+Agora poderemos ficar &lt;gender&gt;("juntos","juntas") para seempre.
+Eu te amo. ∀&lt;wait&gt;</Entry>
+  <Entry Index="434">Ufa! Finalmente posso respirar aliviada! a cerimônia,
+a foto, o banquete... Que turbilhão de emoções!&lt;wait&gt;</Entry>
+  <Entry Index="435">Ufa! Finalmente posso respirar aliviada! a cerimônia,
+a foto, o banquete... Que turbilhão de emoções!&lt;wait&gt;</Entry>
+  <Entry Index="436">Mamãe e Rick ficaram fora de controle. Eles choraram
+tanto! Vê-los chorar me fez chorar também.&lt;wait&gt;</Entry>
+  <Entry Index="437">Tanta coisa aconteceu hoje... mas agora finalmente
+podemos passar algum tempo sozinhos.&lt;wait&gt;</Entry>
+  <Entry Index="438">Tanta coisa aconteceu hoje... mas agora finalmente
+podemos passar algum tempo sozinhas.&lt;wait&gt;</Entry>
+  <Entry Index="439">Então, bem, agora que somos &lt;gender&gt;("casados","casadas"), você não acha
+seria legal darmos apelidos um ao outro?&lt;wait&gt;&lt;page&gt;
+Pode me chamar de Popuri, como sempre.&lt;wait&gt;&lt;page&gt;
+Como você gostaria que eu o chamasse?&lt;wait&gt;</Entry>
+  <Entry Index="440">Ok! Parece bom para mim!&lt;wait&gt;</Entry>
+  <Entry Index="441">Outro apelido? Certo. Como você quer que eu te chame? &lt;wait&gt;</Entry>
+  <Entry Index="442">Ok! De agora em diante, eu te chamarei de
 &lt;nickname&gt;. ∀&lt;wait&gt;</Entry>
-  <Entry Index="443">¡Ah! ¡Vale! Aunque estemos &lt;gender&gt;("casados","casadas") me gustaría seguir
-ayudando a mamá en la tienda, como siempre.&lt;wait&gt;</Entry>
-  <Entry Index="444">¿De verdad? ¡Gracias! Trabajaré aún más duro. ¡Te lo
-prometo!&lt;wait&gt;</Entry>
-  <Entry Index="445">Oh, ¿en serio? Vale. Mamá tiene a Rick para que le ayude,
-así que supongo que estará bien. Solo iré a ayudarles si es
-realmente necesario.&lt;wait&gt;</Entry>
-  <Entry Index="446">Oye, &lt;nickname&gt;. ∀ Hoy es el primer día del resto de
-nuestras vidas. Me muero de ganas por ver qué nos
-espera mañana.&lt;wait&gt;</Entry>
-  <Entry Index="447">Oye, &lt;nickname&gt;. ∀ Hoy es el primer día del resto de
-nuestras vidas. Me muero de ganas por ver qué nos
-espera mañana.&lt;wait&gt;</Entry>
-  <Entry Index="448">¡&lt;gender&gt;("Bienvenido","Bienvenida")!&lt;wait&gt;</Entry>
-  <Entry Index="449">No te había visto por aquí antes. ¡Ah! Eres
-&lt;playername&gt;, ¿no?</Entry>
-  <Entry Index="450">No te había visto por aquí antes. ¡Ah! Eres
-&lt;playername&gt;, ¿no?</Entry>
-  <Entry Index="451">¡Lo sabía! El alcalde dijo que había venido alguien nuevo al
-pueblo, así que supuse que serías tú.&lt;wait&gt;</Entry>
-  <Entry Index="452">Es un placer conocerte.&lt;wait&gt; Soy Ran, hija única y la columna
-vertebral de esta pensión. Este de aquí es mi padre.&lt;wait&gt;</Entry>
-  <Entry Index="453">Buenas. Soy Dudley, el dueño de la pensión. Encantado de
-conocerte.&lt;wait&gt;</Entry>
-  <Entry Index="454">Ah, ¡&lt;playername&gt;! ¿Has venido aquí a comer?&lt;wait&gt;</Entry>
-  <Entry Index="455">Ah, ¡&lt;playername&gt;! ¿Has venido aquí a comer?&lt;wait&gt;</Entry>
-  <Entry Index="456">Genial. Siéntate donde quieras.&lt;wait&gt;</Entry>
-  <Entry Index="457">Ah, tengo una idea. ¡Hoy invita la casa! ¡No hay mejor
-forma de ganarse &lt;gender&gt;("un","una") &lt;gender&gt;("cliente","clienta") de por vida!</Entry>
-  <Entry Index="458">¿Te parece bien, papá?&lt;wait&gt;</Entry>
-  <Entry Index="459">Qué hija más lista tengo. Puede que se convierta en
-habitual después de esto.&lt;wait&gt;</Entry>
+  <Entry Index="443">Ah! Certo! Apesar de sermos &lt;gender&gt;("casados","casadas") gostaria de continuar
+ajudando a mamãe na loja, como sempre.&lt;wait&gt;</Entry>
+  <Entry Index="444">Sério? Obrigada! Vou dar o meu melhor,
+prometo!!&lt;wait&gt;</Entry>
+  <Entry Index="445">Ah, sério? Ok. Mamãe tem Rick para ajudá-la,
+então acho que vai ficar tudo bem. Eu só irei ajudá-la
+quando for realmente necessário.&lt;wait&gt;</Entry>
+  <Entry Index="446">Oye, &lt;nickname&gt;. ∀ Hoje é o primeiro dia do resto de
+nossas vidas. Estou morrendo de vontade de saber o que nos
+espera o amanhã.&lt;wait&gt;</Entry>
+  <Entry Index="447">Oye, &lt;nickname&gt;. ∀ Hoje é o primeiro dia do resto de
+nossas vidas. Estou morrendo de vontade de saber o que nos
+espera o amanhã.&lt;wait&gt;</Entry>
+  <Entry Index="448">¡&lt;gender&gt;("Bem-vindo","Bem-vinda")!&lt;wait&gt;</Entry>
+  <Entry Index="449">Não vi você por aqui antes. Ah, você é o
+&lt;playername&gt;, certo?</Entry>
+  <Entry Index="450">Não vi você por aqui antes. Ah, você é a
+&lt;playername&gt;, certo?</Entry>
+  <Entry Index="451">Eu sabia! O prefeito disse que alguém novo tinha
+vindo para a cidade, então presumi que seria você.&lt;wait&gt;</Entry>
+  <Entry Index="452">É um prazer conhecê-lo.&lt;wait&gt; Eu sou Ran, filha única
+e a espinha dorsal desta pousada.
+Este aqui é meu pai.&lt;wait&gt;</Entry>
+  <Entry Index="453">Olá. Sou Dudley, o dono da pousada. Fico feliz
+de conhecer você.&lt;wait&gt;</Entry>
+  <Entry Index="454">Ah, &lt;playername&gt;! Você veio aqui para comer?&lt;wait&gt;</Entry>
+  <Entry Index="455">Ah, &lt;playername&gt;! Você veio aqui para comer?&lt;wait&gt;</Entry>
+  <Entry Index="456">Ótimo. Sente-se onde quiser.&lt;wait&gt;</Entry>
+  <Entry Index="457">Ah, tenho uma ideia. Hoje é por conta da casa!
+Não há maneira melhor de ganhar &lt;gender&gt;("um","uma") &lt;gender&gt;("cliente","cliente")
+para toda a vida!</Entry>
+  <Entry Index="458">Tudo bem para você, papai?&lt;wait&gt;</Entry>
+  <Entry Index="459">Que filha esperta eu tenho. Pode se tornar
+comum depois disso.&lt;wait&gt;</Entry>
   <Entry Index="460">Bueno, ya la has oído.
 Hoy invito yo, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="461">¿Ves? Hasta a papá le parece bien.
