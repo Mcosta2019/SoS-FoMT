@@ -1601,119 +1601,126 @@ na biblioteca como antes. Tudo bem para você?&lt;wait&gt;</Entry>
   <Entry Index="756">Bem, veja ISSO!&lt;wait&gt;</Entry>
   <Entry Index="757">Francamente! Quantas vezes eu já te falei
 que este é um ambiente esterilizado!?! Isso significa
-nada de aniamis! Nem mesmo um!&lt;wait&gt;</Entry>
-  <Entry Index="758">Je, je, je. ¡Si sigues enfadándote te vas a convertir
-en una vieja arrugada!&lt;wait&gt;</Entry>
-  <Entry Index="759">¿P-pero qué...?&lt;wait&gt;</Entry>
-  <Entry Index="760">¡¿Y a dónde te crees que vas tú ahora?! ¡Vuelve aquí!&lt;wait&gt;</Entry>
-  <Entry Index="761">¡Ah! No eres de por aquí, ¿verdad?&lt;wait&gt;</Entry>
-  <Entry Index="762">Siento todo esto. Eres &lt;playername&gt;, &lt;gender&gt;("el que","la que") ha
-venido a trabajar a la granja, ¿no?&lt;wait&gt;&lt;page&gt;
-Has sido la comidilla del pueblo desde que llegaste.&lt;wait&gt;</Entry>
-  <Entry Index="763">Siento todo esto. Eres &lt;playername&gt;, &lt;gender&gt;("el que","la que") ha
-venido a trabajar a la granja, ¿no?&lt;wait&gt;&lt;page&gt;
-Has sido la comidilla del pueblo desde que llegaste.&lt;wait&gt;</Entry>
-  <Entry Index="764">Me llamo Elly. Soy la enfermera de la clínica.
-Encantada de conocerte.&lt;wait&gt;</Entry>
+nada de insetos! Nem um sequer!&lt;wait&gt;</Entry>
+  <Entry Index="758">Heh heh heh. Se continuar com raiva,
+vai se tornar uma velha enrugada!&lt;wait&gt;</Entry>
+  <Entry Index="759">M-mas o que...?&lt;wait&gt;</Entry>
+  <Entry Index="760">E onde você pensa que vai agora?! Volte aqui!&lt;wait&gt;</Entry>
+  <Entry Index="761">Ah! Você não é daqui, né?&lt;wait&gt;</Entry>
+  <Entry Index="762">Sinto muito por tudo isso. 
+Você é &lt;playername&gt;, &lt;gender&gt;("aquele que","aquela que") veio
+trabalhar na fazenda, certo?&lt;wait&gt;&lt;page&gt;
+Você tem sido o assunto da cidade desde que chegou.&lt;wait&gt;</Entry>
+  <Entry Index="763">Sinto muito por tudo isso.
+Você é &lt;playername&gt;, &lt;gender&gt;("aquele que","aquela que") veio
+trabalhar na fazenda, certo?&lt;wait&gt;&lt;page&gt;
+Você tem sido o assunto da cidade desde que chegou.&lt;wait&gt;</Entry>
+  <Entry Index="764">Meu nome é Elly. Eu sou a enfermeira da clínica.
+Prazer em conhecê-lo.&lt;wait&gt;</Entry>
   <Entry Index="765">Ah, &lt;playername&gt;.
-¿Has venido a hacerte una revisión?&lt;wait&gt;</Entry>
+Você veio fazer um check-up?&lt;wait&gt;</Entry>
   <Entry Index="766">Ah, &lt;playername&gt;.
-¿Has venido a hacerte una revisión?&lt;wait&gt;</Entry>
-  <Entry Index="767">Ah, ¿sí?&lt;wait&gt;&lt;page&gt;
-Deberías convertir las visitas a la clínica en un hábito. Es
-importante tener una buena rutina para cuidarse.&lt;wait&gt;</Entry>
-  <Entry Index="768">Y hablando de visitas...&lt;wait&gt;</Entry>
-  <Entry Index="769">¡Deja de esconderte detrás de &lt;playername&gt; y
-mírame a la cara, Yu!&lt;wait&gt;</Entry>
-  <Entry Index="770">¡Deja de esconderte detrás de &lt;playername&gt; y
-mírame a la cara, Yu!&lt;wait&gt;</Entry>
-  <Entry Index="771">¡Bueeeeno!&lt;wait&gt;</Entry>
-  <Entry Index="772">Ahg... Es un bromista de manual...&lt;wait&gt;</Entry>
-  <Entry Index="773">Lo único que he hecho ha sido traerte un bicho.&lt;wait&gt;</Entry>
-  <Entry Index="774">Sabes que odio los insectos.&lt;wait&gt;</Entry>
-  <Entry Index="775">Pues por eso te los traigo.
-Para que te empiecen a gustar.&lt;wait&gt;</Entry>
-  <Entry Index="776">Ay... Siempre tienes respuesta para todo. 
-¿De quién habrás aprendido eso?&lt;wait&gt;</Entry>
-  <Entry Index="777">Entiendes cómo me siento, ¿no?
-Eres de los míos, ¿verdad?&lt;wait&gt;</Entry>
-  <Entry Index="778">Entiendes cómo me siento, ¿no?&lt;wait&gt;</Entry>
-  <Entry Index="779">Sí, claro. ¿Qué bicho le ha picado?</Entry>
-  <Entry Index="780">No deberías molestar a la gente.</Entry>
-  <Entry Index="781">Me lo imaginaba. ¡Vamos a ser mejores amigos! ¡Lo sé!&lt;wait&gt;</Entry>
-  <Entry Index="782">En serio, Yu...&lt;wait&gt;</Entry>
-  <Entry Index="783">Por favor, no le animes, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Lo va a usar como excusa para causar más problemas.&lt;wait&gt;</Entry>
-  <Entry Index="784">Por favor, no le animes, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Lo va a usar como excusa para causar más problemas.&lt;wait&gt;</Entry>
+Você veio fazer um check-up?&lt;wait&gt;</Entry>
+  <Entry Index="767">Ah, sim?&lt;wait&gt;&lt;page&gt;
+Você deveria fazer da visita à clínica um hábito.
+É importante ter uma rotina de exames.&lt;wait&gt;</Entry>
+  <Entry Index="768">E por falar em visitas...&lt;wait&gt;</Entry>
+  <Entry Index="769">Saia detrás do &lt;playername&gt; e
+olhe na minha cara, Yu!&lt;wait&gt;</Entry>
+  <Entry Index="770">Saia detrás da &lt;playername&gt; e
+olhe na minha cara, Yu!&lt;wait&gt;</Entry>
+  <Entry Index="771">Tá booom!&lt;wait&gt;</Entry>
+  <Entry Index="772">Ahg... Ele é um pestinha...&lt;wait&gt;</Entry>
+  <Entry Index="773">Tudo o que fiz foi te mostrar um inseto.&lt;wait&gt;</Entry>
+  <Entry Index="774">Você sabe que eu odeio insetos.&lt;wait&gt;</Entry>
+  <Entry Index="775">Bem, é por isso que os trago para você.
+Para que você comece a gostar deles.&lt;wait&gt;</Entry>
+  <Entry Index="776">Ah... Sempre tem uma resposta para tudo.
+Com quem você aprendeu isso?&lt;wait&gt;</Entry>
+  <Entry Index="777">Você me entende, né?
+É dos meus, certo?&lt;wait&gt;</Entry>
+  <Entry Index="778">Você me entende, né?&lt;wait&gt;</Entry>
+  <Entry Index="779">Sim, claro. Que bixo te mordeu?</Entry>
+  <Entry Index="780">Você não deve incomodar os outros.</Entry>
+  <Entry Index="781">Sabia que era. Vamos ser melhores amigos! Pode crer!&lt;wait&gt;</Entry>
+  <Entry Index="782">É sério, Yu...&lt;wait&gt;</Entry>
+  <Entry Index="783">Por favor, não o incentive, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Ele vai usar isso como desculpa para
+causar mais problemas.&lt;wait&gt;</Entry>
+  <Entry Index="784">Por favor, não o incentive, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Ele vai usar isso como desculpa para
+causar mais problemas.&lt;wait&gt;</Entry>
   <Entry Index="785">...&lt;wait&gt;&lt;page&gt;
-¡Buaaaah!&lt;wait&gt;</Entry>
-  <Entry Index="786">Gracias por reñirle. Y no te preocupes, son lágrimas de
-cocodrilo, te lo prometo.&lt;wait&gt;&lt;page&gt;
-Es solo que no está acostumbrado a que le regañen
-otras personas.&lt;wait&gt;&lt;page&gt;
-Espero que eso le haga replantearse las cosas antes de
-gastar otra broma de las suyas.&lt;wait&gt;</Entry>
-  <Entry Index="787">Entiendo cómo se siente Yu.&lt;wait&gt;&lt;page&gt;
-Los críos buscan atención, así que gastan bromas a
-quienes les importan.&lt;wait&gt;</Entry>
-  <Entry Index="788">Estoy cansada de sus tonterías.&lt;wait&gt;</Entry>
-  <Entry Index="789">¿Qué pasa, &lt;playername&gt;?
-¿Te encuentras mal?&lt;wait&gt;</Entry>
-  <Entry Index="790">¿Qué pasa, &lt;playername&gt;?
-¿Te encuentras mal?&lt;wait&gt;</Entry>
+Buaaaah!&lt;wait&gt;</Entry>
+  <Entry Index="786">Obrigada por repreendê-lo. E não se preocupe,
+são lágrimas de crocodilo, eu garanto.&lt;wait&gt;&lt;page&gt;
+É só que ele não está acostumado a ser repreendido
+pelas outras pessoas.&lt;wait&gt;&lt;page&gt;
+Espero que isso o faça repensar as coisas
+antes de aprontar outra das suas.&lt;wait&gt;</Entry>
+  <Entry Index="787">Eu entendo como Yu se sente.&lt;wait&gt;&lt;page&gt;
+As crianças buscam atenção, então pregam peças
+naqueles com quem se importam.&lt;wait&gt;</Entry>
+  <Entry Index="788">Estou cansada de suas brincadeiras.&lt;wait&gt;</Entry>
+  <Entry Index="789">Tudo bem, &lt;playername&gt;?
+Tem algo errado?&lt;wait&gt;</Entry>
+  <Entry Index="790">Tudo bem, &lt;playername&gt;?
+Tem algo errado?&lt;wait&gt;</Entry>
   <Entry Index="791">¿Eh? Has... ¿has venido a verme?&lt;wait&gt;&lt;page&gt;
 Ah, &lt;playername&gt;. Qué amable eres.&lt;wait&gt;&lt;page&gt;
 No tengo a nadie a quien atender, así que puedo quedarme
 a hablar un rato.&lt;wait&gt;</Entry>
-  <Entry Index="792">¿Eh? Has... ¿has venido a verme?&lt;wait&gt;&lt;page&gt;
-Ah, &lt;playername&gt;. Qué amable eres.&lt;wait&gt;&lt;page&gt;
-No tengo a nadie a quien atender, así que puedo quedarme
-a hablar un rato.&lt;wait&gt;</Entry>
-  <Entry Index="793">Au..&lt;wait&gt;</Entry>
-  <Entry Index="794">¡Jeff! ¿Qué ha pasado?&lt;wait&gt;</Entry>
+  <Entry Index="792">Uh? Você... você veio me ver?&lt;wait&gt;&lt;page&gt;
+Ah, &lt;playername&gt;. Que gentileza sua.&lt;wait&gt;&lt;page&gt;
+Não tenho ninguém para atender, então podemos
+conversar um pouco.&lt;wait&gt;</Entry>
+  <Entry Index="793">Au...&lt;wait&gt;</Entry>
+  <Entry Index="794">Jeff! O que aconteceu?&lt;wait&gt;</Entry>
   <Entry Index="795">Au...
-¿Puedes llamar al doctor?&lt;wait&gt;</Entry>
-  <Entry Index="796">¡Sí, por supuesto!&lt;wait&gt;&lt;page&gt;
-¡Doctor! ¡Doctor, rápido!&lt;wait&gt;</Entry>
-  <Entry Index="797">Doctor, aquí está la medicina de Jeff.&lt;wait&gt;</Entry>
-  <Entry Index="798">Claro. Gracias.&lt;wait&gt;</Entry>
-  <Entry Index="799">Espera, Elly. ¡Esto no es lo que le receté!&lt;wait&gt;</Entry>
-  <Entry Index="800">¡Ah! Tienes razón.&lt;wait&gt;&lt;page&gt;
-L-lo siento mucho. ¡Voy a por la medicina correcta
-ahora mismo!&lt;wait&gt;</Entry>
-  <Entry Index="801">¿Me pondré bien?</Entry>
-  <Entry Index="802">Lo siento muchísimo, doctor.&lt;wait&gt;</Entry>
-  <Entry Index="803">Me di cuenta del error antes de dársela, así que no ha
-pasado nada. Ten cuidado a partir de ahora.&lt;wait&gt;</Entry>
-  <Entry Index="804">Tómate esto todos los días. Que no se te olvide.&lt;wait&gt;</Entry>
-  <Entry Index="805">Gracias, doctor. Si hemos terminado, mejor
-me vuelvo al bazar.&lt;wait&gt;</Entry>
-  <Entry Index="806">Ay... Y pensar que he vuelto a cometer el mismo error...
-Qué vergüenza.&lt;wait&gt;&lt;page&gt;
-Soy una inútil. ¿Acaso soy buena enfermera?&lt;wait&gt;</Entry>
-  <Entry Index="807">Que los errores no te detengan.</Entry>
+Você poderia chamar o Doutor?&lt;wait&gt;</Entry>
+  <Entry Index="796">Sim, claro!&lt;wait&gt;&lt;page&gt;
+Doutor! Doutor, rápido!&lt;wait&gt;</Entry>
+  <Entry Index="797">Doutor, aqui está o remédio de Jeff.&lt;wait&gt;</Entry>
+  <Entry Index="798">Certo. Obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="799">Espere, Elly. Não foi isso o que eu receitei!&lt;wait&gt;</Entry>
+  <Entry Index="800">Ah! Você está certo.&lt;wait&gt;&lt;page&gt;
+E-eu sinto muito. Eu estou indo pegar o remédio
+certo agora mesmo!&lt;wait&gt;</Entry>
+  <Entry Index="801">Vou ficar bem?</Entry>
+  <Entry Index="802">Sinto muito, doutor.&lt;wait&gt;</Entry>
+  <Entry Index="803">Percebi o erro antes de medicá-lo,
+então está tudo bem. Tenha mais cuidado
+a partir de agora.&lt;wait&gt;</Entry>
+  <Entry Index="804">Tome isso todos os dias. Não se esqueça.&lt;wait&gt;</Entry>
+  <Entry Index="805">Obrigado, doutor. Se terminamos, é melhor
+eu voltar ao armazém.&lt;wait&gt;</Entry>
+  <Entry Index="806">Ai... E pensar que cometi o mesmo erro de novo...
+Que vergonha.&lt;wait&gt;&lt;page&gt;
+Eu sou inutil. Será que sou uma boa enfermeira?&lt;wait&gt;</Entry>
+  <Entry Index="807">Não deixe os erros te desanimarem.</Entry>
   <Entry Index="808">...</Entry>
-  <Entry Index="809">Tienes razón, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Si me equivoco y me rindo sin intentarlo,
-nunca conseguiré nada.&lt;wait&gt;</Entry>
-  <Entry Index="810">Tienes razón, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Si me equivoco y me rindo sin intentarlo,
-nunca conseguiré nada.&lt;wait&gt;</Entry>
-  <Entry Index="811">Lo que necesito ahora es aprender de mis errores para
-no repetirlos en el futuro.&lt;wait&gt;</Entry>
-  <Entry Index="812">Debo asegurarme de que no vuelvo a equivocarme
-con las medicinas.&lt;wait&gt;&lt;page&gt;
-Y por eso me acordaré siempre de este día, para no poner
-en peligro la salud de ningún paciente.&lt;wait&gt;&lt;page&gt;
-Gracias por tus ánimos, &lt;playername&gt;. Mi pronóstico
-tiene mejor pinta gracias a ti.&lt;wait&gt;</Entry>
-  <Entry Index="813">Debo asegurarme de que no vuelvo a equivocarme
-con las medicinas.&lt;wait&gt;&lt;page&gt;
-Y por eso me acordaré siempre de este día, para no poner
-en peligro la salud de ningún paciente.&lt;wait&gt;&lt;page&gt;
-Gracias por tus ánimos, &lt;playername&gt;. Mi pronóstico
-tiene mejor pinta gracias a ti.&lt;wait&gt;</Entry>
+  <Entry Index="809">Você está certo, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Se eu cometer um erro e desistir sem tentar,
+Nunca vou conseguir nada.&lt;wait&gt;</Entry>
+  <Entry Index="810">Você está certo, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Se eu cometer um erro e desistir sem tentar,
+Nunca vou conseguir nada.&lt;wait&gt;</Entry>
+  <Entry Index="811">O que preciso agora é aprender com meus erros
+para não repeti-los no futuro.&lt;wait&gt;</Entry>
+  <Entry Index="812">Tenho que me certificar de não cometer um
+erro com os medicamentos novamente.&lt;wait&gt;&lt;page&gt;
+E é por isso que sempre me lembrarei deste dia,
+para jamais colocar em risco a saúde de
+qualquer outro paciente.&lt;wait&gt;&lt;page&gt;
+Obrigada pelo seu incentivo, &lt;playername&gt;. Meu prognóstico
+ficou melhor graças a você.&lt;wait&gt;</Entry>
+  <Entry Index="813">Tenho que me certificar de não cometer um
+erro com os medicamentos novamente.&lt;wait&gt;&lt;page&gt;
+E é por isso que sempre me lembrarei deste dia,
+para jamais colocar em risco a saúde de
+qualquer outro paciente.&lt;wait&gt;&lt;page&gt;
+Obrigada pelo seu incentivo, &lt;playername&gt;. Meu prognóstico
+ficou melhor graças a você..&lt;wait&gt;</Entry>
   <Entry Index="814">A lo mejor mi elección de carrera ha sido una pérdida de
 tiempo...&lt;wait&gt;&lt;page&gt;
 Siento mucho estar así, pero no me apetece hablar con
