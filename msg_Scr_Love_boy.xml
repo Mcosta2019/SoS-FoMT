@@ -2487,7 +2487,7 @@ legal para melhorar esse semblante?&lt;wait&gt;</Entry>
 coisas em sua fazenda. Você é &lt;gender&gt;("um esquitão","uma esquisitona"),
 &lt;playername&gt;. ♪&lt;wait&gt;</Entry>
   <Entry Index="1129">Uau, eu não sabia que você tinha essas
-coisas em sua fazenda. Você é &lt;gender&gt;("Menudo rarito","Menuda rarita"),
+coisas em sua fazenda. Você é &lt;gender&gt;("um esquitão","uma esquisitona"),
 &lt;playername&gt;. ♪&lt;wait&gt;</Entry>
   <Entry Index="1130">Você acabou com meu mau humor
 só de conversarmos um pouco, &lt;playername&gt;.&lt;wait&gt;</Entry>
@@ -2718,84 +2718,87 @@ Seu tio é na verdade um mágico, e ele usa sua magia
 para criar roupas muito bonitas para sua sobrinha.
  É uma história muito fofa.&lt;wait&gt;</Entry>
   <Entry Index="1224">Parece ótima!
-¡Tengo que leérmelo!&lt;wait&gt;&lt;page&gt;
-La biblioteca tiene taaantos libros que no se me había
-ocurrido echarles un vistazo antes, pero ahora...&lt;wait&gt;</Entry>
-  <Entry Index="1225">Supongo que solo hay que saber dónde buscar. Puede que
-disfrute de la lectura si escoges libros para mí, Marie.&lt;wait&gt;</Entry>
-  <Entry Index="1226">¿Verdad que sí?&lt;wait&gt;&lt;page&gt;
-Siempre me esfuerzo al máximo para conseguir que venga
-gente que no lee a la biblioteca. Así que por favor, coged
-más libros.&lt;wait&gt;</Entry>
-  <Entry Index="1227">¡Sí, vale!&lt;wait&gt;</Entry>
-  <Entry Index="1228">Ahora mismo tengo que hacer un encargo para Lillia, así
-que debo ir a casa de Popuri.&lt;wait&gt;&lt;page&gt;
-Pero vendré seguro a llevarme ese libro
-del que has hablado.&lt;wait&gt;</Entry>
-  <Entry Index="1229">Quiero conocer más libros, así que vendré
-más a la biblioteca. ♪&lt;wait&gt;&lt;page&gt;
-Nos vemos, Marie y &lt;playername&gt;.&lt;wait&gt;</Entry>
+Tenho que ler esse livro!&lt;wait&gt;&lt;page&gt;
+A biblioteca tem tantos livros que eu não tinha
+pensado em conferir antes, mas agora...&lt;wait&gt;</Entry>
+  <Entry Index="1225">Acho que você só precisa saber onde procurar.
+Talvez eu goste de ler se você escolher
+os livros para mim, Marie.&lt;wait&gt;</Entry>
+  <Entry Index="1226">É mesmo?&lt;wait&gt;&lt;page&gt;
+Eu sempre faço o meu melhor para que as pessoas
+que não leem venham à biblioteca.
+Então, peguem mais livros.&lt;wait&gt;</Entry>
+  <Entry Index="1227">Sim, tudo bem!&lt;wait&gt;</Entry>
+  <Entry Index="1228">Tenho um recado para Lillia agora, então
+preciso ir até a casa da Popuri.&lt;wait&gt;&lt;page&gt;
+Mas com certeza irei levar aquele livro de
+que você falou.&lt;wait&gt;</Entry>
+  <Entry Index="1229">Quero conhecer mais livros, então irei
+mais vezes à biblioteca. ♪&lt;wait&gt;&lt;page&gt;
+Até mais, Marie e &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="1230">0</Entry>
-  <Entry Index="1231">Parece que he despertado su interés gracias a los libros
-que le he recomendado.&lt;wait&gt;&lt;page&gt;
-Siempre me pongo muy feliz cuando alguien se interesa
-por la lectura.&lt;wait&gt;</Entry>
-  <Entry Index="1232">Estoy segura de que todo es
-gracias a ti, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Desde que te conozco, creo que ha venido más gente
-a la biblioteca.&lt;wait&gt;</Entry>
-  <Entry Index="1233">Y también hay más gente que habla conmigo.&lt;wait&gt;&lt;page&gt;
-Quieren que les recomiende libros, como hoy, o que
-encuentre libros que les ayuden con sus aficiones
-o sus investigaciones.&lt;wait&gt;&lt;page&gt;
-Creo que es porque soy más amable desde que te conozco.&lt;wait&gt;&lt;page&gt;
-Puede que por eso la gente del pueblo esté más dispuesta
-a hablar conmigo.&lt;wait&gt;</Entry>
-  <Entry Index="1234">Me has ayudado a crecer y a cambiar.
-Gracias, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1235">Se está haciendo tarde, pero vamos a la biblioteca.&lt;wait&gt;&lt;page&gt;
-Todavía no he escogido ningún libro para ti, y es de lo que
-más tengo ganas.&lt;wait&gt;</Entry>
+  <Entry Index="1231">Parece que despertei seus interesses graças 
+aos livros que recomendei.&lt;wait&gt;&lt;page&gt;
+Fico sempre muito feliz quando alguém tem
+interesse em ler.&lt;wait&gt;</Entry>
+  <Entry Index="1232">Tenho certeza que é tudo graças a você,
+&lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Desde que te conheci, acho que mais pessoas
+vieram à biblioteca.&lt;wait&gt;</Entry>
+  <Entry Index="1233">Eles querem recomendações de livros,
+como hoje, ou que encontrem livros para ajudá-los
+em seus hobbies ou pesquisas.&lt;wait&gt;&lt;page&gt;
+Acho que é porque tenho sido mais legal
+desde que te conheci.&lt;wait&gt;&lt;page&gt;
+Talvez seja por isso que as pessoas da cidade estejam
+mais dispostas a falar comigo.&lt;wait&gt;</Entry>
+  <Entry Index="1234">Você me ajudou a crescer e mudar.
+Obrigada, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1235">Está ficando tarde, mas vamos até
+a biblioteca.&lt;wait&gt;&lt;page&gt;
+Ainda não escolhi nenhum livro para você, e é isso
+que estou mais ansiosa para fazer.&lt;wait&gt;</Entry>
   <Entry Index="1236">Ah, &lt;playername&gt;.
-Me alegro de que hayas venido, pero... Ya es tarde y
-hemos cerrado. Disculpa.&lt;wait&gt;</Entry>
-  <Entry Index="1237">Estaba pensando en ir a pasear a la montaña.&lt;wait&gt;&lt;page&gt;
-Suelo sentirme más inspirada para mis novelas cuando
-estoy por ahí andando.&lt;wait&gt;</Entry>
-  <Entry Index="1238">¿Eh? ¿Quieres venir conmigo?</Entry>
-  <Entry Index="1239">Pues claro que me apetece tu compañía.
-Vamos a dar un paseo &lt;gender&gt;("juntos","juntas").&lt;wait&gt;</Entry>
-  <Entry Index="1240">Aaah. Qué revitalizante. Venir aquí siempre activa
-mi imaginación.&lt;wait&gt;</Entry>
-  <Entry Index="1241">Estoy usando la cumbre de aquí como inspiración para mi
-siguiente historia.&lt;wait&gt;</Entry>
-  <Entry Index="1242">Esta vez, estoy planeando escribir una historia que sea
-una mezcla entre un antiguo mito alpino
-y una novela romántica.&lt;wait&gt;&lt;page&gt;
-Es una trágica historia de amor entre alguien que se ha
-convertido en hombre lobo por culpa de una maldición y la
-diosa de la montaña.&lt;wait&gt;&lt;page&gt;
-El hombre lobo no envejece por la maldición y un día
-conoce a la diosa de la montaña y se enamora.&lt;wait&gt;&lt;page&gt;
-Pero la diosa sabe que el hombre lobo quiere volver a ser
-un simple humano de nuevo, así que le concede su deseo.&lt;wait&gt;</Entry>
-  <Entry Index="1243">El hombre lobo se vuelve humano otra vez, pero ya no
-puede volver a ver a su amada diosa de la montaña,
-puesto que la maldición ha desaparecido.&lt;wait&gt;&lt;page&gt;
-Ambos aprenden que tanto para ganar como para perder,
-hay que pagar un precio.&lt;wait&gt;</Entry>
-  <Entry Index="1244">Y la persona vuelve una vez más al camino de la
-mortalidad, con su corazón rebosante de conflictos.
-Así acaba.&lt;wait&gt;&lt;page&gt;
-¿Qué opinas?&lt;wait&gt;</Entry>
-  <Entry Index="1245">¡Es emocionante e inspiradora!</Entry>
-  <Entry Index="1246">Es muy oscuro, Marie.</Entry>
-  <Entry Index="1247">Vaya, gracias. Me da vergüenza hablar sobre ella cuando
-ni siquiera he terminado todavía.&lt;wait&gt;&lt;page&gt;
-Pero tus ánimos han renovado mi motivación.&lt;wait&gt;</Entry>
-  <Entry Index="1248">Supongo que es bastante esotérico.&lt;wait&gt;&lt;page&gt;
-Pero... me gustaría que llegase a un público 
-más amplio, así que...&lt;wait&gt;</Entry>
+Que bom que você veio, mas... Está tarde e estamos
+fechados. Desculpe.&lt;wait&gt;</Entry>
+  <Entry Index="1237">Eu estava pensando em dar um passeio nas
+montanhas.&lt;wait&gt;&lt;page&gt;
+Geralmente me sinto mais inspirada para escrever
+meus romances quando estou caminhando.&lt;wait&gt;</Entry>
+  <Entry Index="1238">Uh? Você quer vir comigo?</Entry>
+  <Entry Index="1239">Claro que quero sua companhia. Vamos dar
+uma volta &lt;gender&gt;("juntos","juntas").&lt;wait&gt;</Entry>
+  <Entry Index="1240">Aaah. Que revitalizante.
+Vir aqui sempre desperta minha imaginação.&lt;wait&gt;</Entry>
+  <Entry Index="1241">Estou usando esse encontro como inspiração
+para minha próxima história.&lt;wait&gt;</Entry>
+  <Entry Index="1242">Desta vez, estou planejando escrever uma
+história que seja uma mistura entre um
+antigo mito alpino e um romance.&lt;wait&gt;&lt;page&gt;
+É uma trágica história de amor entre um lobisomem
+amaldiçoado e a deusa da montanha.&lt;wait&gt;&lt;page&gt;
+O lobisomem não envelhece por causa da maldição e
+um dia conhece a deusa da montanha e se apaixona.&lt;wait&gt;&lt;page&gt;
+Mas a deusa sabe que o lobisomem quer ser um
+mero humano novamente, então ela concede
+o seu desejo.&lt;wait&gt;</Entry>
+  <Entry Index="1243">O lobisomem se torna humano novamente,
+mas não poderá mais ver sua amada deusa da montanha,
+pois sua maldição se foi.&lt;wait&gt;&lt;page&gt;
+Ambos aprendem que, tanto para ganhar quanto
+para perder, há um preço a pagar.&lt;wait&gt;</Entry>
+  <Entry Index="1244">E o homem retorna mais uma vez ao caminho
+da mortalidade, com o coração transbordando em
+conflito. É assim que termina.&lt;wait&gt;&lt;page&gt;
+O que você acha?&lt;wait&gt;</Entry>
+  <Entry Index="1245">É emocionante e inspirador!</Entry>
+  <Entry Index="1246">Está muito sombrio, Marie.</Entry>
+  <Entry Index="1247">Nossa, obrigada. Tenho vergonha de falar sobre
+a história quando ainda nem a terminei.&lt;wait&gt;&lt;page&gt;
+Mas seu incentivo renovou minha motivação.&lt;wait&gt;</Entry>
+  <Entry Index="1248">Acho que é bem profunda.&lt;wait&gt;&lt;page&gt;
+Mas... eu gostaria que alcançasse um público
+mais amplo, então...&lt;wait&gt;</Entry>
   <Entry Index="1249">Gracias por tus comentarios, intentaré revisarla
 para simplificarla.&lt;wait&gt;</Entry>
   <Entry Index="1250">Eres mi luz, ¿sabes?&lt;wait&gt;</Entry>
