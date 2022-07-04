@@ -1973,8 +1973,8 @@ Por que não mudamos um pouco?&lt;wait&gt;</Entry>
   <Entry Index="903">Amanhã começa nossa nova vida juntos,
 &lt;nickname&gt;. Mal posso esperar para
 ver como vai ser.&lt;wait&gt;</Entry>
-  <Entry Index="904">Próxima Pág.</Entry>
-  <Entry Index="905">Pág. Anterior</Entry>
+  <Entry Index="904">Pg. seguinte.</Entry>
+  <Entry Index="905">Pg. anterior</Entry>
   <Entry Index="906">Popuri (encontro)</Entry>
   <Entry Index="907">Popuri #1</Entry>
   <Entry Index="908">Popuri #2</Entry>
@@ -2400,101 +2400,108 @@ por gritar com ele.&lt;wait&gt;</Entry>
 me aproveitando da situação.&lt;wait&gt;&lt;page&gt;
 Eu me tornei mandona e exigi muitas coisas.
 Não foi legal. Sinto muito, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1099">Bueno, ahora que he podido asimilarlo... Sí que es difícil
-pensar cuando te sorprenden así.&lt;wait&gt;</Entry>
-  <Entry Index="1100">¿Puedes repetir lo que has dicho antes?&lt;wait&gt;</Entry>
-  <Entry Index="1101">¡Así que no estaba soñando! ¡Me estás dejando como una
-patena! ¡Yuju!&lt;wait&gt;&lt;page&gt;
-Pues claro que quiero ser tu novia. ¡Siempre que no
-sientas que te estás conformando!&lt;wait&gt;</Entry>
-  <Entry Index="1102">¡Así que no estaba soñando! ¡Me estás dejando como una
-patena! ¡Yuju!&lt;wait&gt;&lt;page&gt;
-Pues claro que quiero ser tu novia. ¡Siempre que no
-sientas que te estás conformando!&lt;wait&gt;</Entry>
-  <Entry Index="1103">Ja, ja, ahora quiero contárselo a todo el mundo. ♪ Voy a
-gritar alto y claro que eres mi novio, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1104">Ja, ja, ahora quiero contárselo a todo el mundo. ♪ Voy a
-gritar alto y claro que eres mi novia, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1105">Ojalá pudiese regodearme más en esta felicidad,
-pero tengo que volver a la pensión.
-Nos vemos, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1106">Ojalá pudiese regodearme más en esta felicidad,
-pero tengo que volver a la pensión.
-Nos vemos, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1107">Mmmm... ¿Qué debería hacer? He abarcado demasiado.&lt;wait&gt;</Entry>
+  <Entry Index="1099">Bem, agora que entendi... Com certeza
+é difícil pensar quando você está surpreso assim.&lt;wait&gt;</Entry>
+  <Entry Index="1100">Você pode repetir o que disse antes?&lt;wait&gt;</Entry>
+  <Entry Index="1101">Então eu não estava sonhando! Você está
+me deixando como um apito! Yippee!&lt;wait&gt;&lt;page&gt;
+Claro que quero ser sua namorada. Desde que você
+não sinta que está se conformando!&lt;wait&gt;</Entry>
+  <Entry Index="1102">¡Então eu não estava sonhando! Você está
+me deixando como um apito! Yippee!&lt;wait&gt;&lt;page&gt;
+Claro que quero ser sua namorada. Desde que você
+não sinta que está se conformando!&lt;wait&gt;</Entry>
+  <Entry Index="1103">Ha ha, agora quero contar a todos. ♪ Vou gritar
+em alto e bom som que você é meu namorado,
+&lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1104">Ha ha, agora quero contar a todos. ♪ Vou gritar
+em alto e bom som que você é minha namorada,
+&lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1105">Gostaria de poder mergulhar mais nessa felicidade,
+mas tenho que voltar para a pousada.
+Até mais, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1106">Gostaria de poder mergulhar mais nessa felicidade,
+mas tenho que voltar para a pousada.
+Até mais, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1107">Mmmm... O que devo fazer? Eu manchei mais.&lt;wait&gt;</Entry>
   <Entry Index="1108">Ah, &lt;playername&gt;.
-&lt;gender&gt;("Bienvenido...","Bienvenida...").
-Ay...&lt;wait&gt;</Entry>
+&lt;gender&gt;("Bem-vindo...","Bem-vinda...").
+Ai-ai...&lt;wait&gt;</Entry>
   <Entry Index="1109">Ah, &lt;playername&gt;.
-&lt;gender&gt;("Bienvenido...","Bienvenida...").
-Ay...
+&lt;gender&gt;("Bem-vindo...","Bem-vinda...").
+Ai-ai...
 &lt;wait&gt;</Entry>
-  <Entry Index="1110">¿Que tengo pinta de estar reventada? Guau.
-¿Tanto se nota?</Entry>
+  <Entry Index="1110">Eu soei tão desanimada quanto aparento? Uau.
+É tão perceptível?</Entry>
   <Entry Index="1111">0</Entry>
-  <Entry Index="1112">Es que ha venido alguien a hospedarse en la pensión y he
-acabado manchando su conjunto favorito.&lt;wait&gt;&lt;page&gt;
-Así que me estaba dando la brasa sobre cómo quitar una
-mancha en una tela blanca.&lt;wait&gt;</Entry>
-  <Entry Index="1113">Si un huésped no se fuese satisfecho, yo tampoco me
-sentiría satisfecha. No me conformaré con menos que una
-satisfacción plena.&lt;wait&gt;</Entry>
-  <Entry Index="1114">Por eso quería ayudarle, pero un poco de jabón no es
-suficiente para limpiar la megamancha a la que tengo
-que enfrentarme.&lt;wait&gt;</Entry>
-  <Entry Index="1115">Busquemos un detergente más potente.</Entry>
-  <Entry Index="1116">Vamos a hacer algo para alegrarte.</Entry>
-  <Entry Index="1117">¿Un detergente más potente, eh? Pues, si te soy sincera,
-tener algo así a mano suena... bastante práctico.&lt;wait&gt;&lt;page&gt;
-Espero que haya en el bazar. Aunque no recuerdo haber
-visto nada así la última vez que estuve...&lt;wait&gt;&lt;page&gt;
-Bueno, nunca lo sabré si no lo compruebo. ¿Quieres venir
-conmigo, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="1118">¿Un detergente más potente, eh? Pues, si te soy sincera,
-tener algo así a mano suena... bastante práctico.&lt;wait&gt;&lt;page&gt;
-Espero que haya en el bazar. Aunque no recuerdo haber
-visto nada así la última vez que estuve...&lt;wait&gt;&lt;page&gt;
-Bueno, nunca lo sabré si no lo compruebo. ¿Quieres venir
-conmigo, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="1119">Puedo darte jabón normal, pero no solemos vender el tipo
-de detergente que buscas.&lt;wait&gt;</Entry>
-  <Entry Index="1120">Lo siento, Ran. Ojalá pudiese ayudarte, pero me temo que
-nuestros artículos no te servirán.&lt;wait&gt;</Entry>
-  <Entry Index="1121">Bueno, no te preocupes. Solo he venido por si
-acaso teníais algo.&lt;wait&gt;</Entry>
-  <Entry Index="1122">Por lo menos lo has intentado. A lo mejor puedes
-encontrar a alguien en el pueblo que sepa dónde
-encontrar algo así.&lt;wait&gt;</Entry>
-  <Entry Index="1123">¿Que sea profesional en cosas inmaculadas? ¡Buena idea!
-¡Preguntaré por ahí!&lt;wait&gt;</Entry>
-  <Entry Index="1124">Muchas gracias por venir conmigo, &lt;playername&gt;. Yo
-me encargo de esto a partir de ahora.&lt;wait&gt;</Entry>
-  <Entry Index="1125">Muchas gracias por venir conmigo, &lt;playername&gt;. Yo
-me encargo de esto a partir de ahora.&lt;wait&gt;</Entry>
-  <Entry Index="1126">Sí, tienes razón. Quedarme aquí rumiando no va a
-solucionar nada.&lt;wait&gt;&lt;page&gt;
-&lt;playername&gt;, ¿por qué no vamos a algún sitio y le
-damos la vuelta a este ceño fruncido?&lt;wait&gt;</Entry>
-  <Entry Index="1127">Sí, tienes razón. Quedarme aquí rumiando no va a
-solucionar nada.&lt;wait&gt;&lt;page&gt;
-&lt;playername&gt;, ¿por qué no vamos a algún sitio y le
-damos la vuelta a este ceño fruncido?&lt;wait&gt;</Entry>
-  <Entry Index="1128">Vaya, no sabía que tuvieses estas cosas en tu granja.
-&lt;gender&gt;("Menudo rarito","Menuda rarita"), &lt;playername&gt;. ♪&lt;wait&gt;</Entry>
-  <Entry Index="1129">Vaya, no sabía que tuvieses estas cosas en tu granja.
-&lt;gender&gt;("Menudo rarito","Menuda rarita"), &lt;playername&gt;. ♪&lt;wait&gt;</Entry>
-  <Entry Index="1130">Has purgado mi mal humor con solo hablar
-un rato, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1131">Has purgado mi mal humor con solo hablar
-un rato, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1132">¡Y con una perspectiva más despejada, seguro que puedo
-resolver mi problemilla en un periquete!&lt;wait&gt;</Entry>
-  <Entry Index="1133">¡Ah! Mei. Cuando estábamos jugando en el barro, te
-manchaste la ropa.&lt;wait&gt;</Entry>
-  <Entry Index="1134">¡¿Qué?! ¡Tienes razón!
-¡Oh, noo! ¡Es mi conjunto favorito!&lt;wait&gt;</Entry>
-  <Entry Index="1135">Ah, no deberías restregar las manchas de barro así. Vas a
-conseguir que sean más difíciles de quitar.&lt;wait&gt;</Entry>
+  <Entry Index="1112">Alguém se estabeleceu na pousada e
+acabei manchando sua roupa favorita.&lt;wait&gt;&lt;page&gt;
+Então ele estava me orientando sobre como remover
+uma mancha de um tecido branco.&lt;wait&gt;</Entry>
+  <Entry Index="1113">Se um hóspede ficar desapontado, eu também
+ficarei desapontada. Não vou me contentar com
+menos do que a satisfação total.&lt;wait&gt;</Entry>
+  <Entry Index="1114">É por isso que eu queria ajudá-lo, mas um
+pouco de sabão não é suficiente para limpar
+a mega mancha com a qual tenho que lidar.&lt;wait&gt;</Entry>
+  <Entry Index="1115">Vamos encontrar um sabão melhor.</Entry>
+  <Entry Index="1116">Vamos fazer algo para animá-la.</Entry>
+  <Entry Index="1117">Um sabão melhor, uh? Bem, para ser sincera,
+ter algo assim em mãos parece... Bem útil.&lt;wait&gt;&lt;page&gt;
+Espero que tenha no armazém. Embora eu não me lembre
+de ter visto nada parecido na última vez
+que estive lá...&lt;wait&gt;&lt;page&gt;
+Bem, nunca saberei se não verificar. Quer vir
+comigo, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="1118">Um sabão melhor, uh? Bem, para ser sincera,
+ter algo assim em mãos parece... Bem útil.&lt;wait&gt;&lt;page&gt;
+Espero que tenha no armazém. Embora eu não me lembre
+de ter visto nada parecido na última vez
+que estive lá....&lt;wait&gt;&lt;page&gt;
+Bem, nunca saberei se não verificar. Quer vir
+comigo, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="1119">Posso fornecer sabão comum, mas não
+costumamos vender o sabão que procura.&lt;wait&gt;</Entry>
+  <Entry Index="1120">Desculpe. Gostaria de poder ajudá-la,
+mas receio que nossos artigos não a ajudarão.&lt;wait&gt;</Entry>
+  <Entry Index="1121">Bem, não se preocupe. Apenas vim ver
+se por acaso você não teria algo.&lt;wait&gt;</Entry>
+  <Entry Index="1122">Pelo menos você tentou. Talvez você possa
+achar alguém na cidade que saiba onde
+encontrar algo assim.&lt;wait&gt;</Entry>
+  <Entry Index="1123">Profissional em limpeza? Boa idéia!
+Vou perguntar por ai!&lt;wait&gt;</Entry>
+  <Entry Index="1124">Muito obrigada por ter vindo comigo, &lt;playername&gt;.
+Eu cuido disso a partir de agora.&lt;wait&gt;</Entry>
+  <Entry Index="1125">Muito obrigada por ter vindo comigo, &lt;playername&gt;.
+Eu cuido disso a partir de agora.&lt;wait&gt;</Entry>
+  <Entry Index="1126">Sim, você está certo. Ficar aqui ruminando
+não vai corrigir nada.&lt;wait&gt;&lt;page&gt;
+&lt;playername&gt;, por que não vamos a algum lugar
+legal para melhorar esse semblante?&lt;wait&gt;</Entry>
+  <Entry Index="1127">Sim, você está certo. Ficar aqui ruminando
+não vai corrigir nada.&lt;wait&gt;&lt;page&gt;
+&lt;playername&gt;, por que não vamos a algum lugar
+legal para melhorar esse semblante?&lt;wait&gt;</Entry>
+  <Entry Index="1128">Uau, eu não sabia que você tinha essas
+coisas em sua fazenda. Você é &lt;gender&gt;("um esquitão","uma esquisitona"),
+&lt;playername&gt;. ♪&lt;wait&gt;</Entry>
+  <Entry Index="1129">Uau, eu não sabia que você tinha essas
+coisas em sua fazenda. Você é &lt;gender&gt;("Menudo rarito","Menuda rarita"),
+&lt;playername&gt;. ♪&lt;wait&gt;</Entry>
+  <Entry Index="1130">Você acabou com meu mau humor
+só de conversarmos um pouco, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1131">Você acabou com meu mau humor
+só de conversarmos um pouco, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1132">E com uma perspectiva mais clara, com certeza
+posso resolver meu pequeno problema
+em um instante!&lt;wait&gt;</Entry>
+  <Entry Index="1133">Ah! Mei. Quando estávamos brincando na lama, 
+você manchou suas roupas.&lt;wait&gt;</Entry>
+  <Entry Index="1134">O quê?! Tem razão!
+Ah não! É minha roupa favorita!&lt;wait&gt;</Entry>
+  <Entry Index="1135">Ah, você não deveria esfregar as manchas
+de lama assim. Vai ficar mais difícil de tirar.&lt;wait&gt;</Entry>
   <Entry Index="1136">¿De verdad? ¿Y qué hago entonces?&lt;wait&gt;</Entry>
   <Entry Index="1137">Bueno... Tienes que dejar que se seque, y después usar un
 cepillo para quitar el barro. Sí.&lt;wait&gt;&lt;page&gt;
