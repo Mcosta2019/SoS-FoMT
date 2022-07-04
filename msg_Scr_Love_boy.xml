@@ -2434,7 +2434,7 @@ Ai-ai...
   <Entry Index="1110">Eu soei tão desanimada quanto aparento? Uau.
 É tão perceptível?</Entry>
   <Entry Index="1111">0</Entry>
-  <Entry Index="1112">Alguém se estabeleceu na pousada e
+  <Entry Index="1112">Uma pessoa se hospedou na pousada e
 acabei manchando sua roupa favorita.&lt;wait&gt;&lt;page&gt;
 Então ele estava me orientando sobre como remover
 uma mancha de um tecido branco.&lt;wait&gt;</Entry>
@@ -2502,105 +2502,105 @@ você manchou suas roupas.&lt;wait&gt;</Entry>
 Ah não! É minha roupa favorita!&lt;wait&gt;</Entry>
   <Entry Index="1135">Ah, você não deveria esfregar as manchas
 de lama assim. Vai ficar mais difícil de tirar.&lt;wait&gt;</Entry>
-  <Entry Index="1136">¿De verdad? ¿Y qué hago entonces?&lt;wait&gt;</Entry>
-  <Entry Index="1137">Bueno... Tienes que dejar que se seque, y después usar un
-cepillo para quitar el barro. Sí.&lt;wait&gt;&lt;page&gt;
-Y después le das con un paño húmedo.&lt;wait&gt;</Entry>
-  <Entry Index="1138">¡Oh, vaya!
-¡Qué inteligente, Yu!&lt;wait&gt;</Entry>
-  <Entry Index="1139">Ja, ja, la abuela Ellen me lo enseñó.&lt;wait&gt;</Entry>
-  <Entry Index="1140">Oye, &lt;playername&gt;. Si no he escuchado mal, y estoy
-segura de que no, ¿crees que Ellen...?&lt;wait&gt;</Entry>
-  <Entry Index="1141">Oye, &lt;playername&gt;. Si no he escuchado mal, y estoy
-segura de que no, ¿crees que Ellen...?&lt;wait&gt;</Entry>
-  <Entry Index="1142">¡Ay, ay! Así que por eso has venido hoy.&lt;wait&gt;</Entry>
-  <Entry Index="1143">He tenido que quitar unas cuantas manchas a lo largo de
-mi vida, así que me guardo algún que otro as en la manga.
-Lo único que tienes que hacer es...&lt;wait&gt;</Entry>
-  <Entry Index="1144">Vale, ya entiendo. Así que así es como...&lt;wait&gt;</Entry>
-  <Entry Index="1145">¡Estupendo! ¡Parece fácil! Muchísimas gracias, Ellen. Voy
-a intentarlo ahora mismo.&lt;wait&gt;</Entry>
-  <Entry Index="1146">¡Eres increíble, &lt;playername&gt;! Gracias por llevarme
-a darme una vuelta para alegrarme.&lt;wait&gt;&lt;page&gt;
-Me ha llevado justo a la respuesta que estaba buscando.
-¡Es increíble! ¡Gracias, &lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="1147">¡Eres increíble, &lt;playername&gt;! Gracias por llevarme
-a darme una vuelta para alegrarme.&lt;wait&gt;&lt;page&gt;
-Me ha llevado justamente hasta la respuesta que estaba
-buscando. ¡Es increíble! ¡Gracias, &lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="1148">¡Pero bueno! ¡Si parecéis dos &lt;gender&gt;("tortolitos","tortolitas")! Qué celos.&lt;wait&gt;</Entry>
-  <Entry Index="1149">¡Es que lo somos! &lt;playername&gt; es mi adorable e
-inteligente novio.&lt;wait&gt;</Entry>
-  <Entry Index="1150">¡Es que lo somos! &lt;playername&gt; es mi adorable e
-inteligente novia.&lt;wait&gt;</Entry>
-  <Entry Index="1151">&lt;gender&gt;("Bienvenido","Bienvenida") a la biblioteca, &lt;playername&gt;.
-¿Has venido a leer nuestra colección?&lt;wait&gt;</Entry>
-  <Entry Index="1152">&lt;gender&gt;("Bienvenido","Bienvenida") a la biblioteca, &lt;playername&gt;.
-¿Has venido a leer nuestra colección?&lt;wait&gt;</Entry>
-  <Entry Index="1153">Estamos a tu disposición. De hecho, Ran está
-aquí también.&lt;wait&gt;</Entry>
+  <Entry Index="1136">Sério? E o que eu faço então?&lt;wait&gt;</Entry>
+  <Entry Index="1137">Bem... Você tem que deixar secar, e então
+usar uma escova para remover a lama. Sabe.&lt;wait&gt;&lt;page&gt;
+E então você esfrega com um pano úmido.&lt;wait&gt;</Entry>
+  <Entry Index="1138">Uau!
+Que inteligente, Yu!&lt;wait&gt;</Entry>
+  <Entry Index="1139">Ha ha, a vovó Ellen me ensinou.&lt;wait&gt;</Entry>
+  <Entry Index="1140">Ei, &lt;playername&gt;. Se não ouvi mal, e tenho
+certeza que não, você acha que a Ellen...?&lt;wait&gt;</Entry>
+  <Entry Index="1141">Ei, &lt;playername&gt;. Se não ouvi mal, e tenho
+certeza que não, você acha que a Ellen...?&lt;wait&gt;</Entry>
+  <Entry Index="1142">Ah! Então é por isso que você veio hoje.&lt;wait&gt;</Entry>
+  <Entry Index="1143">Tive que remover algumas manchas durante a
+minha vida, então tenho alguns truques na manga.
+Tudo o que você precisa fazer é...&lt;wait&gt;</Entry>
+  <Entry Index="1144">Ok, entendi. Então é assim...&lt;wait&gt;</Entry>
+  <Entry Index="1145">Ótimo! Parece fácil! Muito obrigada, Elen.
+Vou tentar agora mesmo.&lt;wait&gt;</Entry>
+  <Entry Index="1146">Você é incrível, &lt;playername&gt;! Obrigada por me
+levar a um passeio para me animar.&lt;wait&gt;&lt;page&gt;
+Isso me levou exatamente à resposta que eu estava
+procurando. Você é incrível! Obrigada, &lt;playername&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="1147">Você é incrível, &lt;playername&gt;! Obrigada por me
+Isso me levou exatamente à resposta que eu estava
+procurando. Você é incrível! Obrigada, &lt;playername&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="1148">Mas ei! Vocês parecem &lt;gender&gt;("dois pombinhos","duas pombinhas")! Que inveja.&lt;wait&gt;</Entry>
+  <Entry Index="1149">Nós somos! &lt;playername&gt; ele é o meu namorado
+adorável e inteligente.&lt;wait&gt;</Entry>
+  <Entry Index="1150">Nós somos! &lt;playername&gt; ela é a minha namorada
+adorável e inteligente.&lt;wait&gt;</Entry>
+  <Entry Index="1151">&lt;gender&gt;("Bem-vindo","Bem-vinda") a biblioteca, &lt;playername&gt;.
+Já conheceu a nossa coleção?&lt;wait&gt;</Entry>
+  <Entry Index="1152">&lt;gender&gt;("Bem-vindo","Bem-vinda") a biblioteca, &lt;playername&gt;.
+Já conheceu a nossa coleção?&lt;wait&gt;</Entry>
+  <Entry Index="1153">Estamos à sua disposição. Na verdade, Ran está
+aqui também.&lt;wait&gt;</Entry>
   <Entry Index="1154">0</Entry>
-  <Entry Index="1155">Últimamente viene bastante a leer. Incluso hablamos de
-vez en cuando.&lt;wait&gt;</Entry>
-  <Entry Index="1156">¿Que de qué hablamos? Si te pica la curiosidad, deberías
-preguntarle a ella directamente.&lt;wait&gt;&lt;page&gt;
-Se fue arriba para echarle un vistazo a los libros de la
-segunda planta.&lt;wait&gt;</Entry>
-  <Entry Index="1157">Oh, ya veo. Mmmm...
-Aprendes algo nuevo cada día.&lt;wait&gt;&lt;page&gt;
-Oh, era la última página.
-Tengo que buscar otro libro.&lt;wait&gt;</Entry>
-  <Entry Index="1158">¡&lt;playername&gt;!
-¿Cuánto tiempo llevas ahí?&lt;wait&gt;</Entry>
-  <Entry Index="1159">¡&lt;playername&gt;!
-¿Cuánto tiempo llevas ahí?&lt;wait&gt;</Entry>
-  <Entry Index="1160">¿Habías dicho algo antes? Estaba tan centrada en ese
-libro que ni siquiera me di cuenta.&lt;wait&gt;</Entry>
-  <Entry Index="1161">¿Así que estás buscando un libro en concreto?&lt;wait&gt;</Entry>
-  <Entry Index="1162">¿Así que estás buscando un libro en concreto?&lt;wait&gt;</Entry>
-  <Entry Index="1163">¿Eh? ¿Te has enterado de que estaba aquí y has venido a
-verme? ¡Oh, qué adorable!&lt;wait&gt;</Entry>
-  <Entry Index="1164">Puede que Marie te lo haya dicho ya, pero
-he estado viniendo a la biblioteca cada vez que tengo
-algo de tiempo libre.&lt;wait&gt;&lt;page&gt;
-¿Te acuerdas de lo preocupada que estaba por limpiar la
-ropa que manché de esa persona que se hospedó?&lt;wait&gt;</Entry>
-  <Entry Index="1165">Bueno, pues vencí a la mancha y le devolví su conjunto. Se
-puso muy feliz. ¡Y yo también!&lt;wait&gt;</Entry>
-  <Entry Index="1166">Así que empecé a pensar si podía hacer algo más por que
-mis huéspedes estuvieran felices.&lt;wait&gt;&lt;page&gt;
-Y caí en que podría ser guía turística, y hablarles
-sobre los mejores sitios del pueblo
-y de las especialidades locales.&lt;wait&gt;&lt;page&gt;
-¡Así podría apoyar al pueblo y hacer felices a los
-huéspedes a la vez! ¿Dos pájaros de un tiro, no?</Entry>
-  <Entry Index="1167">Pero después, cuando empecé a reflexionar
-sobre lo que podría decir, me di cuenta de que
-no sé mucho sobre este sitio.&lt;wait&gt;</Entry>
-  <Entry Index="1168">¡Por eso vengo a la biblioteca para darle un repaso a mis
-conocimientos sobre el pueblo!&lt;wait&gt;</Entry>
-  <Entry Index="1169">¡Es una idea Rantástica!</Entry>
-  <Entry Index="1170">¡Así que sabes leer!</Entry>
-  <Entry Index="1171">¡Ji, ji, ji!
-Tu apoyo significa mucho para mí.&lt;wait&gt;</Entry>
-  <Entry Index="1172">Hasta ahora, pensaba que seguir los pasos de papá era
-suficiente, y no quería ni siquiera cuestionarlo.&lt;wait&gt;&lt;page&gt;
-Pero después de ver lo duro que trabajas
-en esa granja, &lt;playername&gt;...&lt;wait&gt;</Entry>
-  <Entry Index="1173">Hasta ahora, pensaba que seguir los pasos de papá era
-suficiente, y no quería ni siquiera cuestionarlo.&lt;wait&gt;&lt;page&gt;
-Pero después de ver lo duro que trabajas
-en esa granja, &lt;playername&gt;...&lt;wait&gt;</Entry>
-  <Entry Index="1174">Empecé a pensar que podía hacer mucho más que lo que
-hago en la pensión, ¿sabes?&lt;wait&gt;</Entry>
-  <Entry Index="1175">Gracias a ti he ganado un nuevo punto
+  <Entry Index="1155">Ela tem vindo ler bastante ultimamente.
+Até conversamos de vez em quando.&lt;wait&gt;</Entry>
+  <Entry Index="1156">Do que estamos falando? Se você está curioso,
+você deveria perguntar diretamente a ela.&lt;wait&gt;&lt;page&gt;
+Ela subiu para dar uma olhada nos livros do
+segundo andar.&lt;wait&gt;</Entry>
+  <Entry Index="1157">Oh, entendo. Mmmm...
+Aprendemos algo novo todos os dias.&lt;wait&gt;&lt;page&gt;
+Oh, era a última página.
+Tenho que encontrar outro livro.&lt;wait&gt;</Entry>
+  <Entry Index="1158">&lt;playername&gt;!
+Há quanto tempo você está aí?&lt;wait&gt;</Entry>
+  <Entry Index="1159">&lt;playername&gt;!
+Há quanto tempo você está aí?&lt;wait&gt;</Entry>
+  <Entry Index="1160">Você já tinha dito algo? Eu estava tão
+focada naquele livro que nem percebi.&lt;wait&gt;</Entry>
+  <Entry Index="1161">Então você está procurando um livro específico?&lt;wait&gt;</Entry>
+  <Entry Index="1162">Então você está procurando um livro específico?&lt;wait&gt;</Entry>
+  <Entry Index="1163">Uh? Você descobriu que eu estava aqui e veio
+me ver? Ah, que lindo!&lt;wait&gt;</Entry>
+  <Entry Index="1164">Marie pode já ter lhe contado, mas tenho
+vindo à biblioteca sempre que tenho algum
+tempo livre.&lt;wait&gt;&lt;page&gt;
+Você se lembra de como eu estava preocupada em limpar
+a roupa que manchei daquele hóspede?&lt;wait&gt;</Entry>
+  <Entry Index="1165">Bem, eu retirei a mancha e devolvi a roupa dele.
+Ele ficou muito feliz. E eu também!&lt;wait&gt;</Entry>
+  <Entry Index="1166">Então comecei a pensar se poderia fazer outra
+coisa para deixar meus hóspedes felizes.&lt;wait&gt;&lt;page&gt;
+E eu pensei que poderia ser uma guia turística e falar
+com eles sobre os melhores lugares da cidade
+e as especiarias locais.&lt;wait&gt;&lt;page&gt;
+Para poder apoiar o povoado e deixar os hóspedes
+contentes ao mesmo tempo! Dois coelhos com uma 
+cajadada só, certo?</Entry>
+  <Entry Index="1167">Mas depois, quando comecei a refletir
+sobre o que eu poderia falar, percebi que
+não sei muito sobre este lugar.&lt;wait&gt;</Entry>
+  <Entry Index="1168">É por isso que estou vindo à biblioteca para
+aprimorar meus conhecimentos sobre a cidade!&lt;wait&gt;</Entry>
+  <Entry Index="1169">É uma ideia fantástica!</Entry>
+  <Entry Index="1170">Então você sabe ler!</Entry>
+  <Entry Index="1171">Hee hee!
+Seu apoio significa muito para mim.&lt;wait&gt;</Entry>
+  <Entry Index="1172">Até agora, eu achava que seguir os passos do
+papai era o suficiente, e eu nem me questionava.&lt;wait&gt;&lt;page&gt;
+Mas depois de ver o quão duro você trabalha
+na fazenda, &lt;playername&gt;...&lt;wait&gt;</Entry>
+  <Entry Index="1173">Até agora, eu achava que seguir os passos do
+papai era o suficiente, e eu nem me questionava.&lt;wait&gt;&lt;page&gt;
+Mas depois de ver o quão duro você trabalha 
+na fazenda &lt;playername&gt;...&lt;wait&gt;</Entry>
+  <Entry Index="1174">Comecei a pensar que poderia fazer muito mais
+do que o que já faço na pousada, sabe?&lt;wait&gt;</Entry>
+  <Entry Index="1175">Graças a você, ganhei um novo ponto
 de vista, &lt;playername&gt;. ∀&lt;wait&gt;</Entry>
-  <Entry Index="1176">Gracias a ti he ganado un nuevo punto
+  <Entry Index="1176">Graças a você, ganhei um novo ponto
 de vista, &lt;playername&gt;. ∀&lt;wait&gt;</Entry>
-  <Entry Index="1177">Pero leer es todo un desafío. Hay tantos libros que ni
-siquiera sé por dónde empezar.&lt;wait&gt;</Entry>
-  <Entry Index="1178">¿Tienes alguna recomendación, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="1179">¿Tienes alguna recomendación, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="1177">Mas ler é um grande desafio. Há tantos livros que
+não sei nem por onde começar.&lt;wait&gt;</Entry>
+  <Entry Index="1178">Você teria alguma recomendação, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="1179">Você teria alguma recomendação, &lt;playername&gt;?&lt;wait&gt;</Entry>
   <Entry Index="1180">Eh, ¿un estudio sobre las tipos poco comunes de plantas
 que puedes encontrar en el pueblo?&lt;wait&gt;&lt;page&gt;
 ¿Estas son comestibles?
