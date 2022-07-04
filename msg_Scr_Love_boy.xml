@@ -2434,7 +2434,7 @@ Ai-ai...
   <Entry Index="1110">Eu soei tão desanimada quanto aparento? Uau.
 É tão perceptível?</Entry>
   <Entry Index="1111">0</Entry>
-  <Entry Index="1112">Alguém se estabeleceu na pousada e
+  <Entry Index="1112">Uma pessoa se hospedou na pousada e
 acabei manchando sua roupa favorita.&lt;wait&gt;&lt;page&gt;
 Então ele estava me orientando sobre como remover
 uma mancha de um tecido branco.&lt;wait&gt;</Entry>
@@ -2502,216 +2502,222 @@ você manchou suas roupas.&lt;wait&gt;</Entry>
 Ah não! É minha roupa favorita!&lt;wait&gt;</Entry>
   <Entry Index="1135">Ah, você não deveria esfregar as manchas
 de lama assim. Vai ficar mais difícil de tirar.&lt;wait&gt;</Entry>
-  <Entry Index="1136">¿De verdad? ¿Y qué hago entonces?&lt;wait&gt;</Entry>
-  <Entry Index="1137">Bueno... Tienes que dejar que se seque, y después usar un
-cepillo para quitar el barro. Sí.&lt;wait&gt;&lt;page&gt;
-Y después le das con un paño húmedo.&lt;wait&gt;</Entry>
-  <Entry Index="1138">¡Oh, vaya!
-¡Qué inteligente, Yu!&lt;wait&gt;</Entry>
-  <Entry Index="1139">Ja, ja, la abuela Ellen me lo enseñó.&lt;wait&gt;</Entry>
-  <Entry Index="1140">Oye, &lt;playername&gt;. Si no he escuchado mal, y estoy
-segura de que no, ¿crees que Ellen...?&lt;wait&gt;</Entry>
-  <Entry Index="1141">Oye, &lt;playername&gt;. Si no he escuchado mal, y estoy
-segura de que no, ¿crees que Ellen...?&lt;wait&gt;</Entry>
-  <Entry Index="1142">¡Ay, ay! Así que por eso has venido hoy.&lt;wait&gt;</Entry>
-  <Entry Index="1143">He tenido que quitar unas cuantas manchas a lo largo de
-mi vida, así que me guardo algún que otro as en la manga.
-Lo único que tienes que hacer es...&lt;wait&gt;</Entry>
-  <Entry Index="1144">Vale, ya entiendo. Así que así es como...&lt;wait&gt;</Entry>
-  <Entry Index="1145">¡Estupendo! ¡Parece fácil! Muchísimas gracias, Ellen. Voy
-a intentarlo ahora mismo.&lt;wait&gt;</Entry>
-  <Entry Index="1146">¡Eres increíble, &lt;playername&gt;! Gracias por llevarme
-a darme una vuelta para alegrarme.&lt;wait&gt;&lt;page&gt;
-Me ha llevado justo a la respuesta que estaba buscando.
-¡Es increíble! ¡Gracias, &lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="1147">¡Eres increíble, &lt;playername&gt;! Gracias por llevarme
-a darme una vuelta para alegrarme.&lt;wait&gt;&lt;page&gt;
-Me ha llevado justamente hasta la respuesta que estaba
-buscando. ¡Es increíble! ¡Gracias, &lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="1148">¡Pero bueno! ¡Si parecéis dos &lt;gender&gt;("tortolitos","tortolitas")! Qué celos.&lt;wait&gt;</Entry>
-  <Entry Index="1149">¡Es que lo somos! &lt;playername&gt; es mi adorable e
-inteligente novio.&lt;wait&gt;</Entry>
-  <Entry Index="1150">¡Es que lo somos! &lt;playername&gt; es mi adorable e
-inteligente novia.&lt;wait&gt;</Entry>
-  <Entry Index="1151">&lt;gender&gt;("Bienvenido","Bienvenida") a la biblioteca, &lt;playername&gt;.
-¿Has venido a leer nuestra colección?&lt;wait&gt;</Entry>
-  <Entry Index="1152">&lt;gender&gt;("Bienvenido","Bienvenida") a la biblioteca, &lt;playername&gt;.
-¿Has venido a leer nuestra colección?&lt;wait&gt;</Entry>
-  <Entry Index="1153">Estamos a tu disposición. De hecho, Ran está
-aquí también.&lt;wait&gt;</Entry>
+  <Entry Index="1136">Sério? E o que eu faço então?&lt;wait&gt;</Entry>
+  <Entry Index="1137">Bem... Você tem que deixar secar, e então
+usar uma escova para remover a lama. Sabe.&lt;wait&gt;&lt;page&gt;
+E então você esfrega com um pano úmido.&lt;wait&gt;</Entry>
+  <Entry Index="1138">Uau!
+Que inteligente, Yu!&lt;wait&gt;</Entry>
+  <Entry Index="1139">Ha ha, a vovó Ellen me ensinou.&lt;wait&gt;</Entry>
+  <Entry Index="1140">Ei, &lt;playername&gt;. Se não ouvi mal, e tenho
+certeza que não, você acha que a Ellen...?&lt;wait&gt;</Entry>
+  <Entry Index="1141">Ei, &lt;playername&gt;. Se não ouvi mal, e tenho
+certeza que não, você acha que a Ellen...?&lt;wait&gt;</Entry>
+  <Entry Index="1142">Ah! Então é por isso que você veio hoje.&lt;wait&gt;</Entry>
+  <Entry Index="1143">Tive que remover algumas manchas durante a
+minha vida, então tenho alguns truques na manga.
+Tudo o que você precisa fazer é...&lt;wait&gt;</Entry>
+  <Entry Index="1144">Ok, entendi. Então é assim...&lt;wait&gt;</Entry>
+  <Entry Index="1145">Ótimo! Parece fácil! Muito obrigada, Elen.
+Vou tentar agora mesmo.&lt;wait&gt;</Entry>
+  <Entry Index="1146">Você é incrível, &lt;playername&gt;! Obrigada por me
+levar a um passeio para me animar.&lt;wait&gt;&lt;page&gt;
+Isso me levou exatamente à resposta que eu estava
+procurando. Você é incrível! Obrigada, &lt;playername&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="1147">Você é incrível, &lt;playername&gt;! Obrigada por me
+Isso me levou exatamente à resposta que eu estava
+procurando. Você é incrível! Obrigada, &lt;playername&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="1148">Mas ei! Vocês parecem &lt;gender&gt;("dois pombinhos","duas pombinhas")! Que inveja.&lt;wait&gt;</Entry>
+  <Entry Index="1149">Nós somos! &lt;playername&gt; ele é o meu namorado
+adorável e inteligente.&lt;wait&gt;</Entry>
+  <Entry Index="1150">Nós somos! &lt;playername&gt; ela é a minha namorada
+adorável e inteligente.&lt;wait&gt;</Entry>
+  <Entry Index="1151">&lt;gender&gt;("Bem-vindo","Bem-vinda") a biblioteca, &lt;playername&gt;.
+Já conheceu a nossa coleção?&lt;wait&gt;</Entry>
+  <Entry Index="1152">&lt;gender&gt;("Bem-vindo","Bem-vinda") a biblioteca, &lt;playername&gt;.
+Já conheceu a nossa coleção?&lt;wait&gt;</Entry>
+  <Entry Index="1153">Estamos à sua disposição. Na verdade, Ran está
+aqui também.&lt;wait&gt;</Entry>
   <Entry Index="1154">0</Entry>
-  <Entry Index="1155">Últimamente viene bastante a leer. Incluso hablamos de
-vez en cuando.&lt;wait&gt;</Entry>
-  <Entry Index="1156">¿Que de qué hablamos? Si te pica la curiosidad, deberías
-preguntarle a ella directamente.&lt;wait&gt;&lt;page&gt;
-Se fue arriba para echarle un vistazo a los libros de la
-segunda planta.&lt;wait&gt;</Entry>
-  <Entry Index="1157">Oh, ya veo. Mmmm...
-Aprendes algo nuevo cada día.&lt;wait&gt;&lt;page&gt;
-Oh, era la última página.
-Tengo que buscar otro libro.&lt;wait&gt;</Entry>
-  <Entry Index="1158">¡&lt;playername&gt;!
-¿Cuánto tiempo llevas ahí?&lt;wait&gt;</Entry>
-  <Entry Index="1159">¡&lt;playername&gt;!
-¿Cuánto tiempo llevas ahí?&lt;wait&gt;</Entry>
-  <Entry Index="1160">¿Habías dicho algo antes? Estaba tan centrada en ese
-libro que ni siquiera me di cuenta.&lt;wait&gt;</Entry>
-  <Entry Index="1161">¿Así que estás buscando un libro en concreto?&lt;wait&gt;</Entry>
-  <Entry Index="1162">¿Así que estás buscando un libro en concreto?&lt;wait&gt;</Entry>
-  <Entry Index="1163">¿Eh? ¿Te has enterado de que estaba aquí y has venido a
-verme? ¡Oh, qué adorable!&lt;wait&gt;</Entry>
-  <Entry Index="1164">Puede que Marie te lo haya dicho ya, pero
-he estado viniendo a la biblioteca cada vez que tengo
-algo de tiempo libre.&lt;wait&gt;&lt;page&gt;
-¿Te acuerdas de lo preocupada que estaba por limpiar la
-ropa que manché de esa persona que se hospedó?&lt;wait&gt;</Entry>
-  <Entry Index="1165">Bueno, pues vencí a la mancha y le devolví su conjunto. Se
-puso muy feliz. ¡Y yo también!&lt;wait&gt;</Entry>
-  <Entry Index="1166">Así que empecé a pensar si podía hacer algo más por que
-mis huéspedes estuvieran felices.&lt;wait&gt;&lt;page&gt;
-Y caí en que podría ser guía turística, y hablarles
-sobre los mejores sitios del pueblo
-y de las especialidades locales.&lt;wait&gt;&lt;page&gt;
-¡Así podría apoyar al pueblo y hacer felices a los
-huéspedes a la vez! ¿Dos pájaros de un tiro, no?</Entry>
-  <Entry Index="1167">Pero después, cuando empecé a reflexionar
-sobre lo que podría decir, me di cuenta de que
-no sé mucho sobre este sitio.&lt;wait&gt;</Entry>
-  <Entry Index="1168">¡Por eso vengo a la biblioteca para darle un repaso a mis
-conocimientos sobre el pueblo!&lt;wait&gt;</Entry>
-  <Entry Index="1169">¡Es una idea Rantástica!</Entry>
-  <Entry Index="1170">¡Así que sabes leer!</Entry>
-  <Entry Index="1171">¡Ji, ji, ji!
-Tu apoyo significa mucho para mí.&lt;wait&gt;</Entry>
-  <Entry Index="1172">Hasta ahora, pensaba que seguir los pasos de papá era
-suficiente, y no quería ni siquiera cuestionarlo.&lt;wait&gt;&lt;page&gt;
-Pero después de ver lo duro que trabajas
-en esa granja, &lt;playername&gt;...&lt;wait&gt;</Entry>
-  <Entry Index="1173">Hasta ahora, pensaba que seguir los pasos de papá era
-suficiente, y no quería ni siquiera cuestionarlo.&lt;wait&gt;&lt;page&gt;
-Pero después de ver lo duro que trabajas
-en esa granja, &lt;playername&gt;...&lt;wait&gt;</Entry>
-  <Entry Index="1174">Empecé a pensar que podía hacer mucho más que lo que
-hago en la pensión, ¿sabes?&lt;wait&gt;</Entry>
-  <Entry Index="1175">Gracias a ti he ganado un nuevo punto
+  <Entry Index="1155">Ela tem vindo ler bastante ultimamente.
+Até conversamos de vez em quando.&lt;wait&gt;</Entry>
+  <Entry Index="1156">Do que estamos falando? Se você está curioso,
+você deveria perguntar diretamente a ela.&lt;wait&gt;&lt;page&gt;
+Ela subiu para dar uma olhada nos livros do
+segundo andar.&lt;wait&gt;</Entry>
+  <Entry Index="1157">Oh, entendo. Mmmm...
+Aprendemos algo novo todos os dias.&lt;wait&gt;&lt;page&gt;
+Oh, era a última página.
+Tenho que encontrar outro livro.&lt;wait&gt;</Entry>
+  <Entry Index="1158">&lt;playername&gt;!
+Há quanto tempo você está aí?&lt;wait&gt;</Entry>
+  <Entry Index="1159">&lt;playername&gt;!
+Há quanto tempo você está aí?&lt;wait&gt;</Entry>
+  <Entry Index="1160">Você já tinha dito algo? Eu estava tão
+focada naquele livro que nem percebi.&lt;wait&gt;</Entry>
+  <Entry Index="1161">Então você está procurando um livro específico?&lt;wait&gt;</Entry>
+  <Entry Index="1162">Então você está procurando um livro específico?&lt;wait&gt;</Entry>
+  <Entry Index="1163">Uh? Você descobriu que eu estava aqui e veio
+me ver? Ah, que lindo!&lt;wait&gt;</Entry>
+  <Entry Index="1164">Marie pode já ter lhe contado, mas tenho
+vindo à biblioteca sempre que tenho algum
+tempo livre.&lt;wait&gt;&lt;page&gt;
+Você se lembra de como eu estava preocupada em limpar
+a roupa que manchei daquele hóspede?&lt;wait&gt;</Entry>
+  <Entry Index="1165">Bem, eu retirei a mancha e devolvi a roupa dele.
+Ele ficou muito feliz. E eu também!&lt;wait&gt;</Entry>
+  <Entry Index="1166">Então comecei a pensar se poderia fazer outra
+coisa para deixar meus hóspedes felizes.&lt;wait&gt;&lt;page&gt;
+E eu pensei que poderia ser uma guia turística e falar
+com eles sobre os melhores lugares da cidade
+e as especiarias locais.&lt;wait&gt;&lt;page&gt;
+Para poder apoiar o povoado e deixar os hóspedes
+contentes ao mesmo tempo! Dois coelhos com uma 
+cajadada só, certo?</Entry>
+  <Entry Index="1167">Mas depois, quando comecei a refletir
+sobre o que eu poderia falar, percebi que
+não sei muito sobre este lugar.&lt;wait&gt;</Entry>
+  <Entry Index="1168">É por isso que estou vindo à biblioteca para
+aprimorar meus conhecimentos sobre a cidade!&lt;wait&gt;</Entry>
+  <Entry Index="1169">É uma ideia fantástica!</Entry>
+  <Entry Index="1170">Então você sabe ler!</Entry>
+  <Entry Index="1171">Hee hee!
+Seu apoio significa muito para mim.&lt;wait&gt;</Entry>
+  <Entry Index="1172">Até agora, eu achava que seguir os passos do
+papai era o suficiente, e eu nem me questionava.&lt;wait&gt;&lt;page&gt;
+Mas depois de ver o quão duro você trabalha
+na fazenda, &lt;playername&gt;...&lt;wait&gt;</Entry>
+  <Entry Index="1173">Até agora, eu achava que seguir os passos do
+papai era o suficiente, e eu nem me questionava.&lt;wait&gt;&lt;page&gt;
+Mas depois de ver o quão duro você trabalha 
+na fazenda &lt;playername&gt;...&lt;wait&gt;</Entry>
+  <Entry Index="1174">Comecei a pensar que poderia fazer muito mais
+do que o que já faço na pousada, sabe?&lt;wait&gt;</Entry>
+  <Entry Index="1175">Graças a você, ganhei um novo ponto
 de vista, &lt;playername&gt;. ∀&lt;wait&gt;</Entry>
-  <Entry Index="1176">Gracias a ti he ganado un nuevo punto
+  <Entry Index="1176">Graças a você, ganhei um novo ponto
 de vista, &lt;playername&gt;. ∀&lt;wait&gt;</Entry>
-  <Entry Index="1177">Pero leer es todo un desafío. Hay tantos libros que ni
-siquiera sé por dónde empezar.&lt;wait&gt;</Entry>
-  <Entry Index="1178">¿Tienes alguna recomendación, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="1179">¿Tienes alguna recomendación, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="1180">Eh, ¿un estudio sobre las tipos poco comunes de plantas
-que puedes encontrar en el pueblo?&lt;wait&gt;&lt;page&gt;
-¿Estas son comestibles?
-¿Y estas son peligrosas?
-Guau. No tenía ni idea.&lt;wait&gt;</Entry>
-  <Entry Index="1181">Ahg... Eso ha sido bastante duro, ni siquiera puedo
-pensar en una buena respuesta. Eres demasiado
-&lt;gender&gt;("directo","directa"), &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1182">Ahg... Eso ha sido bastante duro, ni siquiera puedo
-pensar en una buena respuesta. Eres demasiado
-&lt;gender&gt;("directo","directa"), &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1183">Pero no me voy a desanimar. ¡Cuando me decido por algo,
-lo hago hasta el final!&lt;wait&gt;&lt;page&gt;
-¡No me voy a poner en ridículo
-por tu culpa, &lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="1184">Pero no me voy a desanimar. ¡Cuando me decido por algo,
-lo hago hasta el final!&lt;wait&gt;&lt;page&gt;
-¡No me voy a poner en ridículo
-por tu culpa, &lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="1185">M-madre mía... Cómo me late el corazón. Se me han
-empañado las gafas también.&lt;wait&gt;&lt;page&gt;
-No iba en broma, ¿no?
-¿Es... en serio?&lt;wait&gt;</Entry>
-  <Entry Index="1186">¿Quieres ser mi novio?&lt;wait&gt;</Entry>
-  <Entry Index="1187">¿Quieres ser mi novia?&lt;wait&gt;</Entry>
-  <Entry Index="1188">Estaría encantada. Yo también quería tener una relación
-especial contigo.&lt;wait&gt;&lt;page&gt;
-Así que esto significa que a partir de hoy... somos pareja.&lt;wait&gt;</Entry>
-  <Entry Index="1189">Estaría encantada. Yo también quería tener una relación
-especial contigo.&lt;wait&gt;&lt;page&gt;
-Así que esto significa que a partir de hoy... somos pareja.&lt;wait&gt;</Entry>
-  <Entry Index="1190">¡Ji, ji, ji! Reconozco que estoy un poco nerviosa. Nunca he
-tenido pareja.&lt;wait&gt;&lt;page&gt;
-Creo que me voy a pasar el día sonriendo.
-Oh, pero no te preocupes.&lt;wait&gt;&lt;page&gt;
-Bueno, debería ir volviendo. Estoy deseando de ver cómo
-va nuestro siguiente capítulo &lt;gender&gt;("juntos","juntas").&lt;wait&gt;</Entry>
-  <Entry Index="1191">¡Ji, ji, ji! Reconozco que estoy un poco nerviosa. Nunca he
-tenido pareja.&lt;wait&gt;&lt;page&gt;
-Creo que me voy a pasar el día sonriendo.
-Oh, pero no te preocupes.&lt;wait&gt;&lt;page&gt;
-Bueno, debería ir volviendo. Estoy deseando de ver cómo
-va nuestro siguiente capítulo &lt;gender&gt;("juntos","juntas").&lt;wait&gt;</Entry>
-  <Entry Index="1192">¡&lt;playername&gt;!&lt;wait</Entry>
-  <Entry Index="1193">Hola.
-He venido a verte.&lt;wait&gt;&lt;page&gt;
-¿Tienes tiempo para ir a alguna parte?&lt;wait&gt;</Entry>
-  <Entry Index="1194">Bueno... eres mi novio.
-Así que he pensado que podríamos tener una cita.&lt;wait&gt;</Entry>
-  <Entry Index="1195">Bueno... eres mi novia.
-Así que he pensado que podríamos tener una cita.&lt;wait&gt;</Entry>
-  <Entry Index="1196">¡Estupendo! ¿Has pensado en algún sitio?&lt;wait&gt;</Entry>
-  <Entry Index="1197">Ah... La verdad es que he estado tan preocupada con
-invitarte que no he pensado en dónde podríamos ir.&lt;wait&gt;</Entry>
-  <Entry Index="1198">Ah... La verdad es que he estado tan preocupada con
-invitarte que no he pensado en dónde podríamos ir.&lt;wait&gt;</Entry>
-  <Entry Index="1199">Lo siento... Te dije que era nueva en esto...&lt;wait&gt;</Entry>
-  <Entry Index="1200">¿Eh? ¿Quieres ir a la biblioteca?&lt;wait&gt;</Entry>
-  <Entry Index="1201">¿Para que te recomiende mis libros favoritos?&lt;wait&gt;</Entry>
-  <Entry Index="1202">Pues no podrías haberle preguntado a nadie mejor. Los
-libros son mi especialidad.&lt;wait&gt;&lt;page&gt;
-Me alegra tanto que compartamos el interés por la
+  <Entry Index="1177">Mas ler é um grande desafio. Há tantos livros que
+não sei nem por onde começar.&lt;wait&gt;</Entry>
+  <Entry Index="1178">Você teria alguma recomendação, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="1179">Você teria alguma recomendação, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="1180">Uh, um estudo sobre os tipos incomuns de
+plantas que você pode encontrar na cidade?&lt;wait&gt;&lt;page&gt;
+Esses são comestíveis?
+E estes são perigosos?
+Uau. Eu não fazia ideia.&lt;wait&gt;</Entry>
+  <Entry Index="1181">Ahg... Isso foi bem duro, não
+consigo nem pensar em uma boa resposta.
+Você é muito &lt;gender&gt;("franco","franca"), &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1182">Ahg... Isso foi bem duro, não
+consigo nem pensar em uma boa resposta.
+Você é muito &lt;gender&gt;("franco","franca"), &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1183">Mas não vou desanimar. Quando decido algo,
+Vou até o final!&lt;wait&gt;&lt;page&gt;
+Não vou me sentir ridícula por sua causa, &lt;playername&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="1184">Mas não vou desanimar. Quando decido algo,
+Vou até o final!&lt;wait&gt;&lt;page&gt;
+Não vou me sentir ridícula por sua causa, &lt;playername&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="1185">M-meu deus... Meu coração disparou.
+Meus óculos até embaçaram.&lt;wait&gt;&lt;page&gt;
+Não está brincando, está?
+Você está... falando sério?&lt;wait&gt;</Entry>
+  <Entry Index="1186">Quer ser meu namorado?&lt;wait&gt;</Entry>
+  <Entry Index="1187">Quer ser minha namorada?&lt;wait&gt;</Entry>
+  <Entry Index="1188">Eu ficaria muito feliz. Eu também queria
+ter um relacionamento especial com você.&lt;wait&gt;&lt;page&gt;
+Isso significa que a partir de hoje... Somos um casal.&lt;wait&gt;</Entry>
+  <Entry Index="1189">Eu ficaria muito feliz. Eu também queria
+ter um relacionamento especial com você.&lt;wait&gt;&lt;page&gt;
+Isso significa que a partir de hoje... Somos um casal.&lt;wait&gt;</Entry>
+  <Entry Index="1190">Hee hee! Confesso que estou um pouco nervosa.
+Nunca tive um namorado.&lt;wait&gt;&lt;page&gt;
+Acho que vou passar o dia sorrindo.
+Oh, mas não se preocupe.&lt;wait&gt;&lt;page&gt;
+Bem, eu deveria voltar. Mal posso esperar para ver como
+será nosso próximo capítulo &lt;gender&gt;("juntos","juntas").&lt;wait&gt;</Entry>
+  <Entry Index="1191">Hee hee! Confesso que estou um pouco nervosa.
+Nunca tive uma namorada.&lt;wait&gt;&lt;page&gt;
+Acho que vou passar o dia sorrindo.
+Oh, mas não se preocupe.&lt;wait&gt;&lt;page&gt;
+Bem, eu deveria voltar. Mal posso esperar para ver como
+será nosso próximo capítulo &lt;gender&gt;("juntos","juntas").&lt;wait&gt;</Entry>
+  <Entry Index="1192">&lt;playername&gt;!&lt;wait</Entry>
+  <Entry Index="1193">Olá.
+Eu vim te ver.&lt;wait&gt;&lt;page&gt;
+Você teria tempo para ir a algum lugar?&lt;wait&gt;</Entry>
+  <Entry Index="1194">Bem... Você é meu namorado.
+Então pensei que poderíamos sair juntos.&lt;wait&gt;</Entry>
+  <Entry Index="1195">Bem... Você é minha namorada.
+Então pensei que poderíamos sair juntas.&lt;wait&gt;</Entry>
+  <Entry Index="1196">Ótimo! Você teria algum lugar em mente?&lt;wait&gt;</Entry>
+  <Entry Index="1197">Ah... Na verdade, estive tão preocupada em
+convidá-lo que não pensei onde poderíamos ir.&lt;wait&gt;</Entry>
+  <Entry Index="1198">Ah... Na verdade, estive tão preocupada em
+convidá-la que não pensei onde poderíamos ir.&lt;wait&gt;</Entry>
+  <Entry Index="1199">Desculpe... Eu disse que era nova nisso...&lt;wait&gt;</Entry>
+  <Entry Index="1200">Uh? Deseja ir à biblioteca?&lt;wait&gt;</Entry>
+  <Entry Index="1201">Para que eu possa recomendar meus livros
+favoritos?&lt;wait&gt;</Entry>
+  <Entry Index="1202">Bem, você não poderia ter perguntado a
+ninguém melhor. Livros são minha especialidade.&lt;wait&gt;&lt;page&gt;
+Estou muito feliz por compartilharmos o interesse na
 literatura, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-La biblioteca está cerrada, pero tengo las llaves, así que
-puedo abrirla un rato. Vamos.&lt;wait&gt;</Entry>
-  <Entry Index="1203">¿Eh? ¿Marie y &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="1204">¿Eh? ¿Marie y &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="1205">¿Qué hacéis aquí?
-¡Oh! ¿Es una cita?&lt;wait&gt;</Entry>
-  <Entry Index="1206">¿Qué hacéis aquí?
-¡Oh! ¿Es una cita?&lt;wait&gt;</Entry>
-  <Entry Index="1207">¿Vuestra cita consiste en ir a la biblioteca?&lt;wait&gt;</Entry>
-  <Entry Index="1208">¿Vuestra cita consiste en ir a la biblioteca?&lt;wait&gt;</Entry>
-  <Entry Index="1209">Así que tú también eres un ratón de biblioteca,
-&lt;playername&gt;. Menuda sorpresa.&lt;wait&gt;</Entry>
-  <Entry Index="1210">Marie me va a recomendar unos libros.</Entry>
-  <Entry Index="1211">Leer es un asco.</Entry>
-  <Entry Index="1212">Así es. Voy a coger unos libros que creo
-que le gustarán a &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1213">Espera, ¿odias leer pero vas a la biblioteca igualmente?&lt;wait&gt;</Entry>
-  <Entry Index="1214">¿Eh? Mi plan es coger unos libros que creo que le
-gustarán a &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1215">Umm. Suena bien.&lt;wait&gt;</Entry>
-  <Entry Index="1216">¡Sí! No leo mucho, así que no sé qué libros están bien.&lt;wait&gt; </Entry>
-  <Entry Index="1217">No te preocupes. Hay un libro para cada momento y
-persona. Seguro que podéis encontrar algo que
-os guste a &lt;gender&gt;("los dos","las dos").&lt;wait&gt;</Entry>
-  <Entry Index="1218">¿Crees que hay uno que me guste incluso a mí?&lt;wait&gt;</Entry>
-  <Entry Index="1219">Mmmm... ¿Y un libro de aventuras que a la vez te permita
-aprender sobre cocina?&lt;wait&gt;&lt;page&gt;
-"General Gourmet" es un libro sobre un general que viaja
-por el país buscando el ingrediente definitivo.&lt;wait&gt;&lt;page&gt;
-Encuentra una gran variedad de comida en su periplo, y
-hay recetas detalladas para cada plato al final.&lt;wait&gt;</Entry>
-  <Entry Index="1220">¡Guau! ¡Tiene muy buena pinta!&lt;wait&gt;</Entry>
-  <Entry Index="1221">Sí, es impresionante. Y en la narración en sí se hace un
-amplio uso de la justicia poética, por lo que también es una
-lectura inspiradora.&lt;wait&gt;&lt;page&gt;
-Su lema es: "¿Podrás mantener los ojos en mi cuchillo?".
-Cuando su legendario cuchillo de cocina destella, los
-villanos caen.&lt;wait&gt;</Entry>
-  <Entry Index="1222">¿Y para mí?
-¿Hay algún libro que me gustaría a mí?&lt;wait&gt;</Entry>
-  <Entry Index="1223">Para ti, Popuri...
-¿Qué te parece "Mi tío es un mago"?&lt;wait&gt;&lt;page&gt;
-Es una historia de amor sobre una chica sencilla que va al
-baile del castillo y se enamora del príncipe.&lt;wait&gt;&lt;page&gt;
-Su tío es en realidad un mago, y utiliza su magia para
-crear ropa muy bonita para su sobrina. Es una historia
-muy pastelosa.&lt;wait&gt;</Entry>
-  <Entry Index="1224">¡Suena genial!
+A biblioteca está fechada, mas eu tenho as chaves, então
+eu posso abri-la um pouco. Vamos lá.&lt;wait&gt;</Entry>
+  <Entry Index="1203">Uh? Marie e &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="1204">Uh? Marie e &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="1205">O que fazem aqui?
+Oh! É um encontro?&lt;wait&gt;</Entry>
+  <Entry Index="1206">O que fazem aqui?
+Oh! É um encontro?&lt;wait&gt;</Entry>
+  <Entry Index="1207">O encontro de vocês consiste em ir a
+biblioteca?&lt;wait&gt;</Entry>
+  <Entry Index="1208">O encontro de vocês consiste em ir a
+biblioteca?&lt;wait&gt;</Entry>
+  <Entry Index="1209">Então você também gosta de ler livros,
+&lt;playername&gt;. Que surpresa.&lt;wait&gt;</Entry>
+  <Entry Index="1210">Marie vai me recomendar alguns livros.</Entry>
+  <Entry Index="1211">Ler é uma droga.</Entry>
+  <Entry Index="1212">Isso mesmo. Eu vou pegar alguns livros que eu acho
+que &lt;playername&gt; vai gostar.&lt;wait&gt;</Entry>
+  <Entry Index="1213">Espere, você odeia ler, mas vai à
+biblioteca mesmo assim?&lt;wait&gt;</Entry>
+  <Entry Index="1214">Uh? Meu plano é pegar alguns livros que eu acho
+que &lt;playername&gt; vai gostar.&lt;wait&gt;</Entry>
+  <Entry Index="1215">Umm. Parece bom.&lt;wait&gt;</Entry>
+  <Entry Index="1216">Sim! Eu não leio muito,
+então não sei quais livros são bons.&lt;wait&gt; </Entry>
+  <Entry Index="1217">Não se preocupe. Há um livro para cada
+pessoas e momento. Tenho certeza que posso
+encontrar algo que agrade &lt;gender&gt;("os dois","as duas").&lt;wait&gt;</Entry>
+  <Entry Index="1218">Você acha que existe um que eu goste?&lt;wait&gt;</Entry>
+  <Entry Index="1219">Mmmm... Que tal um livro de aventuras que
+também permite aprender a cozinhar?&lt;wait&gt;&lt;page&gt;
+"General Gourmet" é um livro sobre um general que
+viaja em todo o país em busca do melhor
+ingrediente.&lt;wait&gt;&lt;page&gt;
+Ele encontra uma grande variedade de alimentos em
+sua jornada, e há receitas detalhadas para cada
+prato no final.&lt;wait&gt;</Entry>
+  <Entry Index="1220">Uau! Parece muito bom!&lt;wait&gt;</Entry>
+  <Entry Index="1221">Sim, é impressionante. E há bastante uso
+da liscença poética na própria narrativa, por isso
+também é uma leitura inspiradora.&lt;wait&gt;&lt;page&gt;
+Seu lema é "Consegue manter seus olhos na minha faca?"
+Quando sua lendária faca de cozinha pisca, o
+os vilões caem.&lt;wait&gt;</Entry>
+  <Entry Index="1222">E para mim?
+Há algum livro que eu gostaria?&lt;wait&gt;</Entry>
+  <Entry Index="1223">Para você, Popuri...
+Que tal "Meu tio é mágico"?&lt;wait&gt;&lt;page&gt;
+É uma história de amor sobre uma menina simples
+que vai ao baile do castelo e se apaixona
+pelo príncipe.&lt;wait&gt;&lt;page&gt;
+Seu tio é na verdade um mágico, e ele usa sua magia
+para criar roupas muito bonitas para sua sobrinha.
+ É uma história muito fofa.&lt;wait&gt;</Entry>
+  <Entry Index="1224">Parece ótima!
 ¡Tengo que leérmelo!&lt;wait&gt;&lt;page&gt;
 La biblioteca tiene taaantos libros que no se me había
 ocurrido echarles un vistazo antes, pero ahora...&lt;wait&gt;</Entry>
