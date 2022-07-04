@@ -2301,99 +2301,105 @@ conseguido sem você. Obrigada.&lt;wait&gt;</Entry>
   <Entry Index="1059">Nossa, o tempo passa quando você quebra ovos.
 Eu gostaria de cozinhar com você novamente,
 &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1060">¡No te olvides de mi regalo! Espero que te guste el flan
-que he hecho. ¡Creo que ha salido bastante bien!&lt;wait&gt;</Entry>
-  <Entry Index="1061">Nos vemos luego. ¡Gracias por ayudarme!&lt;wait&gt;</Entry>
-  <Entry Index="1062">Oh... ¿Así que tú también crees que
-estorbo, &lt;playername&gt;?&lt;wait&gt;&lt;page&gt;
-Rick siempre dice que no confía en mí en la cocina.
-Lo único que me deja hacer es poner la mesa
-y servir la comida.&lt;wait&gt;&lt;page&gt;
-Él se encarga de todo lo demás. Sé que puedo hacer
-más si lo intento, pero me trata como si fuese
-una niña pequeña.&lt;wait&gt;</Entry>
-  <Entry Index="1063">Sé que probablemente parezco extravagante y poco
-fiable para ti y para Rick, pero...&lt;wait&gt;</Entry>
-  <Entry Index="1064">Bueno, no quiero ponerme triste ahora mismo,
-&lt;playername&gt;. Hemos trabajado muy duro para
-cocinar esto, ¡a comer!&lt;wait&gt;</Entry>
-  <Entry Index="1065">¡Mmm! Estaba superdelicioso. Probablemente porque
-estabas aquí para ayudarme, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1066">Nos vemos luego. ¡Gracias por ayudarme!&lt;wait&gt;</Entry>
-  <Entry Index="1067">¡Agh! ¡Estúpido Rick! ¡No entiendes NADA! ¡Te odio!&lt;wait&gt;</Entry>
-  <Entry Index="1068">¡Ah! ¡&lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="1069">Oh, eh, no es nada. No importa. ¿Puedo hablar
-contigo un rato?&lt;wait&gt;&lt;page&gt;
-Te agradecería mucho si pudieses ayudarme con una cosa.&lt;wait&gt;</Entry>
-  <Entry Index="1070">Eres &lt;gender&gt;("el mejor","la mejor"). Vamos, ven por aquí.&lt;wait&gt;</Entry>
-  <Entry Index="1071">Mmmm. Creo que aquí está bien. Espero encontrar lo que
-estoy buscando...&lt;wait&gt;</Entry>
-  <Entry Index="1072">Verás, eh... Mamá no se encontraba muy bien hoy. No es
-tan grave como para ir a la clínica...&lt;wait&gt;&lt;page&gt;
-Pero no tiene tanta energía como de costumbre, y no se
-pudo acabar el desayuno. Estoy un poco preocupada.&lt;wait&gt;</Entry>
-  <Entry Index="1073">¡Por eso he decidido ir a recoger algunas de sus flores
-favoritas y darle un graaan ramo de regalo!&lt;wait&gt;</Entry>
-  <Entry Index="1074">¿A que es una idea genial? ¡Sabía que estarías de acuerdo
-conmigo, &lt;playername&gt;!♪&lt;wait&gt;&lt;page&gt;
-¿Me ayudas a buscar unas flores superbonitas
-para el ramo?&lt;wait&gt;</Entry>
-  <Entry Index="1075">Gracias, &lt;playername&gt;. Recuerda que solo las
-mejores de las mejores servirán para
-el ramo de mamá, ¿vale?</Entry>
-  <Entry Index="1076">Mmmm... Creo que una flor más grande quedaría muy bien
-con esto.&lt;wait&gt;</Entry>
-  <Entry Index="1077">Esa flor es muy bonita y colorida, ¿no crees? Estoy
-segura de que a mamá le va a gustar esa.&lt;wait&gt;</Entry>
-  <Entry Index="1078">¡Una gran variedad de flores lo hará alegre y bonito,
-estoy segura!&lt;wait&gt;</Entry>
-  <Entry Index="1079">¡Ah! ¡Mira, &lt;playername&gt;! ¿No crees que esas flores
-de ahí también son bonitas?&lt;wait&gt;</Entry>
-  <Entry Index="1080">No, la que hay a la izquierda de esa de ahí.&lt;wait&gt;</Entry>
-  <Entry Index="1081">¡Ups! Me he liado. A la derecha, a la derecha.&lt;wait&gt;</Entry>
-  <Entry Index="1082">¡No, estás demasiado lejos, &lt;playername&gt;! Ven por
-aquí. ¡Ahora un poco más lejos!&lt;wait&gt;</Entry>
-  <Entry Index="1083">¿Eh? Qué raro. Esta no es la flor que pensaba. ¡Qué
-cabeza la mía!&lt;wait&gt;</Entry>
-  <Entry Index="1084">¡Ah, mira allí! ¡Es ESA! ¡Estoy segura de que esa va a ser
-una flor muy rara!&lt;wait&gt;</Entry>
-  <Entry Index="1085">¿Y ahora qué, "dame la patita"?</Entry>
-  <Entry Index="1086">¡Ya basta!</Entry>
-  <Entry Index="1087">¡Ya basta!</Entry>
-  <Entry Index="1088">Ah... Lo siento, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1089">Me he centrado tanto en las flores que no he sido
-respetuosa. Perdona.&lt;wait&gt;&lt;page&gt;
-Cuando aceptaste ayudarme, me dejé llevar por mi
-emoción. Espero que puedas perdonarme.&lt;wait&gt;</Entry>
-  <Entry Index="1090">Aunque mamá sí que se encontraba mal hoy. Y Rick ha
-estado muy ocupado con la tienda.&lt;wait&gt;&lt;page&gt;
-Dije que quería ayudar, pero me ignoró
-y siguió trabajando.&lt;wait&gt;&lt;page&gt;
-Quiero ayudar. Quiero hacer cosas por mi familia. Pero
-me siguen tratando como a una niña pequeña. Así que me
-enfadé y me fui.&lt;wait&gt;&lt;page&gt;
-Después me encontré contigo, &lt;playername&gt;, y me
-trataste tan bien que no me pude contener.&lt;wait&gt;&lt;page&gt;
-He sido tan mandona y te he exigido un montón de cosas
-para desquitarme porque me ignoraban.&lt;wait&gt;</Entry>
-  <Entry Index="1091">Pero no... no estás &lt;gender&gt;("enfadado","enfadada") conmigo, ¿no? ¿No estás
-&lt;gender&gt;("enfadado","enfadada") porque soy demasiado mandona?&lt;wait&gt;</Entry>
-  <Entry Index="1092">Gracias, &lt;playername&gt;. Me siento mejor ahora que
-he podido desahogarme.&lt;wait&gt;</Entry>
-  <Entry Index="1093">¿Eh? ¿Dices que podría poner mi granito de arena
-haciendo algo tan sencillo como ayudando con las tareas
-de la casa? La verdad es que debería hacer eso.&lt;wait&gt;</Entry>
-  <Entry Index="1094">Sabes qué, tienes razón. Siempre puedo encontrar formas
-de ayudar por mi cuenta sin que tengan que pedírmelo.&lt;wait&gt;</Entry>
-  <Entry Index="1095">¡Mira y aprende, &lt;playername&gt;! Voy a esforzarme al
-máximo y a ayudar a mi familia como... ¡una persona
-superútil! ¡Sí!&lt;wait&gt;</Entry>
-  <Entry Index="1096">Ah, y también debería disculparme con Rick por gritarle.&lt;wait&gt;</Entry>
-  <Entry Index="1097">¿Eh? ¡&lt;playername&gt;, espera! ¡No te vayas!&lt;wait&gt;</Entry>
-  <Entry Index="1098">Oh... demasiado tarde. Aunque... supongo que sí que me
-estuve aprovechando de la situación.&lt;wait&gt;&lt;page&gt;
-Me he puesto mandona y le he exigido muchas cosas. No
-ha estado bien. Lo siento mucho, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1060">Não se esqueça do meu presente! Espero que
+gostem do pudim. Acho que ficou muito bom!&lt;wait&gt;</Entry>
+  <Entry Index="1061">A gente se vê depois. Obrigada por me ajudar!&lt;wait&gt;</Entry>
+  <Entry Index="1062">Oh... Então você também acha que
+só atrapalho, &lt;playername&gt;?&lt;wait&gt;&lt;page&gt;
+Rick sempre diz que não confia em mim na cozinha.
+Tudo o que me permite fazer é pôr a mesa
+e servir a comida.&lt;wait&gt;&lt;page&gt;
+Ele cuida de todo o resto. Eu sei que eu posso
+fazer mais se eu tentar, mas ele me trata como se
+eu fosse uma garotinha.&lt;wait&gt;</Entry>
+  <Entry Index="1063">Sei que provavelmente pareço estranha e 
+e pouco confiável para você e Rick, mas...&lt;wait&gt;</Entry>
+  <Entry Index="1064">Bem, não quero ficar triste agora,
+&lt;playername&gt;. Nos esforçamos muito para
+preparar isso, vamos comer!&lt;wait&gt;</Entry>
+  <Entry Index="1065">Mmm! Ficou uma delícia. Provavelmente porque
+você estava aqui para ajudar, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1066">A gente se vê depois. Obrigada por me ajudar!&lt;wait&gt;</Entry>
+  <Entry Index="1067">Agh! Rick estúpido! Não sabe de NADA! Eu te odeio!&lt;wait&gt;</Entry>
+  <Entry Index="1068">Ah! &lt;playername&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="1069">Oh, uh, não foi nada. Não importa. Posso falar
+com você um pouco?&lt;wait&gt;&lt;page&gt;
+Eu adoraria se você pudesse me ajudar com uma
+coisa.&lt;wait&gt;</Entry>
+  <Entry Index="1070">Você é &lt;gender&gt;("o melhor","a melhor"). Venha, por aqui.&lt;wait&gt;</Entry>
+  <Entry Index="1071">Hmmm. Acho que aqui está bom. Espero encontrar
+o que estou procurando...&lt;wait&gt;</Entry>
+  <Entry Index="1072">Olha, uh... Mamãe não estava se sentinto muito
+bem hoje. Não era grave o suficiente para ir
+a clínica...&lt;wait&gt;&lt;page&gt;
+Mas ela não tem tanta energia como de costume e não
+conseguiu terminar o café da manhã.
+Estou um pouco preocupada.&lt;wait&gt;</Entry>
+  <Entry Index="1073">É por isso que decidi pegar algumas de suas
+flores favoritas e dar a ela um buquê
+de presente!&lt;wait&gt;</Entry>
+  <Entry Index="1074">Não é uma ótima ideia? Eu sabia que você concordaria
+comigo, &lt;playername&gt;!♪&lt;wait&gt;&lt;page&gt;
+Você pode me ajudar a encontrar algumas flores super
+bonitas para o buquê?&lt;wait&gt;</Entry>
+  <Entry Index="1075">Obrigada, &lt;playername&gt;. Lembre-se de que apenas o melhor
+dos melhores servirá para o buquê da mamãe, ok?</Entry>
+  <Entry Index="1076">Mmmm... Acho que uma flor maior combinaria
+muito bem com isso.&lt;wait&gt;</Entry>
+  <Entry Index="1077">Essa flor colorida é muito bonita, você não acha?
+Tenho certeza que a mamãe vai gostar.&lt;wait&gt;</Entry>
+  <Entry Index="1078">Uma grande variedade de flores vai torná-lo
+alegre e bonito, tenho certeza!&lt;wait&gt;</Entry>
+  <Entry Index="1079">Ah! Olha, &lt;playername&gt;! Você também não acha essas
+flores lindas?&lt;wait&gt;</Entry>
+  <Entry Index="1080">Não, aquela à esquerda daquela ali.&lt;wait&gt;</Entry>
+  <Entry Index="1081">Ops! me enganei. À direita, à direita.&lt;wait&gt;</Entry>
+  <Entry Index="1082">Não, você está muito longe, &lt;playername&gt;! Vem por
+aquí. Agora um pouco mais!&lt;wait&gt;</Entry>
+  <Entry Index="1083">Uh? Que estranho. Esta não é a flor que
+eu pensei. Que cabeça a minha!&lt;wait&gt;</Entry>
+  <Entry Index="1084">Ah, olhe lá! É AQUELA!
+Tenho certeza que é uma flor muito rara!&lt;wait&gt;</Entry>
+  <Entry Index="1085">E agora, "me dê a patinha"?</Entry>
+  <Entry Index="1086">Pra mim já deu!</Entry>
+  <Entry Index="1087">Pra mim já deu!</Entry>
+  <Entry Index="1088">Ah... Desculpe, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1089">Me concentrei tanto nas flores que não fui
+educada. Desculpe.&lt;wait&gt;&lt;page&gt;
+Quando você concordou em me ajudar, eu me empolguei
+com a minha animação. Espero que você possa
+me perdoar.&lt;wait&gt;</Entry>
+  <Entry Index="1090">Mas mamãe não estava se sentindo bem hoje.
+E Rick tem estado muito ocupado com a loja.&lt;wait&gt;&lt;page&gt;
+Eu disse que queria ajudar, mas ele me ignorou
+e continuou trabalhando.&lt;wait&gt;&lt;page&gt;
+Quero ajudar. Eu quero fazer coisas para minha família.
+Mas eles continuam me tratando como criança.
+Então fiquei irritada e fui caminhar.&lt;wait&gt;&lt;page&gt;
+Então encontrei você, &lt;playername&gt;, que me
+tratou tão bem que eu não consegui me segurar.&lt;wait&gt;&lt;page&gt;
+Eu tenho sido tão mandona e exigente com você
+para compensar o fato de eles me ignorarem.&lt;wait&gt;</Entry>
+  <Entry Index="1091">Mas você... não está &lt;gender&gt;("bravo","brava") comigo, né? Não está
+&lt;gender&gt;("decepcionado","decepcionada") porque sou muito mandona?&lt;wait&gt;</Entry>
+  <Entry Index="1092">Obrigada, &lt;playername&gt;. Me sinto melhor agora
+que consegui desabafar.&lt;wait&gt;</Entry>
+  <Entry Index="1093">Uh? você está dizendo que eu poderia fazer
+a diferença realizando simples tarefas domésticas
+e limpeza? Acho que eu poderia fazer isso.&lt;wait&gt;</Entry>
+  <Entry Index="1094">Sabe de uma coisa, você está certo. Sempre posso
+encontrar maneiras de ajudar sozinha sem esperar
+que alguém me peça.&lt;wait&gt;</Entry>
+  <Entry Index="1095">Olhe e aprenda, &lt;playername&gt;! Vou me esforçar
+ao máximo para ajudar a minha família como... Alguém
+super útil! Sim!&lt;wait&gt;</Entry>
+  <Entry Index="1096">Ah, e também devo pedir desculpas a Rick
+por gritar com ele.&lt;wait&gt;</Entry>
+  <Entry Index="1097">Uh? &lt;playername&gt;, espere! Não vá!&lt;wait&gt;</Entry>
+  <Entry Index="1098">Oh... Tarde demais. Embora... Acho que eu estava
+me aproveitando da situação.&lt;wait&gt;&lt;page&gt;
+Eu me tornei mandona e exigi muitas coisas.
+Não foi legal. Sinto muito, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="1099">Bueno, ahora que he podido asimilarlo... Sí que es difícil
 pensar cuando te sorprenden así.&lt;wait&gt;</Entry>
   <Entry Index="1100">¿Puedes repetir lo que has dicho antes?&lt;wait&gt;</Entry>
