@@ -2601,117 +2601,123 @@ de vista, &lt;playername&gt;. ∀&lt;wait&gt;</Entry>
 não sei nem por onde começar.&lt;wait&gt;</Entry>
   <Entry Index="1178">Você teria alguma recomendação, &lt;playername&gt;?&lt;wait&gt;</Entry>
   <Entry Index="1179">Você teria alguma recomendação, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="1180">Eh, ¿un estudio sobre las tipos poco comunes de plantas
-que puedes encontrar en el pueblo?&lt;wait&gt;&lt;page&gt;
-¿Estas son comestibles?
-¿Y estas son peligrosas?
-Guau. No tenía ni idea.&lt;wait&gt;</Entry>
-  <Entry Index="1181">Ahg... Eso ha sido bastante duro, ni siquiera puedo
-pensar en una buena respuesta. Eres demasiado
-&lt;gender&gt;("directo","directa"), &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1182">Ahg... Eso ha sido bastante duro, ni siquiera puedo
-pensar en una buena respuesta. Eres demasiado
-&lt;gender&gt;("directo","directa"), &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1183">Pero no me voy a desanimar. ¡Cuando me decido por algo,
-lo hago hasta el final!&lt;wait&gt;&lt;page&gt;
-¡No me voy a poner en ridículo
-por tu culpa, &lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="1184">Pero no me voy a desanimar. ¡Cuando me decido por algo,
-lo hago hasta el final!&lt;wait&gt;&lt;page&gt;
-¡No me voy a poner en ridículo
-por tu culpa, &lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="1185">M-madre mía... Cómo me late el corazón. Se me han
-empañado las gafas también.&lt;wait&gt;&lt;page&gt;
-No iba en broma, ¿no?
-¿Es... en serio?&lt;wait&gt;</Entry>
-  <Entry Index="1186">¿Quieres ser mi novio?&lt;wait&gt;</Entry>
-  <Entry Index="1187">¿Quieres ser mi novia?&lt;wait&gt;</Entry>
-  <Entry Index="1188">Estaría encantada. Yo también quería tener una relación
-especial contigo.&lt;wait&gt;&lt;page&gt;
-Así que esto significa que a partir de hoy... somos pareja.&lt;wait&gt;</Entry>
-  <Entry Index="1189">Estaría encantada. Yo también quería tener una relación
-especial contigo.&lt;wait&gt;&lt;page&gt;
-Así que esto significa que a partir de hoy... somos pareja.&lt;wait&gt;</Entry>
-  <Entry Index="1190">¡Ji, ji, ji! Reconozco que estoy un poco nerviosa. Nunca he
-tenido pareja.&lt;wait&gt;&lt;page&gt;
-Creo que me voy a pasar el día sonriendo.
-Oh, pero no te preocupes.&lt;wait&gt;&lt;page&gt;
-Bueno, debería ir volviendo. Estoy deseando de ver cómo
-va nuestro siguiente capítulo &lt;gender&gt;("juntos","juntas").&lt;wait&gt;</Entry>
-  <Entry Index="1191">¡Ji, ji, ji! Reconozco que estoy un poco nerviosa. Nunca he
-tenido pareja.&lt;wait&gt;&lt;page&gt;
-Creo que me voy a pasar el día sonriendo.
-Oh, pero no te preocupes.&lt;wait&gt;&lt;page&gt;
-Bueno, debería ir volviendo. Estoy deseando de ver cómo
-va nuestro siguiente capítulo &lt;gender&gt;("juntos","juntas").&lt;wait&gt;</Entry>
-  <Entry Index="1192">¡&lt;playername&gt;!&lt;wait</Entry>
-  <Entry Index="1193">Hola.
-He venido a verte.&lt;wait&gt;&lt;page&gt;
-¿Tienes tiempo para ir a alguna parte?&lt;wait&gt;</Entry>
-  <Entry Index="1194">Bueno... eres mi novio.
-Así que he pensado que podríamos tener una cita.&lt;wait&gt;</Entry>
-  <Entry Index="1195">Bueno... eres mi novia.
-Así que he pensado que podríamos tener una cita.&lt;wait&gt;</Entry>
-  <Entry Index="1196">¡Estupendo! ¿Has pensado en algún sitio?&lt;wait&gt;</Entry>
-  <Entry Index="1197">Ah... La verdad es que he estado tan preocupada con
-invitarte que no he pensado en dónde podríamos ir.&lt;wait&gt;</Entry>
-  <Entry Index="1198">Ah... La verdad es que he estado tan preocupada con
-invitarte que no he pensado en dónde podríamos ir.&lt;wait&gt;</Entry>
-  <Entry Index="1199">Lo siento... Te dije que era nueva en esto...&lt;wait&gt;</Entry>
-  <Entry Index="1200">¿Eh? ¿Quieres ir a la biblioteca?&lt;wait&gt;</Entry>
-  <Entry Index="1201">¿Para que te recomiende mis libros favoritos?&lt;wait&gt;</Entry>
-  <Entry Index="1202">Pues no podrías haberle preguntado a nadie mejor. Los
-libros son mi especialidad.&lt;wait&gt;&lt;page&gt;
-Me alegra tanto que compartamos el interés por la
+  <Entry Index="1180">Uh, um estudo sobre os tipos incomuns de
+plantas que você pode encontrar na cidade?&lt;wait&gt;&lt;page&gt;
+Esses são comestíveis?
+E estes são perigosos?
+Uau. Eu não fazia ideia.&lt;wait&gt;</Entry>
+  <Entry Index="1181">Ahg... Isso foi bem duro, não
+consigo nem pensar em uma boa resposta.
+Você é muito &lt;gender&gt;("franco","franca"), &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1182">Ahg... Isso foi bem duro, não
+consigo nem pensar em uma boa resposta.
+Você é muito &lt;gender&gt;("franco","franca"), &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1183">Mas não vou desanimar. Quando decido algo,
+Vou até o final!&lt;wait&gt;&lt;page&gt;
+Não vou me sentir ridícula por sua causa, &lt;playername&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="1184">Mas não vou desanimar. Quando decido algo,
+Vou até o final!&lt;wait&gt;&lt;page&gt;
+Não vou me sentir ridícula por sua causa, &lt;playername&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="1185">M-meu deus... Meu coração disparou.
+Meus óculos até embaçaram.&lt;wait&gt;&lt;page&gt;
+Não está brincando, está?
+Você está... falando sério?&lt;wait&gt;</Entry>
+  <Entry Index="1186">Quer ser meu namorado?&lt;wait&gt;</Entry>
+  <Entry Index="1187">Quer ser minha namorada?&lt;wait&gt;</Entry>
+  <Entry Index="1188">Eu ficaria muito feliz. Eu também queria
+ter um relacionamento especial com você.&lt;wait&gt;&lt;page&gt;
+Isso significa que a partir de hoje... Somos um casal.&lt;wait&gt;</Entry>
+  <Entry Index="1189">Eu ficaria muito feliz. Eu também queria
+ter um relacionamento especial com você.&lt;wait&gt;&lt;page&gt;
+Isso significa que a partir de hoje... Somos um casal.&lt;wait&gt;</Entry>
+  <Entry Index="1190">Hee hee! Confesso que estou um pouco nervosa.
+Nunca tive um namorado.&lt;wait&gt;&lt;page&gt;
+Acho que vou passar o dia sorrindo.
+Oh, mas não se preocupe.&lt;wait&gt;&lt;page&gt;
+Bem, eu deveria voltar. Mal posso esperar para ver como
+será nosso próximo capítulo &lt;gender&gt;("juntos","juntas").&lt;wait&gt;</Entry>
+  <Entry Index="1191">Hee hee! Confesso que estou um pouco nervosa.
+Nunca tive uma namorada.&lt;wait&gt;&lt;page&gt;
+Acho que vou passar o dia sorrindo.
+Oh, mas não se preocupe.&lt;wait&gt;&lt;page&gt;
+Bem, eu deveria voltar. Mal posso esperar para ver como
+será nosso próximo capítulo &lt;gender&gt;("juntos","juntas").&lt;wait&gt;</Entry>
+  <Entry Index="1192">&lt;playername&gt;!&lt;wait</Entry>
+  <Entry Index="1193">Olá.
+Eu vim te ver.&lt;wait&gt;&lt;page&gt;
+Você teria tempo para ir a algum lugar?&lt;wait&gt;</Entry>
+  <Entry Index="1194">Bem... Você é meu namorado.
+Então pensei que poderíamos sair juntos.&lt;wait&gt;</Entry>
+  <Entry Index="1195">Bem... Você é minha namorada.
+Então pensei que poderíamos sair juntas.&lt;wait&gt;</Entry>
+  <Entry Index="1196">Ótimo! Você teria algum lugar em mente?&lt;wait&gt;</Entry>
+  <Entry Index="1197">Ah... Na verdade, estive tão preocupada em
+convidá-lo que não pensei onde poderíamos ir.&lt;wait&gt;</Entry>
+  <Entry Index="1198">Ah... Na verdade, estive tão preocupada em
+convidá-la que não pensei onde poderíamos ir.&lt;wait&gt;</Entry>
+  <Entry Index="1199">Desculpe... Eu disse que era nova nisso...&lt;wait&gt;</Entry>
+  <Entry Index="1200">Uh? Deseja ir à biblioteca?&lt;wait&gt;</Entry>
+  <Entry Index="1201">Para que eu possa recomendar meus livros
+favoritos?&lt;wait&gt;</Entry>
+  <Entry Index="1202">Bem, você não poderia ter perguntado a
+ninguém melhor. Livros são minha especialidade.&lt;wait&gt;&lt;page&gt;
+Estou muito feliz por compartilharmos o interesse na
 literatura, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-La biblioteca está cerrada, pero tengo las llaves, así que
-puedo abrirla un rato. Vamos.&lt;wait&gt;</Entry>
-  <Entry Index="1203">¿Eh? ¿Marie y &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="1204">¿Eh? ¿Marie y &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="1205">¿Qué hacéis aquí?
-¡Oh! ¿Es una cita?&lt;wait&gt;</Entry>
-  <Entry Index="1206">¿Qué hacéis aquí?
-¡Oh! ¿Es una cita?&lt;wait&gt;</Entry>
-  <Entry Index="1207">¿Vuestra cita consiste en ir a la biblioteca?&lt;wait&gt;</Entry>
-  <Entry Index="1208">¿Vuestra cita consiste en ir a la biblioteca?&lt;wait&gt;</Entry>
-  <Entry Index="1209">Así que tú también eres un ratón de biblioteca,
-&lt;playername&gt;. Menuda sorpresa.&lt;wait&gt;</Entry>
-  <Entry Index="1210">Marie me va a recomendar unos libros.</Entry>
-  <Entry Index="1211">Leer es un asco.</Entry>
-  <Entry Index="1212">Así es. Voy a coger unos libros que creo
-que le gustarán a &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1213">Espera, ¿odias leer pero vas a la biblioteca igualmente?&lt;wait&gt;</Entry>
-  <Entry Index="1214">¿Eh? Mi plan es coger unos libros que creo que le
-gustarán a &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1215">Umm. Suena bien.&lt;wait&gt;</Entry>
-  <Entry Index="1216">¡Sí! No leo mucho, así que no sé qué libros están bien.&lt;wait&gt; </Entry>
-  <Entry Index="1217">No te preocupes. Hay un libro para cada momento y
-persona. Seguro que podéis encontrar algo que
-os guste a &lt;gender&gt;("los dos","las dos").&lt;wait&gt;</Entry>
-  <Entry Index="1218">¿Crees que hay uno que me guste incluso a mí?&lt;wait&gt;</Entry>
-  <Entry Index="1219">Mmmm... ¿Y un libro de aventuras que a la vez te permita
-aprender sobre cocina?&lt;wait&gt;&lt;page&gt;
-"General Gourmet" es un libro sobre un general que viaja
-por el país buscando el ingrediente definitivo.&lt;wait&gt;&lt;page&gt;
-Encuentra una gran variedad de comida en su periplo, y
-hay recetas detalladas para cada plato al final.&lt;wait&gt;</Entry>
-  <Entry Index="1220">¡Guau! ¡Tiene muy buena pinta!&lt;wait&gt;</Entry>
-  <Entry Index="1221">Sí, es impresionante. Y en la narración en sí se hace un
-amplio uso de la justicia poética, por lo que también es una
-lectura inspiradora.&lt;wait&gt;&lt;page&gt;
-Su lema es: "¿Podrás mantener los ojos en mi cuchillo?".
-Cuando su legendario cuchillo de cocina destella, los
-villanos caen.&lt;wait&gt;</Entry>
-  <Entry Index="1222">¿Y para mí?
-¿Hay algún libro que me gustaría a mí?&lt;wait&gt;</Entry>
-  <Entry Index="1223">Para ti, Popuri...
-¿Qué te parece "Mi tío es un mago"?&lt;wait&gt;&lt;page&gt;
-Es una historia de amor sobre una chica sencilla que va al
-baile del castillo y se enamora del príncipe.&lt;wait&gt;&lt;page&gt;
-Su tío es en realidad un mago, y utiliza su magia para
-crear ropa muy bonita para su sobrina. Es una historia
-muy pastelosa.&lt;wait&gt;</Entry>
-  <Entry Index="1224">¡Suena genial!
+A biblioteca está fechada, mas eu tenho as chaves, então
+eu posso abri-la um pouco. Vamos lá.&lt;wait&gt;</Entry>
+  <Entry Index="1203">Uh? Marie e &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="1204">Uh? Marie e &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="1205">O que fazem aqui?
+Oh! É um encontro?&lt;wait&gt;</Entry>
+  <Entry Index="1206">O que fazem aqui?
+Oh! É um encontro?&lt;wait&gt;</Entry>
+  <Entry Index="1207">O encontro de vocês consiste em ir a
+biblioteca?&lt;wait&gt;</Entry>
+  <Entry Index="1208">O encontro de vocês consiste em ir a
+biblioteca?&lt;wait&gt;</Entry>
+  <Entry Index="1209">Então você também gosta de ler livros,
+&lt;playername&gt;. Que surpresa.&lt;wait&gt;</Entry>
+  <Entry Index="1210">Marie vai me recomendar alguns livros.</Entry>
+  <Entry Index="1211">Ler é uma droga.</Entry>
+  <Entry Index="1212">Isso mesmo. Eu vou pegar alguns livros que eu acho
+que &lt;playername&gt; vai gostar.&lt;wait&gt;</Entry>
+  <Entry Index="1213">Espere, você odeia ler, mas vai à
+biblioteca mesmo assim?&lt;wait&gt;</Entry>
+  <Entry Index="1214">Uh? Meu plano é pegar alguns livros que eu acho
+que &lt;playername&gt; vai gostar.&lt;wait&gt;</Entry>
+  <Entry Index="1215">Umm. Parece bom.&lt;wait&gt;</Entry>
+  <Entry Index="1216">Sim! Eu não leio muito,
+então não sei quais livros são bons.&lt;wait&gt; </Entry>
+  <Entry Index="1217">Não se preocupe. Há um livro para cada
+pessoas e momento. Tenho certeza que posso
+encontrar algo que agrade &lt;gender&gt;("os dois","as duas").&lt;wait&gt;</Entry>
+  <Entry Index="1218">Você acha que existe um que eu goste?&lt;wait&gt;</Entry>
+  <Entry Index="1219">Mmmm... Que tal um livro de aventuras que
+também permite aprender a cozinhar?&lt;wait&gt;&lt;page&gt;
+"General Gourmet" é um livro sobre um general que
+viaja em todo o país em busca do melhor
+ingrediente.&lt;wait&gt;&lt;page&gt;
+Ele encontra uma grande variedade de alimentos em
+sua jornada, e há receitas detalhadas para cada
+prato no final.&lt;wait&gt;</Entry>
+  <Entry Index="1220">Uau! Parece muito bom!&lt;wait&gt;</Entry>
+  <Entry Index="1221">Sim, é impressionante. E há bastante uso
+da liscença poética na própria narrativa, por isso
+também é uma leitura inspiradora.&lt;wait&gt;&lt;page&gt;
+Seu lema é "Consegue manter seus olhos na minha faca?"
+Quando sua lendária faca de cozinha pisca, o
+os vilões caem.&lt;wait&gt;</Entry>
+  <Entry Index="1222">E para mim?
+Há algum livro que eu gostaria?&lt;wait&gt;</Entry>
+  <Entry Index="1223">Para você, Popuri...
+Que tal "Meu tio é mágico"?&lt;wait&gt;&lt;page&gt;
+É uma história de amor sobre uma menina simples
+que vai ao baile do castelo e se apaixona
+pelo príncipe.&lt;wait&gt;&lt;page&gt;
+Seu tio é na verdade um mágico, e ele usa sua magia
+para criar roupas muito bonitas para sua sobrinha.
+ É uma história muito fofa.&lt;wait&gt;</Entry>
+  <Entry Index="1224">Parece ótima!
 ¡Tengo que leérmelo!&lt;wait&gt;&lt;page&gt;
 La biblioteca tiene taaantos libros que no se me había
 ocurrido echarles un vistazo antes, pero ahora...&lt;wait&gt;</Entry>
