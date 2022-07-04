@@ -2102,118 +2102,121 @@ Eu não poderia ter feito isso sem você, &lt;playername&gt;.&lt;wait&gt;</Entry
 do que ter um namorado de plantão, certo? Ha ha!&lt;wait&gt;</Entry>
   <Entry Index="984">Obrigada. De todo coração. Não há nada melhor
 do que ter um namorada de plantão, certo? Ha ha!&lt;wait&gt;</Entry>
-  <Entry Index="985">¿Eh? Bueno, hola a &lt;gender&gt;("los dos","las dos"). ¿Qué hacéis ahí en la puerta
-de la tienda?&lt;wait&gt;</Entry>
-  <Entry Index="986">¡Papá! ¡Mamá! Uf, por fin estáis de vuelta. ¿Por qué
-habéis tardado tanto?&lt;wait&gt;</Entry>
-  <Entry Index="987">Perdona, cariño. Tardamos más de lo esperado en
-solucionar la lista de la compra y perdimos
-la noción del tiempo.&lt;wait&gt;</Entry>
-  <Entry Index="988">¡Ay! ¡Siempre os digo que os decidáis antes de ir! ¿Sabéis
-cuánto trabajo he tenido hoy?&lt;wait&gt;&lt;page&gt;
-Si &lt;playername&gt; no hubiese venido a ayudarme,
-seguiría por ahí fuera haciendo repartos.&lt;wait&gt;</Entry>
-  <Entry Index="989">¡Ay! ¡Siempre os digo que os decidáis antes de ir! ¿Sabéis
-cuánto trabajo he tenido hoy?&lt;wait&gt;&lt;page&gt;
-Si &lt;playername&gt; no hubiese venido a ayudarme,
-seguiría por ahí fuera haciendo repartos.&lt;wait&gt;</Entry>
-  <Entry Index="990">¿Ah, sí? Bueno, gracias por tu ayuda, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="991">¿Ah, sí? Bueno, gracias por tu ayuda, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="992">¡Ji, ji, ji!&lt;wait&gt;</Entry>
-  <Entry Index="993">¿Eh? ¿Qué te parece tan gracioso, mamá?&lt;wait&gt;</Entry>
-  <Entry Index="994">¡Ah, nada! ♪ Es que os hemos visto a &lt;gender&gt;("los dos","las dos") hablando muy
-felices delante de la tienda mientras veníamos.&lt;wait&gt;&lt;page&gt;
-Me pregunto si no habríais preferido que llegásemos algo
-más tarde.&lt;wait&gt;</Entry>
-  <Entry Index="995">¿Q-qué? ¡N-no! Yo, eh...&lt;wait&gt;</Entry>
-  <Entry Index="996">¿No está bien tener un novio en quien puedas confiar a tu
-disposición, Karen? Me alegro por ti.&lt;wait&gt;</Entry>
-  <Entry Index="997">¿No está bien tener una novia en quien puedas confiar
-siempre que la necesites, Karen? Me alegro por ti.&lt;wait&gt;</Entry>
-  <Entry Index="998">Sí... Supongo que sí.&lt;wait&gt;</Entry>
-  <Entry Index="999">Mmm... No. Nada de nada. Supongo que tendré que
-adentrarme más en el bosque para ya-sabes-qué.&lt;wait&gt;</Entry>
-  <Entry Index="1000">¡Aaaay, pero qué cosa más cuca! ∀ Eres una monada, ¿eh?
-¿Tienes hambre?</Entry>
-  <Entry Index="1001">¡Ji, ji, ji! Supongo que quieres unas ricas chuches, ¿no? Qué
-buen chico. Oh, ¡eres tan bonito! ∀&lt;wait&gt;</Entry>
-  <Entry Index="1002">¿Eh? ¿Por qué tengo la sensación de que alguien
-me observa...?&lt;wait&gt;</Entry>
-  <Entry Index="1003">¡AAAH! ¡&lt;playername&gt;! ¡¡No puede ser! ¡¿Cuánto
-tiempo llevas ahí?!&lt;wait&gt;</Entry>
-  <Entry Index="1004">¡AAAH! ¡&lt;playername&gt;! ¡¡No puede ser! ¡¿Cuánto
-tiempo llevas ahí?!&lt;wait&gt;</Entry>
-  <Entry Index="1005">Eh... Ja, ja, ja. Madre, menuda coincidencia, ¿no? Yo... solo
-estaba... ¡de paseo! Tú también, ¿no?&lt;wait&gt;&lt;page&gt;
-Me gusta tanto el bosque que iba andando y me acabé
-encontrando como si nada a todos estos animales...&lt;wait&gt;</Entry>
-  <Entry Index="1006">Eh... Ja, ja, ja. Madre, menuda coincidencia, ¿no? Yo... solo
-estaba... ¡de paseo! Tú también, ¿no?&lt;wait&gt;&lt;page&gt;
-Me gusta tanto el bosque que iba andando y me acabé
-encontrando como si nada a todos estos animales...&lt;wait&gt;</Entry>
-  <Entry Index="1007">¿Que respire hondo? Uf. Ja, ja. Sí, tienes razón. Ha sido
-patético hasta para mí.&lt;wait&gt;&lt;page&gt;
-Aun así me alegro de que hayas sido tú
-quien me encontrase.&lt;wait&gt;&lt;page&gt;
-Si creías que me moría de vergüenza, imagínate si
-hubieses sido otra persona.&lt;wait&gt;</Entry>
-  <Entry Index="1008">¿Que respire hondo? Uf. Ja, ja. Sí, tienes razón. Ha sido
-patético hasta para mí.&lt;wait&gt;&lt;page&gt;
-Aun así me alegro de que hayas sido tú quien me
-encontrase. Si creías que me moría de vergüenza,
-imagínate si hubieses sido otra persona.&lt;wait&gt;</Entry>
-  <Entry Index="1009">Ufff... Qué bien sienta la brisa. Gracias. Me siento más
-tranquila.&lt;wait&gt;</Entry>
-  <Entry Index="1010">Te pica la curiosidad, ¿no? Lo veo en tus ojos... ¿Me
-prometes que no te vas a reír?&lt;wait&gt;</Entry>
-  <Entry Index="1011">La mayoría de las personas creen que soy una persona
-franca y con los pies en la tierra, ¿verdad? Bueno, en
-realidad llevan razón.&lt;wait&gt;&lt;page&gt;
-Me refiero a que no soy la típica chica alegre como
-Popuri, por ejemplo.&lt;wait&gt;&lt;page&gt;
-Y, bueno... me gusta ser así. Quiero que la gente piense en
-mí como una hermana mayor madura y fiable.&lt;wait&gt;</Entry>
-  <Entry Index="1012">Pero cuando veo animales pequeños, son tan monos y
-peludos que no puedo evitar ACHUCHARLOS UN
-MONTÓN.&lt;wait&gt;</Entry>
-  <Entry Index="1013">Que alguien más me vea así... Ay, madre.
-Nunca lo superaría.&lt;wait&gt;</Entry>
-  <Entry Index="1014">Te estás reprimiendo.</Entry>
-  <Entry Index="1015">La Karen mona me gusta.</Entry>
-  <Entry Index="1016">Ay, madre. Qué &lt;gender&gt;("directo","directa"). Aunque me sigue gustando la
-imagen que proyecto a los demás, y no me apetece
-cambiarla de momento.&lt;wait&gt;</Entry>
-  <Entry Index="1017">Así que no le cuentes a nadie lo que has visto. ¿Por favor?
-Será nuestro pequeño secreto.&lt;wait&gt;</Entry>
-  <Entry Index="1018">Voy a tener que tener más cuidado en el futuro.&lt;wait&gt;</Entry>
-  <Entry Index="1019">Ay, ¿es que no hay ningún sitio en el que pueda achuchar a
-todos estos bichejos tan cucos sin tener que preocuparme
-de que me vean?&lt;wait&gt;</Entry>
-  <Entry Index="1020">¡Uf! ¿No te he decepcionado? ¿No me he cargado
-completamente mi imagen?</Entry>
-  <Entry Index="1021">"La Karen mona", ¿eh? Me alegra que lo veas como otra
-parte de mí, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1022">"La Karen mona", ¿eh? Me alegra que lo veas como otra
-parte de mí, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1023">Entré en pánico durante durante un momento, pero si
-alguien tenía que pillarme con las manos en la masa, me
-alegra que fueses tú.&lt;wait&gt;</Entry>
-  <Entry Index="1024">¡Ah, espera! ¡Ya sé! Si voy a tu granja, ¡allí hay muchos
-animales muy cucos a los que podré acariciar y achuchar!&lt;wait&gt;&lt;page&gt;
-¡Y si me meto en el establo, si viene alguien ni siquiera
-sabrá que estoy allí! ¡Pero qué lista, soy la pera limonera!&lt;wait&gt;</Entry>
-  <Entry Index="1025">¡Ah, espera! ¡Ya sé! Si voy a tu granja, ¡allí hay muchos
-animales muy cucos a los que podré acariciar y achuchar!&lt;wait&gt;&lt;page&gt;
-¡Y si me meto en el establo, si viene alguien ni siquiera
-sabrá que estoy allí! ¡Pero qué lista, soy la pera limonera!&lt;wait&gt;</Entry>
-  <Entry Index="1026">¿No te importa? ¡Genial! Muchas gracias,
-&lt;playername&gt;. Ah, y te prometo que no te molestaré
-mientras trabajas.&lt;wait&gt;</Entry>
-  <Entry Index="1027">¿No te importa? ¡Genial! Muchas gracias,
-&lt;playername&gt;. Ah, y te prometo que no te molestaré
-mientras trabajas.&lt;wait&gt;</Entry>
-  <Entry Index="1028">Bueno, es hora de volver. ¿Te importa si me paso por tu
-granja de camino?&lt;wait&gt;</Entry>
+  <Entry Index="985">Uh? Bem, olá vocês &lt;gender&gt;("dois","duas"). O que vocês estão
+fazendo ai na porta da loja?&lt;wait&gt;</Entry>
+  <Entry Index="986">Papai! Mamãe! Ufa, finalmente vocês chegaram. Por que
+demoraram tanto?&lt;wait&gt;</Entry>
+  <Entry Index="987">Desculpe, querida. Demoramos mais do que o esperado
+para terminar a lista de compras e perdemos
+a noção de tempo.&lt;wait&gt;</Entry>
+  <Entry Index="988">Argh! Eu sempre digo para vocês decidirem tudo ANTES de ir!
+Vocês sabem quanto trabalho eu tive hoje?&lt;wait&gt;&lt;page&gt;
+Se &lt;playername&gt; não tivesse vindo me ajudar,
+Eu ainda estaria fazendo entregas.&lt;wait&gt;</Entry>
+  <Entry Index="989">Argh! Eu sempre digo para vocês decidirem tudo ANTES de ir!
+Vocês sabem quanto trabalho eu tive hoje?&lt;wait&gt;&lt;page&gt;
+Se &lt;playername&gt; não tivesse vindo me ajudar,
+Eu ainda estaria fazendo as entregas.&lt;wait&gt;</Entry>
+  <Entry Index="990">Realemnte, agora? Bem, obrigado pela ajuda, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="991">Realmente, agora? Bem, obrigada pela ajuda, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="992">Hee hee!&lt;wait&gt;</Entry>
+  <Entry Index="993">Uh? O que você acha tão engraçado, mamãe?&lt;wait&gt;</Entry>
+  <Entry Index="994">Ah, nada! ♪ É que vimos vocês &lt;gender&gt;("dois","duas") conversando
+felizes na frente da loja quando estávamos chegando.&lt;wait&gt;&lt;page&gt;
+Me pergunto se você não teria preferido que tivéssemos
+chegado mais tarde.&lt;wait&gt;</Entry>
+  <Entry Index="995">O-o quê? N-n-não! Eu, uh...&lt;wait&gt;</Entry>
+  <Entry Index="996">Não é bom ter um namorado confiável à sua
+disposição, Karen? Fico feliz por você.&lt;wait&gt;</Entry>
+  <Entry Index="997">Não é bom ter uma namorada confiável à sua
+disposição, Karen? Fico feliz por você.&lt;wait&gt;</Entry>
+  <Entry Index="998">Sim... Acho que sim.&lt;wait&gt;</Entry>
+  <Entry Index="999">Hmm... Não. Nada. Acho que vou ter que ir mais fundo
+na floresta para você-sabe-o-quê.&lt;wait&gt;</Entry>
+  <Entry Index="1000">Oownn, que coisa mais fofa! ∀ Você é um fofo, uh?
+Você está com fome?</Entry>
+  <Entry Index="1001">Hee hee! Suponho que você queira alguns doces
+deliciosos, certo? Que bom menino. Ownn, você é tão
+bonitinho! ∀&lt;wait&gt;</Entry>
+  <Entry Index="1002">Uh? Por que tenho a sensação que tem alguém
+me observando...?&lt;wait&gt;</Entry>
+  <Entry Index="1003">Aah! &lt;playername&gt;! Sem chance! Há
+quanto tempo está aí?!&lt;wait&gt;</Entry>
+  <Entry Index="1004">Aah! &lt;playername&gt;! Sem chance! Há
+quanto tempo está aí?!&lt;wait&gt;</Entry>
+  <Entry Index="1005">Uh... Ha ha. Nossa, que coincidência, né? Eu...
+Estava apenas... Dando um passeio! Você também, certo?&lt;wait&gt;&lt;page&gt;
+Gosto tanto da floresta que estava andando e
+acabei encontrando todos esses animaizinhos...&lt;wait&gt;</Entry>
+  <Entry Index="1006">Uh... Ha ha. Nossa, que coincidência, né? Eu...
+Estava apenas... Dando um passeio! Você também, certo?&lt;wait&gt;&lt;page&gt;
+Gosto tanto da floresta que estava andando e
+acabei encontrando todos esses animaizinhos....&lt;wait&gt;</Entry>
+  <Entry Index="1007">Respirar fundo? Uff. Ha ha. Sim, tem razão.
+Foi patético até para mim.&lt;wait&gt;&lt;page&gt;
+Ainda assim, estou feliz que você me encontrou.&lt;wait&gt;&lt;page&gt;
+Se você pensou que eu estava morrendo de vergonha,
+imagine se tivesse sido outra pessoa.&lt;wait&gt;</Entry>
+  <Entry Index="1008">Respirar fundo? Uff. Ha ha. Sim, tem razão.
+Foi patético até para mim.&lt;wait&gt;&lt;page&gt;
+Ainda assim, estou feliz que você me encontrou.
+Se você pensou que eu estava morrendo de vergonha,
+imagine se tivesse sido outra pessoa.&lt;wait&gt;</Entry>
+  <Entry Index="1009">Phew... Como é bom sentir a brisa. Obrigada.
+Me sinto mais tranquila.&lt;wait&gt;</Entry>
+  <Entry Index="1010">Você está curioso, não está? Eu vejo em seus olhos...
+promete que não vai rir?&lt;wait&gt;</Entry>
+  <Entry Index="1011">A maioria das pessoas pensa que sou uma pessoa
+determinada e pé no chão, certo? Bom, na verdade
+eles estão certos.&lt;wait&gt;&lt;page&gt;
+Quero dizer, eu não sou a típica garota feliz como
+Popuri, por exemplo.&lt;wait&gt;&lt;page&gt;
+E, bem... Eu gosto de ser assim. Eu quero que as pessoas
+pensem em mim como uma irmã mais velha 
+madura e confiável.&lt;wait&gt;</Entry>
+  <Entry Index="1012">Mas quando vejo animaizinhos, eles são tão fofinhos
+e peludinhos que eu não consigo deixar de
+ENCHE-LOS DE ABRAÇOS.&lt;wait&gt;</Entry>
+  <Entry Index="1013">Se alguém me ver assim... Ai, nossa.
+Eu nunca ia superar.&lt;wait&gt;</Entry>
+  <Entry Index="1014">Você está se reprimindo.</Entry>
+  <Entry Index="1015">Eu gosto da Karen fofa.</Entry>
+  <Entry Index="1016">Ai, nossa. Que &lt;gender&gt;("direto","direta"). Embora eu ainda
+goste da imagem que projeto para os outros,
+e não sinto vontade de mudá-la no momento.&lt;wait&gt;</Entry>
+  <Entry Index="1017">Portanto, não conte a ninguém o que viu. Tá bom?
+Vai ser nosso segredinho.&lt;wait&gt;</Entry>
+  <Entry Index="1018">Vou tentar tomar mais cuidado da
+próxima vez.&lt;wait&gt;</Entry>
+  <Entry Index="1019">Ah, não há algum lugar onde eu possa abraçar
+todas essas criaturinhas fofas sem me preocupar?&lt;wait&gt;</Entry>
+  <Entry Index="1020">Ufa! Não está decepcionado? Não arruinei por
+completo a minha imagem?</Entry>
+  <Entry Index="1021">"A Karen Fofa", uh? Fico feliz que você
+veja isso como uma outra parte de mim, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1022">"A Karen Fofa", uh? Fico feliz que você
+veja isso como uma outra parte de mim, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1023">Entrei em pânico por um momento, mas se alguém
+tivesse que me pegar em flagrante, ainda bem
+que foi você.&lt;wait&gt;</Entry>
+  <Entry Index="1024">Ah, espere! Já sei! Se eu for na sua fazenda,
+tem muitos bichinhos fofos lá que eu posso acariciar
+e abraçar!&lt;wait&gt;&lt;page&gt;
+Eu posso ficar no celeiro, se alguém vier, nem saberá que
+estou lá! Mas que esperta, eu sou genial!&lt;wait&gt;</Entry>
+  <Entry Index="1025">Ah, espere! Já sei! Se eu for na sua fazenda,
+tem muitos bichinhos fofos lá que eu posso acariciar
+e abraçar!&lt;wait&gt;&lt;page&gt;
+Eu posso ficar no celeiro, se alguém vier, nem saberá que
+estou lá! Mas que esperta, eu sou genial!&lt;wait&gt;</Entry>
+  <Entry Index="1026">Não se importa? Legal! Muito obrigada,
+&lt;playername&gt;. Ah, e eu prometo que não vou te incomodar
+enquanto você trabalha.&lt;wait&gt;</Entry>
+  <Entry Index="1027">Não se importa? Legal! Muito obrigada,
+&lt;playername&gt;. Ah, e eu prometo que não vou te incomodar
+enquanto você trabalha.&lt;wait&gt;</Entry>
+  <Entry Index="1028">Bom, é hora de voltar. Tudo bem se eu
+passar na sua fazenda no caminho?&lt;wait&gt;</Entry>
   <Entry Index="1029">¡Pero, &lt;playername&gt;, qué &lt;gender&gt;("directo","directa") eres! ¡Tienes que
 crear ambiente antes de soltar algo así!&lt;wait&gt;</Entry>
   <Entry Index="1030">Te doy un 6 sobre 10 en cuanto a presentación, ¿pero
