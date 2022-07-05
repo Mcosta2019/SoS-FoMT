@@ -2469,7 +2469,7 @@ se por acaso você não teria algo.&lt;wait&gt;</Entry>
   <Entry Index="1122">Pelo menos você tentou. Talvez você possa
 achar alguém na cidade que saiba onde
 encontrar algo assim.&lt;wait&gt;</Entry>
-  <Entry Index="1123">Profissional em limpeza? Boa idéia!
+  <Entry Index="1123">Especialista em limpeza? Boa idéia!
 Vou perguntar por ai!&lt;wait&gt;</Entry>
   <Entry Index="1124">Muito obrigada por ter vindo comigo, &lt;playername&gt;.
 Eu cuido disso a partir de agora.&lt;wait&gt;</Entry>
@@ -2487,7 +2487,7 @@ legal para melhorar esse semblante?&lt;wait&gt;</Entry>
 coisas em sua fazenda. Você é &lt;gender&gt;("um esquitão","uma esquisitona"),
 &lt;playername&gt;. ♪&lt;wait&gt;</Entry>
   <Entry Index="1129">Uau, eu não sabia que você tinha essas
-coisas em sua fazenda. Você é &lt;gender&gt;("Menudo rarito","Menuda rarita"),
+coisas em sua fazenda. Você é &lt;gender&gt;("um esquitão","uma esquisitona"),
 &lt;playername&gt;. ♪&lt;wait&gt;</Entry>
   <Entry Index="1130">Você acabou com meu mau humor
 só de conversarmos um pouco, &lt;playername&gt;.&lt;wait&gt;</Entry>
@@ -2571,7 +2571,7 @@ coisa para deixar meus hóspedes felizes.&lt;wait&gt;&lt;page&gt;
 E eu pensei que poderia ser uma guia turística e falar
 com eles sobre os melhores lugares da cidade
 e as especiarias locais.&lt;wait&gt;&lt;page&gt;
-Para poder apoiar o povoado e deixar os hóspedes
+Para poder apoiar a cidade e deixar os hóspedes
 contentes ao mesmo tempo! Dois coelhos com uma 
 cajadada só, certo?</Entry>
   <Entry Index="1167">Mas depois, quando comecei a refletir
@@ -2718,648 +2718,693 @@ Seu tio é na verdade um mágico, e ele usa sua magia
 para criar roupas muito bonitas para sua sobrinha.
  É uma história muito fofa.&lt;wait&gt;</Entry>
   <Entry Index="1224">Parece ótima!
-¡Tengo que leérmelo!&lt;wait&gt;&lt;page&gt;
-La biblioteca tiene taaantos libros que no se me había
-ocurrido echarles un vistazo antes, pero ahora...&lt;wait&gt;</Entry>
-  <Entry Index="1225">Supongo que solo hay que saber dónde buscar. Puede que
-disfrute de la lectura si escoges libros para mí, Marie.&lt;wait&gt;</Entry>
-  <Entry Index="1226">¿Verdad que sí?&lt;wait&gt;&lt;page&gt;
-Siempre me esfuerzo al máximo para conseguir que venga
-gente que no lee a la biblioteca. Así que por favor, coged
-más libros.&lt;wait&gt;</Entry>
-  <Entry Index="1227">¡Sí, vale!&lt;wait&gt;</Entry>
-  <Entry Index="1228">Ahora mismo tengo que hacer un encargo para Lillia, así
-que debo ir a casa de Popuri.&lt;wait&gt;&lt;page&gt;
-Pero vendré seguro a llevarme ese libro
-del que has hablado.&lt;wait&gt;</Entry>
-  <Entry Index="1229">Quiero conocer más libros, así que vendré
-más a la biblioteca. ♪&lt;wait&gt;&lt;page&gt;
-Nos vemos, Marie y &lt;playername&gt;.&lt;wait&gt;</Entry>
+Tenho que ler esse livro!&lt;wait&gt;&lt;page&gt;
+A biblioteca tem tantos livros que eu não tinha
+pensado em conferir antes, mas agora...&lt;wait&gt;</Entry>
+  <Entry Index="1225">Acho que você só precisa saber onde procurar.
+Talvez eu goste de ler se você escolher
+os livros para mim, Marie.&lt;wait&gt;</Entry>
+  <Entry Index="1226">É mesmo?&lt;wait&gt;&lt;page&gt;
+Eu sempre faço o meu melhor para que as pessoas
+que não leem venham à biblioteca.
+Então, peguem mais livros.&lt;wait&gt;</Entry>
+  <Entry Index="1227">Sim, tudo bem!&lt;wait&gt;</Entry>
+  <Entry Index="1228">Tenho um recado para Lillia agora, então
+preciso ir até a casa da Popuri.&lt;wait&gt;&lt;page&gt;
+Mas com certeza irei levar aquele livro de
+que você falou.&lt;wait&gt;</Entry>
+  <Entry Index="1229">Quero conhecer mais livros, então irei
+mais vezes à biblioteca. ♪&lt;wait&gt;&lt;page&gt;
+Até mais, Marie e &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="1230">0</Entry>
-  <Entry Index="1231">Parece que he despertado su interés gracias a los libros
-que le he recomendado.&lt;wait&gt;&lt;page&gt;
-Siempre me pongo muy feliz cuando alguien se interesa
-por la lectura.&lt;wait&gt;</Entry>
-  <Entry Index="1232">Estoy segura de que todo es
-gracias a ti, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Desde que te conozco, creo que ha venido más gente
-a la biblioteca.&lt;wait&gt;</Entry>
-  <Entry Index="1233">Y también hay más gente que habla conmigo.&lt;wait&gt;&lt;page&gt;
-Quieren que les recomiende libros, como hoy, o que
-encuentre libros que les ayuden con sus aficiones
-o sus investigaciones.&lt;wait&gt;&lt;page&gt;
-Creo que es porque soy más amable desde que te conozco.&lt;wait&gt;&lt;page&gt;
-Puede que por eso la gente del pueblo esté más dispuesta
-a hablar conmigo.&lt;wait&gt;</Entry>
-  <Entry Index="1234">Me has ayudado a crecer y a cambiar.
-Gracias, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1235">Se está haciendo tarde, pero vamos a la biblioteca.&lt;wait&gt;&lt;page&gt;
-Todavía no he escogido ningún libro para ti, y es de lo que
-más tengo ganas.&lt;wait&gt;</Entry>
+  <Entry Index="1231">Parece que despertei seus interesses graças 
+aos livros que recomendei.&lt;wait&gt;&lt;page&gt;
+Fico sempre muito feliz quando alguém tem
+interesse em ler.&lt;wait&gt;</Entry>
+  <Entry Index="1232">Tenho certeza que é tudo graças a você,
+&lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Desde que te conheci, acho que mais pessoas
+vieram à biblioteca.&lt;wait&gt;</Entry>
+  <Entry Index="1233">Eles querem recomendações de livros,
+como hoje, ou que encontrem livros para ajudá-los
+em seus hobbies ou pesquisas.&lt;wait&gt;&lt;page&gt;
+Acho que é porque tenho sido mais legal
+desde que te conheci.&lt;wait&gt;&lt;page&gt;
+Talvez seja por isso que as pessoas da cidade estejam
+mais dispostas a falar comigo.&lt;wait&gt;</Entry>
+  <Entry Index="1234">Você me ajudou a crescer e mudar.
+Obrigada, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1235">Está ficando tarde, mas vamos até
+a biblioteca.&lt;wait&gt;&lt;page&gt;
+Ainda não escolhi nenhum livro para você, e é isso
+que estou mais ansiosa para fazer.&lt;wait&gt;</Entry>
   <Entry Index="1236">Ah, &lt;playername&gt;.
-Me alegro de que hayas venido, pero... Ya es tarde y
-hemos cerrado. Disculpa.&lt;wait&gt;</Entry>
-  <Entry Index="1237">Estaba pensando en ir a pasear a la montaña.&lt;wait&gt;&lt;page&gt;
-Suelo sentirme más inspirada para mis novelas cuando
-estoy por ahí andando.&lt;wait&gt;</Entry>
-  <Entry Index="1238">¿Eh? ¿Quieres venir conmigo?</Entry>
-  <Entry Index="1239">Pues claro que me apetece tu compañía.
-Vamos a dar un paseo &lt;gender&gt;("juntos","juntas").&lt;wait&gt;</Entry>
-  <Entry Index="1240">Aaah. Qué revitalizante. Venir aquí siempre activa
-mi imaginación.&lt;wait&gt;</Entry>
-  <Entry Index="1241">Estoy usando la cumbre de aquí como inspiración para mi
-siguiente historia.&lt;wait&gt;</Entry>
-  <Entry Index="1242">Esta vez, estoy planeando escribir una historia que sea
-una mezcla entre un antiguo mito alpino
-y una novela romántica.&lt;wait&gt;&lt;page&gt;
-Es una trágica historia de amor entre alguien que se ha
-convertido en hombre lobo por culpa de una maldición y la
-diosa de la montaña.&lt;wait&gt;&lt;page&gt;
-El hombre lobo no envejece por la maldición y un día
-conoce a la diosa de la montaña y se enamora.&lt;wait&gt;&lt;page&gt;
-Pero la diosa sabe que el hombre lobo quiere volver a ser
-un simple humano de nuevo, así que le concede su deseo.&lt;wait&gt;</Entry>
-  <Entry Index="1243">El hombre lobo se vuelve humano otra vez, pero ya no
-puede volver a ver a su amada diosa de la montaña,
-puesto que la maldición ha desaparecido.&lt;wait&gt;&lt;page&gt;
-Ambos aprenden que tanto para ganar como para perder,
-hay que pagar un precio.&lt;wait&gt;</Entry>
-  <Entry Index="1244">Y la persona vuelve una vez más al camino de la
-mortalidad, con su corazón rebosante de conflictos.
-Así acaba.&lt;wait&gt;&lt;page&gt;
-¿Qué opinas?&lt;wait&gt;</Entry>
-  <Entry Index="1245">¡Es emocionante e inspiradora!</Entry>
-  <Entry Index="1246">Es muy oscuro, Marie.</Entry>
-  <Entry Index="1247">Vaya, gracias. Me da vergüenza hablar sobre ella cuando
-ni siquiera he terminado todavía.&lt;wait&gt;&lt;page&gt;
-Pero tus ánimos han renovado mi motivación.&lt;wait&gt;</Entry>
-  <Entry Index="1248">Supongo que es bastante esotérico.&lt;wait&gt;&lt;page&gt;
-Pero... me gustaría que llegase a un público 
-más amplio, así que...&lt;wait&gt;</Entry>
-  <Entry Index="1249">Gracias por tus comentarios, intentaré revisarla
-para simplificarla.&lt;wait&gt;</Entry>
-  <Entry Index="1250">Eres mi luz, ¿sabes?&lt;wait&gt;</Entry>
-  <Entry Index="1251">Un mundo sin ti estaría rodeado de oscuridad.&lt;wait&gt;</Entry>
-  <Entry Index="1252">Pero tu felicidad es fundamental.
-Si eres feliz, yo también.&lt;wait&gt;&lt;page&gt;
-Porque... te quiero.&lt;wait&gt;</Entry>
-  <Entry Index="1253">Mmmm... Pero cuando intentas confesarle tus
-sentimientos a alguien...&lt;wait&gt;&lt;page&gt;
-Escribir "te quiero" es un poco típico, ¿no?&lt;wait&gt;</Entry>
-  <Entry Index="1254">¡Ah! ¿Qué pasa, &lt;playername&gt;?
-Espera... Oh...&lt;wait&gt;</Entry>
-  <Entry Index="1255">Eh... ¿Acabo de decir... todo eso tan cursi en voz alta? Me
-muero de vergüenza.&lt;wait&gt;&lt;page&gt;
-¡No, no! Estaba pensando en cómo debería acabar mi
-novela. Um... Lo siento.&lt;wait&gt;</Entry>
-  <Entry Index="1256">Estaba pensando... en que ahora quiero darle
-un final feliz.&lt;wait&gt;&lt;page&gt;
-Es que creo que sería como si nunca pudiera volverte a
-ver durante el resto de mi vida. No podría soportarlo.&lt;wait&gt;</Entry>
-  <Entry Index="1257">Creo que no sería real escribir una historia sobre un
-amor maldito cuando soy así de feliz. Estoy contigo, al fin
-y al cabo.&lt;wait&gt;&lt;page&gt;
-Gracias por ayudarme a escribir nuestra
-propia historia, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1258">Madre mía, &lt;playername&gt;.
-Has sacado el tema tan de improvisto que
-no sabía qué hacer.&lt;wait&gt;</Entry>
-  <Entry Index="1259">Madre mía, &lt;playername&gt;.
-Has sacado el tema tan de improvisto que
-no sabía qué hacer.&lt;wait&gt;</Entry>
-  <Entry Index="1260">¿Me lo puedes repetir?&lt;wait&gt;</Entry>
-  <Entry Index="1261">Sí...&lt;wait&gt;&lt;page&gt;
-He estado tan preocupada por mi familia que nunca me
-imaginé con novio.&lt;wait&gt;&lt;page&gt;
-No sé qué hacer. Estoy llena de felicidad, de verdad.&lt;wait&gt;&lt;page&gt;
-Si me quieres, soy tuya. Acepto, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1262">Sí...&lt;wait&gt;&lt;page&gt;
-He estado tan preocupada por mi familia que nunca me
-imaginé con novia.&lt;wait&gt;&lt;page&gt;
-No sé qué hacer. Estoy llena de felicidad, de verdad.&lt;wait&gt;&lt;page&gt;
-Si me quieres, soy tuya. Acepto, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1263">Así que a partir de ahora, somos pareja.&lt;wait&gt;&lt;page&gt;
-Parece que tengo mariposas en la tripa. Respira hondo,
-Elly, respira hondo... No estoy soñando, ¿no?&lt;wait&gt;&lt;page&gt;
-Bueno, tengo que seguir con las tareas de casa, así que
-debo volver.&lt;wait&gt;&lt;page&gt;
-Tengo ganas de que llegue nuestra
-primera cita, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1264">Así que a partir de ahora, somos pareja.&lt;wait&gt;&lt;page&gt;
-Parece que tengo mariposas en la tripa. Respira hondo,
-Elly, respira hondo... No estoy soñando, ¿no?&lt;wait&gt;&lt;page&gt;
-Bueno, tengo que seguir con las tareas de casa, así que
-debo volver.&lt;wait&gt;&lt;page&gt;
-Tengo ganas de que llegue nuestra primera cita,
+Que bom que você veio, mas... Está tarde e estamos
+fechados. Desculpe.&lt;wait&gt;</Entry>
+  <Entry Index="1237">Eu estava pensando em dar um passeio nas
+montanhas.&lt;wait&gt;&lt;page&gt;
+Geralmente me sinto mais inspirada para escrever
+meus romances quando estou caminhando.&lt;wait&gt;</Entry>
+  <Entry Index="1238">Uh? Você quer vir comigo?</Entry>
+  <Entry Index="1239">Claro que quero sua companhia. Vamos dar
+uma volta &lt;gender&gt;("juntos","juntas").&lt;wait&gt;</Entry>
+  <Entry Index="1240">Aaah. Que revitalizante.
+Vir aqui sempre desperta minha imaginação.&lt;wait&gt;</Entry>
+  <Entry Index="1241">Estou usando esse encontro como inspiração
+para minha próxima história.&lt;wait&gt;</Entry>
+  <Entry Index="1242">Desta vez, estou planejando escrever uma
+história que seja uma mistura entre um
+antigo mito alpino e um romance.&lt;wait&gt;&lt;page&gt;
+É uma trágica história de amor entre um lobisomem
+amaldiçoado e a deusa da montanha.&lt;wait&gt;&lt;page&gt;
+O lobisomem não envelhece por causa da maldição e
+um dia conhece a deusa da montanha e se apaixona.&lt;wait&gt;&lt;page&gt;
+Mas a deusa sabe que o lobisomem quer ser um
+mero humano novamente, então ela concede
+o seu desejo.&lt;wait&gt;</Entry>
+  <Entry Index="1243">O lobisomem se torna humano novamente,
+mas não poderá mais ver sua amada deusa da montanha,
+pois sua maldição se foi.&lt;wait&gt;&lt;page&gt;
+Ambos aprendem que, tanto para ganhar quanto
+para perder, há um preço a pagar.&lt;wait&gt;</Entry>
+  <Entry Index="1244">E o homem retorna mais uma vez ao caminho
+da mortalidade, com o coração transbordando em
+conflito. É assim que termina.&lt;wait&gt;&lt;page&gt;
+O que você acha?&lt;wait&gt;</Entry>
+  <Entry Index="1245">É emocionante e inspirador!</Entry>
+  <Entry Index="1246">Está muito sombrio, Marie.</Entry>
+  <Entry Index="1247">Nossa, obrigada. Tenho vergonha de falar sobre
+a história quando ainda nem a terminei.&lt;wait&gt;&lt;page&gt;
+Mas seu incentivo renovou minha motivação.&lt;wait&gt;</Entry>
+  <Entry Index="1248">Acho que é bem profunda.&lt;wait&gt;&lt;page&gt;
+Mas... eu gostaria que alcançasse um público
+mais amplo, então...&lt;wait&gt;</Entry>
+  <Entry Index="1249">Obrigada por seus comentários, tentarei
+revisá-lo para deixá-lo mais simples.&lt;wait&gt;</Entry>
+  <Entry Index="1250">Você é minha luz, sabia?&lt;wait&gt;</Entry>
+  <Entry Index="1251">Um mundo sem você seria cercado pela
+escuridão.&lt;wait&gt;</Entry>
+  <Entry Index="1252">Mas sua felicidade é essencial.
+Se você estiver feliz, eu também estarei.&lt;wait&gt;&lt;page&gt;
+Porque... Eu te amo.&lt;wait&gt;</Entry>
+  <Entry Index="1253">Mmmm... Mas quando você tenta confessar seus
+sentimentos a alguém...&lt;wait&gt;&lt;page&gt;
+Escrever "eu te amo" é um pouco clichê, não é?&lt;wait&gt;</Entry>
+  <Entry Index="1254">Ah! Tudo bem, &lt;playername&gt;?
+Espere... Oh...&lt;wait&gt;</Entry>
+  <Entry Index="1255">Uh... Acabei de dizer... Todas essas coisas
+bregas em voz alta? Estou morrendo de vergonha.&lt;wait&gt;&lt;page&gt;
+Não, não! Eu estava pensando em como meu
+romance deveria terminar. Hum... Desculpe.&lt;wait&gt;</Entry>
+  <Entry Index="1256">Eu estava pensando...
+Agora quero dar um final feliz.&lt;wait&gt;&lt;page&gt;
+É que eu acho que seria como se eu nunca pudesse
+vê-lo novamente pelo resto da minha vida.
+Eu não suportaria.&lt;wait&gt;</Entry>
+  <Entry Index="1257">Acho que não seria verdadeiro escrever uma
+história sobre um amor amaldiçoado quando
+estou tão feliz. Afinal, estou com você.&lt;wait&gt;&lt;page&gt;
+Obrigada por me ajudar a escrever nosso
+próprio romance, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1258">Meu deus, &lt;playername&gt;.
+Você trouxe esse tema tão de repente que eu
+não sei nem como reagir.&lt;wait&gt;</Entry>
+  <Entry Index="1259">Meu deus, &lt;playername&gt;.
+Você trouxe esse tema tão de repente que eu
+não sei nem como reagir.&lt;wait&gt;</Entry>
+  <Entry Index="1260">Você poderia repetir para mim?&lt;wait&gt;</Entry>
+  <Entry Index="1261">Sim...&lt;wait&gt;&lt;page&gt;
+Tenho andado tão preocupada com a minha família
+que nunca me imaginei com um namorado.&lt;wait&gt;&lt;page&gt;
+Não sei o que dizer. Estou muito feliz.&lt;wait&gt;&lt;page&gt;
+Se você me quer, eu serei sua. Eu aceito, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1262">Sim...&lt;wait&gt;&lt;page&gt;
+Tenho andado tão preocupada com a minha família
+que nunca me imaginei com uma namorada.&lt;wait&gt;&lt;page&gt;
+Não sei o que dizer. Estou muito feliz.&lt;wait&gt;&lt;page&gt;
+Se você me quer, serei sua. Eu aceito &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1263">De agora em diante, somos namorados.&lt;wait&gt;&lt;page&gt;
+Parece que tenho borboletas no estômago.
+Respire fundo, Elly, respire fundo...
+Não estou sonhando, estou?&lt;wait&gt;&lt;page&gt;
+Bem, eu tenho que continuar com as tarefas domésticas,
+então eu vou indo.&lt;wait&gt;&lt;page&gt;
+Estou ansiosa pelo nosso primeiro encontro,
+&lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1264">De agora em diante, somos namoradas.&lt;wait&gt;&lt;page&gt;
+Parece que tenho borboletas no estômago.
+Respire fundo, Elly, respire fundo...
+Não estou sonhando, estou?&lt;wait&gt;&lt;page&gt;
+Bem, eu tenho que continuar com as tarefas domésticas,
+então eu vou indo.&lt;wait&gt;&lt;page&gt;
+Estou ansiosa pelo nosso primeiro encontro,
 &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="1265">Ah, &lt;playername&gt;.
-¿Has venido a verme?&lt;wait&gt;</Entry>
+Você veio me ver?&lt;wait&gt;</Entry>
   <Entry Index="1266">Ah, &lt;playername&gt;.
-¿Has venido a verme?&lt;wait&gt;</Entry>
-  <Entry Index="1267">¿Quieres... ir a alguna parte?&lt;wait&gt;&lt;page&gt;
-Sí...&lt;wait&gt;</Entry>
-  <Entry Index="1268">Todavía falta un poco de tiempo antes de la cena, y me
-vendría bien cuidarme un poco para variar.&lt;wait&gt;&lt;page&gt;
-Ah, pero espera un momento. No puedo salir
-con el pelo así.&lt;wait&gt;&lt;page&gt;
-Eh, ¿te importa esperarme un segundo que me arregle?&lt;wait&gt;</Entry>
-  <Entry Index="1269">Vuelvo enseguida.&lt;wait&gt;</Entry>
-  <Entry Index="1270">¡Perdona por la espera!
-Bueno, vamos.&lt;wait&gt;</Entry>
-  <Entry Index="1271">Ah, mira, es mi hermana.&lt;wait&gt;&lt;page&gt;
-Es raro que esté aquí fuera a estas horas.
-¿Adónde van &lt;gender&gt;("esos","esas") dos?&lt;wait&gt;</Entry>
-  <Entry Index="1272">¿Estás preocupado por ella?&lt;wait&gt;</Entry>
-  <Entry Index="1273">No... No es eso. Es que no sé qué podrían
-estar haciendo, nada más.&lt;wait&gt;</Entry>
-  <Entry Index="1274">¿Quieres espiarles? ¡Vamos a tener que ir con cuidado
-para que no nos pillen!&lt;wait&gt;</Entry>
-  <Entry Index="1275">¡Vale!&lt;wait&gt;</Entry>
-  <Entry Index="1276">No están... haciendo nada.&lt;wait&gt;</Entry>
-  <Entry Index="1277">No, espera.
-Creo que están jugando juntos.&lt;wait&gt;&lt;page&gt;
-Como tú y yo.&lt;wait&gt;</Entry>
-  <Entry Index="1278">¿Jugando, dices?&lt;wait&gt;&lt;page&gt;
-Se me hace raro pensar en mi hermana jugando por ahí.
-Ya es mayor.&lt;wait&gt;</Entry>
-  <Entry Index="1279">Eres tú el raro por pensar en eso, Yu.&lt;wait&gt;&lt;page&gt;
-Elly siempre está ocupada con trabajo y la casa y demás.
-Pues claro que quiere pasar tiempo con su &lt;gender&gt;("amigo","amiga").&lt;wait&gt;</Entry>
-  <Entry Index="1280">Eh... Supongo que tienes razón.
-Elly no suele divertirse.&lt;wait&gt;&lt;page&gt;
-Siempre está cocinando para nosotros, limpiando,
-haciendo la colada... Y después para rematarlo
-trabaja en la clínica.&lt;wait&gt;</Entry>
-  <Entry Index="1281">Supongo que por eso se me hace raro verla dando un
-paseo por ahí.&lt;wait&gt;</Entry>
-  <Entry Index="1282">¿Qué pasa, Yu?&lt;wait&gt;</Entry>
+Você veio me ver?&lt;wait&gt;</Entry>
+  <Entry Index="1267">Você quer... ir a algum lugar?&lt;wait&gt;&lt;page&gt;
+Sim...&lt;wait&gt;</Entry>
+  <Entry Index="1268">Ainda há um tempinho antes do jantar,
+e me faria bem cuidar de mim mesma
+para variar.&lt;wait&gt;&lt;page&gt;
+Ah, mas espere um minuto.
+Não posso sair com meu cabelo assim.&lt;wait&gt;&lt;page&gt;
+Uh, você se importa de esperar um segundo
+para eu me arrumar?&lt;wait&gt;</Entry>
+  <Entry Index="1269">Volto já.&lt;wait&gt;</Entry>
+  <Entry Index="1270">Desculpe pela demora!
+Bem, vamos lá.&lt;wait&gt;</Entry>
+  <Entry Index="1271">Ah, olha, é a minha irmã.&lt;wait&gt;&lt;page&gt;
+É estranho que ele esteja aqui a esta hora.
+Onde vocês &lt;gender&gt;("dois","duas") estão indo?&lt;wait&gt;</Entry>
+  <Entry Index="1272">Você está preocupado com ela?&lt;wait&gt;</Entry>
+  <Entry Index="1273">Não... Não é isso. Só não sei o que eles
+podem estar fazendo, nada mais.&lt;wait&gt;</Entry>
+  <Entry Index="1274">Você quer espioná-los? Teremos que tomar
+cuidado para não sermos pegos!&lt;wait&gt;</Entry>
+  <Entry Index="1275">Ok!&lt;wait&gt;</Entry>
+  <Entry Index="1276">Eles não estão... fazendo nada.&lt;wait&gt;</Entry>
+  <Entry Index="1277">Não, espere.
+Acho que eles estão brincando.&lt;wait&gt;&lt;page&gt;
+Como a gente.&lt;wait&gt;</Entry>
+  <Entry Index="1278">Brincando, você acha?&lt;wait&gt;&lt;page&gt;
+É esquisito pensar na minha irmã brincando.
+Ela está mais adulta agora.&lt;wait&gt;</Entry>
+  <Entry Index="1279">Você é o esquisito por pensar isso, Yu.&lt;wait&gt;&lt;page&gt;
+Elly está sempre ocupada com trabalho, casa e outras
+coisas. Claro que ela quer passar um tempo com
+&lt;gender&gt;("seu amigo","sua amiga").&lt;wait&gt;</Entry>
+  <Entry Index="1280">Eh... Acho que você está certa.
+A Elly nunca se diverte.&lt;wait&gt;&lt;page&gt;
+Ela está sempre cozinhando para nós, limpando,
+lavando roupa... E ainda por cima ela trabalha
+na clínica.&lt;wait&gt;</Entry>
+  <Entry Index="1281">Acho que é por isso que é esquisito
+vê-la andando por aí.&lt;wait&gt;</Entry>
+  <Entry Index="1282">Tudo bem, Yu?&lt;wait&gt;</Entry>
   <Entry Index="1283">...&lt;wait&gt;</Entry>
-  <Entry Index="1284">Me voy a casa.
-Tengo que hacer algo.&lt;wait&gt;&lt;page&gt;
-Nos vemos mañana, Mei.&lt;wait&gt;</Entry>
-  <Entry Index="1285">¿Qué pasa?
-Estás raro, Yu.&lt;wait&gt;</Entry>
-  <Entry Index="1286">Ay... Creo que hace tiempo que no hablaba así con nadie.&lt;wait&gt;&lt;page&gt;
-Gracias, &lt;playername&gt;. Por fin he podido soltarme la
-melena un poco. ¡Menos mal que me la he cepillado! ♪&lt;wait&gt;</Entry>
-  <Entry Index="1287">Ay... Creo que hace tiempo que no hablaba así con nadie.&lt;wait&gt;&lt;page&gt;
-Gracias, &lt;playername&gt;. Por fin he podido soltarme la
-melena un poco. ¡Menos mal que me la he cepillado! ♪&lt;wait&gt;</Entry>
-  <Entry Index="1288">Aunque creo que debería volver pronto a casa. Todavía
-tengo que hacer la cena.&lt;wait&gt;&lt;page&gt;
-Y me preocupa que Yu esté molestando a la abuela con
-sus quejas.&lt;wait&gt;</Entry>
-  <Entry Index="1289">Seguro que se está portando bien.</Entry>
-  <Entry Index="1290">Sí, estaría bien tener a Yu controlado.</Entry>
-  <Entry Index="1291">Me pregunto... Bueno, si tú lo dices,
-&lt;playername&gt;, te creo.&lt;wait&gt;&lt;page&gt;
-Vamos entonces.&lt;wait&gt;</Entry>
-  <Entry Index="1292">Me pregunto... Bueno, si tú lo dices,
-&lt;playername&gt;, te creo.&lt;wait&gt;&lt;page&gt;
-Vamos entonces.&lt;wait&gt;</Entry>
-  <Entry Index="1293">Si hasta tú reconoces lo problemático que puede ser,
-hacía bien en preocuparme.&lt;wait&gt;&lt;page&gt;
-Bueno, vamos a apresurarnos.&lt;wait&gt;</Entry>
-  <Entry Index="1294">Si hasta tú reconoces lo problemático que puede ser,
-hacía bien en preocuparme.&lt;wait&gt;&lt;page&gt;
-Bueno, vamos a apresurarnos.&lt;wait&gt;</Entry>
-  <Entry Index="1295">¡Bienvenida a casa, Elly!&lt;wait&gt;</Entry>
-  <Entry Index="1296">Hola, Yu.&lt;wait&gt;</Entry>
-  <Entry Index="1297">Em... Esto para ti.&lt;wait&gt;</Entry>
-  <Entry Index="1298">¿Son... cupones de tareas?&lt;wait&gt;</Entry>
-  <Entry Index="1299">Sí.&lt;wait&gt;&lt;page&gt;
-Si quieres salir a divertirte...&lt;wait&gt;&lt;page&gt;
-Colaboraré en casa. Así tendrásmás tiempo
-para jugar.&lt;wait&gt;</Entry>
-  <Entry Index="1300">Sí.&lt;wait&gt;&lt;page&gt;
-Si quieres salir a divertirte...&lt;wait&gt;&lt;page&gt;
-Tendré que colaborar en casa. Así tendrás
-más tiempo para jugar.&lt;wait&gt;</Entry>
+  <Entry Index="1284">Estou indo para casa.
+Tenho que fazer alguma coisa.&lt;wait&gt;&lt;page&gt;
+A gente se vê amanhã, Mei.&lt;wait&gt;</Entry>
+  <Entry Index="1285">O que foi?
+Você é esquisito, Yu.&lt;wait&gt;</Entry>
+  <Entry Index="1286">Ah... Acho que eu não conversava com ninguém
+assim há muito tempo.&lt;wait&gt;&lt;page&gt;
+Obrigada, &lt;playername&gt;. Finalmente consegui soltar
+meu cabelo um pouco. Ainda bem que fiz escova! ♪&lt;wait&gt;</Entry>
+  <Entry Index="1287">Ah... Acho que eu não conversava com ninguém
+assim há muito tempo..&lt;wait&gt;&lt;page&gt;
+Obrigada, &lt;playername&gt;. Finalmente consegui soltar
+meu cabelo um pouco. Ainda bem que fiz escova! ♪&lt;wait&gt;</Entry>
+  <Entry Index="1288">Embora eu ache que devo ir para casa
+em breve. Ainda tenho que fazer o jantar.&lt;wait&gt;&lt;page&gt;
+E estou preocupado que Yu esteja incomodando a
+vovó com suas reclamações.&lt;wait&gt;</Entry>
+  <Entry Index="1289">Tenho certeza que está se comportando.</Entry>
+  <Entry Index="1290">Sim, seria bom ter Yu sob controle.</Entry>
+  <Entry Index="1291">Eu me pergunto... Bem, se você diz isso,
+&lt;playername&gt;, eu confio em você.&lt;wait&gt;&lt;page&gt;
+Então vamos.&lt;wait&gt;</Entry>
+  <Entry Index="1292">Eu me pergunto... Bem, se você diz isso,
+&lt;playername&gt;, eu confio em você.&lt;wait&gt;&lt;page&gt;
+Então vamos.&lt;wait&gt;</Entry>
+  <Entry Index="1293">Se até você reconhece como ele pode ser
+problemático, eu estava certa em me preocupar.&lt;wait&gt;&lt;page&gt;
+Bem, vamos nos apressar.&lt;wait&gt;</Entry>
+  <Entry Index="1294">Se até você reconhece como ele pode ser
+problemático, eu estava certa em me preocupar.&lt;wait&gt;&lt;page&gt;
+Bem, vamos nos apressar.&lt;wait&gt;</Entry>
+  <Entry Index="1295">Bem-vinda em casa, Elly!&lt;wait&gt;</Entry>
+  <Entry Index="1296">Olá, Yu.&lt;wait&gt;</Entry>
+  <Entry Index="1297">Hm... Isso é pra você.&lt;wait&gt;</Entry>
+  <Entry Index="1298">São... Cupons de tarefas?&lt;wait&gt;</Entry>
+  <Entry Index="1299">Sim.&lt;wait&gt;&lt;page&gt;
+Se você quiser sair e se divertir...&lt;wait&gt;&lt;page&gt;
+Eu vou ajudar em casa. Isso vai te dar mais
+tempo para brincar.&lt;wait&gt;</Entry>
+  <Entry Index="1300">Sim.&lt;wait&gt;&lt;page&gt;
+Se você quiser sair e se divertir...&lt;wait&gt;&lt;page&gt;
+Eu vou ajudar em casa. Isso vai te dar mais
+tempo para brincar.&lt;wait&gt;</Entry>
   <Entry Index="1301">Oh, Yu...&lt;wait&gt;</Entry>
-  <Entry Index="1302">¿Qué voy a hacer contigo?&lt;wait&gt;&lt;page&gt;
-Gracias, hermanito.&lt;wait&gt;</Entry>
-  <Entry Index="1303">Je, je, je...
-Bueno, me voy a casa ahora.&lt;wait&gt;</Entry>
-  <Entry Index="1304">&lt;playername&gt;, estoy...
-Estoy muy feliz. ¿Se me nota?&lt;wait&gt;</Entry>
-  <Entry Index="1305">&lt;playername&gt;, estoy...
-Estoy muy feliz. ¿Se me nota?&lt;wait&gt;</Entry>
-  <Entry Index="1306">Se ha dado cuenta de que no podía pasar mucho tiempo
-contigo, así que ha intentado ayudarme a su manera. Es
-un regalo muy bonito...&lt;wait&gt;&lt;page&gt;
-Pero no sé si podré llegar a utilizarlos. Quiero
-quedármelos como un recuerdo de su altruismo.&lt;wait&gt;</Entry>
-  <Entry Index="1307">Se ha dado cuenta de que no podía pasar mucho tiempo
-contigo, así que ha intentado ayudarme a su manera. Es
-un regalo muy bonito...&lt;wait&gt;&lt;page&gt;
-Pero no sé si podré llegar a utilizarlos. Quiero
-quedármelos como un recuerdo de su altruismo.&lt;wait&gt;</Entry>
-  <Entry Index="1308">Sí...&lt;wait&gt;&lt;page&gt;
-Parece que ha funcionado.&lt;wait&gt;</Entry>
-  <Entry Index="1309">Es la primera vez que veo a Elly tan feliz.&lt;wait&gt;</Entry>
-  <Entry Index="1310">Ay, &lt;playername&gt;.
-&lt;gender&gt;("Bienvenido","Bienvenida").&lt;wait&gt;</Entry>
+  <Entry Index="1302">O que vou fazer com você?&lt;wait&gt;&lt;page&gt;
+Obrigada, irmãozinho.&lt;wait&gt;</Entry>
+  <Entry Index="1303">Hee hee...
+Bem, estou indo para casa agora.&lt;wait&gt;</Entry>
+  <Entry Index="1304">&lt;playername&gt;, eu estou...
+Estou tão feliz. Você notou?&lt;wait&gt;</Entry>
+  <Entry Index="1305">&lt;playername&gt;, eu estou...
+Estou tão feliz. Você notou?&lt;wait&gt;</Entry>
+  <Entry Index="1306">Ele percebeu que eu não poderia passar muito
+tempo com você, então tentou me ajudar à
+sua maneira. É um presente maravilhoso...&lt;wait&gt;&lt;page&gt;
+Mas não sei se poderei usá-los. Eu quero guarda-los
+como uma lembrança de seu altruísmo.&lt;wait&gt;</Entry>
+  <Entry Index="1307">Ele percebeu que eu não poderia passar muito
+tempo com você, então tentou me ajudar à
+sua maneira. É um presente maravilhoso...&lt;wait&gt;&lt;page&gt;
+Mas não sei se poderei usá-los. Eu quero guarda-los
+como uma lembrança de seu altruísmo..&lt;wait&gt;</Entry>
+  <Entry Index="1308">Sim...&lt;wait&gt;&lt;page&gt;
+Parece que funcionou.&lt;wait&gt;</Entry>
+  <Entry Index="1309">Esta é a primeira vez que vejo Elly
+tão feliz.&lt;wait&gt;</Entry>
+  <Entry Index="1310">Ei, &lt;playername&gt;.
+&lt;gender&gt;("Bem-vindo","Bem-vinda").&lt;wait&gt;</Entry>
   <Entry Index="1311">Ah, &lt;playername&gt;.
-Justo estábamos hablando de ti.&lt;wait&gt;</Entry>
-  <Entry Index="1312">Déjame que aproveche para darte las gracias.&lt;wait&gt;&lt;page&gt;
-Estoy tan agradecida de que hayas escogido
-a Elly como novia.&lt;wait&gt;&lt;page&gt;
-Ha pasado tanto tiempo cuidando de nosotros, que nunca
-ha podido enamorarse de nadie.&lt;wait&gt;&lt;page&gt;
-Siempre me he arrepentido de eso.&lt;wait&gt;&lt;page&gt;
-Me siento culpable de hacerle malgastar su juventud
-como cuidadora.&lt;wait&gt;</Entry>
-  <Entry Index="1313">Déjame que aproveche para darte las gracias.&lt;wait&gt;&lt;page&gt;
-Estoy tan agradecida de que hayas escogido
-a Elly como novia.&lt;wait&gt;&lt;page&gt;
-Ha pasado tanto tiempo cuidando de nosotros, que nunca
-ha podido enamorarse de nadie.&lt;wait&gt;&lt;page&gt;
-Siempre me he arrepentido de eso.&lt;wait&gt;&lt;page&gt;
-Me siento culpable de hacerle malgastar su juventud
-como cuidadora.&lt;wait&gt;</Entry>
-  <Entry Index="1314">No, no. Elly os adora a ti y a Yu.
-No lo consideraría malgastar.&lt;wait&gt;&lt;page&gt;
-Aunque ha sido difícil verla intentar ser una madre para
-Yu después de que sus padres falleciesen.&lt;wait&gt;&lt;page&gt;
-Si te digo la verdad, estábamos preocupados por ella.&lt;wait&gt;</Entry>
-  <Entry Index="1315">Pero, &lt;playername&gt;...&lt;wait&gt;&lt;page&gt;
-Ha cambiado tanto desde que viniste al pueblo.&lt;wait&gt;</Entry>
-  <Entry Index="1316">Hasta ahora, siempre estaba preocupada por las
-travesuras de Yu, o sus errores en el trabajo,
-su torpeza en la cocina...&lt;wait&gt;&lt;page&gt;
-Se pasaba el día pensativa y con la cara larga.
-Siempre ha sido tan pesimista.&lt;wait&gt;</Entry>
-  <Entry Index="1317">Pero hace un tiempo, estaba muy emocionada, corriendo
-de aquí para allá. Así que le pregunté qué pasaba.&lt;wait&gt;&lt;page&gt;
-Me dijo que necesitaba peinarse porque tenía una cita
-contigo, pero no encontraba su cepillo.&lt;wait&gt;</Entry>
-  <Entry Index="1318">Pero hace un tiempo, estaba muy emocionada, corriendo
-de aquí para allá. Así que le pregunté qué pasaba.&lt;wait&gt;&lt;page&gt;
-Me dijo que necesitaba peinarse porque tenía una cita
-contigo, pero no encontraba su cepillo.&lt;wait&gt;</Entry>
-  <Entry Index="1319">Creo que es la primera vez que la veo así de alegre.&lt;wait&gt;</Entry>
-  <Entry Index="1320">Creo que es la primera vez que la veo así de alegre.&lt;wait&gt;</Entry>
-  <Entry Index="1321">Y eso no es todo. Siempre está muy animada
-cuando habla de ti.&lt;wait&gt;&lt;page&gt;
-Creo que eres &lt;gender&gt;("bueno","buena").&lt;wait&gt;</Entry>
-  <Entry Index="1322">Y eso no es todo. Siempre está muy animada
-cuando habla de ti.&lt;wait&gt;&lt;page&gt;
-Creo que eres &lt;gender&gt;("bueno","buena") para ella.&lt;wait&gt;</Entry>
-  <Entry Index="1323">Sí. Creo que por fin ha aprendido a tomarse tiempo
-para ella misma.&lt;wait&gt;&lt;page&gt;
-Cuando está en casa, solo habla de ti, ¿sabes?&lt;wait&gt;</Entry>
-  <Entry Index="1324">Claro. Ah, y hace poco...&lt;wait&gt;</Entry>
-  <Entry Index="1325">Ah, hablando del rey de Roma... O más bien, de la reina.&lt;wait&gt;</Entry>
+Estávamos falando sobre você.&lt;wait&gt;</Entry>
+  <Entry Index="1312">Deixe-me aproveitar esta oportunidade
+para agradecer.&lt;wait&gt;&lt;page&gt;
+Estou muito grata por você ter escolhido a Elly
+como sua namorada.&lt;wait&gt;&lt;page&gt;
+Ela passou tanto tempo cuidando de nós, que nunca
+conseguiu se apaixonar por ninguém.&lt;wait&gt;&lt;page&gt;
+Sempre me arrependi disso.&lt;wait&gt;&lt;page&gt;
+Sinto-me culpada por fazê-la desperdiçar sua
+juventude como cuidadora.&lt;wait&gt;</Entry>
+  <Entry Index="1313">Deixe-me aproveitar esta oportunidade
+para agradecer.&lt;wait&gt;&lt;page&gt;
+Estou muito grata por você ter escolhido a Elly
+como sua namorada.&lt;wait&gt;&lt;page&gt;
+Ela passou tanto tempo cuidando de nós, que nunca
+conseguiu se apaixonar por ninguém.&lt;wait&gt;&lt;page&gt;
+Sempre me arrependi disso.&lt;wait&gt;&lt;page&gt;
+Sinto-me culpada por fazê-la desperdiçar sua
+juventude como cuidadora.&lt;wait&gt;</Entry>
+  <Entry Index="1314">Não, não. Elly adora você e Yu.
+Eu não consideraria um desperdício.&lt;wait&gt;&lt;page&gt;
+Embora tenha sido difícil vê-la tentar ser uma
+mãe para Yu depois que seus pais faleceram.&lt;wait&gt;&lt;page&gt;
+Para falar a verdade, estávamos preocupados com ela.&lt;wait&gt;</Entry>
+  <Entry Index="1315">Mas, &lt;playername&gt;...&lt;wait&gt;&lt;page&gt;
+Ela mudou muito desde que você veio para a cidade.&lt;wait&gt;</Entry>
+  <Entry Index="1316">Até agora, ela sempre se preocupava com as
+travessuras de Yu, ou seus erros no trabalho,
+sua falta de jeito na cozinha...&lt;wait&gt;&lt;page&gt;
+Passava o dia pensativa e com o rosto aflito.
+Elea sempre foi tão pessimista.&lt;wait&gt;</Entry>
+  <Entry Index="1317">Mas há um tempo atrás, ela estava muito
+animada, correndo por aí. Então eu a perguntei o
+que estava acontecendo.&lt;wait&gt;&lt;page&gt;
+Ela falou que precisava pentear o cabelo porque
+tinha um encontro com você, mas não conseguia
+encontrar a escova.&lt;wait&gt;</Entry>
+  <Entry Index="1318">Mas há um tempo atrás, ela estava muito
+animada, correndo por aí. Então eu a perguntei o
+que estava acontecendo.&lt;wait&gt;&lt;page&gt;
+Ela falou que precisava pentear o cabelo porque
+tinha um encontro com você, mas não conseguia
+encontrar a escova.&lt;wait&gt;</Entry>
+  <Entry Index="1319">Acho que é a primeira vez que a vejo tão feliz.&lt;wait&gt;</Entry>
+  <Entry Index="1320">Acho que é a primeira vez que a vejo tão feliz.&lt;wait&gt;</Entry>
+  <Entry Index="1321">E isso não é tudo. Ela está sempre de
+bom humor quando fala sobre você.&lt;wait&gt;&lt;page&gt;
+Acho que você é &lt;gender&gt;("bom","boa") para ela.&lt;wait&gt;</Entry>
+  <Entry Index="1322">E isso não é tudo. Ela está sempre de
+bom humor quando fala sobre você.&lt;wait&gt;&lt;page&gt;
+Acho que você é &lt;gender&gt;("bom","boa") para ela.&lt;wait&gt;</Entry>
+  <Entry Index="1323">Sim. Acho que ela finalmente aprendeu
+a tirar um tempo para si mesma.&lt;wait&gt;&lt;page&gt;
+Quando ela está em casa, ela só fala de você,
+sabia?&lt;wait&gt;</Entry>
+  <Entry Index="1324">Claro. Ah, e recentemente...&lt;wait&gt;</Entry>
+  <Entry Index="1325">Ah, falando do rei de Roma... Ou melhor,
+da rainha.&lt;wait&gt;</Entry>
   <Entry Index="1326">Ah, &lt;playername&gt;.
-Ja, ja...&lt;wait&gt;</Entry>
+Ha ha...&lt;wait&gt;</Entry>
   <Entry Index="1327">Ah, &lt;playername&gt;.
-Ja, ja...&lt;wait&gt;</Entry>
-  <Entry Index="1328">Lo siento.
-No quería espiar.&lt;wait&gt;</Entry>
-  <Entry Index="1329">Es que era un poco... difícil no interrumpir si tenemos en
-cuenta el tema.&lt;wait&gt;</Entry>
-  <Entry Index="1330">No me imaginaba que la abuela y Thomas se preocupasen
-tanto por mí.&lt;wait&gt;</Entry>
-  <Entry Index="1331">Pero tienen razón.
-Creo que he cambiado mucho.&lt;wait&gt;&lt;page&gt;
-Nunca me interesó el amor, y no me importaba cómo me
-veían los demás.&lt;wait&gt;</Entry>
-  <Entry Index="1332">Pero tienen razón.
-Creo que he cambiado mucho.&lt;wait&gt;&lt;page&gt;
-Nunca me interesó el amor, y no me importaba cómo me
-veían los demás.&lt;wait&gt;</Entry>
-  <Entry Index="1333">Pero ahora... quiero cuidar de mí misma y del resto para
-que estés &lt;gender&gt;("orgulloso","orgullosa") de tenerme a tu lado.&lt;wait&gt;&lt;page&gt;
-Cada vez que pienso en ti, me da un vuelco el corazón.&lt;wait&gt;&lt;page&gt;
-Y no puedo dejar de pensar en lo que deberíamos decirnos
-la siguiente vez que nos veamos.&lt;wait&gt;&lt;page&gt;
-Esa anticipación, esa emoción... Mi vida tiene
-un nuevo sentido.&lt;wait&gt;&lt;page&gt;
-Y estoy segura de que todo es
-gracias a ti, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Gracias por hacerme ser mejor.&lt;wait&gt;</Entry>
-  <Entry Index="1334">Pero ahora... quiero cuidar de mí misma y del resto para
-que estés &lt;gender&gt;("orgulloso","orgullosa") de tenerme a tu lado.&lt;wait&gt;&lt;page&gt;
-Cada vez que pienso en ti, me da un vuelco el corazón.&lt;wait&gt;&lt;page&gt;
-Y no puedo dejar de pensar en lo que deberíamos decirnos
-la siguiente vez que nos veamos.&lt;wait&gt;&lt;page&gt;
-Esa anticipación, esa emoción... Mi vida tiene
-un nuevo sentido.&lt;wait&gt;&lt;page&gt;
-Y estoy segura de que todo es
-gracias a ti, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Gracias por hacerme ser mejor.&lt;wait&gt;</Entry>
-  <Entry Index="1335">No, gracias a ti.</Entry>
-  <Entry Index="1336">¿Cómo de &lt;gender&gt;("agradecido","agradecida") estás?</Entry>
-  <Entry Index="1337">¡Ji, ji, ji! Es un poco tonto darnos las gracias
-por estar &lt;gender&gt;("agradecidos","agradecidas").&lt;wait&gt;&lt;page&gt;
-Pero me encanta tener a alguien a quien respeto y que
-me respete de la misma manera.&lt;wait&gt;&lt;page&gt;
-Me muero de ganas por pasar
-más tiempo contigo, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1338">¡Ji, ji, ji! Es un poco tonto darnos las gracias
-por estar &lt;gender&gt;("agradecidos","agradecidas").&lt;wait&gt;&lt;page&gt;
-Pero me encanta tener a alguien a quien respeto y que
-me respete de la misma manera.&lt;wait&gt;&lt;page&gt;
-Me muero de ganas por pasar
-más tiempo contigo, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1339">¿Quieres que te enseñe... mi gratitud?&lt;wait&gt;</Entry>
-  <Entry Index="1340">¡Ji, ji, ji! Madre mía, &lt;playername&gt;. Qué &lt;gender&gt;("calculador","calculadora").&lt;wait&gt;&lt;page&gt;
-Aunque creo que nos quedan muchos momentos
-felices por vivir, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1341">¡Ji, ji, ji! Madre mía, &lt;playername&gt;. Qué &lt;gender&gt;("calculador","calculadora").&lt;wait&gt;&lt;page&gt;
-Aunque creo que nos quedan muchos momentos
-felices por vivir, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1342">¿Eh? Ah, &lt;playername&gt;. Hola.&lt;wait&gt;&lt;page&gt;
-Le estaba abriendo mi alma a las energías positivas de la
-madre naturaleza.&lt;wait&gt;</Entry>
-  <Entry Index="1343">¿Eh? Oh. Creo que no nos conocemos.&lt;wait&gt;&lt;page&gt;
-Soy Jennifer. Es un placer.&lt;wait&gt;&lt;page&gt;
-Le estaba abriendo mi alma a las energías positivas
-de la madre naturaleza.&lt;wait&gt;</Entry>
-  <Entry Index="1344">¿Las puedes sentir? Emanan como olas del canto de los
-pájaros, de la luz del sol...&lt;wait&gt;&lt;page&gt;
-Es como si el propio mundo estuviese bendiciendo la
-llegada de un nuevo día. ¿No lo crees?&lt;wait&gt;</Entry>
-  <Entry Index="1345">Eh, sí, mejor echamos marcha atrás.</Entry>
-  <Entry Index="1346">Sí, mis chakras están alineados.</Entry>
-  <Entry Index="1347">¿Acaso eres otras de esas pobres almas incapaces de
-percibir las energías naturales del mundo?&lt;wait&gt;&lt;page&gt;
-Tenía la impresión de que eras bastante más... especial.
-Pues vaya. Todo el mundo comete errores.&lt;wait&gt;&lt;page&gt;
-Nos vemos.&lt;wait&gt;</Entry>
-  <Entry Index="1348">¡Y los míos! Veo que entiendes las verdades esotéricas.
-Qué bien.&lt;wait&gt;&lt;page&gt;
-Cuando saco el tema, la gente suele acabar la
-conversación con una expresión confusa.&lt;wait&gt;</Entry>
-  <Entry Index="1349">¡Y los míos! Veo que entiendes estas verdades esotéricas.
-Qué bien.&lt;wait&gt;&lt;page&gt;
-Cuando saco el tema, la gente suele acabar la
-conversación con una expresión confusa.&lt;wait&gt;&lt;page&gt;
-Pero bueno, ¿quién eres?&lt;wait&gt;&lt;page&gt;
-Ajá. Eres &lt;gender&gt;("ese granjero","esa granjera") de quien todo el mundo habla.
-Tenía la esperanza de poder conocerte algún día.&lt;wait&gt;&lt;page&gt;
-La agricultura es una forma de vivir en armonía con la
-tierra y trabajar codo con codo con la vida. Me resulta
-fascinante.&lt;wait&gt;</Entry>
-  <Entry Index="1350">He pasado varias noches en la pensión, pero el resto
-del tiempo podrás encontrarme aquí en mi tienda.&lt;wait&gt;&lt;page&gt;
-Ven a verme si tus energías te lo dictan.
-Tengo muchas cosas que preguntarte.&lt;wait&gt;</Entry>
-  <Entry Index="1351">Ah, sí. Así funciona. Verás, lo que pasa es...&lt;wait&gt;</Entry>
-  <Entry Index="1352">Ah, ya veo. Fascinante.&lt;wait&gt;</Entry>
-  <Entry Index="1353">Ah, &lt;playername&gt;. Hola.&lt;wait&gt;</Entry>
-  <Entry Index="1354">Ah, buenos días.&lt;wait&gt;</Entry>
-  <Entry Index="1355">¿Que qué hacemos? Pues nos hemos reunido unos cuantos
-aficionados a la botánica.&lt;wait&gt;</Entry>
-  <Entry Index="1356">Sí. Estábamos analizando esta flor.&lt;wait&gt;&lt;page&gt;
-Anotamos lo que observamos y ahora compartimos
-lo que pensamos.&lt;wait&gt;</Entry>
-  <Entry Index="1357">Bueno, he dedicado mucho tiempo a la botánica, pero el
-conocimiento de Jennifer eclipsa el mío.&lt;wait&gt;&lt;page&gt;
-Su enfoque de la botánica es tan distinto que hace que me
-llamen la atención cosas que nunca había visto.&lt;wait&gt;&lt;page&gt;
-De vez en cuando solemos juntarnos e intercambiar notas.&lt;wait&gt;</Entry>
-  <Entry Index="1358">Debo admitir que no me interesa explorar los matices de
-la biología de las plantas...&lt;wait&gt;&lt;page&gt;
-Pero ver a las flores florecer con el cuidado del sol
-matutino es como hablar con la propia madre naturaleza.&lt;wait&gt;&lt;page&gt;
-Hasta el día más triste se vuelve satisfactorio después
-de un encuentro así.&lt;wait&gt;</Entry>
-  <Entry Index="1359">Aunque muchas flores se conviertan en capullos durante
-el día, se abren con el roce del sol. ¿Por qué
-crees que ocurre eso?&lt;wait&gt;&lt;page&gt;
-¡PASIÓN!&lt;wait&gt;&lt;page&gt;
-Las abejas y los insectos que llevan el polen suelen estar
-activos por la mañana, ¿no?&lt;wait&gt;&lt;page&gt;
-Es para tentar a esos insectos, ¡para seducirlos! Así
-despliegan sus pétalos y liberan sus dulces aromas.&lt;wait&gt;&lt;page&gt;
-Si escuchas con atención, casi puedes escuchar cómo las
-flores gritan: "¡Difundid mi amor por el mundo!"&lt;wait&gt;</Entry>
-  <Entry Index="1360">Eh, bueno, lo cierto es que eso lo causa un cambio de
-temperatura. No la pasión. Cuando la temperatura
-interna del capullo cambia...&lt;wait&gt;</Entry>
-  <Entry Index="1361">Madre mía, pero que respuesta más seca y apagada.
-No quiero negar las verdades de la ciencia...&lt;wait&gt;&lt;page&gt;
-Pero para mí, hay un aspecto romántico
-y espiritual en las obras de la madre naturaleza
-que no logra transmitir.&lt;wait&gt;</Entry>
-  <Entry Index="1362">Son formas distintas de verlo.</Entry>
-  <Entry Index="1363">¡Sí! ¡Poder floral!</Entry>
-  <Entry Index="1364">Sí, muy cierto. Creo que la forma de pensar de Jennifer
-es muy expresiva e imaginativa.&lt;wait&gt;</Entry>
-  <Entry Index="1365">Es una pena que no estéis de acuerdo con mi
-interpretación, pero bueno. Sí que son formas
-distintas de verlo.&lt;wait&gt;</Entry>
-  <Entry Index="1366">La gente del pueblo parece no excluir a nadie por tener
-un punto de vista diferente. Me gusta.&lt;wait&gt;</Entry>
-  <Entry Index="1367">Ja, ja. Gracias. Creo que somos como dos gotas de agua... o
-dos capullos en una rama, más bien.&lt;wait&gt;</Entry>
-  <Entry Index="1368">Cierto, cierto. Cada uno tenemos nuestra
-guía interna que nos permite movernos por el mundo
-según nuestras creencias.&lt;wait&gt;</Entry>
-  <Entry Index="1369">Creo que es bueno que haya tantas formas distintas y
-válidas a la vez de ver el mundo.&lt;wait&gt;&lt;page&gt;
-Sea porque lo miras de forma científica
-o romántica, ambos puntos de vista surgen del mismo
-amor por las plantas.&lt;wait&gt;</Entry>
-  <Entry Index="1370">¡Oh, vaya! ¡Pero mira qué hora es! Debería irme ya a casa.&lt;wait&gt;&lt;page&gt;
-Creo que he tomado muchas notas, así que si no te
-importa, creo que me voy a retirar por hoy.&lt;wait&gt;</Entry>
-  <Entry Index="1371">Ahora que lo pienso, ¿qué te trae a la montaña a estas
-horas de la mañana, &lt;playername&gt;?&lt;wait&gt;&lt;page&gt;
-¿Tenías algo que hacer aquí?&lt;wait&gt;</Entry>
-  <Entry Index="1372">¿Eh? ¿Que tus pies te trajeron en esta dirección?&lt;wait&gt;&lt;page&gt;
-Ya veo. El aura de la montaña debe haberte atraído.&lt;wait&gt;&lt;page&gt;
-Sabía que la montaña tenía una energía especial... algo que
-atrae y tira del alma.&lt;wait&gt;</Entry>
-  <Entry Index="1373">Ja, ja. ¿Sabes qué? Creo que nuestra incipiente amistad
-podría florecer en algo especial.&lt;wait&gt;</Entry>
-  <Entry Index="1374">Ah, &lt;playername&gt;. Hola.&lt;wait&gt;&lt;page&gt;
-Llegas en el momento perfecto.&lt;wait&gt;</Entry>
-  <Entry Index="1375">Mira este lago.&lt;wait&gt;&lt;page&gt;
-Qué aura tan serena. Qué superficie tan brillante. Es un
-lago de gran belleza.&lt;wait&gt;</Entry>
-  <Entry Index="1376">Y es una fuente de agua vital para el pueblo...&lt;wait&gt;&lt;page&gt;
-Y, puede que lo más importante, es la morada sagrada de
-la guardiana espiritual del pueblo.</Entry>
-  <Entry Index="1377">¿Es que no me crees? Es cierto.&lt;wait&gt;&lt;page&gt;
-A veces percibo una presencia divina cuando visito el lago.&lt;wait&gt;</Entry>
-  <Entry Index="1378">Me estoy desviando del tema. Voy a ir al grano. Me
-creerías si te dijese que este lago...&lt;wait&gt;&lt;page&gt;
-Este espléndido y magnífico lago...
-¿NO TIENE NOMBRE?&lt;wait&gt;</Entry>
-  <Entry Index="1379">¿Podría haber blasfemia mayor?
-Creo que no.&lt;wait&gt;</Entry>
-  <Entry Index="1380">Por eso me propuse pensar en un nombre digno para este
-hermoso lago lleno de solemnes energías naturales.&lt;wait&gt;&lt;page&gt;
-Y mientras sopesaba esta cuestión, llegaste tú. Es como si
-la madre naturaleza te hubiese guiado hasta mí, ¿no?</Entry>
-  <Entry Index="1381">¿Seguirás su llamada y me ayudarás a idear un nombre
-apropiado para el lago?&lt;wait&gt;</Entry>
-  <Entry Index="1382">¿Qué tipo de nombre crees que sería mejor?&lt;wait&gt;</Entry>
-  <Entry Index="1383">Uno angelical.</Entry>
-  <Entry Index="1384">Uno místico.</Entry>
-  <Entry Index="1385">Uno solemne.</Entry>
-  <Entry Index="1386">¿Un nombre angelical?&lt;wait&gt;</Entry>
-  <Entry Index="1387">Umm. Puedo imaginarme ángeles que vienen aquí a
-descansar sus alas. Interesante.&lt;wait&gt;</Entry>
-  <Entry Index="1388">Sabes, no me esperaba este lado poético tuyo. Puede que
-tenga que cambiar mi opinión sobre ti.&lt;wait&gt;</Entry>
-  <Entry Index="1389">¿Un nombre místico? Umm.&lt;wait&gt;&lt;page&gt;
-Buena idea. Un nombre que transmita las propiedades
-etéreas y enigmáticas de este lago sería apropiado.&lt;wait&gt;</Entry>
-  <Entry Index="1390">¿Un nombre solemne?&lt;wait&gt;</Entry>
-  <Entry Index="1391">Bueno, claro, el nombre debe tener cierto aire de nobleza.
-Creía que eso era obvio.&lt;wait&gt;&lt;page&gt;
-Darle a este lago un simple nombre común
-sería una blasfemia.&lt;wait&gt;</Entry>
-  <Entry Index="1392">¡Oh...! Un momento...&lt;wait&gt;&lt;page&gt;
-Tus palabras... ¡han hecho germinar la semilla de la
-inspiración en mí!&lt;wait&gt;&lt;page&gt;
-Lo puedo sentir... El nombre del lago es...&lt;wait&gt;</Entry>
-  <Entry Index="1393">¡ISABELLA!&lt;wait&gt;&lt;page&gt;
-Sí... Belleza. Misterio. Divinidad. El nombre "Isabella"
-engloba su infinidad de matices.&lt;wait&gt;&lt;page&gt;
-Es un nombre que encaja con esta maravillosa masa de
-agua como anillo al dedo.&lt;wait&gt;&lt;page&gt;
-¿No lo crees?&lt;wait&gt;</Entry>
-  <Entry Index="1394">Ja, ja. Mira. ¿No te alegras de que te hayamos dado el
-nombre perfecto, Isabella?&lt;wait&gt;&lt;page&gt;
-Gracias, &lt;playername&gt;. El verdadero nombre de este
-lago puede ser nuestro pequeño secreto.&lt;wait&gt;</Entry>
-  <Entry Index="1395">¿Que por qué no se lo vamos a decir al resto del pueblo?&lt;wait&gt;&lt;page&gt;
-¿Y por qué íbamos a hacerlo? No necesitamos
-anunciárselo al mundo. Mientras llamemos a Isabella por
-su nombre, es suficiente.&lt;wait&gt;</Entry>
-  <Entry Index="1396">Además, el secretismo es lo que le hace así
-de especial, ¿no crees?&lt;wait&gt;</Entry>
-  <Entry Index="1397">Vaya, ¿señora Lillia?&lt;wait&gt;</Entry>
-  <Entry Index="1398">¡Ay, qué bien!&lt;wait&gt;&lt;page&gt;
-Gracias de nuevo, Jenny... ¿Eh?&lt;wait&gt;&lt;page&gt;
-¡Por favor! Pero si es &lt;playername&gt;.
-Hola, corazón.&lt;wait&gt;</Entry>
-  <Entry Index="1399">¡Ay, qué bien!&lt;wait&gt;&lt;page&gt;
-Gracias de nuevo, Jenny... ¿Eh?&lt;wait&gt;&lt;page&gt;
-¡Vaya, vaya! Pero si es &lt;playername&gt;.
-Hola, corazón.&lt;wait&gt;</Entry>
-  <Entry Index="1400">Hola, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1401">¿Eh? Ah, hola. Vengo a traerle una bolsita de flores secas
-a la señora Lillia.&lt;wait&gt;&lt;page&gt;
-Las hago con flores que he cogido de la montaña
-y secado yo misma.&lt;wait&gt;&lt;page&gt;
-Normalmente las hago para mi satisfacción personal,
-pero de vez en cuando las comparto con otras personas.&lt;wait&gt;&lt;page&gt;
-Creo que esta mezcla llevará el alma de la señora Lillia a
-las montañas, y a lo mejor incluso el cuerpo también.&lt;wait&gt;</Entry>
-  <Entry Index="1402">Jenny hace las mejores bolsitas de flores secas. Huele
-todo de maravilla siempre.&lt;wait&gt;&lt;page&gt;
-Me siento como una niña pequeña emocionada cada vez
-que me trae otra bolsita.&lt;wait&gt;&lt;page&gt;
-Ah, me gustan las bolsitas de popurrís de flores, aunque
-ya lo habrás adivinado por el nombre de mi hija.&lt;wait&gt;</Entry>
-  <Entry Index="1403">La verdad es que iba a traerte una bolsita
-a ti luego, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Las hago personalizadas según el gusto de quien las vaya
-a recibir. Que te transporte a algún lugar pacífico.&lt;wait&gt;</Entry>
-  <Entry Index="1404">¡Te he dicho que esta es mejor!&lt;wait&gt;</Entry>
-  <Entry Index="1405">¡No, esta es mejor!</Entry>
-  <Entry Index="1406">Vaya. Ya están peleándose otra vez.&lt;wait&gt;</Entry>
-  <Entry Index="1407">Y justo cuando tenemos visita. Lo siento mucho.&lt;wait&gt;&lt;page&gt;
-Son muy buenos chicos, pero siempre acaban
-peleándose entre ellos.&lt;wait&gt;</Entry>
-  <Entry Index="1408">¿Eh? Y aun así los desacuerdos son muestras de que
-confían el uno en el otro lo suficiente como para expresar
-sus verdaderos sentimientos.&lt;wait&gt;&lt;page&gt;
-Claro, no es bueno dejar que nuestro temperamento nos
-controle y nos haga decir cosas malas o, Dios nos libre,
-usar la violencia.&lt;wait&gt;&lt;page&gt;
-Pero no veo que haya peligro con esos dos. Sus peleas son
-una expresión de su afecto.&lt;wait&gt;</Entry>
-  <Entry Index="1409">Debo admitir que me siento un poco celosa. Ojalá tuviese
-una pareja con la que pudiese discutir con tanta pasión.&lt;wait&gt;</Entry>
-  <Entry Index="1410">Cuando miro a Rick y a Popuri, está claro que ambos
-fueron criados con cariño y afecto.&lt;wait&gt;</Entry>
-  <Entry Index="1411">Gracias desde luego a una madre maravillosa
-y cariñosa, estoy segura.&lt;wait&gt;</Entry>
-  <Entry Index="1412">¡Ah, Jenny! ¡Eres un encanto! Gracias.&lt;wait&gt;&lt;page&gt;
-¿Sabes qué? Escucharte decir eso me ha hecho
-sentir mucho mejor.&lt;wait&gt;&lt;page&gt;
-Para alguien que hace las cosas a su manera, Jenny,
-eres muy observadora..&lt;wait&gt;</Entry>
-  <Entry Index="1413">Ja, ja. Creo que es precisamente ese el motivo.&lt;wait&gt;&lt;page&gt;
-Puede que por eso siempre he perseguido una visión del
-mundo más libre y sin ataduras.&lt;wait&gt;</Entry>
-  <Entry Index="1414">¡Agh, Rick! ¡Pero por qué siempre tienes que...!&lt;wait&gt;</Entry>
-  <Entry Index="1415">¡¿Yo?! ¡Si siempre eres tú la que...!&lt;wait&gt;</Entry>
-  <Entry Index="1416">Puede que se peleen porque se quieren, pero creo
-que voy a detenerles.&lt;wait&gt;&lt;page&gt;
-Lo siento mucho. No tardo nada.&lt;wait&gt;</Entry>
-  <Entry Index="1417">Sus peleas serán una muestra de su cariño por el otro...&lt;wait&gt;&lt;page&gt;
-Pero no me parece bien que se peleen tanto que
-preocupen así a su madre.&lt;wait&gt;</Entry>
-  <Entry Index="1418">¿Eh? Parece que te sorprende lo mucho que observo a la
-gente de mi alrededor.&lt;wait&gt;</Entry>
-  <Entry Index="1419">Ja, ja. Si te soy sincera, muchas veces me cuesta no
-interferir con los asuntos de los demás.&lt;wait&gt;</Entry>
-  <Entry Index="1420">Aunque Lillia parecía bastante irritada, así que pensé en
-hacer una excepción por ella.</Entry>
-  <Entry Index="1421">Guau. Estás totalmente ida.</Entry>
-  <Entry Index="1422">Guau. Tienes un gran corazón.</Entry>
-  <Entry Index="1423">Madre mía, qué &lt;gender&gt;("maleducado","maleducada"). ¿Yo, ida?&lt;wait&gt;</Entry>
-  <Entry Index="1424">Por supuesto que no. ¿Qué es lo que
-te ha hecho pensar eso?&lt;wait&gt;</Entry>
-  <Entry Index="1425">¿Eh? Me halaga que pienses eso...&lt;wait&gt;</Entry>
-  <Entry Index="1426">Pero me temo que no soy una persona de corazón amable.&lt;wait&gt;</Entry>
-  <Entry Index="1427">Solo priorizo la armonía, nada más. Y para mantener una
-coexistencia pacífica con los demás...&lt;wait&gt;&lt;page&gt;
-es fundamental centrarse en los méritos y talentos de
-todo el mundo que te rodea, más que en sus defectos.&lt;wait&gt;&lt;page&gt;
-Además, primero hay que dar amor y respeto
-si queremos recibirlo.&lt;wait&gt;&lt;page&gt;
-Y no solo para personas, sino también para animales
-y la propia naturaleza.&lt;wait&gt;&lt;page&gt;
-Lo único que hago es poner esa idea en práctica.
-Eso es todo.&lt;wait&gt;</Entry>
-  <Entry Index="1428">Pero bueno, mírame. Aquí estoy, dándote la brasa.
-Perdona.&lt;wait&gt;&lt;page&gt;
-No sé por qué, pero hablar contigo hace que se me suelte
-la lengua y acabe parloteando durante horas.&lt;wait&gt;</Entry>
-  <Entry Index="1429">Bueno, me halagas mucho.&lt;wait&gt;&lt;page&gt;
-Es raro. No sé por qué, pero estar contigo me tranquiliza.&lt;wait&gt;&lt;page&gt;
-Puede que nuestras almas estén
-en la misma onda. Ja, ja, ja.&lt;wait&gt;</Entry>
-  <Entry Index="1430">Pero bueno, la señora Lillia está tardando en volver.&lt;wait&gt;&lt;page&gt;
-Umm. Creo que me voy a marchar.&lt;wait&gt;</Entry>
-  <Entry Index="1431">Aquí está bien. Creo que este sitio es lo suficientemente
-tranquilo como para que continuemos la conversación.&lt;wait&gt;&lt;page&gt;
-Que me hayas entregado un regalo tan especial supongo
-que implica que quieres que empecemos a salir &lt;gender&gt;("juntos","juntas").&lt;wait&gt;</Entry>
-  <Entry Index="1432">Aquí está bien. Creo que este sitio es lo suficientemente
-tranquilo como para que continuemos la conversación.&lt;wait&gt;&lt;page&gt;
-Que me hayas entregado un regalo tan especial supongo
-que implica que quieres que empecemos a salir &lt;gender&gt;("juntos","juntas").&lt;wait&gt;</Entry>
-  <Entry Index="1433">Ya veo. Acepto.&lt;wait&gt;</Entry>
-  <Entry Index="1434">Estoy enamorada de ti, la verdad. Como persona y como
-parte integral del mundo natural.&lt;wait&gt;&lt;page&gt;
-Eres alguien que adora y respeta el mundo, y convive codo
-con codo con la madre naturaleza.&lt;wait&gt;&lt;page&gt;
-¿Cómo no podría amar a alguien como tú?&lt;wait&gt;</Entry>
-  <Entry Index="1435">Estoy enamorada de ti, la verdad. Como persona y como
-parte integral del mundo natural.&lt;wait&gt;&lt;page&gt;
-Eres alguien que adora y respeta el mundo, y convive codo
-con codo con la madre naturaleza.&lt;wait&gt;&lt;page&gt;
-¿Cómo no podría amar a alguien como tú?&lt;wait&gt;</Entry>
-  <Entry Index="1436">Perfecto. Nuestra relación ahora implica a un hombre y
-una mujer unidos por el romance.&lt;wait&gt;&lt;page&gt;
-Prometo que te entregaré todo el amor que poseo.&lt;wait&gt;&lt;page&gt;
-Tengo ganas de ver como nuestros cuerpos y nuestras
-almas resuenan, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1437">Perfecto. Nuestra relación ahora implica a dos mujeres
-unidas por el romance.&lt;wait&gt;&lt;page&gt;
-Prometo que te entregaré todo el amor que poseo.&lt;wait&gt;&lt;page&gt;
-Tengo ganas de ver como nuestros cuerpos y nuestras
-almas resuenan, &lt;playername&gt;.&lt;wait&gt;
-</Entry>
+Ha ha...&lt;wait&gt;</Entry>
+  <Entry Index="1328">Desculpe.
+Eu não queria espionar.&lt;wait&gt;</Entry>
+  <Entry Index="1329">Foi meio... difícil não interromper
+considerando o assunto.&lt;wait&gt;</Entry>
+  <Entry Index="1330">Eu não fazia ideia de que vovó e Thomas
+se importavam tanto comigo.&lt;wait&gt;</Entry>
+  <Entry Index="1331">Mas eles estão certos.
+Acho que mudei muito.&lt;wait&gt;&lt;page&gt;
+Nunca me interessei por amor e não me importava
+com a forma com que os outros me viam.&lt;wait&gt;</Entry>
+  <Entry Index="1332">Mas eles estão certos.
+Acho que mudei muito.&lt;wait&gt;&lt;page&gt;
+Nunca me interessei por amor e não me importava
+com a forma com que os outros me viam.&lt;wait&gt;</Entry>
+  <Entry Index="1333">Mas agora... Quero cuidar de mim e de
+todo o resto para que você fique &lt;gender&gt;("orgulhoso","orgulhosa")
+por me ter ao seu lado.&lt;wait&gt;&lt;page&gt;
+Toda vez que penso em você, meu coração dispara.&lt;wait&gt;&lt;page&gt;
+E não consigo parar de pensar no que devemos dizer
+um ao outro na próxima vez que nos encontrarmos.&lt;wait&gt;&lt;page&gt;
+Essa expectativa, essa empolgação...
+Minha vida tem um novo sentido.&lt;wait&gt;&lt;page&gt;
+E tenho certeza que é tudo graças a você,
+&lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Obrigada por me fazer melhor.&lt;wait&gt;</Entry>
+  <Entry Index="1334">Mas agora... Quero cuidar de mim e de
+todo o resto para que você fique &lt;gender&gt;("orgulhoso","orgulhosa")
+por me ter ao seu lado.&lt;wait&gt;&lt;page&gt;
+Toda vez que penso em você, meu coração
+dispara.&lt;wait&gt;&lt;page&gt;
+E não consigo parar de pensar no que devemos
+dizer um ao outro na próxima vez que nos
+encontrarmos.&lt;wait&gt;&lt;page&gt;
+Essa expectativa, essa empolgação...
+Minha vida tem um novo sentido.&lt;wait&gt;&lt;page&gt;
+E tenho certeza que é tudo graças a você,
+&lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Obrigada por me fazer ser uma pessoa melhor.&lt;wait&gt;</Entry>
+  <Entry Index="1335">Não, eu que agradeço.</Entry>
+  <Entry Index="1336">O quão &lt;gender&gt;("agradecido","agradecida") você está?</Entry>
+  <Entry Index="1337">Hee hee! É meio bobo nos agradecermos
+por estarmos &lt;gender&gt;("agradecidos","agradecidas").&lt;wait&gt;&lt;page&gt;
+Mas adoro ter alguém que respeito e que me
+respeita da mesma forma.&lt;wait&gt;&lt;page&gt;
+Mal posso esperar para passar mais tempo com você,
+&lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1338">Hee hee! É meio bobo nos agradecermos
+por estarmos &lt;gender&gt;("agradecidos","agradecidas").&lt;wait&gt;&lt;page&gt;
+Mas adoro ter alguém que respeito e que me
+respeita da mesma forma.&lt;wait&gt;&lt;page&gt;
+Mal posso esperar para passar mais tempo com você,
+&lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1339">Você quer que eu lhe mostre... minha gratidão?&lt;wait&gt;</Entry>
+  <Entry Index="1340">He he he! Meu deus, &lt;playername&gt;. Que &lt;gender&gt;("calculador","calculadora").&lt;wait&gt;&lt;page&gt;
+Embora eu ache que temos muitos momentos felizes,
+para viver, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1341">He he he! Meu deus, &lt;playername&gt;. Que &lt;gender&gt;("calculador","calculadora").&lt;wait&gt;&lt;page&gt;
+Embora eu ache que temos muitos momentos felizes,
+para viver, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1342">Uh? Ah, &lt;playername&gt;. Olá.&lt;wait&gt;&lt;page&gt;
+Eu estava abrindo minha alma para as energias
+positivas da mãe natureza.&lt;wait&gt;</Entry>
+  <Entry Index="1343">Uh? Oh. Acho que não nos conhecemos.&lt;wait&gt;&lt;page&gt;
+Eu sou Jenifer. É um prazer.&lt;wait&gt;&lt;page&gt;
+Eu estava abrindo minha alma para as energias
+positivas da mãe natureza.&lt;wait&gt;</Entry>
+  <Entry Index="1344">Você consegue sentir? Elas emanam como ondas
+do canto dos pássaros, da luz do sol...&lt;wait&gt;&lt;page&gt;
+É como se o próprio mundo estivesse abençoando
+a chegada de um novo dia. Você não acha?&lt;wait&gt;</Entry>
+  <Entry Index="1345">Uh, sim, é melhor nos afastarmos.</Entry>
+  <Entry Index="1346">Sim, meus chakras estão alinhados.</Entry>
+  <Entry Index="1347">Você é mais uma daquelas pobres almas incapazes
+de perceber as energias naturais do mundo?&lt;wait&gt;&lt;page&gt;
+Tive a impressão de que você era bem mais...
+especial. Pois vá. Todos nós cometemos erros.&lt;wait&gt;&lt;page&gt;
+A gente se vê.&lt;wait&gt;</Entry>
+  <Entry Index="1348">É dos meus! Vejo que compreende as
+verdades místicas. Legal.&lt;wait&gt;&lt;page&gt;
+Quando eu falo sobre isso, as pessoas geralmente
+terminam a conversa com uma expressão confusa.&lt;wait&gt;</Entry>
+  <Entry Index="1349">É das minhas! Vejo que compreende as
+verdades místicas. Legal.&lt;wait&gt;&lt;page&gt;
+Quando eu falo sobre isso, as pessoas geralmente
+terminam a conversa com uma expressão confusa.&lt;wait&gt;&lt;page&gt;
+Mas ei, quem é você?&lt;wait&gt;&lt;page&gt;
+AHA. Você é &lt;gender&gt;("aquele fazendeiro","aquela fazendeira") de que todos falam.
+Esperava conhecê-lo um dia.&lt;wait&gt;&lt;page&gt;
+A agricultura é uma forma de viver em harmonia
+com a terra e trabalhar lado a lado com a vida.
+Acho fascinante.&lt;wait&gt;</Entry>
+  <Entry Index="1350">Passo várias noites na pousada, mas a
+na maior parte do tempo você pode me encontrar
+aqui na minha barraca.&lt;wait&gt;&lt;page&gt;
+Venha me ver se suas energias o ditarem. 
+Tenho muitas coisas para lhe perguntar.&lt;wait&gt;</Entry>
+  <Entry Index="1351">Ah, sim. É assim que funciona. Veja bem,
+o que acontece é...&lt;wait&gt;</Entry>
+  <Entry Index="1352">Ah, entendo. Fascinante.&lt;wait&gt;</Entry>
+  <Entry Index="1353">Ah, &lt;playername&gt;. Olá.&lt;wait&gt;</Entry>
+  <Entry Index="1354">Ah, bom dia.&lt;wait&gt;</Entry>
+  <Entry Index="1355">O que fazemos? Bem, alguns entusiastas da
+botânica se conheceram.&lt;wait&gt;</Entry>
+  <Entry Index="1356">Sim. Estávamos analisando esta flor.&lt;wait&gt;&lt;page&gt;
+Anotamos o que observamos e agora
+compartilhamos o que pensamos.&lt;wait&gt;</Entry>
+  <Entry Index="1357">Bem, dediquei muito tempo a botânica,
+mas o conhecimento de Jennifer supera o meu.&lt;wait&gt;&lt;page&gt;
+Sua abordagem da botânica é tão diferente que
+chama minha atenção para coisas que eu nunca
+tinha visto antes.&lt;wait&gt;&lt;page&gt;
+De vez em quando nos reunimos e trocamos
+anotações.&lt;wait&gt;</Entry>
+  <Entry Index="1358">Tenho que admitir que não estou interessada
+em explorar as nuances da biologia vegetal...&lt;wait&gt;&lt;page&gt;
+Mas ver as flores desabrocharem sob os cuidados
+do sol da manhã é como conversar com a própria
+Mãe Natureza.&lt;wait&gt;&lt;page&gt;
+Até o dia mais triste se torna satisfatório
+depois de um encontro assim.&lt;wait&gt;</Entry>
+  <Entry Index="1359">Embora muitas flores desabrochem durante o dia,
+elas se abrem quando o sol as toca.
+Por que você acha que isso acontece?&lt;wait&gt;&lt;page&gt;
+PAIXÃO!&lt;wait&gt;&lt;page&gt;
+Abelhas e insetos transportadores de pólen
+costumam estar ativos pela manhã, certo?&lt;wait&gt;&lt;page&gt;
+É para atrair esses insetos, seduzi-los!
+Assim elas abrem suas pétalas e liberam
+seus aromas doces.&lt;wait&gt;&lt;page&gt;
+Se você prestar a atenção, quase poderá ouvir
+as flores gritando:
+"Espalhem meu amor pelo mundo!"&lt;wait&gt;</Entry>
+  <Entry Index="1360">Eh, bem, a verdade é que é causada por
+uma mudança de temperatura. Não é paixão.
+Quando a temperatura interna do casulo muda...&lt;wait&gt;</Entry>
+  <Entry Index="1361">Meu Deus, mas que resposta seca e sem graça.
+Não quero negar as verdades da ciência...&lt;wait&gt;&lt;page&gt;
+Mas para mim, há um aspecto romântico e espiritual
+nas obras da Mãe Natureza que ela não consegue
+comunicar.&lt;wait&gt;</Entry>
+  <Entry Index="1362">São maneiras diferentes de enxegar.</Entry>
+  <Entry Index="1363">Sim! Poder das flores!</Entry>
+  <Entry Index="1364">Sim, certamente. Acho que a maneira de 
+pensar de Jennifer é muito expressiva e
+criativa.&lt;wait&gt;</Entry>
+  <Entry Index="1365">É uma pena que você não concorde com minha
+interpretação. Mas, sim, são maneiras
+diferentes de ver o mundo.&lt;wait&gt;</Entry>
+  <Entry Index="1366">As pessoas da cidade grande não parecem
+excluir ninguém por ter um ponto de vista
+diferente. Gostei&lt;wait&gt;</Entry>
+  <Entry Index="1367">Ha ha. Obrigada. Acho que somos como duas gotas
+de água... Ou dois casulos em um galho.&lt;wait&gt;</Entry>
+  <Entry Index="1368">Certo, certo. Cada um de nós tem seu próprio
+guia interior que nos permite mover pelo
+mundo de acordo com nossos ideais.&lt;wait&gt;</Entry>
+  <Entry Index="1369">Acho bom que existam tantas formas distintas
+e válidas de ver o mundo ao mesmo tempo.&lt;wait&gt;&lt;page&gt;
+Quer você olhe cientificamente ou romanticamente,
+ambos os pontos de vista derivam do mesmo
+amor pelas plantas.&lt;wait&gt;</Entry>
+  <Entry Index="1370">Oh, nossa! Mas veja que horas são!
+Eu deveria ir para casa agora.&lt;wait&gt;&lt;page&gt;
+Acho que fiz muitas anotações, então, se você
+não se importa, acho que vou me retirar
+por hoje.&lt;wait&gt;</Entry>
+  <Entry Index="1371">Parando para pensar, o que o traz para
+a montanha a esta hora da manhã, &lt;playername&gt;?&lt;wait&gt;&lt;page&gt;
+Você tinha algo para fazer aqui?&lt;wait&gt;</Entry>
+  <Entry Index="1372">Uh? Seus pés te trouxeram nessa direção?&lt;wait&gt;&lt;page&gt;
+Entendo. A aura da montanha deve ter atraído você.&lt;wait&gt;&lt;page&gt;
+Eu sabia que a montanha tinha uma energia especial...
+Algo que atrai e puxa a alma.&lt;wait&gt;</Entry>
+  <Entry Index="1373">Ha ha. Quer saber? Acho que nossa amizade
+pode florescer em algo especial.&lt;wait&gt;</Entry>
+  <Entry Index="1374">Ah, &lt;playername&gt;. Olá.&lt;wait&gt;&lt;page&gt;
+Você chegou na hora perfeita.&lt;wait&gt;</Entry>
+  <Entry Index="1375">Olhe para este lago.&lt;wait&gt;&lt;page&gt;
+Que aura serena. Que superfície brilhante.
+É um lago belíssimo.&lt;wait&gt;</Entry>
+  <Entry Index="1376">E é uma fonte de água vital para a cidade...&lt;wait&gt;&lt;page&gt;
+E, talvez o mais importante, é a morada sagrada do
+guardião espiritual da cidade.</Entry>
+  <Entry Index="1377">Você não acredita em mim? É verdade.&lt;wait&gt;&lt;page&gt;
+Às vezes sinto uma presença divina quando visito o lago.&lt;wait&gt;</Entry>
+  <Entry Index="1378">Estou fugindo do assunto. Eu vou direto ao ponto.
+Você acreditaria em mim se eu lhe dissesse que
+este lago...&lt;wait&gt;&lt;page&gt;
+Este esplêndido e magnífico lago...
+NÃO TEM UM NOME?&lt;wait&gt;</Entry>
+  <Entry Index="1379">Poderia haver uma blasfêmia maior?
+Acho que não.&lt;wait&gt;</Entry>
+  <Entry Index="1380">É por isso que comecei a pensar em um nome digno
+para este belo lago cheio de energias naturais
+maníficas.&lt;wait&gt;&lt;page&gt;
+E enquanto eu refletia sobre o assunto, você surgiu.
+É como se a mãe natureza te trouxesse até mim, certo?</Entry>
+  <Entry Index="1381">Você vai atender o seu chamado e me ajudar a
+encontrar um nome adequado para este lago?&lt;wait&gt;</Entry>
+  <Entry Index="1382">Que tipo de nome você acha que soaria melhor?&lt;wait&gt;</Entry>
+  <Entry Index="1383">Um angelical.</Entry>
+  <Entry Index="1384">Unm místico.</Entry>
+  <Entry Index="1385">Um imponente.</Entry>
+  <Entry Index="1386">Um nome angelical?&lt;wait&gt;</Entry>
+  <Entry Index="1387">Hmm. Posso imaginar anjos vindo aqui para
+descansar suas asas. Intrigante.&lt;wait&gt;</Entry>
+  <Entry Index="1388">Sabe, eu não esperava esse seu lado poético.
+Talvez eu devesse mudar minha opinião sobre você.&lt;wait&gt;</Entry>
+  <Entry Index="1389">Um nome místico? Hmm.&lt;wait&gt;&lt;page&gt;
+Boa ideia. Um nome que transmita as propriedades
+celestiais e enigmáticas deste lago
+seria apropriado.&lt;wait&gt;</Entry>
+  <Entry Index="1390">Um nome imponente?&lt;wait&gt;</Entry>
+  <Entry Index="1391">Bem, claro, o nome deve soar nobre.
+Achei que era óbvio.&lt;wait&gt;&lt;page&gt;
+Dar a este lago um mero nome comum seria
+uma blasfêmia.&lt;wait&gt;</Entry>
+  <Entry Index="1392">Oh...! Espere um minuto...&lt;wait&gt;&lt;page&gt;
+Suas palavras... Germinaram a semente da
+inspiração em mim!&lt;wait&gt;&lt;page&gt;
+Eu posso sentir... O nome do lago é...&lt;wait&gt;</Entry>
+  <Entry Index="1393">ISABELLA!&lt;wait&gt;&lt;page&gt;
+Sim... Beleza. Mistério. Divindade. O nome "Isabella"
+abrange sua infinidade de nuances.&lt;wait&gt;&lt;page&gt;
+É um nome que se encaixa como uma luva neste
+maravilhoso corpo de água.&lt;wait&gt;&lt;page&gt;
+Você não acha?&lt;wait&gt;</Entry>
+  <Entry Index="1394">Ha ha. Olha. Você não está feliz por
+termos lhe dado o nome perfeito, Isabella?&lt;wait&gt;&lt;page&gt;
+Obrigada, &lt;playername&gt;. O verdadeiro nome deste lago
+pode ser o nosso segredinho.&lt;wait&gt;</Entry>
+  <Entry Index="1395">Por que não contamos ao resto da cidade?&lt;wait&gt;&lt;page&gt;
+E por que faríamos isso? Não precisamos anunciá-lo
+ao mundo. Contanto que nós chamemos Isabella pelo nome,
+será o suficiente.&lt;wait&gt;</Entry>
+  <Entry Index="1396">Além disso, o sigilo é o que o torna
+tão especial, você não acha?&lt;wait&gt;</Entry>
+  <Entry Index="1397">Gostou, Sra. Lillia?&lt;wait&gt;</Entry>
+  <Entry Index="1398">Oh, adorei!&lt;wait&gt;&lt;page&gt;
+Obrigada novamente, Jenny... Uh?&lt;wait&gt;&lt;page&gt;
+Ora, ora! Se não é &lt;playername&gt;.
+Olá, querido.&lt;wait&gt;</Entry>
+  <Entry Index="1399">Oh, adorei!&lt;wait&gt;&lt;page&gt;
+Obrigada novamente, Jenny... Uh?&lt;wait&gt;&lt;page&gt;
+Ora, ora! Se não é &lt;playername&gt;.
+Olá, querida.&lt;wait&gt;</Entry>
+  <Entry Index="1400">Olá, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1401">Uh? Ah, olá. Vim trazer um saquinho de flores
+secas para a Sra. Lillia.&lt;wait&gt;&lt;page&gt;
+Os faço com as flores da montanha que eu
+mesma colho e seco.&lt;wait&gt;&lt;page&gt;
+Costumo fazê-los para meu bel-prazer, mas de vez
+em quando compartilho com outras pessoas.&lt;wait&gt;&lt;page&gt;
+Acho que essa mescla irá levar a alma da
+Sra. Lillia para as montanhas, e talvez até o
+corpo dela também.&lt;wait&gt;</Entry>
+  <Entry Index="1402">Jenny faz os melhores saquinhos de flores secas.
+Tudo sempre tem um cheiro maravilhoso.&lt;wait&gt;&lt;page&gt;
+Eu me sinto como uma garotinha animada toda
+vez que ela me traz outro.&lt;wait&gt;&lt;page&gt;
+Ah, eu amo os saqunihos de potpourri de flores, embora
+você possa ter adivinhado pelo nome da minha filha.&lt;wait&gt;</Entry>
+  <Entry Index="1403">Na verdade, eu ia levar um saquinho
+para você mais tarde, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Eu os faço personalizados de acordo com o gosto
+de quem vai recebê-los. Para transportá-los a
+algum lugar tranquilo.&lt;wait&gt;</Entry>
+  <Entry Index="1404">Eu disse que este é melhor!&lt;wait&gt;</Entry>
+  <Entry Index="1405">Não, este é melhor!</Entry>
+  <Entry Index="1406">Nossa. Eles já estão brigando de novo.&lt;wait&gt;</Entry>
+  <Entry Index="1407">E justamente quando temos um visitante.
+Sinto muito.&lt;wait&gt;&lt;page&gt;
+São jovens adoráveis, mas sempre acabam brigando entre si.&lt;wait&gt;</Entry>
+  <Entry Index="1408">Uh? No entanto, os desentendimentos são sinais
+de que confiam um no outro o suficiente para
+expressar seus verdadeiros sentimentos.&lt;wait&gt;&lt;page&gt;
+Claro, não é bom deixar nosso temperamento nos controlar
+e nos fazer dizer coisas ruins ou, deus me livre,
+usar violência.&lt;wait&gt;&lt;page&gt;
+Mas não vejo nenhum perigo nesses dois.
+Suas brigas são uma expressão de afeto.&lt;wait&gt;</Entry>
+  <Entry Index="1409">Devo admitir que sinto um pouco de inveja.
+Eu gostaria de ter alguém com quem pudesse
+discutir com tanta emoção.&lt;wait&gt;</Entry>
+  <Entry Index="1410">Quando olho para Rick e Popuri, fica claro
+que ambos foram criados com muito amor e carinho.&lt;wait&gt;</Entry>
+  <Entry Index="1411">Graças, é claro, a uma mãe maravilhosa
+e amorosa, tenho certeza.&lt;wait&gt;</Entry>
+  <Entry Index="1412">Ah Jenny! Você é um amor! Obrigada.&lt;wait&gt;&lt;page&gt;
+Quer saber? Ouvir você dizer isso fez com que
+eu me senti-se muito melhor.&lt;wait&gt;&lt;page&gt;
+Para alguém que faz as coisas a sua maneira, Jenny,
+você é muito observadora.&lt;wait&gt;</Entry>
+  <Entry Index="1413">Ha ha. Acho que é exatamente por isso.&lt;wait&gt;&lt;page&gt;
+Talvez seja por isso que sempre busquei uma
+visão de mundo mais livre e sem limites.&lt;wait&gt;</Entry>
+  <Entry Index="1414">Agh, Rick! Mas por que você sempre tem que...!&lt;wait&gt;</Entry>
+  <Entry Index="1415">Eu?! Se é sempre você quem...!&lt;wait&gt;</Entry>
+  <Entry Index="1416">Eles podem estar brigando porque se amam,
+mas acho que vou para-los.&lt;wait&gt;&lt;page&gt;
+Sinto muito. Eu não demoro.&lt;wait&gt;</Entry>
+  <Entry Index="1417">Suas brigas são um sinal de afeto um pelo outro...&lt;wait&gt;&lt;page&gt;
+Mas não acho certo eles discutirem tanto
+a ponto de preocupearem a sua mãe assim.&lt;wait&gt;</Entry>
+  <Entry Index="1418">Uh? Você parece surpreso com o quanto eu
+observo as pessoas ao meu redor.&lt;wait&gt;</Entry>
+  <Entry Index="1419">Ha ha. Para ser honesta, muitas vezes tenho
+dificuldade em não interferir nos negócios da
+outras pessoas.&lt;wait&gt;</Entry>
+  <Entry Index="1420">Lillia parecia bastante irritada,
+então pensei em abrir uma exceção para ela.</Entry>
+  <Entry Index="1421">Uau. Você não dá a mínima.</Entry>
+  <Entry Index="1422">Uau. Você tem um grande coração.</Entry>
+  <Entry Index="1423">Meu deus, que &lt;gender&gt;("mal-educado","mal-educada").
+Eu? Não dou a mínima?&lt;wait&gt;</Entry>
+  <Entry Index="1424">Claro que dou. O que o fez
+pensar isso?&lt;wait&gt;</Entry>
+  <Entry Index="1425">Uh? Fico lisonjeada que ache isso...&lt;wait&gt;</Entry>
+  <Entry Index="1426">Mas temo que não sou uma pessoa de bom coração.&lt;wait&gt;</Entry>
+  <Entry Index="1427">Eu só priorizo a harmonia, nada mais. E para
+manter a convivência pacífica com os outros...&lt;wait&gt;&lt;page&gt;
+É essencial focar nos méritos e talentos de todos
+ao seu redor, e não em suas falhas.&lt;wait&gt;&lt;page&gt;
+Além disso, você tem que dar amor e respeito
+primeiro se quiser recebê-lo.&lt;wait&gt;&lt;page&gt;
+E não só para as pessoas, mas também para os
+animais e a própria natureza.&lt;wait&gt;&lt;page&gt;
+Tudo o que faço é colocar essa ideia em prática.
+Só isso.&lt;wait&gt;</Entry>
+  <Entry Index="1428">Bem, olhe para mim. Aqui estou eu,
+dando-lhe a dicas. Desculpe.&lt;wait&gt;&lt;page&gt;
+Não sei porque, mas falar com você faz minha língua
+soltar e eu acabo tagarelando por horas.&lt;wait&gt;</Entry>
+  <Entry Index="1429">Bem, estou muito lisonjeada.&lt;wait&gt;&lt;page&gt;
+É estranho. Não sei porque, mas estar com você me acalma.&lt;wait&gt;&lt;page&gt;
+Talvez nossas almas estejam na mesma vibe. Ha ha.&lt;wait&gt;</Entry>
+  <Entry Index="1430">Mas ei, a Sra. Lillia está demorando
+um pouco para voltar.&lt;wait&gt;&lt;page&gt;
+Hum. Acho que vou indo.&lt;wait&gt;</Entry>
+  <Entry Index="1431">Aqui parece bom. Acho que este lugar é calmo
+o suficiente para continuarmos a conversa.&lt;wait&gt;&lt;page&gt;
+O fato de você ter me dado um presente tão especial,
+suponho, indica que você quer que nós &lt;gender&gt;("dois","duas")
+comecemos a namorar.&lt;wait&gt;</Entry>
+  <Entry Index="1432">Aqui parece bom. Acho que este lugar é calmo
+o suficiente para continuarmos a conversa.&lt;wait&gt;&lt;page&gt;
+O fato de você ter me dado um presente tão especial,
+suponho, indica que você quer que nós &lt;gender&gt;("dois","duas")
+comecemos a namorar.&lt;wait&gt;</Entry>
+  <Entry Index="1433">Tá bom. Aceito.&lt;wait&gt;</Entry>
+  <Entry Index="1434">Estou apaixonada por você, de verdade. Como
+pessoa e como integrante do mundo natural.&lt;wait&gt;&lt;page&gt;
+Você é alguém que ama e respeita o mundo,
+e vive lado a lado com a mãe natureza.&lt;wait&gt;&lt;page&gt;
+Como não amar alguém como você?&lt;wait&gt;</Entry>
+  <Entry Index="1435">Estou apaixonada por você, de verdade. Como
+pessoa e como integrante do mundo natural.&lt;wait&gt;&lt;page&gt;
+Você é alguém que ama e respeita o mundo,
+e vive lado a lado com a mãe natureza.&lt;wait&gt;&lt;page&gt;
+Como não amar alguém como você?&lt;wait&gt;</Entry>
+  <Entry Index="1436">Perfeito. Nosso relacionamento agora envolve
+um homem e uma mulher ligados pelo romance.&lt;wait&gt;&lt;page&gt;
+Prometo que lhe darei todo o amor que tenho.&lt;wait&gt;&lt;page&gt;
+Estou ansiosa para ver nossos corpos e almas
+ressoarem, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1437">Perfeito. Nosso relacionamento agora envolve
+um homem e uma mulher ligados pelo romance.&lt;wait&gt;&lt;page&gt;
+Prometo que lhe darei todo o amor que tenho.&lt;wait&gt;&lt;page&gt;
+Estou ansiosa para ver nossos corpos e almas
+ressoarem, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="1438">Ah, &lt;playername&gt;. Justo a quien andaba buscando.&lt;wait&gt;&lt;page&gt;
 Has venido en el momento oportuno. Voy a hacer
 un poco de té.&lt;wait&gt;&lt;page&gt;
