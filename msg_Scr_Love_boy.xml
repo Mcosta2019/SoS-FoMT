@@ -3304,103 +3304,107 @@ de quem vai recebê-los. Para transportá-los a
 algum lugar tranquilo.&lt;wait&gt;</Entry>
   <Entry Index="1404">Eu disse que este é melhor!&lt;wait&gt;</Entry>
   <Entry Index="1405">Não, este é melhor!</Entry>
-  <Entry Index="1406">Vaya. Ya están peleándose otra vez.&lt;wait&gt;</Entry>
-  <Entry Index="1407">Y justo cuando tenemos visita. Lo siento mucho.&lt;wait&gt;&lt;page&gt;
-Son muy buenos chicos, pero siempre acaban
-peleándose entre ellos.&lt;wait&gt;</Entry>
-  <Entry Index="1408">¿Eh? Y aun así los desacuerdos son muestras de que
-confían el uno en el otro lo suficiente como para expresar
-sus verdaderos sentimientos.&lt;wait&gt;&lt;page&gt;
-Claro, no es bueno dejar que nuestro temperamento nos
-controle y nos haga decir cosas malas o, Dios nos libre,
-usar la violencia.&lt;wait&gt;&lt;page&gt;
-Pero no veo que haya peligro con esos dos. Sus peleas son
-una expresión de su afecto.&lt;wait&gt;</Entry>
-  <Entry Index="1409">Debo admitir que me siento un poco celosa. Ojalá tuviese
-una pareja con la que pudiese discutir con tanta pasión.&lt;wait&gt;</Entry>
-  <Entry Index="1410">Cuando miro a Rick y a Popuri, está claro que ambos
-fueron criados con cariño y afecto.&lt;wait&gt;</Entry>
-  <Entry Index="1411">Gracias desde luego a una madre maravillosa
-y cariñosa, estoy segura.&lt;wait&gt;</Entry>
-  <Entry Index="1412">¡Ah, Jenny! ¡Eres un encanto! Gracias.&lt;wait&gt;&lt;page&gt;
-¿Sabes qué? Escucharte decir eso me ha hecho
-sentir mucho mejor.&lt;wait&gt;&lt;page&gt;
-Para alguien que hace las cosas a su manera, Jenny,
-eres muy observadora..&lt;wait&gt;</Entry>
-  <Entry Index="1413">Ja, ja. Creo que es precisamente ese el motivo.&lt;wait&gt;&lt;page&gt;
-Puede que por eso siempre he perseguido una visión del
-mundo más libre y sin ataduras.&lt;wait&gt;</Entry>
-  <Entry Index="1414">¡Agh, Rick! ¡Pero por qué siempre tienes que...!&lt;wait&gt;</Entry>
-  <Entry Index="1415">¡¿Yo?! ¡Si siempre eres tú la que...!&lt;wait&gt;</Entry>
-  <Entry Index="1416">Puede que se peleen porque se quieren, pero creo
-que voy a detenerles.&lt;wait&gt;&lt;page&gt;
-Lo siento mucho. No tardo nada.&lt;wait&gt;</Entry>
-  <Entry Index="1417">Sus peleas serán una muestra de su cariño por el otro...&lt;wait&gt;&lt;page&gt;
-Pero no me parece bien que se peleen tanto que
-preocupen así a su madre.&lt;wait&gt;</Entry>
-  <Entry Index="1418">¿Eh? Parece que te sorprende lo mucho que observo a la
-gente de mi alrededor.&lt;wait&gt;</Entry>
-  <Entry Index="1419">Ja, ja. Si te soy sincera, muchas veces me cuesta no
-interferir con los asuntos de los demás.&lt;wait&gt;</Entry>
-  <Entry Index="1420">Aunque Lillia parecía bastante irritada, así que pensé en
-hacer una excepción por ella.</Entry>
-  <Entry Index="1421">Guau. Estás totalmente ida.</Entry>
-  <Entry Index="1422">Guau. Tienes un gran corazón.</Entry>
-  <Entry Index="1423">Madre mía, qué &lt;gender&gt;("maleducado","maleducada"). ¿Yo, ida?&lt;wait&gt;</Entry>
-  <Entry Index="1424">Por supuesto que no. ¿Qué es lo que
-te ha hecho pensar eso?&lt;wait&gt;</Entry>
-  <Entry Index="1425">¿Eh? Me halaga que pienses eso...&lt;wait&gt;</Entry>
-  <Entry Index="1426">Pero me temo que no soy una persona de corazón amable.&lt;wait&gt;</Entry>
-  <Entry Index="1427">Solo priorizo la armonía, nada más. Y para mantener una
-coexistencia pacífica con los demás...&lt;wait&gt;&lt;page&gt;
-es fundamental centrarse en los méritos y talentos de
-todo el mundo que te rodea, más que en sus defectos.&lt;wait&gt;&lt;page&gt;
-Además, primero hay que dar amor y respeto
-si queremos recibirlo.&lt;wait&gt;&lt;page&gt;
-Y no solo para personas, sino también para animales
-y la propia naturaleza.&lt;wait&gt;&lt;page&gt;
-Lo único que hago es poner esa idea en práctica.
-Eso es todo.&lt;wait&gt;</Entry>
-  <Entry Index="1428">Pero bueno, mírame. Aquí estoy, dándote la brasa.
-Perdona.&lt;wait&gt;&lt;page&gt;
-No sé por qué, pero hablar contigo hace que se me suelte
-la lengua y acabe parloteando durante horas.&lt;wait&gt;</Entry>
-  <Entry Index="1429">Bueno, me halagas mucho.&lt;wait&gt;&lt;page&gt;
-Es raro. No sé por qué, pero estar contigo me tranquiliza.&lt;wait&gt;&lt;page&gt;
-Puede que nuestras almas estén
-en la misma onda. Ja, ja, ja.&lt;wait&gt;</Entry>
-  <Entry Index="1430">Pero bueno, la señora Lillia está tardando en volver.&lt;wait&gt;&lt;page&gt;
-Umm. Creo que me voy a marchar.&lt;wait&gt;</Entry>
-  <Entry Index="1431">Aquí está bien. Creo que este sitio es lo suficientemente
-tranquilo como para que continuemos la conversación.&lt;wait&gt;&lt;page&gt;
-Que me hayas entregado un regalo tan especial supongo
-que implica que quieres que empecemos a salir &lt;gender&gt;("juntos","juntas").&lt;wait&gt;</Entry>
-  <Entry Index="1432">Aquí está bien. Creo que este sitio es lo suficientemente
-tranquilo como para que continuemos la conversación.&lt;wait&gt;&lt;page&gt;
-Que me hayas entregado un regalo tan especial supongo
-que implica que quieres que empecemos a salir &lt;gender&gt;("juntos","juntas").&lt;wait&gt;</Entry>
-  <Entry Index="1433">Ya veo. Acepto.&lt;wait&gt;</Entry>
-  <Entry Index="1434">Estoy enamorada de ti, la verdad. Como persona y como
-parte integral del mundo natural.&lt;wait&gt;&lt;page&gt;
-Eres alguien que adora y respeta el mundo, y convive codo
-con codo con la madre naturaleza.&lt;wait&gt;&lt;page&gt;
-¿Cómo no podría amar a alguien como tú?&lt;wait&gt;</Entry>
-  <Entry Index="1435">Estoy enamorada de ti, la verdad. Como persona y como
-parte integral del mundo natural.&lt;wait&gt;&lt;page&gt;
-Eres alguien que adora y respeta el mundo, y convive codo
-con codo con la madre naturaleza.&lt;wait&gt;&lt;page&gt;
-¿Cómo no podría amar a alguien como tú?&lt;wait&gt;</Entry>
-  <Entry Index="1436">Perfecto. Nuestra relación ahora implica a un hombre y
-una mujer unidos por el romance.&lt;wait&gt;&lt;page&gt;
-Prometo que te entregaré todo el amor que poseo.&lt;wait&gt;&lt;page&gt;
-Tengo ganas de ver como nuestros cuerpos y nuestras
-almas resuenan, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1437">Perfecto. Nuestra relación ahora implica a dos mujeres
-unidas por el romance.&lt;wait&gt;&lt;page&gt;
-Prometo que te entregaré todo el amor que poseo.&lt;wait&gt;&lt;page&gt;
-Tengo ganas de ver como nuestros cuerpos y nuestras
-almas resuenan, &lt;playername&gt;.&lt;wait&gt;
-</Entry>
+  <Entry Index="1406">Nossa. Eles já estão brigando de novo.&lt;wait&gt;</Entry>
+  <Entry Index="1407">E justamente quando temos um visitante.
+Sinto muito.&lt;wait&gt;&lt;page&gt;
+São jovens adoráveis, mas sempre acabam brigando entre si.&lt;wait&gt;</Entry>
+  <Entry Index="1408">Uh? No entanto, os desentendimentos são sinais
+de que confiam um no outro o suficiente para
+expressar seus verdadeiros sentimentos.&lt;wait&gt;&lt;page&gt;
+Claro, não é bom deixar nosso temperamento nos controlar
+e nos fazer dizer coisas ruins ou, deus me livre,
+usar violência.&lt;wait&gt;&lt;page&gt;
+Mas não vejo nenhum perigo nesses dois.
+Suas brigas são uma expressão de afeto.&lt;wait&gt;</Entry>
+  <Entry Index="1409">Devo admitir que sinto um pouco de inveja.
+Eu gostaria de ter alguém com quem pudesse
+discutir com tanta emoção.&lt;wait&gt;</Entry>
+  <Entry Index="1410">Quando olho para Rick e Popuri, fica claro
+que ambos foram criados com muito amor e carinho.&lt;wait&gt;</Entry>
+  <Entry Index="1411">Graças, é claro, a uma mãe maravilhosa
+e amorosa, tenho certeza.&lt;wait&gt;</Entry>
+  <Entry Index="1412">Ah Jenny! Você é um amor! Obrigada.&lt;wait&gt;&lt;page&gt;
+Quer saber? Ouvir você dizer isso fez com que
+eu me senti-se muito melhor.&lt;wait&gt;&lt;page&gt;
+Para alguém que faz as coisas a sua maneira, Jenny,
+você é muito observadora.&lt;wait&gt;</Entry>
+  <Entry Index="1413">Ha ha. Acho que é exatamente por isso.&lt;wait&gt;&lt;page&gt;
+Talvez seja por isso que sempre busquei uma
+visão de mundo mais livre e sem limites.&lt;wait&gt;</Entry>
+  <Entry Index="1414">Agh, Rick! Mas por que você sempre tem que...!&lt;wait&gt;</Entry>
+  <Entry Index="1415">Eu?! Se é sempre você quem...!&lt;wait&gt;</Entry>
+  <Entry Index="1416">Eles podem estar brigando porque se amam,
+mas acho que vou para-los.&lt;wait&gt;&lt;page&gt;
+Sinto muito. Eu não demoro.&lt;wait&gt;</Entry>
+  <Entry Index="1417">Suas brigas são um sinal de afeto um pelo outro...&lt;wait&gt;&lt;page&gt;
+Mas não acho certo eles discutirem tanto
+a ponto de preocupearem a sua mãe assim.&lt;wait&gt;</Entry>
+  <Entry Index="1418">Uh? Você parece surpreso com o quanto eu
+observo as pessoas ao meu redor.&lt;wait&gt;</Entry>
+  <Entry Index="1419">Ha ha. Para ser honesta, muitas vezes tenho
+dificuldade em não interferir nos negócios da
+outras pessoas.&lt;wait&gt;</Entry>
+  <Entry Index="1420">Lillia parecia bastante irritada,
+então pensei em abrir uma exceção para ela.</Entry>
+  <Entry Index="1421">Uau. Você não dá a mínima.</Entry>
+  <Entry Index="1422">Uau. Você tem um grande coração.</Entry>
+  <Entry Index="1423">Meu deus, que &lt;gender&gt;("mal-educado","mal-educada").
+Eu? Não dou a mínima?&lt;wait&gt;</Entry>
+  <Entry Index="1424">Claro que dou. O que o fez
+pensar isso?&lt;wait&gt;</Entry>
+  <Entry Index="1425">Uh? Fico lisonjeada que ache isso...&lt;wait&gt;</Entry>
+  <Entry Index="1426">Mas temo que não sou uma pessoa de bom coração.&lt;wait&gt;</Entry>
+  <Entry Index="1427">Eu só priorizo a harmonia, nada mais. E para
+manter a convivência pacífica com os outros...&lt;wait&gt;&lt;page&gt;
+É essencial focar nos méritos e talentos de todos
+ao seu redor, e não em suas falhas.&lt;wait&gt;&lt;page&gt;
+Além disso, você tem que dar amor e respeito
+primeiro se quiser recebê-lo.&lt;wait&gt;&lt;page&gt;
+E não só para as pessoas, mas também para os
+animais e a própria natureza.&lt;wait&gt;&lt;page&gt;
+Tudo o que faço é colocar essa ideia em prática.
+Só isso.&lt;wait&gt;</Entry>
+  <Entry Index="1428">Bem, olhe para mim. Aqui estou eu,
+dando-lhe a dicas. Desculpe.&lt;wait&gt;&lt;page&gt;
+Não sei porque, mas falar com você faz minha língua
+soltar e eu acabo tagarelando por horas.&lt;wait&gt;</Entry>
+  <Entry Index="1429">Bem, estou muito lisonjeada.&lt;wait&gt;&lt;page&gt;
+É estranho. Não sei porque, mas estar com você me acalma.&lt;wait&gt;&lt;page&gt;
+Talvez nossas almas estejam na mesma vibe. Ha ha.&lt;wait&gt;</Entry>
+  <Entry Index="1430">Mas ei, a Sra. Lillia está demorando
+um pouco para voltar.&lt;wait&gt;&lt;page&gt;
+Hum. Acho que vou indo.&lt;wait&gt;</Entry>
+  <Entry Index="1431">Aqui parece bom. Acho que este lugar é calmo
+o suficiente para continuarmos a conversa.&lt;wait&gt;&lt;page&gt;
+O fato de você ter me dado um presente tão especial,
+suponho, indica que você quer que nós &lt;gender&gt;("dois","duas")
+comecemos a namorar.&lt;wait&gt;</Entry>
+  <Entry Index="1432">Aqui parece bom. Acho que este lugar é calmo
+o suficiente para continuarmos a conversa.&lt;wait&gt;&lt;page&gt;
+O fato de você ter me dado um presente tão especial,
+suponho, indica que você quer que nós &lt;gender&gt;("dois","duas")
+comecemos a namorar.&lt;wait&gt;</Entry>
+  <Entry Index="1433">Tá bom. Aceito.&lt;wait&gt;</Entry>
+  <Entry Index="1434">Estou apaixonada por você, de verdade. Como
+pessoa e como integrante do mundo natural.&lt;wait&gt;&lt;page&gt;
+Você é alguém que ama e respeita o mundo,
+e vive lado a lado com a mãe natureza.&lt;wait&gt;&lt;page&gt;
+Como não amar alguém como você?&lt;wait&gt;</Entry>
+  <Entry Index="1435">Estou apaixonada por você, de verdade. Como
+pessoa e como integrante do mundo natural.&lt;wait&gt;&lt;page&gt;
+Você é alguém que ama e respeita o mundo,
+e vive lado a lado com a mãe natureza.&lt;wait&gt;&lt;page&gt;
+Como não amar alguém como você?&lt;wait&gt;</Entry>
+  <Entry Index="1436">Perfeito. Nosso relacionamento agora envolve
+um homem e uma mulher ligados pelo romance.&lt;wait&gt;&lt;page&gt;
+Prometo que lhe darei todo o amor que tenho.&lt;wait&gt;&lt;page&gt;
+Estou ansiosa para ver nossos corpos e almas
+ressoarem, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1437">Perfeito. Nosso relacionamento agora envolve
+um homem e uma mulher ligados pelo romance.&lt;wait&gt;&lt;page&gt;
+Prometo que lhe darei todo o amor que tenho.&lt;wait&gt;&lt;page&gt;
+Estou ansiosa para ver nossos corpos e almas
+ressoarem, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="1438">Ah, &lt;playername&gt;. Justo a quien andaba buscando.&lt;wait&gt;&lt;page&gt;
 Has venido en el momento oportuno. Voy a hacer
 un poco de té.&lt;wait&gt;&lt;page&gt;
