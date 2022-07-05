@@ -2469,7 +2469,7 @@ se por acaso você não teria algo.&lt;wait&gt;</Entry>
   <Entry Index="1122">Pelo menos você tentou. Talvez você possa
 achar alguém na cidade que saiba onde
 encontrar algo assim.&lt;wait&gt;</Entry>
-  <Entry Index="1123">Profissional em limpeza? Boa idéia!
+  <Entry Index="1123">Especialista em limpeza? Boa idéia!
 Vou perguntar por ai!&lt;wait&gt;</Entry>
   <Entry Index="1124">Muito obrigada por ter vindo comigo, &lt;playername&gt;.
 Eu cuido disso a partir de agora.&lt;wait&gt;</Entry>
@@ -2571,7 +2571,7 @@ coisa para deixar meus hóspedes felizes.&lt;wait&gt;&lt;page&gt;
 E eu pensei que poderia ser uma guia turística e falar
 com eles sobre os melhores lugares da cidade
 e as especiarias locais.&lt;wait&gt;&lt;page&gt;
-Para poder apoiar o povoado e deixar os hóspedes
+Para poder apoiar a cidade e deixar os hóspedes
 contentes ao mesmo tempo! Dois coelhos com uma 
 cajadada só, certo?</Entry>
   <Entry Index="1167">Mas depois, quando comecei a refletir
@@ -3061,7 +3061,7 @@ E tenho certeza que é tudo graças a você,
 &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
 Obrigada por me fazer melhor.&lt;wait&gt;</Entry>
   <Entry Index="1334">Mas agora... Quero cuidar de mim e de
-todo o resto para que você fique &lt;gender&gt;("orgulloso","orgullosa")
+todo o resto para que você fique &lt;gender&gt;("orgulhoso","orgulhosa")
 por me ter ao seu lado.&lt;wait&gt;&lt;page&gt;
 Toda vez que penso em você, meu coração
 dispara.&lt;wait&gt;&lt;page&gt;
@@ -3101,98 +3101,109 @@ positivas da mãe natureza.&lt;wait&gt;</Entry>
 Eu sou Jenifer. É um prazer.&lt;wait&gt;&lt;page&gt;
 Eu estava abrindo minha alma para as energias
 positivas da mãe natureza.&lt;wait&gt;</Entry>
-  <Entry Index="1344">¿Las puedes sentir? Emanan como olas del canto de los
-pájaros, de la luz del sol...&lt;wait&gt;&lt;page&gt;
-Es como si el propio mundo estuviese bendiciendo la
-llegada de un nuevo día. ¿No lo crees?&lt;wait&gt;</Entry>
-  <Entry Index="1345">Eh, sí, mejor echamos marcha atrás.</Entry>
-  <Entry Index="1346">Sí, mis chakras están alineados.</Entry>
-  <Entry Index="1347">¿Acaso eres otras de esas pobres almas incapaces de
-percibir las energías naturales del mundo?&lt;wait&gt;&lt;page&gt;
-Tenía la impresión de que eras bastante más... especial.
-Pues vaya. Todo el mundo comete errores.&lt;wait&gt;&lt;page&gt;
-Nos vemos.&lt;wait&gt;</Entry>
-  <Entry Index="1348">¡Y los míos! Veo que entiendes las verdades esotéricas.
-Qué bien.&lt;wait&gt;&lt;page&gt;
-Cuando saco el tema, la gente suele acabar la
-conversación con una expresión confusa.&lt;wait&gt;</Entry>
-  <Entry Index="1349">¡Y los míos! Veo que entiendes estas verdades esotéricas.
-Qué bien.&lt;wait&gt;&lt;page&gt;
-Cuando saco el tema, la gente suele acabar la
-conversación con una expresión confusa.&lt;wait&gt;&lt;page&gt;
-Pero bueno, ¿quién eres?&lt;wait&gt;&lt;page&gt;
-Ajá. Eres &lt;gender&gt;("ese granjero","esa granjera") de quien todo el mundo habla.
-Tenía la esperanza de poder conocerte algún día.&lt;wait&gt;&lt;page&gt;
-La agricultura es una forma de vivir en armonía con la
-tierra y trabajar codo con codo con la vida. Me resulta
-fascinante.&lt;wait&gt;</Entry>
-  <Entry Index="1350">He pasado varias noches en la pensión, pero el resto
-del tiempo podrás encontrarme aquí en mi tienda.&lt;wait&gt;&lt;page&gt;
-Ven a verme si tus energías te lo dictan.
-Tengo muchas cosas que preguntarte.&lt;wait&gt;</Entry>
-  <Entry Index="1351">Ah, sí. Así funciona. Verás, lo que pasa es...&lt;wait&gt;</Entry>
-  <Entry Index="1352">Ah, ya veo. Fascinante.&lt;wait&gt;</Entry>
-  <Entry Index="1353">Ah, &lt;playername&gt;. Hola.&lt;wait&gt;</Entry>
-  <Entry Index="1354">Ah, buenos días.&lt;wait&gt;</Entry>
-  <Entry Index="1355">¿Que qué hacemos? Pues nos hemos reunido unos cuantos
-aficionados a la botánica.&lt;wait&gt;</Entry>
-  <Entry Index="1356">Sí. Estábamos analizando esta flor.&lt;wait&gt;&lt;page&gt;
-Anotamos lo que observamos y ahora compartimos
-lo que pensamos.&lt;wait&gt;</Entry>
-  <Entry Index="1357">Bueno, he dedicado mucho tiempo a la botánica, pero el
-conocimiento de Jennifer eclipsa el mío.&lt;wait&gt;&lt;page&gt;
-Su enfoque de la botánica es tan distinto que hace que me
-llamen la atención cosas que nunca había visto.&lt;wait&gt;&lt;page&gt;
-De vez en cuando solemos juntarnos e intercambiar notas.&lt;wait&gt;</Entry>
-  <Entry Index="1358">Debo admitir que no me interesa explorar los matices de
-la biología de las plantas...&lt;wait&gt;&lt;page&gt;
-Pero ver a las flores florecer con el cuidado del sol
-matutino es como hablar con la propia madre naturaleza.&lt;wait&gt;&lt;page&gt;
-Hasta el día más triste se vuelve satisfactorio después
-de un encuentro así.&lt;wait&gt;</Entry>
-  <Entry Index="1359">Aunque muchas flores se conviertan en capullos durante
-el día, se abren con el roce del sol. ¿Por qué
-crees que ocurre eso?&lt;wait&gt;&lt;page&gt;
-¡PASIÓN!&lt;wait&gt;&lt;page&gt;
-Las abejas y los insectos que llevan el polen suelen estar
-activos por la mañana, ¿no?&lt;wait&gt;&lt;page&gt;
-Es para tentar a esos insectos, ¡para seducirlos! Así
-despliegan sus pétalos y liberan sus dulces aromas.&lt;wait&gt;&lt;page&gt;
-Si escuchas con atención, casi puedes escuchar cómo las
-flores gritan: "¡Difundid mi amor por el mundo!"&lt;wait&gt;</Entry>
-  <Entry Index="1360">Eh, bueno, lo cierto es que eso lo causa un cambio de
-temperatura. No la pasión. Cuando la temperatura
-interna del capullo cambia...&lt;wait&gt;</Entry>
-  <Entry Index="1361">Madre mía, pero que respuesta más seca y apagada.
-No quiero negar las verdades de la ciencia...&lt;wait&gt;&lt;page&gt;
-Pero para mí, hay un aspecto romántico
-y espiritual en las obras de la madre naturaleza
-que no logra transmitir.&lt;wait&gt;</Entry>
-  <Entry Index="1362">Son formas distintas de verlo.</Entry>
-  <Entry Index="1363">¡Sí! ¡Poder floral!</Entry>
-  <Entry Index="1364">Sí, muy cierto. Creo que la forma de pensar de Jennifer
-es muy expresiva e imaginativa.&lt;wait&gt;</Entry>
-  <Entry Index="1365">Es una pena que no estéis de acuerdo con mi
-interpretación, pero bueno. Sí que son formas
-distintas de verlo.&lt;wait&gt;</Entry>
-  <Entry Index="1366">La gente del pueblo parece no excluir a nadie por tener
-un punto de vista diferente. Me gusta.&lt;wait&gt;</Entry>
-  <Entry Index="1367">Ja, ja. Gracias. Creo que somos como dos gotas de agua... o
-dos capullos en una rama, más bien.&lt;wait&gt;</Entry>
-  <Entry Index="1368">Cierto, cierto. Cada uno tenemos nuestra
-guía interna que nos permite movernos por el mundo
-según nuestras creencias.&lt;wait&gt;</Entry>
-  <Entry Index="1369">Creo que es bueno que haya tantas formas distintas y
-válidas a la vez de ver el mundo.&lt;wait&gt;&lt;page&gt;
-Sea porque lo miras de forma científica
-o romántica, ambos puntos de vista surgen del mismo
-amor por las plantas.&lt;wait&gt;</Entry>
-  <Entry Index="1370">¡Oh, vaya! ¡Pero mira qué hora es! Debería irme ya a casa.&lt;wait&gt;&lt;page&gt;
-Creo que he tomado muchas notas, así que si no te
-importa, creo que me voy a retirar por hoy.&lt;wait&gt;</Entry>
-  <Entry Index="1371">Ahora que lo pienso, ¿qué te trae a la montaña a estas
-horas de la mañana, &lt;playername&gt;?&lt;wait&gt;&lt;page&gt;
-¿Tenías algo que hacer aquí?&lt;wait&gt;</Entry>
+  <Entry Index="1344">Você consegue sentir? Elas emanam como ondas
+do canto dos pássaros, da luz do sol...&lt;wait&gt;&lt;page&gt;
+É como se o próprio mundo estivesse abençoando
+a chegada de um novo dia. Você não acha?&lt;wait&gt;</Entry>
+  <Entry Index="1345">Uh, sim, é melhor nos afastarmos.</Entry>
+  <Entry Index="1346">Sim, meus chakras estão alinhados.</Entry>
+  <Entry Index="1347">Você é mais uma daquelas pobres almas incapazes
+de perceber as energias naturais do mundo?&lt;wait&gt;&lt;page&gt;
+Tive a impressão de que você era bem mais...
+especial. Pois vá. Todos nós cometemos erros.&lt;wait&gt;&lt;page&gt;
+A gente se vê.&lt;wait&gt;</Entry>
+  <Entry Index="1348">É dos meus! Vejo que compreende as
+verdades místicas. Legal.&lt;wait&gt;&lt;page&gt;
+Quando eu falo sobre isso, as pessoas geralmente
+terminam a conversa com uma expressão confusa.&lt;wait&gt;</Entry>
+  <Entry Index="1349">É das minhas! Vejo que compreende as
+verdades místicas. Legal.&lt;wait&gt;&lt;page&gt;
+Quando eu falo sobre isso, as pessoas geralmente
+terminam a conversa com uma expressão confusa.&lt;wait&gt;&lt;page&gt;
+Mas ei, quem é você?&lt;wait&gt;&lt;page&gt;
+AHA. Você é &lt;gender&gt;("aquele fazendeiro","aquela fazendeira") de que todos falam.
+Esperava conhecê-lo um dia.&lt;wait&gt;&lt;page&gt;
+A agricultura é uma forma de viver em harmonia
+com a terra e trabalhar lado a lado com a vida.
+Acho fascinante.&lt;wait&gt;</Entry>
+  <Entry Index="1350">Passo várias noites na pousada, mas a
+na maior parte do tempo você pode me encontrar
+aqui na minha barraca.&lt;wait&gt;&lt;page&gt;
+Venha me ver se suas energias o ditarem. 
+Tenho muitas coisas para lhe perguntar.&lt;wait&gt;</Entry>
+  <Entry Index="1351">Ah, sim. É assim que funciona. Veja bem,
+o que acontece é...&lt;wait&gt;</Entry>
+  <Entry Index="1352">Ah, entendo. Fascinante.&lt;wait&gt;</Entry>
+  <Entry Index="1353">Ah, &lt;playername&gt;. Olá.&lt;wait&gt;</Entry>
+  <Entry Index="1354">Ah, bom dia.&lt;wait&gt;</Entry>
+  <Entry Index="1355">O que fazemos? Bem, alguns entusiastas da
+botânica se conheceram.&lt;wait&gt;</Entry>
+  <Entry Index="1356">Sim. Estávamos analisando esta flor.&lt;wait&gt;&lt;page&gt;
+Anotamos o que observamos e agora
+compartilhamos o que pensamos.&lt;wait&gt;</Entry>
+  <Entry Index="1357">Bem, dediquei muito tempo a botânica,
+mas o conhecimento de Jennifer supera o meu.&lt;wait&gt;&lt;page&gt;
+Sua abordagem da botânica é tão diferente que
+chama minha atenção para coisas que eu nunca
+tinha visto antes.&lt;wait&gt;&lt;page&gt;
+De vez em quando nos reunimos e trocamos
+anotações.&lt;wait&gt;</Entry>
+  <Entry Index="1358">Tenho que admitir que não estou interessada
+em explorar as nuances da biologia vegetal...&lt;wait&gt;&lt;page&gt;
+Mas ver as flores desabrocharem sob os cuidados
+do sol da manhã é como conversar com a própria
+Mãe Natureza.&lt;wait&gt;&lt;page&gt;
+Até o dia mais triste se torna satisfatório
+depois de um encontro assim.&lt;wait&gt;</Entry>
+  <Entry Index="1359">Embora muitas flores desabrochem durante o dia,
+elas se abrem quando o sol as toca.
+Por que você acha que isso acontece?&lt;wait&gt;&lt;page&gt;
+PAIXÃO!&lt;wait&gt;&lt;page&gt;
+Abelhas e insetos transportadores de pólen
+costumam estar ativos pela manhã, certo?&lt;wait&gt;&lt;page&gt;
+É para atrair esses insetos, seduzi-los!
+Assim elas abrem suas pétalas e liberam
+seus aromas doces.&lt;wait&gt;&lt;page&gt;
+Se você prestar a atenção, quase poderá ouvir
+as flores gritando:
+"Espalhem meu amor pelo mundo!"&lt;wait&gt;</Entry>
+  <Entry Index="1360">Eh, bem, a verdade é que é causada por
+uma mudança de temperatura. Não é paixão.
+Quando a temperatura interna do casulo muda...&lt;wait&gt;</Entry>
+  <Entry Index="1361">Meu Deus, mas que resposta seca e sem graça.
+Não quero negar as verdades da ciência...&lt;wait&gt;&lt;page&gt;
+Mas para mim, há um aspecto romântico e espiritual
+nas obras da Mãe Natureza que ela não consegue
+comunicar.&lt;wait&gt;</Entry>
+  <Entry Index="1362">São maneiras diferentes de enxegar.</Entry>
+  <Entry Index="1363">Sim! Poder das flores!</Entry>
+  <Entry Index="1364">Sim, certamente. Acho que a maneira de 
+pensar de Jennifer é muito expressiva e
+criativa.&lt;wait&gt;</Entry>
+  <Entry Index="1365">É uma pena que você não concorde com minha
+interpretação. Mas, sim, são maneiras
+diferentes de ver o mundo.&lt;wait&gt;</Entry>
+  <Entry Index="1366">As pessoas da cidade grande não parecem
+excluir ninguém por ter um ponto de vista
+diferente. Gostei&lt;wait&gt;</Entry>
+  <Entry Index="1367">Ha ha. Obrigada. Acho que somos como duas gotas
+de água... Ou dois casulos em um galho.&lt;wait&gt;</Entry>
+  <Entry Index="1368">Certo, certo. Cada um de nós tem seu próprio
+guia interior que nos permite mover pelo
+mundo de acordo com nossos ideais.&lt;wait&gt;</Entry>
+  <Entry Index="1369">Acho bom que existam tantas formas distintas
+e válidas de ver o mundo ao mesmo tempo.&lt;wait&gt;&lt;page&gt;
+Quer você olhe cientificamente ou romanticamente,
+ambos os pontos de vista derivam do mesmo
+amor pelas plantas.&lt;wait&gt;</Entry>
+  <Entry Index="1370">Oh, nossa! Mas veja que horas são!
+Eu deveria ir para casa agora.&lt;wait&gt;&lt;page&gt;
+Acho que fiz muitas anotações, então, se você
+não se importa, acho que vou me retirar
+por hoje.&lt;wait&gt;</Entry>
+  <Entry Index="1371">Parando para pensar, o que o traz para
+a montanha a esta hora da manhã, &lt;playername&gt;?&lt;wait&gt;&lt;page&gt;
+Você tinha algo para fazer aqui?&lt;wait&gt;</Entry>
   <Entry Index="1372">¿Eh? ¿Que tus pies te trajeron en esta dirección?&lt;wait&gt;&lt;page&gt;
 Ya veo. El aura de la montaña debe haberte atraído.&lt;wait&gt;&lt;page&gt;
 Sabía que la montaña tenía una energía especial... algo que
