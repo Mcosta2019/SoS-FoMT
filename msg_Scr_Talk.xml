@@ -1,52 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entries Count="4225">
-  <Entry Index="0">Eres la chica nueva que se ha mudado a la granja de aquí
-al lado, ¿verdad?&lt;wait&gt;&lt;page&gt;
-Ah, ¿así que te llamas &lt;playername&gt;?&lt;wait&gt;&lt;page&gt;
-Hola. Yo soy Rick. Vivo en esta ciudad con mi madre y mi
-hermana pequeña, Popuri.&lt;wait&gt;&lt;page&gt;
-¡Es un placer conocerte!&lt;wait&gt;</Entry>
-  <Entry Index="1">Eres el chico nuevo que se ha mudado a la granja de aquí
-al lado, ¿verdad?&lt;wait&gt;&lt;page&gt;
-Ah, ¿así que te llamas &lt;playername&gt;?&lt;wait&gt;&lt;page&gt;
-Hola. Yo soy Rick. Vivo en esta ciudad con mi madre y mi
-hermana pequeña, Popuri.&lt;wait&gt;&lt;page&gt;
-¡Es un placer conocerte!&lt;wait&gt;</Entry>
-  <Entry Index="2">¡Guau, gracias! Te quiero, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
-Sabía que te acordarías de mi cumpleaños.&lt;wait&gt;</Entry>
-  <Entry Index="3">¡Oh, vaya! ¡Gracias! ¡Hoy es mi cumpleaños, además!.&lt;wait&gt;</Entry>
-  <Entry Index="4">¡Guau, gracias! Y esta es mi comida favorita.&lt;wait&gt;&lt;page&gt;
-Qué detallista eres, &lt;nickname&gt;. Vaya, ahora
-tendré que darte algo yo también. Mmm... ¿qué podría ser?&lt;wait&gt;</Entry>
-  <Entry Index="5">¡Gracias! Me encantan los huevos y todo lo que tenga
-que ver con ellos, y no es porque me haya criado en
-una granja de gallinas.&lt;wait&gt;&lt;page&gt;
-Estos, en concreto, me encantan.&lt;wait&gt;</Entry>
-  <Entry Index="6">¡Oooh! Gracias. Qué bien me conoces, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
-Tengo a la mejor esposa del mundo.&lt;wait&gt;</Entry>
-  <Entry Index="7">¡Oooh! Gracias. Qué bien me conoces, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
-Tengo al mejor marido del mundo.&lt;wait&gt;</Entry>
-  <Entry Index="8">¡Oooh! Gracias. Qué detalle que te hayas
-acordado de mí, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="9">¡Oooh! Gracias. Qué detalle que te hayas
-acordado de mí, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="10">¡Oooh! Gracias, &lt;nickname&gt;. Incluso estando
-casados, no has perdido ni una pizca de tu ternura. Te
-agradezco el regalo.&lt;wait&gt;</Entry>
-  <Entry Index="11">¡Oooh! Gracias, &lt;nickname&gt;. Incluso estando
-casados, no has perdido ni una pizca de tu ternura. Te
-agradezco el regalo.&lt;wait&gt;</Entry>
-  <Entry Index="12">Ooh, ¿es para mí? ¡Qué bien! Me va a venir
-muy bien. Gracias.&lt;wait&gt;</Entry>
-  <Entry Index="13">Ooh, ¿es para mí? Gracias, &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="14">Ooh, ¿es para mí? Gracias.&lt;wait&gt;</Entry>
-  <Entry Index="15">Esto... No te lo tomes a mal, cualquier cosa que me regales
-me va a encantar, &lt;nickname&gt;...&lt;wait&gt;&lt;page&gt;
-Pero... la próxima vez, podrías escoger algo diferente.&lt;wait&gt;</Entry>
-  <Entry Index="16">Mmmm... Gracias. Supongo.&lt;wait&gt;</Entry>
-  <Entry Index="17">Pero ¿qué...? ¡Puaj! ¿Eso es lo único que se te ha ocurrido?
-De entre todas las cosas que podrías haber escogido... ¿En
-qué estabas pensando, &lt;nickname&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="0">Você é a nova garota que se mudou para a fazenda
+ao lado, certo?&lt;wait&gt;&lt;page&gt;
+Ah, então seu nome é &lt;playername&gt;?&lt;wait&gt;&lt;page&gt;
+Olá. Eu sou Rick. Eu moro nesta cidade com minha mãe e
+minha irmãzinha, Popuri.&lt;wait&gt;&lt;page&gt;
+Prazer em conhecê-la!&lt;wait&gt;</Entry>
+  <Entry Index="1">Você é o garoto novo que se mudou para a fazenda
+ao lado, certo?&lt;wait&gt;&lt;page&gt;
+Ah, então seu nome é &lt;playername&gt;?&lt;wait&gt;&lt;page&gt;
+Olá. Eu sou Rick. Eu moro nesta cidade com minha mãe e
+minha irmãzinha, Popuri.&lt;wait&gt;&lt;page&gt;
+Prazer em conhecê-lo!&lt;wait&gt;</Entry>
+  <Entry Index="2">Uau, obrigado! Eu te amo, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
+Eu sabia que você se lembraria do meu aniversário.&lt;wait&gt;</Entry>
+  <Entry Index="3">Uau! Obrigado! Hoje também é meu aniversário!&lt;wait&gt;</Entry>
+  <Entry Index="4">Uau, obrigado! E esta é a minha comida favorita.&lt;wait&gt;&lt;page&gt;
+Que detalhista você é, &lt;nickname&gt;. Nossa, agora eu
+vou ter que te dar algo também. Hmm... o que
+pode ser?&lt;wait&gt;</Entry>
+  <Entry Index="5">Obrigado! Eu amo ovos e tudo que tem a ver com eles,
+e não é porque eu cresci em uma fazenda.&lt;wait&gt;&lt;page&gt;
+Eu adoro estes em particular.&lt;wait&gt;</Entry>
+  <Entry Index="6">Oooh! Obrigado. Você me conhece tão bem, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
+Eu tenho a melhor esposa do mundo.&lt;wait&gt;</Entry>
+  <Entry Index="7">Oooh! Obrigado. Você me conhece tão bem, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
+Eu tenho o melhor marido do mundo.&lt;wait&gt;</Entry>
+  <Entry Index="8">Oooh! Obrigado. Que bom que você se
+lembra de mim, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="9">Oooh! Obrigado. Que bom que você se
+lembra de mim, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="10">Oooh! Obrigado, &lt;nickname&gt;. Mesmo sendo casado,
+você não perdeu um pingo de sua fofura.
+Agradeço pelo presente.&lt;wait&gt;</Entry>
+  <Entry Index="11">Oooh! Obrigado, &lt;nickname&gt;. Mesmo sendo casado,
+você não perdeu um pingo de sua fofura.
+Agradeço pelo presente.&lt;wait&gt;</Entry>
+  <Entry Index="12">Ooh, é para mim? Que bom! Vai ser muito
+bom para mim. Obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="13">Ooh, é para mim? Obrigado, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="14">Ooh, é para mim? Obrigado,&lt;wait&gt;</Entry>
+  <Entry Index="15">Isso... Não leve a mal, vou adorar qualquer coisa que
+você me der &lt;nickname&gt;...&lt;wait&gt;&lt;page&gt;
+Mas... da próxima vez, você pode escolher algo
+diferente.&lt;wait&gt;</Entry>
+  <Entry Index="16">Hmmm... Obrigado. Eu acho.&lt;wait&gt;</Entry>
+  <Entry Index="17">Mas o que...? Que nojo! Essa é a única coisa que veio à sua mente?
+De todas as coisas que você poderia ter escolhido...
+o que você estava pensando, &lt;nickname&gt;?&lt;wait&gt;</Entry>
   <Entry Index="18">¡Manda huevos! ¡Puaj! ¿En serio quieres darme esto?
 Pero ¿en qué demonios estabas pensando?&lt;wait&gt;</Entry>
   <Entry Index="19">Ah, qué monada. Esta es la clase de cosas que me
