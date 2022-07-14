@@ -51,54 +51,54 @@ o que você estava pensando, &lt;nickname&gt;?&lt;wait&gt;</Entry>
   <Entry Index="18">Mande ovos! Que nojo! Você realmente quer me
 dar isso? Mas o que diabos você estava
 pensando?&lt;wait&gt;</Entry>
-  <Entry Index="19">Ah, qué monada. Esta es la clase de cosas que me
-conmueven. ¿A ti no, &lt;nickname&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="20">¡Ah, qué monada!&lt;wait&gt;</Entry>
-  <Entry Index="21">&lt;nickname&gt;, no vayas con eso al gallinero, por
-favor. Y gracias. Las gallinas se volverían locas.&lt;wait&gt;</Entry>
-  <Entry Index="22">Intento mantener alejados al resto de animales de
-nuestro gallinero. Las gallinas entran en pánico y se
-estresan cuando hay alguno cerca.&lt;wait&gt;</Entry>
-  <Entry Index="23">Oh, me encanta. Si no te lo vas a quedar,
-&lt;nickname&gt;, dáselo a mamá.&lt;wait&gt;</Entry>
-  <Entry Index="24">Oh, me encanta. Yo no le encuentro utilidad, pero seguro
-que mamá sí.&lt;wait&gt;</Entry>
-  <Entry Index="25">¿Eso de ahí es tuyo, &lt;nickname&gt;? ¡Vale!&lt;wait&gt;&lt;page&gt;
-No creo que lo necesite. Pero tal vez mamá sí.&lt;wait&gt;</Entry>
-  <Entry Index="26">¿Eh? ¿Es para mí? Sinceramente, no creo
-que necesite esto.&lt;wait&gt;&lt;page&gt;
-Puede que a mamá le guste...&lt;wait&gt;</Entry>
-  <Entry Index="27">Lo siento, no es la clase de cosa que yo me pondría. ¿No
-habíamos hablado ya de esto?&lt;wait&gt;</Entry>
-  <Entry Index="28">Lo siento, no es la clase de cosa que yo me pondría. Para
-que lo sepas la próxima vez.&lt;wait&gt;</Entry>
-  <Entry Index="29">Eh... gracias, &lt;nickname&gt;. Pero hoy es el día en que
-los chicos les hacen regalos a las chicas. ¿No te habrás
-olvidado?&lt;wait&gt;</Entry>
-  <Entry Index="30">Eh... gracias, &lt;nickname&gt;. Creo que es la ocasión
-perfecta para intercambiarnos regalos.&lt;wait&gt;</Entry>
-  <Entry Index="31">Eh... gracias. Pero ¿has olvidado que hoy es el día en que
-las chicas reciben regalos?&lt;wait&gt;</Entry>
-  <Entry Index="32">Oh. Claro. Hoy es el Día de San Valentín, ¿verdad? Gracias.&lt;wait&gt;</Entry>
-  <Entry Index="33">Guau. Incluso ahora que estamos casados, no te has
-olvidado de traerme un regalo por San Valentín. Gracias,
-&lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="34">Guau. Incluso ahora que estamos casados, no te has
-olvidado de traerme un regalo por San Valentín. Gracias,
-&lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="35">¡Oh, gracias!&lt;wait&gt;&lt;page&gt;
-No te di nada por el Día Blanco, pero tú sí te has
-acordado de mí. Me siento culpable por aceptarlo.
-¡Gracias!&lt;wait&gt;</Entry>
-  <Entry Index="36">¿Mmm? ¡Ah! ¿Te has acordado del regalo que te hice por
-el Día Blanco y querías darme algo a cambio?&lt;wait&gt;&lt;page&gt;
-¡Gracias! Qué amable de tu parte.&lt;wait&gt;</Entry>
-  <Entry Index="37">Niv. de amistad aumenta=&lt;string0&gt;
-Pts. de amistad anteriores=&lt;string1&gt;
-Pts. de amistad actuales=&lt;string2&gt;&lt;wait&gt;&lt;page&gt;</Entry>
-  <Entry Index="38">Niv. de cariño aumenta=&lt;string0&gt;
-Pts. de cariño anteriores=&lt;string1&gt;
-Pts. de cariño actuales=&lt;string2&gt;&lt;wait&gt;&lt;page&gt;</Entry>
+  <Entry Index="19">Ah, que fofo. Esse é o tipo de coisa que me
+comove. A você não, &lt;nickname&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="20">Ah, que fofo!&lt;wait&gt;</Entry>
+  <Entry Index="21">&lt;nickname&gt;, não vá com isso para o galinheiro, por favor.
+Obrigado. As galinhas ficariam loucas.&lt;wait&gt;</Entry>
+  <Entry Index="22">Eu tento manter o resto dos animais longe do nosso
+galinheiro. As galinhas entram em pânico e ficam loucas
+quando algum está por perto.&lt;wait&gt;</Entry>
+  <Entry Index="23">Ah, eu adoro. Se você não vai querer,
+&lt;nickname&gt;, dê para a mamãe.&lt;wait&gt;</Entry>
+  <Entry Index="24">Ah eu adoro. Não acho útil, mas tenho certeza que
+a mamãe acha.&lt;wait&gt;</Entry>
+  <Entry Index="25">Isso é seu, &lt;nickname&gt;? Certo!&lt;wait&gt;&lt;page&gt;
+Acho que não preciso. Mas talvez a mãe sim.&lt;wait&gt;</Entry>
+  <Entry Index="26">Oh? É para mim? Sinceramente acho que
+não preciso disso.&lt;wait&gt;&lt;page&gt;
+Mas a mamãe pode gostar...&lt;wait&gt;</Entry>
+  <Entry Index="27">Desculpe, não é o tipo de coisa que eu usaria.
+Já não falamos sobre isso?&lt;wait&gt;</Entry>
+  <Entry Index="28">Desculpe, não é o tipo de coisa que eu usaria.
+Agora você o que não dar da próxima vez.&lt;wait&gt;</Entry>
+  <Entry Index="29">Uh... obrigado, &lt;nickname&gt;. Mas hoje é o dia em que os meninos
+dão presentes para as meninas.
+Você se esqueceu?&lt;wait&gt;</Entry>
+  <Entry Index="30">Uh... obrigado, &lt;nickname&gt;. Acho que é a ocasião
+perfeita para trocar presentes.&lt;wait&gt;</Entry>
+  <Entry Index="31">Uh... obrigado. Mas você esqueceu que hoje é o dia e
+que as meninas recebem presentes?&lt;wait&gt;</Entry>
+  <Entry Index="32">Oh. É claro. Hoje é dia dos namorados né? obrigada.&lt;wait&gt;</Entry>
+  <Entry Index="33">Uau. Mesmo agora que estamos casados, você não
+esqueceu de me dar um presente de Dia dos Namorados.
+Obrigado, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="34">Uau. Mesmo agora que estamos casados, você não
+esqueceu de me dar um presente de Dia dos Namorados.
+Obrigado, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="35">Ah, obrigado!&lt;wait&gt;&lt;page&gt;
+Eu não te dei nada no Dia Branco, mas você se lembrou
+de mim. Me sinto culpado por aceitar.
+Obrigada!&lt;wait&gt;</Entry>
+  <Entry Index="36">Hum? oh! Você se lembrou do presente que eu te dei no
+Dia Branco e quer me dar algo em troca?&lt;wait&gt;&lt;page&gt;
+Obrigada! Isso é legal da sua parte.&lt;wait&gt;</Entry>
+  <Entry Index="37">Niv. de amizade aumentou=&lt;string0&gt;
+Pts. de amizade anteriores=&lt;string1&gt;
+Pts. de amizade atuais=&lt;string2&gt;&lt;wait&gt;&lt;page&gt;</Entry>
+  <Entry Index="38">Niv. de afeto aumentou=&lt;string0&gt;
+Pts. de afeto anteriores=&lt;string1&gt;
+Pts. de afeto atuais=&lt;string2&gt;&lt;wait&gt;&lt;page&gt;</Entry>
   <Entry Index="39">¿Eh? ¿Qué? ¿Cómo dices?
 Oye, oye, oye.
 Un momento, &lt;playername&gt;.&lt;wait&gt;</Entry>
