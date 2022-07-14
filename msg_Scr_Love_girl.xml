@@ -396,14 +396,14 @@ tudo o que eles fizeram por nós tocou nossos corações.&lt;wait&gt;</Entry>
 Marido e mulher.&lt;wait&gt;</Entry>
   <Entry Index="176">E agora... Finalmente temos tempo a sós. Você e eu.
 Marido e marido.&lt;wait&gt;</Entry>
-  <Entry Index="177">Agora que estamos casados, que tal nos 
-darmos apelidos carinhosos?&lt;wait&gt;&lt;page&gt;
+  <Entry Index="177">Agora que estamos casados, que tal se nos 
+dessemos apelidos carinhosos?&lt;wait&gt;&lt;page&gt;
 Pode me chamar de Rick, como sempre.&lt;wait&gt;&lt;page&gt;
 Mas como você gostaira que eu te chamasse?&lt;wait&gt;</Entry>
-  <Entry Index="178">Agora que estamos casados, que tal nós 
-damos apelidos carinhosos?&lt;wait&gt;&lt;page&gt;
+  <Entry Index="178">Agora que estamos casados, que tal se nos 
+dessemos apelidos carinhosos?&lt;wait&gt;&lt;page&gt;
 Pode me chamar de Rick, como sempre.&lt;wait&gt;&lt;page&gt;
-Mas como você quer que eu ligue para você?&lt;wait&gt;</Entry>
+Mas como você gostaira que eu te chamasse?&lt;wait&gt;</Entry>
   <Entry Index="179">&lt;playername&gt;</Entry>
   <Entry Index="180">Querida</Entry>
   <Entry Index="181">Amor</Entry>
@@ -411,20 +411,20 @@ Mas como você quer que eu ligue para você?&lt;wait&gt;</Entry>
   <Entry Index="183">Tesouro</Entry>
   <Entry Index="184">&lt;playername&gt;, hein?</Entry>
   <Entry Index="185">Entendi. De agora em diante, é assim que vou chamá-lo.&lt;wait&gt;</Entry>
-  <Entry Index="186">&lt;nickname&gt;! ∀ Como você está? Você gosta do som?&lt;wait&gt;</Entry>
-  <Entry Index="187">Você quer que eu te chame de outra coisa? É claro. E como
-você quer que eu ligue para você?&lt;wait&gt;</Entry>
+  <Entry Index="186">&lt;nickname&gt;! ∀ Como você está? Você gosta de como soa?&lt;wait&gt;</Entry>
+  <Entry Index="187">Você quer que eu te chame de outra coisa? É claro.
+E como você gostaira que eu te chamasse?&lt;wait&gt;</Entry>
   <Entry Index="188">Entendi. De agora em diante, vou chamá-lo assim.&lt;wait&gt;</Entry>
   <Entry Index="189">Ok. &lt;nickname&gt;, mesmo que sejamos casados, vou continuar
-trabalhando na fazenda da família com as galinhas, tipo
-sempre.&lt;wait&gt;&lt;page&gt;
-Embora eu vá passar minhas manhãs e noites aqui. Você pensa
-ok?&lt;wait&gt;</Entry>
+trabalhando na fazenda da família com as galinhas,
+como de costume.&lt;wait&gt;&lt;page&gt;
+Embora eu vá passar minhas manhãs e noites aqui.
+Esta bem para você?&lt;wait&gt;</Entry>
   <Entry Index="190">Sim, tudo bem.</Entry>
   <Entry Index="191">Não! Não me deixe!</Entry>
   <Entry Index="192">Obrigado, &lt;nickname&gt;. Eu sabia que você entenderia.&lt;wait&gt;</Entry>
-  <Entry Index="193">Gostaria de não precisar, mas só eu posso cuidar de 
-as galinhas.&lt;wait&gt;</Entry>
+  <Entry Index="193">Gostaria de não precisar, mas só eu posso cuidar 
+das galinhas.&lt;wait&gt;</Entry>
   <Entry Index="194">Então... ∀ Estou ansioso para começar nossa vida
 juntos, &lt;nickname&gt;.&lt;wait&gt;</Entry>
   <Entry Index="195">Então... ∀ Estou ansioso para começar nossa vida
@@ -432,173 +432,190 @@ juntos, &lt;nickname&gt;.&lt;wait&gt;</Entry>
   <Entry Index="196">Ok, nossa nova vida começa amanhã! Que emoção!&lt;wait&gt;</Entry>
   <Entry Index="197">Ok, nossa nova vida começa amanhã! Que emoção!&lt;wait&gt;</Entry>
   <Entry Index="198">Hein? Não te vi por aqui antes. Deixe-me adivinhar:
-você é a garota que acabou de se mudar para a antiga fazenda?&lt;wait&gt;&lt;page&gt;
-&lt;playername&gt;, certo? Olá! Eu sou Kai. Sou Ele
-gerente da cafeteria da praia. Encantado de
-encontro você!&lt;wait&gt;</Entry>
+você é a garota que acabou de se mudar para a
+antiga fazenda?&lt;wait&gt;&lt;page&gt;
+&lt;playername&gt;, certo? Olá! Eu sou Kai. Sou o
+gerente do café da praia. Prazer em
+conhecer você!&lt;wait&gt;</Entry>
   <Entry Index="199">Hein? Não te vi por aqui antes. Deixe-me adivinhar:
-você é o cara novo que acabou de se mudar para o antigo 
-fazenda?&lt;wait&gt;&lt;page&gt;
-&lt;playername&gt;, certo? Olá! Eu sou Kai. Sou Ele
-gerente da cafeteria da praia. Encantado de
-encontro você!&lt;wait&gt;</Entry>
-  <Entry Index="200">Olá, &lt;playername&gt;! Hoje é um dia escaldante,
-VERDADE? Como o levas? Eu? Limpando um pouco.&lt;wait&gt;</Entry>
-  <Entry Index="201">A propósito, estive pensando em algo que você me disse
-Sr. Thomas.&lt;wait&gt;&lt;page&gt;
+você é o cara novo que acabou de se mudar para
+a antiga fazenda?&lt;wait&gt;&lt;page&gt;
+&lt;playername&gt;, certo? Olá! Eu sou Kai. Sou o
+gerente da café da praia. Prazer em
+conhecer você!&lt;wait&gt;</Entry>
+  <Entry Index="200">Olá, &lt;playername&gt;! Hoje é um dia quente,
+NÃO É? Como vai? Eu? Limpando um pouco.&lt;wait&gt;</Entry>
+  <Entry Index="201">A propósito, estive pensando em algo que o
+Sr. Thomas me falou.&lt;wait&gt;&lt;page&gt;
 É verdade que você deixou tudo e veio viver
 aqui por conta própria?&lt;wait&gt;</Entry>
   <Entry Index="202">Umm. Então é verdade. Ah, eu não quis te ofender.
-Realmente.&lt;wait&gt;&lt;page&gt;
-É que eu fiquei um pouco surpreso. Uma garota carregando 
-uma fazenda por conta própria... É impressionante.&lt;wait&gt;</Entry>
+É sério.&lt;wait&gt;&lt;page&gt;
+É que eu fiquei um pouco surpreso. Uma garota
+adminstrando  uma fazenda por conta própria...
+É impressionante.&lt;wait&gt;</Entry>
   <Entry Index="203">Umm. Então é verdade. Ah, eu não quis te ofender.
-Realmente.&lt;wait&gt;&lt;page&gt;
-É que eu fiquei um pouco surpreso. Um menino carregando 
-uma fazenda por conta própria... É impressionante.&lt;wait&gt;</Entry>
-  <Entry Index="204">Também me tornei independente há muito tempo. Você acha que é 
-egoísta de mim? Responda com sinceridade.&lt;wait&gt;</Entry>
+É sério.&lt;wait&gt;&lt;page&gt;
+É que eu fiquei um pouco surpreso. Um garoto
+adminstrando  uma fazenda por conta própria...
+É impressionante.&lt;wait&gt;</Entry>
+  <Entry Index="204">Também me tornei independente há muito tempo.
+Você acha que é egoísta da minha parte?
+Responda com sinceridade.&lt;wait&gt;</Entry>
   <Entry Index="205">Você é incorrigível! Não acredito!</Entry>
   <Entry Index="206">Você não pode viver em uma gaiola de vidro...</Entry>
   <Entry Index="207">Você não pode, pode?&lt;wait&gt;&lt;page&gt;
-Eu tenho meus motivos, sabe? Assim como você tem o 
-seu, &lt;playername&gt;.&lt;wait&gt;</Entry>
+Eu tenho meus motivos, sabe? Assim como você tem os 
+seus, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="208">Mas posso entender que para algumas pessoas apenas
-parece um egoísta que abandonou seus pais.&lt;wait&gt;</Entry>
-  <Entry Index="209">De qualquer forma, tenho que continuar limpando. Venha me visitar em 
-café sempre que quiser. Aguardo sua visita.&lt;wait&gt;</Entry>
-  <Entry Index="210">Uau. Você não se importa, não é? A maioria das pessoas fica 
-muito tenso quando eu falo sobre isso, mas você não. Estou feliz.&lt;wait&gt;</Entry>
+pareço um egoísta que abandonou seus pais.&lt;wait&gt;</Entry>
+  <Entry Index="209">De qualquer forma, tenho que continuar limpando.
+Venha me visitar no café sempre que quiser.
+Estarei te esperando.&lt;wait&gt;</Entry>
+  <Entry Index="210">Nossa. Você não se importa, não é? A maioria das
+pessoas fica muito tensa quando eu falo sobre isso,
+mas você não. Estou feliz.&lt;wait&gt;</Entry>
   <Entry Index="211">Meus pais e eu somos como óleo e água. Não é que
-nós nos odiamos Mas nossos estilos de vida não combinam, 
-você sabe?&lt;wait&gt;</Entry>
+nós nos odiamos. Mas nossos estilos de vida não combinam, 
+você entende?&lt;wait&gt;</Entry>
   <Entry Index="212">Devemos sentar e conversar um pouco quando
-vamos ter tempo Com certeza temos muito em comum.</Entry>
-  <Entry Index="213">&lt;gender&gt;("Bem-vindo","Bem-vindo")!&lt;wait&gt;</Entry>
-  <Entry Index="214">Olá, &lt;playername&gt;! Como vai a vida no 
-Fazenda? Você está lavrando a terra, plantando sementes e
-tudo isso?&lt;wait&gt;</Entry>
+tivermos tempo. Com certeza temos muito em comum.</Entry>
+  <Entry Index="213">&lt;gender&gt;("Bem-vindo","Bem-vinda")!&lt;wait&gt;</Entry>
+  <Entry Index="214">Olá, &lt;playername&gt;! Como vai a vida na 
+fazenda? Você está lavrando a terra, plantando sementes
+e tudo mais?&lt;wait&gt;</Entry>
   <Entry Index="215">Sério? Legal! Estou feliz pelas coisas 
-você se sai bem.&lt;wait&gt;&lt;page&gt;
-É curioso. Sabendo que você está lá fora trabalhando duro comigo
-dá força pra dar tudo pra mim também.
+estarem indo bem.&lt;wait&gt;&lt;page&gt;
+É curioso. Sabendo que você está lá fora trabalhando duro.
+Isso me dá força pra dar tudo pra mim também.
 Ha ha! Brincadeirinha.&lt;wait&gt;</Entry>
-  <Entry Index="216">Bom! Você vem comer alguma coisa? Ou você só quer matar 
-o clima?&lt;wait&gt;</Entry>
-  <Entry Index="217">Hein? Encontrou um buraco e veio passar o 
-sair comigo?&lt;wait&gt;</Entry>
-  <Entry Index="218">Ha ha, incrível! Como você pode ver, eu não tenho muitos 
-clientes, então eu não diria não a um bom 
+  <Entry Index="216">Bom! Você vem comer alguma coisa?
+Ou você só quer matar o tempo?&lt;wait&gt;</Entry>
+  <Entry Index="217">Hein? Conseguiu uma folga e veio me pedir
+para sair?&lt;wait&gt;</Entry>
+  <Entry Index="218">Ha ha, incrível! Como você pode ver, eu não tenho
+muitos clientes, então eu não diria não a uma boa
 conversa.&lt;wait&gt;&lt;page&gt;
 Agora que penso nisso, não me lembro de te perguntar o que 
-você semeou em sua fazenda. Que tipo de colheitas você tem 
+você semeou em sua fazenda. Que tipo de colheitas você 
 plantou?&lt;wait&gt;</Entry>
   <Entry Index="219">Gato rosa e outras coisas.</Entry>
   <Entry Index="220">Muitos abacaxis.</Entry>
-  <Entry Index="221">Não tenho mão na agricultura...</Entry>
+  <Entry Index="221">Não levo jeito para agricultura...</Entry>
   <Entry Index="222">Gato rosa? Isso é uma flor, certo?
-Tenho certeza que eles são lindos.&lt;wait&gt;</Entry>
-  <Entry Index="223">Olha, eu amo todas as coisas de verão assim
-que se você estiver cultivando alguma plantação de verão, não eu
-Eu me importaria se você me desse algo.&lt;wait&gt;</Entry>
-  <Entry Index="224">Sério? Não pode ser! Abacaxi é uma das minhas frutas
-favoritos!&lt;wait&gt;</Entry>
-  <Entry Index="225">Se você tiver uma boa colheita e me trouxer algo,
-Eu vou te amar para sempre.&lt;wait&gt;</Entry>
+Tenho certeza que elas são lindas.&lt;wait&gt;</Entry>
+  <Entry Index="223">Olha, eu amo todas as coisas do verão, então
+se você estiver cultivando alguma plantação de verão,
+eu me importaria se você me desse algo.&lt;wait&gt;</Entry>
+  <Entry Index="224">Sério? Não pode ser! Abacaxi é uma das minhas
+frutas favoritas!&lt;wait&gt;</Entry>
+  <Entry Index="225">Se você tiver uma boa colheita e me trouxer um,
+eu vou te amar para sempre.&lt;wait&gt;</Entry>
   <Entry Index="226">Sério?! Oh, isso... você me promete
-Você não vai rir?&lt;wait&gt;</Entry>
-  <Entry Index="227">Viu? O abacaxi é um 
+que não vai rir?&lt;wait&gt;</Entry>
+  <Entry Index="227">Entende? O abacaxi é uma
 das minhas frutas favoritas.&lt;wait&gt;</Entry>
   <Entry Index="228">Obrigado! ♪ Para ser honesto, estou muito envergonhado
-reconhecê-lo. O que quero dizer é que... as pessoas têm 
+em reconhecer. O que quero dizer é que... as pessoas têm 
 opiniões diferentes sobre o abacaxi.&lt;wait&gt;</Entry>
-  <Entry Index="229">Não estou dizendo para você me dar de graça. Eu prometo. Sim
-se você me fizer um favor, eu também lhe darei algo em troca.
-Negociação concluída?&lt;wait&gt;</Entry>
-  <Entry Index="230">Eu faria o possível para ajudar alguém que entende (e
-suporta) meu vício em abacaxi. Eu acredito e confio em você.&lt;wait&gt;</Entry>
-  <Entry Index="231">Hum... sério? Algum? Nada de nada? Zero? Niente?
-Uau. Entendo. Você só cuida do gado,
-então. Capturado.&lt;wait&gt;</Entry>
-  <Entry Index="232">Ei, é sua fazenda. Você pode fazer o que quiser com ele.&lt;wait&gt;</Entry>
-  <Entry Index="233">Umm. Então você não está plantando nenhuma plantação. O que
-pesar. Parece um desperdício para mim, para dizer a verdade.&lt;wait&gt;</Entry>
+  <Entry Index="229">Não estou dizendo para você me dar de graça. Eu juro.
+Se você me fizer um favor, eu também lhe darei algo em troca.
+Negócio fechado?&lt;wait&gt;</Entry>
+  <Entry Index="230">Eu faria o possível para ajudar alguém que me entende
+(e suporta) meu vício em abacaxi. Eu acredito e confio
+em você.&lt;wait&gt;</Entry>
+  <Entry Index="231">Hum... sério? Nenhum um pouco? Nadica de nada?
+Zero? Bulhufas? Nossa. Entendo. Você só cuida de animais,
+então. Entendido.&lt;wait&gt;</Entry>
+  <Entry Index="232">Ei, é sua fazenda. Você pode fazer o que
+quiser com ela.&lt;wait&gt;</Entry>
+  <Entry Index="233">Umm. Então você não está plantando nenhuma plantação.
+Que pena. Parece um desperdício para mim,
+para ser honesto.&lt;wait&gt;</Entry>
   <Entry Index="234">Umm. Então você não está cultivando nada disso, está?
 OK. Afinal, essas coisas levam muito tempo 
 e esforço.&lt;wait&gt;</Entry>
-  <Entry Index="235">Eu amo tudo que tem a ver com o verão, mas sim
-Estamos falando de abacaxis... Meu Deus! Digamos que eles tenham um 
-buraco especial no meu coração.&lt;wait&gt;</Entry>
-  <Entry Index="236">Se você estiver interessado, por que não tentar plantar algo?
-Poderia ser divertido! Nunca se sabe.&lt;wait&gt;</Entry>
+  <Entry Index="235">Eu amo tudo que tem a ver com o verão, mas se
+estamos falando de abacaxis... Meu Deus! Digamos que eles
+tenham um espaço especial no meu coração.&lt;wait&gt;</Entry>
+  <Entry Index="236">Se você estiver interessado, por que não tenta
+plantar algum? Poderia ser divertido!
+Nunca se sabe.&lt;wait&gt;</Entry>
   <Entry Index="237">Olá, &lt;playername&gt;! Como você está?&lt;wait&gt;</Entry>
-  <Entry Index="238">Hein? Ouve! Está bem?! Espere aí! Eu vou te levar para o 
-clínica imediatamente! Vamos lá!&lt;wait&gt;</Entry>
-  <Entry Index="239">Em breve você estará na clínica. Vamos lá!&lt;wait&gt;</Entry>
-  <Entry Index="240">Neste momento &lt;gender&gt;("the","the") o paciente está dormindo. Os sintomas
-Eles enviaram, então não há com o que se preocupar. Ao menos
-por enquanto.&lt;wait&gt;</Entry>
-  <Entry Index="241">Sério? Muito obrigado, doutor.&lt;wait&gt;</Entry>
+  <Entry Index="238">Hein? Entendo! Está bem?! Espere aí!
+Eu vou te levar para a clínica imediatamente!
+Vamos lá!&lt;wait&gt;</Entry>
+  <Entry Index="239">Em breve você estará na clínica. Vamos!&lt;wait&gt;</Entry>
+  <Entry Index="240">Neste momento &lt;gender&gt;("o","a") paciente está dormindo.
+Os sintomas aliviaram, então não há com o que
+se preocupar. Ao menos por enquanto.&lt;wait&gt;</Entry>
+  <Entry Index="241">Sério? Muito obrigado, Doutor.&lt;wait&gt;</Entry>
   <Entry Index="242">Meu Deus! Eu quase tive um ataque cardíaco.
-&lt;nomedojogador&gt; é mais forte que um carvalho, mas de
-de repente veio cambaleante...&lt;wait&gt;&lt;page&gt;
-E caiu na minha frente. Eu estava com medo que houvesse 
-contraiu alguma doença perigosa.&lt;wait&gt;</Entry>
-  <Entry Index="243">Admito que fiquei muito surpreso com a cara que 
-você estava vestindo quando entrou aqui com &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="244">Sim... Desculpe. Eu não quis causar um rebuliço. Naqueles
-vezes pensei em trazer &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="245">Eu sei. Eu sei que não era sua intenção. Você estava apenas 
-preocupado com a saúde de &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="246">Bem, uh... sim. Esse é &lt;playername&gt; é um membro
-parte muito importante da nossa comunidade, sabe? Quem não
-você teria feito o mesmo?&lt;wait&gt;</Entry>
+&lt;nomedojogador&gt; é mais forte que um carvalho, mas
+de repente ficou cambaleando...&lt;wait&gt;&lt;page&gt;
+E caiu na minha frente. Eu estava com medo que tivesse 
+contraído alguma doença perigosa.&lt;wait&gt;</Entry>
+  <Entry Index="243">Admito que fiquei muito surpreso com a sua 
+expressão quando entrou aqui com &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="244">Sim... Desculpe. Eu não quis causar um rebuliço.
+Naquele momento só pensei em trazer &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="245">Eu sei. Eu sei que não era sua intenção.
+Você estava apenas preocupado com a saúde de &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="246">Bem, uh... sim. &lt;playername&gt; é um membro
+muito importante da nossa comunidade, sabia? Quem não
+teria feito o mesmo?&lt;wait&gt;</Entry>
   <Entry Index="247">Veja, &lt;playername&gt; acordou.&lt;wait&gt;</Entry>
-  <Entry Index="248">Sério? Que boas notícias.&lt;wait&gt;</Entry>
+  <Entry Index="248">Sério? Que boa notícia.&lt;wait&gt;</Entry>
   <Entry Index="249">Pessoal, &lt;playername&gt; acordou.&lt;wait&gt;</Entry>
   <Entry Index="250">&lt;playername&gt;, como você está? Você sente
 náusea? Sua cabeça dói?&lt;wait&gt;</Entry>
-  <Entry Index="251">Entendo. Como imaginei, você desmaiou por causa de 
-uma insolação.&lt;wait&gt;</Entry>
-  <Entry Index="252">Hoje é um dia muito quente. Acho que sua lição de casa no 
-fazenda poderia tê-lo cansado mais do que você pensava.&lt;wait&gt;</Entry>
-  <Entry Index="253">Então insolação, hein? Isso nunca aconteceu comigo, e
-Vamos cruzar os dedos, mas devemos ter muito cuidado em 
-dias como este.&lt;wait&gt;</Entry>
+  <Entry Index="251">Entendo. Como imaginei, você desmaiou por causa
+de uma insolação.&lt;wait&gt;</Entry>
+  <Entry Index="252">Hoje é um dia muito quente. Acho que suas tarefas da
+fazenda poderiam tê-lo cansado mais d
+ que pensava.&lt;wait&gt;</Entry>
+  <Entry Index="253">Então, insolação, hein? Isso nunca aconteceu comigo,
+vamos cruzar os dedos, mas devemos ter muito cuidado
+em dias como este.&lt;wait&gt;</Entry>
   <Entry Index="254">&lt;playername&gt;, recomendo que você beba bastante líquido
 durante o dia. E também que você mantenha uma dieta
-balanceado.&lt;wait&gt;&lt;page&gt;
+balanceada.&lt;wait&gt;&lt;page&gt;
 Se você ainda se sentir tonto, pode ficar aqui e descansar 
 o tempo que precisar.&lt;wait&gt;</Entry>
   <Entry Index="255">Bom. Você não parece mais um morto-vivo.
-Estou francamente aliviado.&lt;wait&gt;&lt;page&gt;
+Estou sinceramente aliviado.&lt;wait&gt;&lt;page&gt;
 Ah, mas você deve continuar descansando.
-Não force, ok?&lt;wait&gt;</Entry>
+Não se force, ok?&lt;wait&gt;</Entry>
   <Entry Index="256">Ok, se você insistir.</Entry>
   <Entry Index="257">A agricultura não espera por ninguém!</Entry>
   <Entry Index="258">Tudo bem, se você insiste.</Entry>
   <Entry Index="259">A agricultura não espera por ninguém!</Entry>
-  <Entry Index="260">Eu insisto. Você precisa. Se você trabalha muito por muito tempo 
-tempo, você pode ficar saturado.&lt;wait&gt;&lt;page&gt;
-Você deve saber quando é hora de desconectar e relaxar e
+  <Entry Index="260">Eu insisto. Você precisa. Se você trabalha muito por
+tempo demais, você pode ficar saturado.&lt;wait&gt;&lt;page&gt;
+Você deve saber quando é hora de desconectar e relaxar.
 Descanse até recuperar todas as suas forças. Ok?&lt;wait&gt;</Entry>
-  <Entry Index="261">Ah, sim! Quase me esqueço. Leva. É... bem, é um pouco
+  <Entry Index="261">Ah, sim! Quase me esqueço. Pegue. É... bem, é um
 amuleto que encontrei em uma de minhas viagens.
-Você pode mantê-lo.&lt;wait&gt;</Entry>
-  <Entry Index="262">Sei que trabalhar na fazenda não é fácil, mas não se esforce
-o resto. Entendido?&lt;esperar&gt;</Entry>
+Você pode ficar com ele.&lt;wait&gt;</Entry>
+  <Entry Index="262">Sei que trabalhar na fazenda não é fácil, mas não se
+esforce mais. Entendido?&lt;esperar&gt;</Entry>
   <Entry Index="263">Bom. É melhor eu ir. Não saia da cama 
-até que você esteja totalmente recuperado, você me ouve? Não me
-me faça vir e assistir você!&lt;wait&gt;</Entry>
+até que você esteja totalmente recuperado,
+você me entendeu? Não me me faça vir e
+vigiar você!&lt;wait&gt;</Entry>
   <Entry Index="264">Ah... Ei, você se lembra do momento em que desmaiou?
-você desmoronou No meio da praia. Que sucesso.&lt;wait&gt;&lt;page&gt;
-Se eu não tivesse saído a tempo de te ajudar, você teria 
-carbonizado como um ovo frito no sol quente do verão.&lt;wait&gt;</Entry>
-  <Entry Index="265">Se eu não tivesse saído a tempo de ajudá-lo, você teria 
-carbonizado como um ovo frito no sol quente do verão.&lt;wait&gt;</Entry>
-  <Entry Index="266">Não se esforce demais. Você me preocupa quando fica assim.&lt;wait&gt;</Entry>
-  <Entry Index="267">Sim, eu sei que ninguém conhece seus limites melhor do que você. Se você
-Você diz que está tudo bem, não vou discutir com você.&lt;wait&gt;</Entry>
+você desmoronou no meio da praia. Que susto.&lt;wait&gt;&lt;page&gt;
+Se eu não tivesse saído a tempo de te ajudar,
+você teria carbonizado como um ovo frito no
+ sol quente do verão.&lt;wait&gt;</Entry>
+  <Entry Index="265">Se eu não tivesse saído a tempo de ajudá-lo,
+você teria carbonizado como um ovo frito no sol
+quente do verão.&lt;wait&gt;</Entry>
+  <Entry Index="266">Não se esforce demais. Você me preocupa quando
+fica assim.&lt;wait&gt;</Entry>
+  <Entry Index="267">Sim, eu sei que ninguém conhece seus limites melhor
+do que você. Se você diz que está tudo bem,
+não vou discutir.&lt;wait&gt;</Entry>
   <Entry Index="268">Sei que o trabalho agrícola não é brincadeira.
 Tenha cuidado, ok? Faça isso por mim.&lt;wait&gt;</Entry>
   <Entry Index="269">Ei, &lt;playername&gt;! Aqui!&lt;wait&gt;</Entry>
