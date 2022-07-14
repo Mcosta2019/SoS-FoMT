@@ -35,8 +35,8 @@ me pergunte, estarei por perto.&lt;wait&gt;</Entry>
 Prazer em conhecê-lo!&lt;wait&gt;</Entry>
   <Entry Index="17">Olá. Eu sou Lillia, a mãe de Rick e Popuri. É um prazer
 conhecer você.&lt;wait&gt;</Entry>
-  <Entry Index="18">Ah, eu sim. Olá, &lt;playername&gt;. Você gosta de ovos?&lt;wait&gt;</Entry>
-  <Entry Index="19">Ah, eu sim. Olá, &lt;playername&gt;. Você gosta de ovos?&lt;wait&gt;</Entry>
+  <Entry Index="18">Ah, sim. Olá, &lt;playername&gt;. Você gosta de ovos?&lt;wait&gt;</Entry>
+  <Entry Index="19">Ah, sim. Olá, &lt;playername&gt;. Você gosta de ovos?&lt;wait&gt;</Entry>
   <Entry Index="20">Claro! Eles são deliciosos!</Entry>
   <Entry Index="21">Não. Eles me deixam mal.</Entry>
   <Entry Index="22">Claro! Eles são deliciosos!</Entry>
@@ -203,190 +203,203 @@ comigo.&lt;wait&gt;</Entry>
   <Entry Index="98">Esqueça o que eu disse antes, ok? Não é nada. Ah, e
 não conte a mamãe ou Popuri sobre isso. Obrigado.&lt;wait&gt;</Entry>
   <Entry Index="99">Sério...? Agradeço por dizer isso.&lt;wait&gt;&lt;page&gt;
-Algo dentro de mim sabia que eu poderia me abrir e te dizer 
+Algo dentro de mim sabia que eu poderia me abrir e contar
 tudo isso sem incomodá-lo. Você é uma pessoa que 
-ele sabe ouvir.&lt;wait&gt;&lt;page&gt;
-Leva. Se desejar, você pode manter este relógio.&lt;wait&gt;</Entry>
+sabe ouvir.&lt;wait&gt;&lt;page&gt;
+Pegue. Se desejar, pode fica com este relógio.&lt;wait&gt;</Entry>
   <Entry Index="100">Sério...? Agradeço por dizer isso.&lt;wait&gt;&lt;page&gt;
-Algo dentro de mim sabia que eu poderia me abrir e te dizer 
+Algo dentro de mim sabia que eu poderia me abrir e contar 
 tudo isso sem incomodá-lo. Você é uma pessoa que 
-ele sabe ouvir.&lt;wait&gt;&lt;page&gt;
-Leva. Se desejar, você pode manter este relógio.&lt;wait&gt;</Entry>
-  <Entry Index="101">Não, vamos lá. pegue Ficaria muito feliz se você aceitasse.&lt;wait&gt;</Entry>
-  <Entry Index="102">Não, vamos lá. pegue Ficaria muito feliz se você aceitasse.&lt;wait&gt;</Entry>
+sabe ouvir.&lt;wait&gt;&lt;page&gt;
+Pegue. Se desejar, pode ficar com este relógio.&lt;wait&gt;</Entry>
+  <Entry Index="101">Não, vamos lá. Pegue Ficaria muito feliz se
+você aceitasse.&lt;wait&gt;</Entry>
+  <Entry Index="102">Não, Vamos lá. Pegue Ficaria muito feliz se
+você aceitasse.&lt;wait&gt;</Entry>
   <Entry Index="103">Espero que cuide bem dele.&lt;wait&gt;&lt;page&gt;
-Ok! É o suficiente para contar misérias. vou descer,
-necessito de um descanso. Desça comigo.&lt;wait&gt;</Entry>
+Ok! Chega de falar de coisas tristes. Vou descer,
+preciso de um descanso. Desça comigo.&lt;wait&gt;</Entry>
   <Entry Index="104">Espero que cuide bem dele.&lt;wait&gt;&lt;page&gt;
-Ok! É o suficiente para contar misérias. vou descer,
-necessito de um descanso. Desça comigo.&lt;wait&gt;</Entry>
+Ok! Chega de falar de coisas tristes. Vou descer,
+preciso de um descanso. Desça comigo.&lt;wait&gt;</Entry>
   <Entry Index="105">Ah, e não diga nada para mamãe ou Popuri sobre isso,
 ok? Obrigado.&lt;wait&gt;</Entry>
   <Entry Index="106">Desculpe por contar todas as minhas tristezas.&lt;wait&gt;</Entry>
-  <Entry Index="107">Obrigado por ouvir. Papai se foi, temos que 
-assuma isso. Eu tenho que ir em frente e trabalhar duro 
-mais difícil.&lt;wait&gt;</Entry>
-  <Entry Index="108">Olá! Sobre o que você e Rick estavam conversando, hein?&lt;wait&gt;</Entry>
+  <Entry Index="107">Obrigado por ouvir. Papai se foi, tenho que
+aceitar isso. Eu tenho que seguir em frente e trabalhar 
+mais duro ainda.&lt;wait&gt;</Entry>
+  <Entry Index="108">Olá! Sobre o que você e Rick estavam
+conversando, hein?&lt;wait&gt;</Entry>
   <Entry Index="109">Hein? Rick deu para você?
 Hum... que bom.&lt;wait&gt;</Entry>
   <Entry Index="110">Você está trabalhando duro na fazenda?&lt;wait&gt;</Entry>
-  <Entry Index="111">Ah! Aquele relógio! Me lembro! Rick deu para você? Já vejo.
+  <Entry Index="111">Ah! Aquele relógio! Eu me lembro!
+Rick deu para você? Entendi.
 Cuide bem dele, está bem, querida?&lt;wait&gt;</Entry>
-  <Entry Index="112">Ah! Aquele relógio! Me lembro! Rick deu para você? Já vejo.
+  <Entry Index="112">Ah! Aquele relógio! Eu me lembro!
+Rick deu para você? Entendi.
 Cuide bem dele, está bem, querida?&lt;wait&gt;</Entry>
-  <Entry Index="113">Ah! Olá, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo", "Bem-vindo").&lt;wait&gt;</Entry>
-  <Entry Index="114">Ah! Olá, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo", "Bem-vindo").&lt;wait&gt;</Entry>
-  <Entry Index="115">&lt;gender&gt;("Bem-vindo","Bem-vindo")!&lt;wait&gt; Como você vai hoje? Ótimo, pelo que vejo.&lt;wait&gt;</Entry>
+  <Entry Index="113">Ah! Olá, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo", "Bem-vinda").&lt;wait&gt;</Entry>
+  <Entry Index="114">Ah! Olá, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo", "Bem-vinda").&lt;wait&gt;</Entry>
+  <Entry Index="115">&lt;gender&gt;("Bem-vindo","Bem-vinda")!&lt;wait&gt; Como você está hoje? Ótimo, pelo que vejo.&lt;wait&gt;</Entry>
   <Entry Index="116">Olá, &lt;playername&gt;!&lt;wait&gt;</Entry>
   <Entry Index="117">Olá, &lt;playername&gt;!&lt;wait&gt;</Entry>
   <Entry Index="118">Você terminou o dia de hoje? Fantástico!
-Eu também terminei. Você quer que a gente vá 
+Eu também terminei. Você gostaria se a gente fosse 
 comer alguma coisa?&lt;wait&gt;</Entry>
-  <Entry Index="119">Ha ha ha! Nossa, sério? E o que aconteceu depois? Aja Aja...
-E logo? Excelente! Tia, suas histórias são uma bomba.&lt;wait&gt;</Entry>
+  <Entry Index="119">Ha ha ha! Nossa, sério? E o que aconteceu depois? Aha ha...
+E então? Excelente! Cara, suas histórias
+são uma bomba.&lt;wait&gt;</Entry>
   <Entry Index="120">O tempo voa quando falo com você.&lt;wait&gt;</Entry>
-  <Entry Index="121">Ha ha ha! Nossa, sério? E o que aconteceu depois? Aja Aja...
-E logo? Excelente! Cara, suas histórias são uma bomba.&lt;wait&gt;</Entry>
-  <Entry Index="122">Adoraria conversar mais com você, mas já temos um 
-e não quero mais ficar com você.&lt;wait&gt;&lt;page&gt;
-Oh eu sei. É muito tarde, você quer que eu te leve para casa?
-Podemos continuar esta conversa na estrada.&lt;wait&gt;</Entry>
-  <Entry Index="123">Adoraria conversar mais com você, mas já temos um 
-e não quero mais ficar com você.&lt;wait&gt;&lt;page&gt;
-Oh eu sei. É muito tarde, você quer que eu te leve para casa?
-Podemos continuar esta conversa na estrada.&lt;wait&gt;</Entry>
+  <Entry Index="121">Ha ha ha! Nossa, sério? E o que aconteceu depois? Aha ha...
+E então? Excelente! Cara, suas histórias
+são uma bomba.&lt;wait&gt;</Entry>
+  <Entry Index="122">Adoraria conversar mais com você, mas já conversamos
+bastente e não quero usar todo o seu tempo.&lt;wait&gt;&lt;page&gt;
+Oh já sei. Está bem tarde, você gostia se eu te
+acompanhasse para casa? Podemos continuar esta conversa
+na estrada.&lt;wait&gt;</Entry>
+  <Entry Index="123">Adoraria conversar mais com você, mas já conversamos
+bastente e não quero usar todo o seu tempo.&lt;wait&gt;&lt;page&gt;
+Oh já sei. Está bem tarde, você gostia se eu te
+acompanhasse para casa? Podemos continuar esta conversa
+na estrada.&lt;wait&gt;</Entry>
   <Entry Index="124">Sério? Obrigado.</Entry>
   <Entry Index="125">Não, tudo bem.</Entry>
   <Entry Index="126">Que bom! Sim, claro.</Entry>
   <Entry Index="127">Maravilhoso! Vamos arrumar tudo e ir embora.
-Quero que você me conte mais.&lt;wait&gt;</Entry>
-  <Entry Index="128">Maravilhoso! Eu sabia que você ia se animar. Venha vamos. Eu quero
-conte-me mais.&lt;wait&gt;</Entry>
+Quero que você me conte mais histórias.&lt;wait&gt;</Entry>
+  <Entry Index="128">Maravilhoso! Eu sabia que isso iria te aniamr.
+Venha vamos. Eu quero que me conte mais.&lt;wait&gt;</Entry>
   <Entry Index="129">O que?! A sério? Você está brincando comigo,
 certo, &lt;playername&gt;?&lt;wait&gt;</Entry>
   <Entry Index="130">Ha ha ha! De verdade? Não pode ser! LOL! Oh,
 Oh meu Deus, estou morrendo de rir!</Entry>
-  <Entry Index="131">O quê?! A sério? Você está brincando comigo, certo, 
-&lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="132">Divirta-se muito hoje, &lt;playername&gt;. São
-muito interessante, sabe?&lt;wait&gt;</Entry>
+  <Entry Index="131">O quê?! A sério? Você está brincando comigo,
+certo, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="132">Foi muito divertido hoje, &lt;playername&gt;. Você é
+muito interessante, sabia?&lt;wait&gt;</Entry>
   <Entry Index="133">Bem, acho que é hora de ir para casa.
 Temos trabalho a fazer amanhã. Boa noite!&lt;wait&gt;</Entry>
-  <Entry Index="134">Me diverti muito hoje! Eu estava emprestando tanto 
-atenção ouvindo você que passamos pela minha casa de 
-comprimento. Ops!&lt;wait&gt;</Entry>
+  <Entry Index="134">Me diverti muito hoje! Eu estava prestando tanto
+a atenção ouvindo você que passamos pela minha casa
+sem perceber. Ops!&lt;wait&gt;</Entry>
   <Entry Index="135">E falando nisso, é melhor você voltar agora. Nós temos
 trabalho para fazer amanhã. Boa noite!&lt;wait&gt;</Entry>
   <Entry Index="136">Uau. É uma verdadeira vergonha. Bem, acho que vou ter 
-tem que ouvir o resto da história outra hora.&lt;wait&gt;</Entry>
+que ouvir o resto da história outra hora.&lt;wait&gt;</Entry>
   <Entry Index="137">Boa sorte com o trabalho na fazenda.&lt;wait&gt;</Entry>
-  <Entry Index="138">Ok. Acho que ninguém vai nos incomodar aqui. Então nós podemos
-fale baixinho.&lt;wait&gt;</Entry>
+  <Entry Index="138">Ok. Acho que ninguém vai nos incomodar aqui.
+Então nós podemos conversar baixinho.&lt;wait&gt;</Entry>
   <Entry Index="139">Você poderia começar do início?&lt;wait&gt;</Entry>
   <Entry Index="140">Não estou sonhando, estou?&lt;wait&gt;</Entry>
-  <Entry Index="141">Ai! Eu belisquei minha bochecha e dói. Não é um sonho!
+  <Entry Index="141">Ai! Eu belisquei minha bochecha e dou. Não é um sonho!
 É... é real.&lt;wait&gt;</Entry>
-  <Entry Index="142">Desde que começamos a namorar, me acostumei 
-ter uma garota como você ao meu lado. É assim que eles devem continuar 
-coisas.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="142">Desde que começamos a namorar, me acostumei a
+ter uma garota como você ao meu lado. É assim que as
+coisas deveriam continuar.&lt;wait&gt;&lt;page&gt;
 Do fundo do meu coração, desejo que tudo continue 
 assim amanhã e no dia seguinte e... para sempre.&lt;wait&gt;</Entry>
   <Entry Index="143">Desde que começamos a namorar, me acostumei 
-ter um menino como você ao meu lado. É assim que o 
-coisas.&lt;wait&gt;&lt;page&gt;
+ter um garoto como você ao meu lado. É assim que as
+coisas deveriam continuar.&lt;wait&gt;&lt;page&gt;
 Do fundo do meu coração, desejo que tudo continue 
 assim amanhã e no dia seguinte e... para sempre.&lt;wait&gt;</Entry>
   <Entry Index="144">Acho que o sentimento é mútuo, certo? Será melhor que
 acredite, porque minha resposta é sim.&lt;wait&gt;</Entry>
   <Entry Index="145">Acho que o sentimento é mútuo, certo? Será melhor que
 acredite, porque minha resposta é sim.&lt;wait&gt;</Entry>
-  <Entry Index="146">Meu coração está batendo forte. &lt;playername&gt;, eu sei disso 
-seremos o casal mais feliz do mundo.&lt;wait&gt;</Entry>
-  <Entry Index="147">Meu coração está batendo forte. &lt;playername&gt;, eu sei disso 
-seremos o casal mais feliz do mundo.&lt;wait&gt;</Entry>
-  <Entry Index="148">Ei, &lt;playername&gt;, você virá comigo quando eu disser a ele
-Mamãe e Popuri?&lt;wait&gt;&lt;page&gt;
-Precisamos falar sobre os preparativos para o 
+  <Entry Index="146">Meu coração está batendo forte. &lt;playername&gt;, eu sei 
+que seremos o casal mais feliz do mundo.&lt;wait&gt;</Entry>
+  <Entry Index="147">Meu coração está batendo forte. &lt;playername&gt;, eu sei 
+que seremos o casal mais feliz do mundo.&lt;wait&gt;</Entry>
+  <Entry Index="148">Ei, &lt;playername&gt;, você virá comigo quando eu contar
+para a Mamãe e a Popuri?&lt;wait&gt;&lt;page&gt;
+Precisamos falar sobre os preparativos para a
 cerimônia. E também gostaria de preparar um bom 
 banquete para todos.&lt;wait&gt;</Entry>
-  <Entry Index="149">Ei, &lt;playername&gt;, você virá comigo quando eu disser a ele
-Mamãe e Popuri?&lt;wait&gt;&lt;page&gt;
-Precisamos falar sobre os preparativos para o 
+  <Entry Index="149">Ei, &lt;playername&gt;, você virá comigo quando eu contar
+para a Mamãe e a Popuri?&lt;wait&gt;&lt;page&gt;
+Precisamos falar sobre os preparativos para a
 cerimônia. E também gostaria de preparar um bom 
 banquete para todos.&lt;wait&gt;</Entry>
-  <Entry Index="150">Querida! Minha mãe! Que boa notícia! Parabéns,
-casal!&lt;wait&gt;</Entry>
+  <Entry Index="150">Querido! Meu Deus! Que notícia boa! Parabéns
+ao casal!&lt;wait&gt;</Entry>
   <Entry Index="151">&lt;playername&gt;, você tem certeza que quer se casar com Rick?
-Tenho certeza de que você encontrará uma correspondência melhor.&lt;wait&gt;</Entry>
-  <Entry Index="152">Popuri, mas como você diz essas coisas! Você acha mesmo
-isso?&lt;wait&gt;</Entry>
-  <Entry Index="153">Hee hee hee! Eu estava brincando. ♪ Estou tão feliz por você.
-De verdade. Rick, afinal, você é meu único irmão.&lt;wait&gt;</Entry>
+Tenho certeza de que você encontrará um
+candidato melhor.&lt;wait&gt;</Entry>
+  <Entry Index="152">Popuri, mas como você diz essas coisas!
+Você acha isso mesmo?&lt;wait&gt;</Entry>
+  <Entry Index="153">Hee hee hee! Eu estava brincando. ♪ Estou tão feliz
+por você. De verdade. Rick, afinal, você é meu
+único irmão.&lt;wait&gt;</Entry>
   <Entry Index="154">Irmãzinha...&lt;wait&gt;</Entry>
   <Entry Index="155">Parabéns, Rick! Parabéns, &lt;playername&gt;!&lt;wait&gt;</Entry>
   <Entry Index="156">Ok, é hora de deixar tudo pronto para a cerimônia.
-Meu Deus, temos alguns dias muito ocupados para 
-adiante!&lt;wait&gt;</Entry>
-  <Entry Index="157">Certo, é hora de deixar tudo pronto para a cerimônia.
-Meu Deus, temos alguns dias muito ocupados para 
-adiante!&lt;wait&gt;</Entry>
-  <Entry Index="158">Se contarmos ao prefeito Thomas, ele nos arranjará uma vaga
-e se encarregará de enviar todos os convites. Eu
+Meu Deus, teremos alguns dias muito corridos pela 
+frente!&lt;wait&gt;</Entry>
+  <Entry Index="157">Ok, é hora de deixar tudo pronto para a cerimônia.
+Meu Deus, teremos alguns dias muito corridos pela 
+frente!&lt;wait&gt;</Entry>
+  <Entry Index="158">Se contarmos ao prefeito Thomas, ele nos arranjará
+uma vaga e se encarregará de enviar todos os convites.
 Eu vou te ajudar também! ♪&lt;wait&gt;</Entry>
   <Entry Index="159">Além disso, há outros detalhes que precisamos 
 discutir... Provavelmente levará uma semana para 
-tenha tudo pronto.&lt;wait&gt;</Entry>
-  <Entry Index="160">Não poderia fazer isso sem a ajuda de vocês. Eu confio
-você para cuidar de todos os preparativos para o 
-cerimônia. Obrigado.&lt;wait&gt;</Entry>
-  <Entry Index="161">Queridos irmãos, estamos reunidos aqui hoje para ver
-&lt;playername&gt; e Rick se unem no sagrado matrimônio.
-Vamos começar.&lt;wait&gt;</Entry>
-  <Entry Index="162">Queridos irmãos, estamos reunidos aqui hoje para ver
-&lt;playername&gt; e Rick se unem no sagrado matrimônio.
-Vamos começar.&lt;wait&gt;</Entry>
-  <Entry Index="163">&lt;playername&gt;. Rick. Você jura ser fiel o resto 
-suas vidas...&lt;wait&gt;&lt;page&gt;
-... e amá-lo e respeitá-lo nas alegrias e nas tristezas, no
-saúde e na doença? Agora e para sempre?&lt;wait&gt;</Entry>
-  <Entry Index="164">Na frente de todos aqui reunidos, declaro este casal
-unidos em 
-sagrado matrimônio.&lt;wait&gt;&lt;page&gt;
+ficar tudo pronto.&lt;wait&gt;</Entry>
+  <Entry Index="160">Não poderia fazer isso sem a ajuda de vocês.
+Eu confio em vocês para cuidar de todos os preparativos
+para a cerimônia. Obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="161">Queridos irmãos, estamos reunidos aqui hoje para
+celebrar a união de &lt;playername&gt; e Rick em
+sagrado matrimônio. Vamos começar.&lt;wait&gt;</Entry>
+  <Entry Index="162">Queridos irmãos, estamos reunidos aqui hoje para
+celebrar a união de &lt;playername&gt; e Rick em
+sagrado matrimônio. Vamos começar.&lt;wait&gt;</Entry>
+  <Entry Index="163">&lt;playername&gt;. Rick. Vocês juram serem fiéis
+pelo resto de suas vidas...&lt;wait&gt;&lt;page&gt;
+... e se amarem e se respeitarem nas alegrias e 
+as tristezas, na saúde e na doença?
+Agora e para sempre?&lt;wait&gt;</Entry>
+  <Entry Index="164">Na frente de todos aqui reunidos, declaro
+este casal unidos em sagrado matrimônio.&lt;wait&gt;&lt;page&gt;
 Que a glória deste dia ilumine seus corações e
-construir um belo futuro juntos.&lt;wait&gt;</Entry>
-  <Entry Index="165">Rick, querido. &lt;playername&gt;. Desejo-lhes o melhor. Sei que
-vocês formarão uma linda família.&lt;wait&gt;</Entry>
+que construam um belo futuro juntos.&lt;wait&gt;</Entry>
+  <Entry Index="165">Rick, querido. &lt;playername&gt;. Desejo-lhes o melhor.
+Sei que vocês formarão uma linda família.&lt;wait&gt;</Entry>
   <Entry Index="166">Rick, nunca faça o &lt;playername&gt; chorar ou
-você vai me ver! Está entendido? Bom!&lt;wait&gt;&lt;page&gt;
+você vai ver! Está entendido? Bom!&lt;wait&gt;&lt;page&gt;
 Felicidades aos dois! Desejo-lhe toda a felicidade
 do mundo!&lt;wait&gt;</Entry>
-  <Entry Index="167">Rick, não se atreva a brigar com &lt;playername&gt;, ou
-você vai me ver! Está entendido? Bom!&lt;wait&gt;&lt;page&gt;
-Felicidades aos dois! Desejo-lhe toda a felicidade
+  <Entry Index="167">Rick, não se atreva a brigar com &lt;playername&gt;,
+ou você vai ver! Está entendido? Bom!&lt;wait&gt;&lt;page&gt;
+Felicidades aos dois! Desejo-lhes toda a felicidade
 do mundo!&lt;wait&gt;</Entry>
   <Entry Index="168">&lt;playername&gt;... agora podemos realmente ficar juntos
-para sempre. Te quero. ∀&lt;wait&gt;</Entry>
+para sempre. Eu te amo. ∀&lt;wait&gt;</Entry>
   <Entry Index="169">&lt;playername&gt;... agora podemos realmente ficar juntos
-para sempre. Te quero. ∀&lt;wait&gt;</Entry>
+para sempre. Eu te amo. ∀&lt;wait&gt;</Entry>
   <Entry Index="170">Bom. E agora, para comemorar este grande dia, nós 
-Vamos tirar uma foto de grupo. Todos venham aqui!&lt;wait&gt;</Entry>
+vamos tirar uma foto em grupo. Venham todos aqui!&lt;wait&gt;</Entry>
   <Entry Index="171">Paa taa taa! ♪ &lt;playername&gt;, parabéns!&lt;wait&gt;&lt;page&gt;
-Deixe-me tocar os sinos da fortuna para que você 
-abençoar. Tachan! ♪&lt;wait&gt;</Entry>
-  <Entry Index="172">Ah! Meu pulso finalmente voltou ao normal. Hoje eles têm 
-Muitas coisas aconteceram: a cerimônia, o banquete, as fotos...&lt;wait&gt;</Entry>
-  <Entry Index="173">Ah! Eu posso finalmente respirar aliviado. Hoje eles têm 
-Muitas coisas aconteceram: a cerimônia, o banquete, as fotos...&lt;wait&gt;</Entry>
-  <Entry Index="174">O prefeito Thomas colocou todos os meios. Eu tenho
+Deixe-me tocar os sinos da fortuna para 
+abençoá-los. Tachan! ♪&lt;wait&gt;</Entry>
+  <Entry Index="172">Ah! Meu pulso finalmente voltou ao normal. Hoje
+muitas coisas aconteceram: a cerimônia, o banquete,
+as fotos...&lt;wait&gt;</Entry>
+  <Entry Index="173">Ah! Eu posso finalmente respirar aliviado. Hoje
+muitas coisas aconteceram: a cerimônia, o banquete,
+as fotos...&lt;wait&gt;</Entry>
+  <Entry Index="174">O prefeito Thomas não poupou esforços. Eu sei que
 tudo o que eles fizeram por nós tocou nossos corações.&lt;wait&gt;</Entry>
   <Entry Index="175">E agora... Finalmente temos tempo a sós. Você e eu.
 Marido e mulher.&lt;wait&gt;</Entry>
   <Entry Index="176">E agora... Finalmente temos tempo a sós. Você e eu.
 Marido e marido.&lt;wait&gt;</Entry>
-  <Entry Index="177">Agora que estamos casados, que tal nós 
-damos apelidos carinhosos?&lt;wait&gt;&lt;page&gt;
+  <Entry Index="177">Agora que estamos casados, que tal nos 
+darmos apelidos carinhosos?&lt;wait&gt;&lt;page&gt;
 Pode me chamar de Rick, como sempre.&lt;wait&gt;&lt;page&gt;
-Mas como você quer que eu ligue para você?&lt;wait&gt;</Entry>
+Mas como você gostaira que eu te chamasse?&lt;wait&gt;</Entry>
   <Entry Index="178">Agora que estamos casados, que tal nós 
 damos apelidos carinhosos?&lt;wait&gt;&lt;page&gt;
 Pode me chamar de Rick, como sempre.&lt;wait&gt;&lt;page&gt;
