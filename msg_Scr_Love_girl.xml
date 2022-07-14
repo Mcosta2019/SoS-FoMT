@@ -10,193 +10,197 @@
   <Entry Index="7">Uau! Olhe para eles. ♪&lt;wait&gt;</Entry>
   <Entry Index="8">Sim. Hoje temos muitos ovos novamente. Isso é
 sinal de que todas as nossas galinhas estão felizes e saudáveis&lt;wait&gt;&lt;page&gt;
-Eu fervi alguns para petiscar enquanto trabalhava.
-Quer um, mãe?&lt;wait&gt;</Entry>
-  <Entry Index="9">Vamos! Muito obrigado, Ric. Ovos cozidos em
+Eu cozinhei alguns para beliscar enquanto trabalhava.
+Quer um, mamãe?&lt;wait&gt;</Entry>
+  <Entry Index="9">Nossa! Muito obrigada, Rick. Ovos cozidos em
 água são um lanche delicioso.&lt;wait&gt;</Entry>
   <Entry Index="10">Hein? Olá. Não me lembro de ter visto você por aqui antes.
-Você &lt;gender&gt;("um viajante","uma viajante") que vem explorar nossa
-região?&lt;wait&gt;</Entry>
+Você é &lt;gender&gt;("um viajante","uma viajante") que veio explorar
+a nossa região?&lt;wait&gt;</Entry>
   <Entry Index="11">Espere. Agora que penso nisso, ouvi em algum lugar que 
 alguém se mudou para aquela fazenda. É você, certo?&lt;wait&gt;&lt;page&gt;
 Você é &lt;playername&gt;? Eu sou Rick. É um prazer
-encontro você.&lt;wait&gt;</Entry>
+conhecer você.&lt;wait&gt;</Entry>
   <Entry Index="12">Espere. Agora que penso nisso, ouvi em algum lugar que 
 alguém se mudou para aquela fazenda. É você, certo?&lt;wait&gt;&lt;page&gt;
 Você é &lt;playername&gt;? Eu sou Rick. É um prazer
-encontro você.&lt;wait&gt;</Entry>
-  <Entry Index="13">Olá, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo", "Bem-vindo"). Você veio fazer 
-a compra, eu acho.&lt;wait&gt;</Entry>
-  <Entry Index="14">Olá, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo", "Bem-vindo"). Você veio fazer 
-a compra, eu acho.&lt;wait&gt;</Entry>
-  <Entry Index="15">Claro! Tome seu tempo e se você tiver algum 
-pergunte, estarei por perto.&lt;wait&gt;</Entry>
+conhecer você.&lt;wait&gt;</Entry>
+  <Entry Index="13">Olá, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo", "Bem-vinda"). Você veio fazer 
+compras, eu acho.&lt;wait&gt;</Entry>
+  <Entry Index="14">Olá, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo", "Bem-vinda"). Você veio fazer 
+compras, eu acho.&lt;wait&gt;</Entry>
+  <Entry Index="15">Claro! Fique a vontade, se tiver alguma dúvida 
+me pergunte, estarei por perto.&lt;wait&gt;</Entry>
   <Entry Index="16">Hmm... Olá! Meu nome é Popuri. Rick é meu irmão mais velho.
 Prazer em conhecê-lo!&lt;wait&gt;</Entry>
   <Entry Index="17">Olá. Eu sou Lillia, a mãe de Rick e Popuri. É um prazer
-encontro você.&lt;wait&gt;</Entry>
-  <Entry Index="18">Ah, eu sei. Olá, &lt;playername&gt;. Você gosta de ovos?&lt;wait&gt;</Entry>
-  <Entry Index="19">Ah, eu sei. Olá, &lt;playername&gt;. Você gosta de ovos?&lt;wait&gt;</Entry>
+conhecer você.&lt;wait&gt;</Entry>
+  <Entry Index="18">Ah, eu sim. Olá, &lt;playername&gt;. Você gosta de ovos?&lt;wait&gt;</Entry>
+  <Entry Index="19">Ah, eu sim. Olá, &lt;playername&gt;. Você gosta de ovos?&lt;wait&gt;</Entry>
   <Entry Index="20">Claro! Eles são deliciosos!</Entry>
-  <Entry Index="21">Não. Eles me deixam doente.</Entry>
+  <Entry Index="21">Não. Eles me deixam mal.</Entry>
   <Entry Index="22">Claro! Eles são deliciosos!</Entry>
-  <Entry Index="23">Não. Eles me deixam doente.</Entry>
+  <Entry Index="23">Não. Eles me deixam mal.</Entry>
   <Entry Index="24">Fico feliz que você também pense assim!
 Espere um segundo...&lt;wait&gt;</Entry>
   <Entry Index="25">Pegue. Nossas galinhas botaram muitos ovos,
-Comecei a cozinhá-los e no final fiz mais de 
-Eu posso comer sozinho.&lt;wait&gt;&lt;page&gt;
-Eu não quero que eles sejam desperdiçados, então estou procurando 
-alguém que é apaixonado por isso. Se você quiser, eles são seus.&lt;wait&gt;</Entry>
+comecei a cozinhá-los e no final fiz mais do que 
+poderia comer sozinho.&lt;wait&gt;&lt;page&gt;
+Eu não quero que eles sejam desperdiçados, então estou
+procurando alguém que é adore também. Se você quiser,
+eles são seus.&lt;wait&gt;</Entry>
   <Entry Index="26">Boa sorte com a fazenda.&lt;wait&gt;</Entry>
-  <Entry Index="27">Uau. É uma pena. Bem, todo mundo tem seus gostos.&lt;wait&gt;</Entry>
-  <Entry Index="28">Ah, e boa sorte com o trabalho na fazenda. Se há
-qualquer coisa que eu possa fazer para ajudar, você só tem que 
-diga-me.&lt;wait&gt;</Entry>
-  <Entry Index="29">Ovos cozidos moles são fáceis de fazer. Apenas
-você tem que colocar um ovo em água fervente, e pronto!&lt;wait&gt;</Entry>
-  <Entry Index="30">Ovos cozidos moles são fáceis de fazer. Apenas
-você tem que colocar um ovo em água fervente e pronto! UMA
-Popuri os adora.&lt;wait&gt;</Entry>
+  <Entry Index="27">Nossa. É uma pena. Bem, todo mundo tem
+seus gostos.&lt;wait&gt;</Entry>
+  <Entry Index="28">Ah, e boa sorte com o trabalho na fazenda.
+Se houver alguma coisa que eu possa fazer para ajudar,
+é só em dizer.&lt;wait&gt;</Entry>
+  <Entry Index="29">Ovos cozidos são fáceis de fazer. Você aepnas
+precisa colocar um ovo em água fervente,
+e pronto!&lt;wait&gt;</Entry>
+  <Entry Index="30">Ovos cozidos são fáceis de fazer. Você aepnas
+precisa colocar um ovo em água fervente,
+e pronto! A Popuri os adora.&lt;wait&gt;</Entry>
   <Entry Index="31">Gosto de ovos cozidos porque são fáceis
-para fazer, basta colocá-los na água 
-ebulição. Mas se você não gosta deles, então nada.&lt;wait&gt;</Entry>
+de fazer, basta colocá-los na água quente.
+Mas se você não gosta deles, tudo bem.&lt;wait&gt;</Entry>
   <Entry Index="32">Ovos cozidos são deliciosos!
 Não consigo parar de comê-los! ♪&lt;wait&gt;</Entry>
   <Entry Index="33">Você não gosta de ovos, &lt;playername&gt;? Ah.&lt;wait&gt;</Entry>
   <Entry Index="34">Ovos são deliciosos, e há muitas maneiras de 
 cozinhá-los. Nossa família adora todos os pratos
 que têm ovos, como você pode ver.&lt;wait&gt;</Entry>
-  <Entry Index="35">Uau. Que azar. Você realmente não gosta de ovos?
+  <Entry Index="35">Nossa. Que pena. Você realmente não gosta de ovos?
 Bem, os nossos são especialmente saborosos...&lt;wait&gt;</Entry>
-  <Entry Index="36">Você já visitou a fazenda &lt;myfarmname&gt;? Esse
-terra é enorme. É impressionante que apenas um 
-pessoa pode cuidar de tudo.&lt;wait&gt;</Entry>
-  <Entry Index="37">Uau, isso é enorme! Eu não seria capaz 
+  <Entry Index="36">Você já visitou a fazenda &lt;myfarmname&gt;? Essa
+terra é enorme. É impressionante que apenas uma
+pessoa consegue cuidar de tudo.&lt;wait&gt;</Entry>
+  <Entry Index="37">Nossa, é enorme! Eu não seria capaz de
 cuidar de tudo sozinho. A verdade é que é admirável.&lt;wait&gt;</Entry>
   <Entry Index="38">Eu também ganho a vida criando animais.
-Adoraria conhecer melhor &lt;playername&gt;.</Entry>
-  <Entry Index="39">Uau, aquele lugar é enorme! nem quero imaginar 
-carregá-lo sozinho. É digno de respeito.&lt;wait&gt;</Entry>
-  <Entry Index="40">Ah! &lt;playername&gt;. Olá, querida.&lt;wait&gt;</Entry>
+Adoraria conhecê-lo melhor, &lt;playername&gt;.</Entry>
+  <Entry Index="39">Nossa, aquele lugar é enorme! Nem quero imaginar 
+como é cuidar sozinho. É digno de respeito.&lt;wait&gt;</Entry>
+  <Entry Index="40">Ah! &lt;playername&gt;. Olá, querido.&lt;wait&gt;</Entry>
   <Entry Index="41">Olá!&lt;wait&gt;</Entry>
-  <Entry Index="42">Olá, &lt;playername&gt;. Você chega na melhor hora. Venha
-aqui por um segundo.&lt;wait&gt;</Entry>
+  <Entry Index="42">Olá, &lt;playername&gt;. Você chegou na melhor hora.
+Venha aqui por um segundo.&lt;wait&gt;</Entry>
   <Entry Index="43">Ah! &lt;playername&gt;. Olá, querida.&lt;wait&gt;</Entry>
-  <Entry Index="44">Olá, &lt;playername&gt;. Você chega na melhor hora. Venha
-aqui por um segundo.&lt;wait&gt;</Entry>
+  <Entry Index="44">Olá, &lt;playername&gt;. Você chega na melhor hora.
+Venha aqui por um segundo.&lt;wait&gt;</Entry>
   <Entry Index="45">Estávamos falando sobre você.&lt;wait&gt;&lt;page&gt;
-Nos surpreende como você é capaz de cuidar 
+Nos surpreende como você é capaz de cuidar de
 uma fazenda tão grande por conta própria.&lt;wait&gt;</Entry>
-  <Entry Index="46">E sendo tão jovem! Não é algo que qualquer um faz, existe 
-do que nascer com o dom.&lt;wait&gt;</Entry>
-  <Entry Index="47">Os agricultores não apenas cultivam. Eles também deveriam 
-saiba cuidar do gado.&lt;wait&gt;</Entry>
-  <Entry Index="48">Então, ouça, pergunte! &lt;playername&gt;, quantos
+  <Entry Index="46">E sendo tão jovem! Não é algo que qualquer um faz,
+tem que nascer com o dom.&lt;wait&gt;</Entry>
+  <Entry Index="47">Os agricultores não apenas cultivam. Eles também
+deveriam saber cuidar dos animais.&lt;wait&gt;</Entry>
+  <Entry Index="48">Então, ouça a pergunta! &lt;playername&gt;.
 Quantos dias leva para um ovo de galinha chocar?&lt;wait&gt;</Entry>
-  <Entry Index="49">Então, ouça, pergunte! &lt;playername&gt;, quantos
+  <Entry Index="49">Então, ouça a pergunta! &lt;playername&gt;.
 Quantos dias leva para um ovo de galinha chocar?&lt;wait&gt;</Entry>
   <Entry Index="50">Três dias!</Entry>
   <Entry Index="51">Uma semana inteira!</Entry>
-  <Entry Index="52">Correto! Eu já sabia que uma pergunta tão simples 
-Seria um pedaço de bolo para você. Bom trabalho.&lt;wait&gt;</Entry>
+  <Entry Index="52">Correto! Eu já imaginava que uma pergunta tão simples 
+seria um pedaço de bolo para você. Bom trabalho.&lt;wait&gt;</Entry>
   <Entry Index="53">Uau, &lt;playername&gt;! Você é muito inteligente! ♪&lt;wait&gt;</Entry>
   <Entry Index="54">Sim, você me deixou sem palavras. É verdade o que
-Dizem por ai. Você tem uma mão para a fazenda.</Entry>
+dizem por ai. Você tem o jeito para a fazenda.</Entry>
   <Entry Index="55">Vamos, não fique com vergonha.
 Você leva tudo muito a sério.&lt;wait&gt;</Entry>
-  <Entry Index="56">O fato de você ter respondido imediatamente sem hesitação
-É um sinal de que você é apaixonado pelo seu trabalho.
-Ou pelo menos acho que sim.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="56">O fato de você ter respondido imediatamente sem
+hesitação é um sinal de que você é apaixonado
+pelo seu trabalho. Ou pelo menos, é o que acho.&lt;wait&gt;&lt;page&gt;
 Você é uma pessoa maravilhosa, &lt;playername&gt;. Vamos ver se
-algo em você gruda em mim.&lt;wait&gt;</Entry>
+algo de você gruda em mim.&lt;wait&gt;</Entry>
   <Entry Index="57">Vamos, não fique com vergonha.
 Você leva tudo muito a sério.&lt;wait&gt;</Entry>
-  <Entry Index="58">O fato de você ter respondido imediatamente sem hesitação
-É um sinal de que você é apaixonado pelo seu trabalho.
-Ou pelo menos acho que sim.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="58">O fato de você ter respondido imediatamente sem
+hesitação é um sinal de que você é apaixonado
+pelo seu trabalho. Ou pelo menos, é o que acho.&lt;wait&gt;&lt;page&gt;
 Você é uma pessoa maravilhosa, &lt;playername&gt;. Vamos ver se
-algo em você gruda em mim.&lt;wait&gt;</Entry>
-  <Entry Index="59">O quê? Não! São cerca de três dias, não uma semana 
-inteiro.&lt;wait&gt;</Entry>
-  <Entry Index="60">Uau, você achou isso difícil? Talvez você seja um pouco verde
-quando se trata de criar galinhas.&lt;wait&gt;</Entry>
+algo de você gruda em mim.&lt;wait&gt;</Entry>
+  <Entry Index="59">O quê? Não! São cerca de três dias,
+não uma semana inteira.&lt;wait&gt;</Entry>
+  <Entry Index="60">Nossa, você achou essa difícil? Talvez você seja um
+pouco verde quando se trata de criar galinhas.&lt;wait&gt;</Entry>
   <Entry Index="61">Que pena! Deve ter sido um deslize.&lt;wait&gt;</Entry>
-  <Entry Index="62">Pobre. É uma verdadeira vergonha. Mas não se preocupe.
-Todo mundo comete erros de vez em quando. Não deixes
-Isso afeta você, querida.&lt;wait&gt;</Entry>
-  <Entry Index="63">Uau, você achou isso difícil? Talvez você seja um pouco verde
-quando se trata de criar galinhas.&lt;wait&gt;</Entry>
-  <Entry Index="64">Pobre. É uma verdadeira vergonha. Mas não se preocupe.
-Todo mundo comete erros de vez em quando. Não deixes
-Isso afeta você, querida.&lt;wait&gt;</Entry>
+  <Entry Index="62">Pobrezinho. É uma verdadeira vergonha. Mas não
+se preocupe. Todo mundo comete erros de vez em quando.
+Não deixe isso afetar você, querido.&lt;wait&gt;</Entry>
+  <Entry Index="63">Noosa, você achou essa difícil? Talvez você seja um
+pouco verde quando se trata de criar galinhas.&lt;wait&gt;</Entry>
+  <Entry Index="64">Pobrezinho. É uma verdadeira vergonha. Mas não
+se preocupe. Todo mundo comete erros de vez em quando.
+Não deixes isso afetar você, querido.&lt;wait&gt;</Entry>
   <Entry Index="65">Eu sabia que nos entenderíamos como agricultores,
-&lt;playername&gt;. Eu adoraria ter outro bate-papo 
-sobre o gado com você outro dia.&lt;wait&gt;</Entry>
+&lt;playername&gt;. Eu adoraria falar sobre animais
+com você em outro dia.&lt;wait&gt;</Entry>
   <Entry Index="66">Eu sabia que nos entenderíamos como agricultores,
-&lt;playername&gt;. Eu adoraria falar sobre gado
-com você outro dia.&lt;wait&gt;</Entry>
+&lt;playername&gt;. Eu adoraria falar sobre animais
+com você em outro dia.&lt;wait&gt;</Entry>
   <Entry Index="67">Admito que não é o que eu esperava. Achei que tinha 
-Encontrei alguém com quem eu pudesse conversar sobre galinhas.&lt;wait&gt;</Entry>
+encontrado alguém com quem eu pudesse conversar
+sobre galinhas.&lt;wait&gt;</Entry>
   <Entry Index="68">Opa, &lt;playername&gt;, você realmente sabe!
 Estou enlouquecendo.&lt;wait&gt;</Entry>
-  <Entry Index="69">Uau, que decepção. Achei que alguém gostasse
-você saberia com certeza, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="70">Uau, que decepção. Achei que alguém gostasse
-você saberia com certeza, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="71">Hee hee hee! Tão jovem, e você já tem um dom para a agricultura.
-Você é incrível!&lt;wait&gt;</Entry>
-  <Entry Index="72">Um erro pode acontecer com qualquer um, querida. Rick e Popuri
-eles tinham grandes expectativas, só isso.&lt;wait&gt;</Entry>
-  <Entry Index="73">Ah, &lt;playername&gt;! Olá querida!&lt;wait&gt;</Entry>
+  <Entry Index="69">Nossa, que decepção. Achei que alguém que gostasse,
+como você, saberia com certeza, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="70">Nossa, que decepção. Achei que alguém que gostasse,
+como você, saberia com certeza, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="71">Hee hee hee! Tão jovem, e você já tem um dom para a
+agricultura. Você é incrível!&lt;wait&gt;</Entry>
+  <Entry Index="72">Um erro pode acontecer com qualquer um, querido.
+Rick e Popuri tinham grandes expectativas, só isso.&lt;wait&gt;</Entry>
+  <Entry Index="73">Ah, &lt;playername&gt;! Olá querido!&lt;wait&gt;</Entry>
   <Entry Index="74">Olá, &lt;playername&gt;! Você veio comprar 
 alguma coisa hoje?&lt;wait&gt;</Entry>
-  <Entry Index="75">Ah, &lt;playername&gt;! Olá querida!&lt;wait&gt;</Entry>
+  <Entry Index="75">Ah, &lt;playername&gt;! Olá querido!&lt;wait&gt;</Entry>
   <Entry Index="76">Olá, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="77">E aí, &lt;playername&gt;? Você está procurando por Rick,
 por acaso?&lt;wait&gt;</Entry>
-  <Entry Index="78">Ela está limpando o andar de cima. Se você quiser, você pode enviar para 
-diga olá por um momento.&lt;wait&gt;</Entry>
+  <Entry Index="78">Ele está limpando o andar de cima. Se você quiser,
+você pode mandar para um oi por um momento.&lt;wait&gt;</Entry>
   <Entry Index="79">E aí, &lt;playername&gt;? Você está procurando por Rick,
 por acaso?&lt;wait&gt;</Entry>
-  <Entry Index="80">Olá, &lt;playername&gt;. O que te traz aqui? Você está vindo para
-me ajuda para deixar o chão impecável?&lt;wait&gt;</Entry>
-  <Entry Index="81">Ha ha! De jeito nenhum! Eu nunca pediria para você limpar minha casa.
-Estou brincando.&lt;wait&gt;</Entry>
-  <Entry Index="82">Ah, a propósito... Estou curioso, há alguma coisa que você guarde
-como se fosse um tesouro?&lt;wait&gt;</Entry>
-  <Entry Index="83">Olá, &lt;playername&gt;. O que te traz aqui? Você está vindo para
-me ajuda para deixar o chão impecável?&lt;wait&gt;</Entry>
-  <Entry Index="84">Ha ha! De jeito nenhum! Eu nunca pediria para você limpar minha casa.
-Estou brincando.&lt;wait&gt;</Entry>
-  <Entry Index="85">Ah, a propósito... Estou curioso, existe alguma coisa no mundo
+  <Entry Index="80">Olá, &lt;playername&gt;. O que te traz aqui? Você veio para
+me ajudar a deixar o chão impecável?&lt;wait&gt;</Entry>
+  <Entry Index="81">Ha ha! De jeito nenhum! Eu nunca pediria para você limpar
+minha casa. Estou brincando.&lt;wait&gt;</Entry>
+  <Entry Index="82">Ah, a propósito... Estou curioso, há alguma coisa que
+você guarda como se fosse um tesouro?&lt;wait&gt;</Entry>
+  <Entry Index="83">Olá, &lt;playername&gt;. O que te traz aqui? Você veio para
+me ajudar a deixar o chão impecável?&lt;wait&gt;</Entry>
+  <Entry Index="84">Ha ha! De jeito nenhum! Eu nunca pediria para você limpar
+minha casa. Estou brincando.&lt;wait&gt;</Entry>
+  <Entry Index="85">Ah, a propósito... Estou curioso, existe alguma coisa
 que você guarda como um tesouro?&lt;wait&gt;</Entry>
   <Entry Index="86">Olha, eu estava tirando o pó das prateleiras quando 
-Encontrei este tesouro desde a minha infância.&lt;wait&gt;</Entry>
-  <Entry Index="87">É um relógio de pulso. Papai me deu há muito tempo
+encontrei este tesouro da minha infância.&lt;wait&gt;</Entry>
+  <Entry Index="87">É um relógio de pulso. Papai me deu há
 muitos anos.&lt;wait&gt;</Entry>
-  <Entry Index="88">Mas então ele foi caçar uma flor que
-supostamente pode curar a doença da mãe.
+  <Entry Index="88">Mas então ele foi procurar uma flor que
+supostamente poderia curar a doença da mamãe.
 Ele está desaparecido desde então.&lt;wait&gt;&lt;page&gt;
-O que você vai estar fazendo? Quando ele vai voltar? Não sabemos,
-porque não tivemos notícias dele novamente. Eu sei mãe lo
-sinto sua falta.&lt;wait&gt;</Entry>
-  <Entry Index="89">Ah... Nossa, desculpe. Este relógio traz de volta memórias e
-Eu me perdi lembrando do papai.&lt;espera&gt;&lt;page&gt;
+O que ele está fazendo? Quando irá voltar? Não sabemos,
+porque não tivemos notícias dele novamente. Eu sei que
+a mamãe sente a sua falta.&lt;wait&gt;</Entry>
+  <Entry Index="89">Ah... Nossa, desculpe. Este relógio traz de volta
+memórias e eu me perdi lembrando do papai.&lt;espera&gt;&lt;page&gt;
 Estou aborrecendo você, eu sei.&lt;wait&gt;</Entry>
   <Entry Index="90">Sim, suas histórias são péssimas.</Entry>
   <Entry Index="91">Você não está me entediando.</Entry>
   <Entry Index="92">Sim, suas histórias são péssimas.</Entry>
   <Entry Index="93">Você não está me entediando.</Entry>
-  <Entry Index="94">Sim, foi o que me pareceu. Não sei o que me fez pensar isso 
-Eu poderia te dizer. Desculpe.&lt;wait&gt;</Entry>
-  <Entry Index="95">Sim, foi o que me pareceu. Não sei o que me fez pensar isso 
-Eu poderia te dizer. Desculpe.&lt;wait&gt;</Entry>
+  <Entry Index="94">Sim, foi o que me pareceu. Não sei o que me fez pensar 
+que eu poderia te contar. Desculpe.&lt;wait&gt;</Entry>
+  <Entry Index="95">Sim, foi o que me pareceu. Não sei o que me fez pensar 
+que eu poderia te contar. Desculpe.&lt;wait&gt;</Entry>
   <Entry Index="96">De qualquer forma, vou descer, preciso de uma pausa.
 Venha comigo.&lt;wait&gt;</Entry>
   <Entry Index="97">De qualquer forma, vou descer, preciso de uma pausa. Venha
 comigo.&lt;wait&gt;</Entry>
-  <Entry Index="98">Esqueça o que eu disse antes, ok? Não é nada. Ah, e não eles
+  <Entry Index="98">Esqueça o que eu disse antes, ok? Não é nada. Ah, e
 não conte a mamãe ou Popuri sobre isso. Obrigado.&lt;wait&gt;</Entry>
   <Entry Index="99">Sério...? Agradeço por dizer isso.&lt;wait&gt;&lt;page&gt;
 Algo dentro de mim sabia que eu poderia me abrir e te dizer 
