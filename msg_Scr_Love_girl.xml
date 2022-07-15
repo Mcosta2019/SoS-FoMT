@@ -1516,16 +1516,16 @@ Eu só queria perguntar a você.&lt;wait&gt;&lt;page&gt;
 Até mais.&lt;wait&gt;</Entry>
   <Entry Index="641">Não... Não é nada.
 Eu só queria perguntar a você.&lt;wait&gt;</Entry>
-  <Entry Index="642">Nos vemos por aqui.&lt;wait&gt;</Entry>
+  <Entry Index="642">Nos vemos por aí.&lt;wait&gt;</Entry>
   <Entry Index="643">Falo com você em breve, ok?&lt;wait&gt;</Entry>
   <Entry Index="644">...&lt;wait&gt;</Entry>
   <Entry Index="645">Ninguém vai nos incomodar aqui.
 Sobre o que você disse antes...&lt;wait&gt;&lt;page&gt;
-Ele estava falando sério?&lt;wait&gt;</Entry>
+Você estava falando sério?&lt;wait&gt;</Entry>
   <Entry Index="646">Ah...&lt;wait&gt;</Entry>
   <Entry Index="647">Na verdade, desde que começamos a namorar, eu sabia
-que isso pode acontecer um dia, mas minha baixa 
-a autoestima me fez acreditar no contrário.&lt;wait&gt;&lt;page&gt;
+que isso poderia acontecer um dia, mas minha baixa 
+autoestima me fazia acreditar no contrário.&lt;wait&gt;&lt;page&gt;
 E ao mesmo tempo, meu coração me disse isso com uma namorada
 como você ao meu lado...&lt;wait&gt;&lt;page&gt;
 ...poderia encontrar a força para deixar para trás o que 
@@ -1533,43 +1533,45 @@ estava me segurando.&lt;wait&gt;</Entry>
   <Entry Index="648">Na verdade, desde que começamos a namorar, eu sabia
 que isso pode acontecer um dia, mas minha baixa 
 a autoestima me fez acreditar no contrário.&lt;wait&gt;&lt;page&gt;
-E ao mesmo tempo, meu coração me disse isso com um namorado
-como você ao meu lado...&lt;wait&gt;&lt;page&gt;
-...poderia encontrar a força para deixar para trás o que 
-estava me segurando.&lt;wait&gt;</Entry>
-  <Entry Index="649">Quero viver sempre ao seu lado, &lt;playername&gt;. Vamos lá
-dar o passo Vamos nos casar.&lt;wait&gt;</Entry>
-  <Entry Index="650">Quero viver sempre ao seu lado, &lt;playername&gt;. Vamos lá
-dar o passo Vamos nos casar.&lt;wait&gt;</Entry>
+E ao mesmo tempo, meu coração me fazia acreditar
+que com um namorado como você ao meu lado...&lt;wait&gt;&lt;page&gt;
+...poderia encontrar a força para deixar para trás
+o que estava me segurando.&lt;wait&gt;</Entry>
+  <Entry Index="649">Quero viver sempre ao seu lado, &lt;playername&gt;. Vamos
+dar mais um passo. Vamos nos casar.&lt;wait&gt;</Entry>
+  <Entry Index="650">Quero viver sempre ao seu lado, &lt;playername&gt;. Vamos
+dar mais um passo. Vamos nos casar.&lt;wait&gt;</Entry>
   <Entry Index="651">Juntos, podemos forjar nossa própria felicidade,
 &lt;playername&gt;. Eu farei o meu melhor para apoiá-lo em 
 tudo o que eu puder.&lt;wait&gt;</Entry>
   <Entry Index="652">Juntos, podemos forjar nossa própria felicidade,
 &lt;playername&gt;. Eu farei o meu melhor para apoiá-lo em 
 tudo o que eu puder.&lt;wait&gt;</Entry>
-  <Entry Index="653">Ok, se for decidido, teremos que 
-preparar para a cerimônia. Eu tenho que dizer a ele
-Vovô também.&lt;wait&gt;</Entry>
-  <Entry Index="654">Bem, então, se for decidido, teremos que 
-preparar para a cerimônia. Eu tenho que dizer a ele
-Vovô também.&lt;wait&gt;</Entry>
+  <Entry Index="653">Ok, se está decidido, teremos que 
+preparar a cerimônia. Eu tenho que contar ao
+vovô também.&lt;wait&gt;</Entry>
+  <Entry Index="654">Bem, então, se está decidido, teremos que 
+preparar a cerimônia. Eu tenho que contar ao
+vovô também.&lt;wait&gt;</Entry>
   <Entry Index="655">Entendo.
-Então você finalmente decidiu se casar.&lt;wait&gt;&lt;page&gt;
+Então vocês finalmente decidiram se casar.&lt;wait&gt;&lt;page&gt;
 Parabéns, Gray.
 E você também, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Ainda tem muito que amadurecer, mas espero que se cuidem
-Muito bom do meu neto.&lt;wait&gt;</Entry>
+Ainda tem muito o que amadurecer, mas espero que
+cuide muito bem do meu neto.&lt;wait&gt;</Entry>
   <Entry Index="656">Entendo.
-Então você finalmente decidiu se casar.&lt;wait&gt;&lt;page&gt;
+Então vocês finalmente decidiram se casar.&lt;wait&gt;&lt;page&gt;
 Parabéns, Gray.
 E você também, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Ainda tem muito que amadurecer, mas espero que se cuidem
-Muito bom do meu neto.&lt;wait&gt;</Entry>
-  <Entry Index="657">Você ainda está me tratando como uma criança? Até
-agora? Na frente da pessoa com quem vou me casar?&lt;wait&gt;</Entry>
+Ainda tem muito que amadurecer, mas espero que
+cuide muito bem do meu neto.&lt;wait&gt;</Entry>
+  <Entry Index="657">Você ainda está me tratando como uma criança?
+Mesmo agora? Na frente da pessoa com quem
+vou me casar?&lt;wait&gt;</Entry>
   <Entry Index="658">Claro que sim, garoto.&lt;wait&gt;&lt;page&gt;
-Não importa quão maduro você seja ou quão habilidoso você seja no 
-ferreiro, você sempre será meu pequeno Gray.&lt;wait&gt;&lt;page&gt;
+Não importa quão maduro ou o quão habilidoso você
+seja como ferreiro, você sempre será meu
+pequeno Gray.&lt;wait&gt;&lt;page&gt;
 Meu querido neto.
 Nunca se esqueça disso.&lt;wait&gt;</Entry>
   <Entry Index="659">Ah...!
@@ -1586,153 +1588,159 @@ Desejo a você e ao meu neto toda a felicidade do mundo,
 &lt;playername&gt;. Ele teve a sorte de encontrar um 
 homem como você.&lt;wait&gt;&lt;page&gt;
 Gray, não ouse machucá-la.&lt;wait&gt;</Entry>
-  <Entry Index="662">Deixe-me organizar o casamento. Vou preparar os convites
-e vou conversar com o povo da cidade.&lt;wait&gt;&lt;page&gt;
-Com tudo o que precisa ser feito, devemos poder comemorar 
-a cerimônia em cerca de uma semana.&lt;wait&gt;
-</Entry>
-  <Entry Index="663">Deixe-me organizar o casamento. Vou preparar os convites
-e vou conversar com o povo da cidade.&lt;wait&gt;&lt;page&gt;
-Com tudo o que precisa ser feito, devemos poder comemorar 
+  <Entry Index="662">Deixe-me organizar o casamento. Vou preparar os
+convites e falar com o povo da cidade.&lt;wait&gt;&lt;page&gt;
+Com tudo o que precisa ser feito, devemos poder realizar 
 a cerimônia em cerca de uma semana.&lt;wait&gt;</Entry>
-  <Entry Index="664">Entendi. Deixo em suas mãos, avô.&lt;wait&gt;</Entry>
-  <Entry Index="665">Queridos irmãos, estamos reunidos aqui hoje para ver
-&lt;nomedojogador&gt; e Gray se unem em sagrado matrimônio.
-Vamos começar.&lt;wait&gt;</Entry>
-  <Entry Index="666">Queridos irmãos, estamos reunidos aqui hoje para ver
-&lt;nomedojogador&gt; e Gray se unem em sagrado matrimônio.
-Vamos começar.&lt;wait&gt;</Entry>
-  <Entry Index="667">&lt;playername&gt;. Cinza. Você jura ser fiel o resto 
-suas vidas...&lt;wait&gt;&lt;page&gt;
-... e amá-lo e respeitá-lo nas alegrias e nas tristezas, no
-saúde e na doença? Agora e para sempre?&lt;wait&gt;</Entry>
+  <Entry Index="663">Deixe-me organizar o casamento. Vou preparar os
+convites e falar com o povo da cidade.&lt;wait&gt;&lt;page&gt;
+Com tudo o que precisa ser feito, devemos poder realizar 
+a cerimônia em cerca de uma semana.&lt;wait&gt;</Entry>
+  <Entry Index="664">Entendi. Deixo em suas mãos, vovô.&lt;wait&gt;</Entry>
+  <Entry Index="665">Queridos irmãos, estamos reunidos aqui hoje para
+celebrar a união de &lt;nomedojogador&gt; e Gray em
+sagrado matrimônio. Vamos começar.&lt;wait&gt;</Entry>
+  <Entry Index="666">Queridos irmãos, estamos reunidos aqui hoje para
+celebrar a união de &lt;nomedojogador&gt; e Gray em
+sagrado matrimônio. Vamos começar.&lt;wait&gt;</Entry>
+  <Entry Index="667">&lt;playername&gt;. Gray. Vocês juram serem fiéis
+pelo de resto suas vidas...&lt;wait&gt;&lt;page&gt;
+... e se amarem e se respeitarem nas alegrias e
+nas tristezas, na saúde e na doença?
+Agora e para sempre?&lt;wait&gt;</Entry>
   <Entry Index="668">&lt;playername&gt;, confio Gray a você.&lt;wait&gt;</Entry>
   <Entry Index="669">Parabéns! Ver dois pombinhos é sempre um 
 prazer, não importa quantos anos passem.&lt;wait&gt;</Entry>
   <Entry Index="670">Como você está feliz!
 Parabéns!&lt;wait&gt;</Entry>
-  <Entry Index="671">&lt;playername&gt;, vamos construir um futuro juntos
-brilhante e bonito.
-Te quero. ∀&lt;wait&gt;</Entry>
-  <Entry Index="672">&lt;playername&gt;, vamos construir um futuro juntos
-brilhante e bonito.
-Te quero. ∀&lt;wait&gt;</Entry>
-  <Entry Index="673">Uau, foi uma cerimônia e tanto. As fotos que temos 
-feito eles serão uma bela lembrança.&lt;wait&gt;</Entry>
+  <Entry Index="671">&lt;playername&gt;, vamos construir um futuro
+brilhante e bonito juntos.
+Eu te amo. ∀&lt;wait&gt;</Entry>
+  <Entry Index="672">&lt;playername&gt;, vamos construir um futuro
+brilhante e bonito juntos.
+Eu te amo. ∀&lt;wait&gt;</Entry>
+  <Entry Index="673">Uau, foi uma cerimônia e tanto. As fotos que 
+tiramos serão uma bela lembrança.&lt;wait&gt;</Entry>
   <Entry Index="674">O vovô finalmente chorou.
 Essa imagem ficou comigo.&lt;wait&gt;</Entry>
-  <Entry Index="675">Vamos morar juntos nesta casa a partir de agora.&lt;wait&gt;</Entry>
-  <Entry Index="676">A propósito, estive pensando... e se tivermos apelidos?&lt;wait&gt;&lt;page&gt;
+  <Entry Index="675">Vamos morar juntos nesta casa a partir
+de agora.&lt;wait&gt;</Entry>
+  <Entry Index="676">A propósito, estive pensando...
+e se tivéssemos apelidos?&lt;wait&gt;&lt;page&gt;
 Você pode me chamar do que quiser.&lt;wait&gt;&lt;page&gt;
 Mas como você quer que eu chame você, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="677">Uh... &lt;apelido&gt;. Está bem.
+  <Entry Index="677">Uh... &lt;nickname&gt;. Está bem.
 De agora em diante, é assim que vou chamá-lo.&lt;wait&gt;</Entry>
-  <Entry Index="678">Qual ​​nome você mais gosta?&lt;wait&gt;</Entry>
-  <Entry Index="679">&lt;apelido&gt;, hein? ∀ 
-Ok, eu realmente gosto do jeito que soa. Para nós
+  <Entry Index="678">Qual nome você mais gosta?&lt;wait&gt;</Entry>
+  <Entry Index="679">&lt;nickname&gt;, hein? ∀ 
+Ok, eu realmente gosto do jeito que soa. Para nossa
 nova vida juntos.&lt;wait&gt;</Entry>
   <Entry Index="680">A propósito, gostaria de continuar meu trabalho de 
 ferreiro, mesmo agora que estamos casados.&lt;wait&gt;</Entry>
   <Entry Index="681">Obrigado, &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="682">Bem, &lt;nickname&gt;, amanhã começa nosso 
+  <Entry Index="682">Bem, &lt;nickname&gt;, amanhã começa nossa 
 nova vida juntos. Eu sei que vamos nos sair muito bem.&lt;wait&gt;</Entry>
-  <Entry Index="683">Hein? Me perdoe. Eu não sabia que havia um paciente
-mais para ver.&lt;wait&gt;</Entry>
+  <Entry Index="683">Hein? Me perdoe. Eu não sabia que havia um
+paciente a mais para atender.&lt;wait&gt;</Entry>
   <Entry Index="684">Você não é daqui, é?&lt;wait&gt;</Entry>
   <Entry Index="685">Ah, entendo. Então você é &lt;playername&gt;,
-&lt;gender&gt;("o novo zelador","o novo zelador") dessa fazenda. Eu ouvi rumores 
-sobre você.&lt;wait&gt;&lt;page&gt;
-Meu nome é doutor. E como você pode ver, eu sou o médico do 
-zona. Se você se sentir mal, venha me ver imediatamente.&lt;wait&gt;</Entry>
-  <Entry Index="686">Meu nome é Doutor. E como você pode ver, eu sou o médico do 
-zona. Se você se sentir mal, venha me ver imediatamente.&lt;wait&gt;</Entry>
-  <Entry Index="687">Uau, mas é &lt;playername&gt;.
+&lt;gender&gt;("o novo fazendeiro","a nova fazendeira") dessa fazenda.
+Eu ouvi rumores sobre você.&lt;wait&gt;&lt;page&gt;
+Meu nome é Doutor. E como você pode ver, eu sou o
+médico da região. Se você se sentir mal, venha me
+ver imediatamente.&lt;wait&gt;</Entry>
+  <Entry Index="686">Meu nome é Doutor. E como você pode ver, eu sou o
+médico da região. Se você se sentir mal, venha me
+ver imediatamente.&lt;wait&gt;</Entry>
+  <Entry Index="687">Nossa, se não é &lt;playername&gt;.
 Você está comendo bem?&lt;wait&gt;</Entry>
-  <Entry Index="688">Isso é bom. Uma dieta equilibrada é essencial para 
-manter um corpo forte e saudável.&lt;wait&gt;</Entry>
+  <Entry Index="688">Isso é bom. Uma dieta equilibrada é essencial
+para manter um corpo forte e saudável.&lt;wait&gt;</Entry>
   <Entry Index="689">A maioria dos moradores é saudável.&lt;wait&gt;&lt;page&gt;
-Vivemos em um lugar onde as bênçãos do 
-a natureza parece ter eliminado a maioria 
-de doenças.&lt;wait&gt;</Entry>
+Vivemos em um lugar onde as bênçãos da
+natureza parecem ter eliminado a maioria 
+das doenças.&lt;wait&gt;</Entry>
   <Entry Index="690">Mas continuo estudando dia a dia. 
 A medicina é uma busca constante.&lt;wait&gt;&lt;page&gt;
 Ainda há muitos problemas não resolvidos, 
-até hoje.&lt;wait&gt;&lt;page&gt;
+mesmo hoje.&lt;wait&gt;&lt;page&gt;
 E você, &lt;playername&gt;?
 Trabalhar na fazenda é sem dúvida muito difícil.&lt;wait&gt;&lt;page&gt;
-Trabalhar na fazenda exige muito trabalho 
-fisica. Tome cuidado.&lt;wait&gt;&lt;page&gt;
-Para problemas médicos com os quais você não quer lidar 
-comigo, você pode falar com minha enfermeira, Elly.&lt;wait&gt;&lt;page&gt;
-De qualquer forma, estarei sempre aqui para lançar 
-uma mão em qualquer coisa relacionada à saúde.&lt;wait&gt;</Entry>
+Exige muito esforço fisico. Tome cuidado.&lt;wait&gt;&lt;page&gt;
+Para questões médicas que você não quer lidar comigo,
+você pode falar com minha enfermeira, Elly.&lt;wait&gt;&lt;page&gt;
+De qualquer forma, estarei sempre aqui para dar 
+uma mão a qualquer coisa relacionada à saúde.&lt;wait&gt;</Entry>
   <Entry Index="691">Mas continuo estudando dia após dia. A medicina
 é uma busca constante.&lt;wait&gt;&lt;page&gt;
 Ainda há muitos problemas não resolvidos, 
-até hoje.&lt;wait&gt;&lt;page&gt;
+mesmo hoje.&lt;wait&gt;&lt;page&gt;
 E você, &lt;playername&gt;?
 Trabalhar na fazenda é sem dúvida muito difícil.&lt;wait&gt;&lt;page&gt;
-Trabalhar na fazenda exige muito trabalho físico.
-Tome cuidado.&lt;wait&gt;&lt;page&gt;
-Para questões médicas que você não quer discutir comigo,
+Exige muito esforço físico. Tome cuidado.&lt;wait&gt;&lt;page&gt;
+Para questões médicas que você não quer lidar comigo,
 você pode falar com minha enfermeira, Elly.&lt;wait&gt;&lt;page&gt;
-De qualquer forma, estarei sempre aqui para tomar um 
-entregar qualquer coisa relacionada à saúde.&lt;wait&gt;</Entry>
+De qualquer forma, estarei sempre aqui para dar 
+uma mão a qualquer coisa relacionada à saúde.&lt;wait&gt;</Entry>
   <Entry Index="692">Ah! A propósito, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Acabei de pegar um remédio da cidade vizinha.
-Gostaria de experimentar algum?&lt;wait&gt;&lt;page&gt;
-Ao contrário do medicamento que normalmente é vendido
-por aqui, você pode restaurar a resistência e fadiga por 
-mesmo tempo.&lt;wait&gt;</Entry>
-  <Entry Index="693">Sua única falha é que o efeito não é muito grande
+Acabei de receber um remédio da cidade vizinha.
+Gostaria de experimentar?&lt;wait&gt;&lt;page&gt;
+Ao contrário dos medicamentos que normalmente são
+vendidos por aqui, você pode restaurar a resistência
+e fadiga ao mesmo tempo.&lt;wait&gt;</Entry>
+  <Entry Index="693">Sua única falha é que o efeito não é muito
 poderoso, por isso ainda não foi lançado.&lt;wait&gt;&lt;page&gt;
-Eu o melhorei para aumentar sua eficácia, embora a
-sabor costa.&lt;wait&gt;</Entry>
+Eu o melhorei para aumentar sua eficácia, embora as
+custas do sabor.&lt;wait&gt;</Entry>
   <Entry Index="694">Acho que vou passar.</Entry>
   <Entry Index="695">Um pouco de remédio não faz mal...</Entry>
-  <Entry Index="696">Diz-se que existe uma relação inversa entre gosto e 
-eficiência, então tenho certeza que funcionará.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="696">Diz-se que existe uma relação inversa entre gosto 
+e eficiência, então tenho certeza que funcionará.&lt;wait&gt;&lt;page&gt;
 Até eu tomo quando estou cansado.&lt;wait&gt;</Entry>
-  <Entry Index="697">Desculpe por tentar forçá-lo. pensei tipo 
-&lt;gender&gt;("proprietário","senhora") de uma fazenda, talvez você esteja interessado.&lt;wait&gt;</Entry>
-  <Entry Index="698">Você não precisa ficar com aquela cara cansada.&lt;wait&gt;</Entry>
-  <Entry Index="699">Mas você não deve superestimar suas habilidades. O orgulho
-ele pode pregar peças em você.&lt;wait&gt;</Entry>
-  <Entry Index="700">Uau, uau. Parece que consegui com você. Vamos lá,
+  <Entry Index="697">Desculpe por tentar forçá-lo. Pensei que como 
+&lt;gender&gt;("administrador","adminstradora") de uma fazenda,
+talvez estivesse interessado.&lt;wait&gt;</Entry>
+  <Entry Index="698">Você não precisa ficar com aquela cara
+cansada.&lt;wait&gt;</Entry>
+  <Entry Index="699">Mas você não deve superestimar suas habilidades.
+O orgulho pode pregar peças em você.&lt;wait&gt;</Entry>
+  <Entry Index="700">Nossa, uau. Parece que convenci você. Vamos lá,
 então. Tome de uma só vez.&lt;wait&gt;</Entry>
-  <Entry Index="701">Uau, vejo que tem um gosto tão ruim quanto eu esperava.&lt;wait&gt;</Entry>
+  <Entry Index="701">Nossa, vejo que tem um gosto tão ruim
+quanto eu esperava.&lt;wait&gt;</Entry>
   <Entry Index="702">Mas funciona, certo?&lt;wait&gt;</Entry>
-  <Entry Index="703">Eu tinha uma teoria de que você seria capaz de ver o valor disso
-medicamento. Quer mais?&lt;wait&gt;</Entry>
-  <Entry Index="704">Ha ha, desculpe. Não resisti em gastar um com você 
-Piada. Exceder a dose recomendada pode ter 
+  <Entry Index="703">Eu tinha uma teoria de que você seria capaz de
+ver o valor desse medicamento. Quer mais?&lt;wait&gt;</Entry>
+  <Entry Index="704">Ha ha, desculpe. Não resisti em gastar uma 
+piadacom você. Exceder a dose recomendada pode ter 
 efeitos colaterais.&lt;wait&gt;</Entry>
   <Entry Index="705">Obrigado pela visita, &lt;playername&gt;.
-Você me deu muito em que pensar.&lt;wait&gt;</Entry>
+Você me deu muito no que pensar.&lt;wait&gt;</Entry>
   <Entry Index="706">Tem certeza?
 Você não acha que vai se arrepender?&lt;wait&gt;</Entry>
   <Entry Index="707">Reconhecidamente, você tem um espírito aventureiro.&lt;wait&gt;</Entry>
-  <Entry Index="708">Hein? Você não tomou nada?
+  <Entry Index="708">Hein? Não tomou nada?
 Bem, eu não culpo você.&lt;wait&gt;</Entry>
-  <Entry Index="709">O médico é totalmente dedicado à sua pesquisa.
+  <Entry Index="709">O Doutor é totalmente dedicado à sua pesquisa.
 Eu poderia aprender muito com ele.&lt;wait&gt;</Entry>
   <Entry Index="710">&lt;playername&gt;, você veio na hora certa.&lt;wait&gt;</Entry>
   <Entry Index="711">Um novo medicamento chegou hoje.&lt;wait&gt;</Entry>
-  <Entry Index="712">Executar!</Entry>
+  <Entry Index="712">Fugir!</Entry>
   <Entry Index="713">Ah, sim! Substâncias experimentais!</Entry>
   <Entry Index="714">Ah, &lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="715">Nunca vi ninguém correr tão rápido.
+  <Entry Index="715">Nunca vi ninguém fugir tão rápido.
 Fiz algo errado?&lt;wait&gt;</Entry>
   <Entry Index="716">Ah! Eu sabia que você estaria interessado!&lt;wait&gt;&lt;page&gt;
 Um momento, por favor.
-Vou buscá-la.&lt;wait&gt;</Entry>
-  <Entry Index="717">O mesmo que antes, este medicamento restaura a resistência
-e fadiga ao mesmo tempo, mas duas vezes mais eficaz.&lt;wait&gt;&lt;page&gt;
-Vamos lá, &lt;playername&gt;: tudo de uma vez!&lt;wait&gt;</Entry>
-  <Entry Index="718">Esteja avisado, o sabor não está lá. Estão
+Vou buscá-lo.&lt;wait&gt;</Entry>
+  <Entry Index="717">O mesmo que antes, este medicamento restaura a
+resistência e a fadiga ao mesmo tempo,
+mas duas vezes mais eficaz.&lt;wait&gt;&lt;page&gt;
+Vamos lá, &lt;playername&gt;, tudo de uma vez!&lt;wait&gt;</Entry>
+  <Entry Index="718">Esteja avisado, o sabor não está tão
 desagradável como o último.&lt;wait&gt;</Entry>
-  <Entry Index="719">Independentemente disso, acredito que você entenderá os benefícios de 
-este medicamento.&lt;wait&gt;</Entry>
+  <Entry Index="719">Independentemente disso, acredito que você entenderá os
+benefícios deste medicamento.&lt;wait&gt;</Entry>
   <Entry Index="720">Admiro sua maturidade! Agora beba.&lt;wait&gt;</Entry>
   <Entry Index="721">Como você está se sentindo?&lt;wait&gt;</Entry>
   <Entry Index="722">&lt;playername&gt;!
@@ -1740,124 +1748,136 @@ Fique comigo!&lt;wait&gt;</Entry>
   <Entry Index="723">Elly, venha aqui! Corra!&lt;wait&gt;</Entry>
   <Entry Index="724">Sim senhor!&lt;wait&gt;</Entry>
   <Entry Index="725">Peço desculpas por hoje.&lt;wait&gt;&lt;page&gt;
-Como médico, eu não deveria ter colocado você em tal perigo.&lt;wait&gt;</Entry>
-  <Entry Index="726">A reação foi muito forte. E ainda assim, não
-Nada aconteceu quando eu peguei...&lt;wait&gt;</Entry>
+Como médico, eu não deveria ter colocado você em
+tal perigo.&lt;wait&gt;</Entry>
+  <Entry Index="726">A reação foi muito forte. E ainda assim,
+não aconteceu nada quando eu testei...&lt;wait&gt;</Entry>
   <Entry Index="727">Sinto muito. Fui longe demais.&lt;wait&gt;</Entry>
   <Entry Index="728">Você parece se sentir melhor agora.&lt;wait&gt;</Entry>
-  <Entry Index="729">O mais importante é que não teve efeito
+  <Entry Index="729">O mais importante é que não terá efeito
 a longo prazo.&lt;wait&gt;</Entry>
   <Entry Index="730">Doutor, evite experimentar novos medicamentos
 em seus pacientes, a partir de agora.&lt;wait&gt;</Entry>
   <Entry Index="731">Sim, desculpe.
-Perdoe-me por lhe dar tanto susto, Elly.&lt;wait&gt;</Entry>
-  <Entry Index="732">&lt;playername&gt;, você não sabe o quanto eu sinto muito
-o que aconteceu.&lt;wait&gt;&lt;page&gt;
-Aproveitei que você queria me ajudar a avançar em mim mesmo
+Perdoe-me por lhe dar esse susto, Elly.&lt;wait&gt;</Entry>
+  <Entry Index="732">&lt;playername&gt;, você não sabe o quanto eu sinto
+muito pelo que aconteceu.&lt;wait&gt;&lt;page&gt;
+Me aproveitei da sua ajuda para avançar meus
 estudo da medicina. Peço desculpas.&lt;wait&gt;</Entry>
   <Entry Index="733">Espero que isso não rompa nosso relacionamento.
 Gostaria de vê-lo novamente.&lt;wait&gt;</Entry>
   <Entry Index="734">Cuidado, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="735">Não se esforce demais, ok?&lt;wait&gt;</Entry>
-  <Entry Index="736">Se você se sentir mal, venha me ver imediatamente.&lt;wait&gt;</Entry>
+  <Entry Index="736">Se você se sentir mal, venha me ver
+imediatamente.&lt;wait&gt;</Entry>
   <Entry Index="737">Olá, &lt;playername&gt;.
 Você está trabalhando duro na fazenda?&lt;wait&gt;</Entry>
   <Entry Index="738">Bom, fico feliz em saber disso.&lt;wait&gt;</Entry>
-  <Entry Index="739">A propósito, o médico me disse que queria lhe dar algo.&lt;wait&gt;</Entry>
+  <Entry Index="739">A propósito, o Doutor me disse que
+queria lhe dar algo.&lt;wait&gt;</Entry>
   <Entry Index="740">O que será?</Entry>
-  <Entry Index="741">Traumas passados... retorna...</Entry>
+  <Entry Index="741">Traumas passados... retornam...</Entry>
   <Entry Index="742">Não precisa se preocupar.
-Desta vez tudo está sob controle.
-Eu nem me importaria de ser o único a experimentá-lo.&lt;wait&gt;</Entry>
+Desta vez está tudo sob controle. Eu nem me importaria
+de ser a única a experimentá-lo.&lt;wait&gt;</Entry>
   <Entry Index="743">De qualquer forma, vá vê-lo.&lt;wait&gt;</Entry>
   <Entry Index="744">Olá, &lt;playername&gt;.
 Eu estava esperando por você.&lt;wait&gt;&lt;page&gt;
-Hoje eu tinha pensado em dar a vocês algo que eu tinha guardado.&lt;wait&gt;&lt;page&gt;
+Hoje eu tinha pensado em dar a vocês algo que eu
+tinha guardado.&lt;wait&gt;&lt;page&gt;
 Até agora, eu tenho tentado arduamente 
-em pesquisar novas drogas enquanto faz o 
+pesquisar novos medicamentos enquanto faço os
 exames médicos.&lt;wait&gt;&lt;page&gt;
 E nos últimos meses tenho pesquisado... isso.&lt;wait&gt;</Entry>
-  <Entry Index="745">Talvez esteja fora do campo da medicina, mas já está feito
-ganhou alguma popularidade entre os habitantes da cidade.&lt;wait&gt;</Entry>
-  <Entry Index="746">Gostaria que o povo de Mineral Town soubesse disso.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="745">Talvez esteja fora do campo da medicina, mas já
+ganhou alguma popularidade entre os habitantes
+da cidade.&lt;wait&gt;</Entry>
+  <Entry Index="746">Gostaria que o povo da Cidade Mineral
+soubesse disso.&lt;wait&gt;&lt;page&gt;
 E para isso, preciso de alguém para testá-lo.&lt;wait&gt;&lt;page&gt;
-Já que você é uma das pessoas mais trabalhadoras que 
-Eu sei, pensei em perguntar a você.&lt;wait&gt;</Entry>
+Já que você é uma das pessoas mais esforçadas que 
+conheço, pensei em perguntar a você.&lt;wait&gt;</Entry>
   <Entry Index="747">Chama-se "terapia de ionização negativa" e quando 
 aplicado, supostamente tem um efeito relaxante.&lt;wait&gt;&lt;page&gt;
-Quando uma pessoa é carregada com íons negativos, seu 
-os processos mentais fluem mais suavemente e você pode 
-relaxe mais facilmente.&lt;wait&gt;&lt;page&gt;
-Por exemplo, quando você anda na floresta, você senta com 
-forças renovadas, certo?&lt;wait&gt;&lt;page&gt;
-Isso porque certas áreas das florestas produzem 
+Quando uma pessoa é carregada com íons negativos, seus
+processos mentais fluem mais suavemente e você pode 
+relaxar mais facilmente.&lt;wait&gt;&lt;page&gt;
+Por exemplo, quando você anda no bosque, você se sente
+com as forças renovadas, certo?&lt;wait&gt;&lt;page&gt;
+Isso porque certas áreas dos bosques produzem 
 uma enorme quantidade de íons negativos.&lt;wait&gt;</Entry>
   <Entry Index="748">Fico feliz por você se sentir bem.&lt;wait&gt;&lt;page&gt;
-Mens sana in corpore sana, ou assim dizem. Isso demonstra o 
-estreita relação entre o coração e o corpo.&lt;wait&gt;&lt;page&gt;
+Mens sana in corpore sana, ou é o que dizem.
+Isso demonstra a estreita relação entre o
+coração e o corpo.&lt;wait&gt;&lt;page&gt;
 A verdade é que acho que o melhor caminho para o 
-Bem-estar é viver com otimismo e minimizar
+bem-estar é viver com otimismo e minimizar o
 estresse.&lt;wait&gt;</Entry>
-  <Entry Index="749">Claro, também existem pessoas como Lillia, que tem 
-nasceu com uma doença.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="749">Claro, também existem pessoas como Lillia, que 
+nascem com uma doença.&lt;wait&gt;&lt;page&gt;
 Pretendo continuar minha pesquisa para o bem das pessoas
 como ela.&lt;wait&gt;</Entry>
-  <Entry Index="750">Hein? Você está surpreso que eu me importo tanto com meus pacientes?&lt;wait&gt;&lt;page&gt;
-Nerd. É o que um bom médico faria.
+  <Entry Index="750">Hein? Você está surpreso que eu me importo tanto
+com meus pacientes?&lt;wait&gt;&lt;page&gt;
+Tolo. É o que um bom médico faria.
 É meu trabalho.&lt;wait&gt;&lt;page&gt;
 Ainda assim, ouvindo você dizer isso...&lt;wait&gt;</Entry>
-  <Entry Index="751">Na minha idade, raramente recebo elogios tão sinceros.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="751">Na minha idade, raramente recebo elogios
+tão sinceros.&lt;wait&gt;&lt;page&gt;
 Estou um pouco envergonhado por você dizer isso 
 em voz alta. Obrigado.&lt;wait&gt;</Entry>
-  <Entry Index="752">Vamos continuar perseguindo nossas respectivas paixões.
-Diga-me se a terapia teve algum efeito positivo.&lt;wait&gt;</Entry>
+  <Entry Index="752">Vamos continuar perseguindo nossas respectivas
+paixões. Diga-me se a terapia teve algum
+efeito positivo.&lt;wait&gt;</Entry>
   <Entry Index="753">Parece que você não está muito animado.&lt;wait&gt;&lt;page&gt;
 Não vou forçá-lo a fazer isso, mas pense nos sentimentos
-por Doutor.&lt;wait&gt;</Entry>
+do Doutor.&lt;wait&gt;</Entry>
   <Entry Index="754">O campo da medicina é excitante. Espero manter 
-entusiasmo pelo aprendizado.&lt;wait&gt;</Entry>
+o entusiasmo pelo aprendizado.&lt;wait&gt;</Entry>
   <Entry Index="755">Ótimo! Talvez eu tente também.&lt;wait&gt;</Entry>
   <Entry Index="756">&lt;playername&gt;, você pode vir aqui por um momento?&lt;wait&gt;</Entry>
-  <Entry Index="757">O médico está se comportando de forma estranha. Parece
-perdido em seus pensamentos e ele não pode apagar isso 
-expressão facial mal-humorada.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="757">O Doutor está se comportando de forma estranha.
+Parece perdido em seus pensamentos e ele não consegue
+tirar essa expressão mal-humorada.&lt;wait&gt;&lt;page&gt;
 Tentei falar com ele, mas ele me ignora 
 completamente.&lt;wait&gt;&lt;page&gt;
-Se você não tem planos hoje, você poderia tentar 
+Se você não tiver planos hoje, você poderia tentar 
 falar com ele?&lt;wait&gt;</Entry>
-  <Entry Index="758">Obrigado. Vá em frente.&lt;wait&gt;</Entry>
+  <Entry Index="758">Obrigada. Vá em frente.&lt;wait&gt;</Entry>
   <Entry Index="759">Ah, é você.
-Ei? Elly está preocupada comigo?&lt;wait&gt;&lt;page&gt;
+Hein? Elly está preocupada comigo?&lt;wait&gt;&lt;page&gt;
 Ah, eu odeio causar tantos problemas.
 Estive pensando profundamente hoje.&lt;wait&gt;</Entry>
-  <Entry Index="760">Eu estava pensando na maneira como interajo com meu 
-pacientes. Há algo em mim que os faz pensar que eu sou muito
-distante.&lt;wait&gt;&lt;page&gt;
-Eu gostaria de poder fazer algo para corrigi-lo. O que você acha?&lt;wait&gt;</Entry>
+  <Entry Index="760">Eu estava pensando na maneira como interajo com
+meus pacientes. Há algo em mim que os faz pensar
+que eu sou muito distante.&lt;wait&gt;&lt;page&gt;
+Eu gostaria de poder fazer algo para mudar.
+O que você acha?&lt;wait&gt;</Entry>
   <Entry Index="761">Abra seu coração.</Entry>
   <Entry Index="762">Os médicos devem ter seus limites.</Entry>
-  <Entry Index="763">Abra meu coração, você diz?
+  <Entry Index="763">Abrir meu coração, você diz?
 Entendo.&lt;wait&gt;&lt;page&gt;
 Você deve ter notado que eu não sou o tipo de homem
 que fala abertamente com os outros.&lt;wait&gt;&lt;page&gt;
-Talvez do seu ponto de vista, eu tenha construído um muro
-entre nós.&lt;wait&gt;</Entry>
-  <Entry Index="764">É estranho. Eu nunca tinha falado sobre o meu 
+Talvez do seu ponto de vista, eu tenha construído um
+muro entre nós.&lt;wait&gt;</Entry>
+  <Entry Index="764">É estranho. Eu nunca tinha falado sobre as minhas
 preocupações com outra pessoa, e ainda...&lt;wait&gt;&lt;page&gt;
-De alguma forma, me sinto mais confortável quando estou 
-com você, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="765">Seja qual for o motivo, não posso esconder nada de você.&lt;wait&gt;</Entry>
-  <Entry Index="766">Sim... Agora entendi. Isto é o que significa abrir seu 
-coração para alguém.&lt;wait&gt;</Entry>
-  <Entry Index="767">É estranho. Eu nunca tinha falado sobre o meu 
-preocupações com outra pessoa, e ainda assim eu posso
-conte para você.&lt;wait&gt;</Entry>
-  <Entry Index="768">Obrigado. Sua calma me dá confiança. Eu vou continuar
-trabalhando duro.&lt;wait&gt;</Entry>
+De alguma forma, me sinto mais confortável quando
+estou com você, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="765">Seja qual for o motivo, não consigo esconder
+nada de você.&lt;wait&gt;</Entry>
+  <Entry Index="766">Sim... Agora entendi. Isto é o que significa abrir
+seu coração para alguém.&lt;wait&gt;</Entry>
+  <Entry Index="767">É estranho. Eu nunca tinha falado sobre as minhas 
+preocupações com outra pessoa, e ainda assim eu
+consigo contar para você.&lt;wait&gt;</Entry>
+  <Entry Index="768">Obrigado. Sua paciência me dá confiança.
+Eu vou continuar trabalhando duro.&lt;wait&gt;</Entry>
   <Entry Index="769">Ummm... Você realmente acha isso, &lt;playername&gt;?&lt;wait&gt;&lt;page&gt;
 Vou tentar mudar as coisas.&lt;wait&gt;&lt;page&gt;
 Devo pensar em algo...
-De qualquer forma, peço desculpas por ter você 
+De qualquer forma, peço desculpas por ter lhe 
 incomodado com uma pergunta tão estranha.&lt;wait&gt;</Entry>
   <Entry Index="770">&lt;playername&gt;, obrigado.
 Farei o meu melhor.&lt;wait&gt;</Entry>
@@ -1866,95 +1886,99 @@ Farei o meu melhor.&lt;wait&gt;</Entry>
   <Entry Index="773">Ele está muito mais atencioso do que antes.&lt;wait&gt;</Entry>
   <Entry Index="774">Ninguém deve nos incomodar aqui.&lt;wait&gt;&lt;page&gt;
 Sobre o que você mencionou antes...
-Ele estava falando sério?&lt;wait&gt;&lt;page&gt;
+Estava falando sério?&lt;wait&gt;&lt;page&gt;
 Quero dizer... casar comigo.&lt;wait&gt;</Entry>
   <Entry Index="775">Ninguém deve nos incomodar aqui.&lt;wait&gt;&lt;page&gt;
 Sobre o que você mencionou antes...
-Ele estava falando sério?&lt;wait&gt;&lt;page&gt;
+Estava falando sério?&lt;wait&gt;&lt;page&gt;
 Quero dizer... casar comigo.&lt;wait&gt;</Entry>
-  <Entry Index="776">Por alguma razão, minha cabeça se recusa a aceitar
-esta realidade.&lt;wait&gt;</Entry>
+  <Entry Index="776">Por alguma razão, minha cabeça se recusa a
+aceitar esta realidade.&lt;wait&gt;</Entry>
   <Entry Index="777">Mesmo que seja o futuro que eu sonhei
 desde que começamos a namorar.&lt;wait&gt;&lt;page&gt;
-Apesar de toda a minha experiência na área de 
+Apesar de toda a minha experiência na área da
 medicina, ainda tenho problemas no coração.
 Confesso que estava esperando o momento.&lt;wait&gt;&lt;page&gt;
-Se você está disposto a me aturar, então minha resposta 
-é se. Quer casar comigo?&lt;wait&gt;</Entry>
+Se você está disposto a me aturar, então minha
+resposta é sim. Quer casar comigo?&lt;wait&gt;</Entry>
   <Entry Index="778">Mesmo que seja o futuro que eu sonhei
 desde que começamos a namorar.&lt;wait&gt;&lt;page&gt;
-Apesar de toda a minha experiência na área de 
+Apesar de toda a minha experiência na área da 
 medicina, ainda tenho problemas no coração.
 Confesso que estava esperando o momento.&lt;wait&gt;&lt;page&gt;
-Se você está disposto a me aturar, então minha resposta 
-é se. Quer casar comigo?&lt;wait&gt;</Entry>
+Se você está disposto a me aturar, então minha
+resposta é sim. Quer casar comigo?&lt;wait&gt;</Entry>
   <Entry Index="779">Aaah... parece que estou sonhando.
 Vamos encontrar a felicidade juntos, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="780">Bom. É hora de eu voltar para a clínica. Deixe-me
-cuide dos preparativos do casamento.&lt;wait&gt;</Entry>
-  <Entry Index="781">Ah, então você vai se casar?
+cuidar dos preparativos do casamento.&lt;wait&gt;</Entry>
+  <Entry Index="781">Ah, então vocês vão se casar?
 Parabéns!&lt;wait&gt;</Entry>
-  <Entry Index="782">Ah, então você vai se casar?
+  <Entry Index="782">Ah, então vocês vão se casar?
 Parabéns!&lt;wait&gt;</Entry>
-  <Entry Index="783">Devemos isso à graça da deusa.
+  <Entry Index="783">Devemos isso à graça da Deusa.
 Espero que você encontre a felicidade eterna.&lt;wait&gt;&lt;page&gt;
-Desde que te vi falando tão cúmplice em casa
-do médico...&lt;wait&gt;&lt;page&gt;
-Eu sabia que você se casaria um dia.&lt;wait&gt;&lt;page&gt;
-Seria uma honra oficializar o casamento de dois dos meus entes queridos
-amigos.&lt;wait&gt;</Entry>
-  <Entry Index="784">Devemos isso à graça da deusa.
+Desde que vi vocês conversando tão intimamente na
+casa do Doutor...&lt;wait&gt;&lt;page&gt;
+Eu sabia que vocês se casariam um dia.&lt;wait&gt;&lt;page&gt;
+Seria uma honra oficializar o casamento de dois dos
+meus entes queridos e amigos.&lt;wait&gt;</Entry>
+  <Entry Index="784">Devemos isso à graça da Deusa.
 Espero que você encontre a felicidade eterna.&lt;wait&gt;&lt;page&gt;
-Desde que te vi falando tão cúmplice em casa
-do médico...&lt;wait&gt;&lt;page&gt;
-Eu sabia que você se casaria um dia.&lt;wait&gt;&lt;page&gt;
-Seria uma honra oficializar o casamento de dois dos meus entes queridos
-amigos.&lt;wait&gt;</Entry>
+Desde que vi vocês conversando tão intimamente na
+casa do Doutor...&lt;wait&gt;&lt;page&gt;
+Eu sabia que vocês se casariam um dia.&lt;wait&gt;&lt;page&gt;
+Seria uma honra oficializar o casamento de dois dos
+meus entes queridos e amigos.&lt;wait&gt;</Entry>
   <Entry Index="785">Obrigado, Carter.
 E você também, Thomas.&lt;wait&gt;</Entry>
   <Entry Index="786">Deixe-me cuidar dos preparativos do casamento.&lt;wait&gt;&lt;page&gt;
-Cuidarei dos convites e informarei o 
-habitantes da cidade.&lt;wait&gt;&lt;page&gt;
-Considerando todos os preparativos que precisam ser feitos, 
-Imagino que o casamento será em uma semana mais ou menos.&lt;wait&gt;</Entry>
+Cuidarei dos convites e informarei aos
+moradores da cidade.&lt;wait&gt;&lt;page&gt;
+Considerando todos os preparativos que precisam ser
+feitos, imagino que o casamento será em uma semana
+ mais ou menos.&lt;wait&gt;</Entry>
   <Entry Index="787">Deixe-me cuidar dos preparativos do casamento.&lt;wait&gt;&lt;page&gt;
-Cuidarei dos convites e informarei o 
-habitantes da cidade.&lt;wait&gt;&lt;page&gt;
-Considerando todos os preparativos que precisam ser feitos, 
-Imagino que o casamento será em uma semana mais ou menos.&lt;wait&gt;</Entry>
+Cuidarei dos convites e informarei aos
+moradores da cidade.&lt;wait&gt;&lt;page&gt;
+Considerando todos os preparativos que precisam ser
+feitos, imagino que o casamento será em uma semana
+ mais ou menos.&lt;wait&gt;</Entry>
   <Entry Index="788">Obrigado. Vá em frente.&lt;wait&gt;</Entry>
-  <Entry Index="789">Queridos irmãos, estamos reunidos aqui hoje para ver
-para &lt;nomedojogador&gt; e Doutor se unem no sagrado 
-casado. Vamos começar.&lt;wait&gt;</Entry>
-  <Entry Index="790">Queridos irmãos, estamos reunidos aqui hoje para ver
-&lt;nomedojogador&gt; e Doutor se unem no sagrado 
-casado. Vamos começar.&lt;wait&gt;</Entry>
-  <Entry Index="791">&lt;playername&gt;. Médico. Você jura ser fiel o resto 
-suas vidas...&lt;wait&gt;&lt;page&gt;
-... e amá-lo e respeitá-lo nas alegrias e nas tristezas, no
-saúde e na doença? Agora e para sempre?&lt;wait&gt;</Entry>
+  <Entry Index="789">Queridos irmãos, estamos reunidos aqui hoje para
+celebrar a união de &lt;playername&gt; e Doutor em
+sagrado matrimônio. Vamos começar.&lt;wait&gt;</Entry>
+  <Entry Index="790">Queridos irmãos, estamos reunidos aqui hoje para
+celebrar a união de &lt;playername&gt; e Doutor em
+sagrado matrimônio. Vamos começar.&lt;wait&gt;</Entry>
+  <Entry Index="791">&lt;playername&gt;. Doutor. Vocês juram serem fiéis
+pelo resto de suas vidas...&lt;wait&gt;&lt;page&gt;
+... e ase amarem e se respeitarem nas alegrias e
+nas tristezas, na saúde e na doença?
+Agora e para sempre?&lt;wait&gt;</Entry>
   <Entry Index="792">Você está radiante. ♪&lt;esperar&gt;</Entry>
-  <Entry Index="793">&lt;playername&gt;! Médico!
-Desejo-lhe o melhor nesta nova etapa da sua vida!&lt;wait&gt;</Entry>
-  <Entry Index="794">Que linda cerimônia. Tem sido o melhor remédio que 
-poderia ter feito hoje.&lt;wait&gt;</Entry>
+  <Entry Index="793">&lt;playername&gt;! Doutor!
+Desejo-lhes o melhor nesta nova etapa das
+suas vida!&lt;wait&gt;</Entry>
+  <Entry Index="794">Que linda cerimônia. Tem sido o melhor remédio
+que eu poderia ter feito até hoje.&lt;wait&gt;</Entry>
   <Entry Index="795">&lt;playername&gt;, vamos nos esforçar ao máximo 
-apoiar uns aos outros.&lt;wait&gt;&lt;page&gt;
+para apoiar um ao outro.&lt;wait&gt;&lt;page&gt;
 Tenho certeza que juntos conseguiremos superar 
 qualquer obstáculo.&lt;wait&gt;</Entry>
   <Entry Index="796">Finalmente estamos em casa.
 Ugh... Estou exausto.&lt;wait&gt;</Entry>
   <Entry Index="797">Mas eu me diverti muito. A cerimônia, o banquete...
 Todos fizeram tanto por nós que quase
-Sinto-me culpado.&lt;wait&gt;</Entry>
+me sinto culpado.&lt;wait&gt;</Entry>
   <Entry Index="798">E agora... nossa vida juntos começa.&lt;wait&gt;</Entry>
   <Entry Index="799">Ah, agora que penso nisso...&lt;wait&gt;&lt;page&gt;
 Como devemos nos chamar de agora em diante?&lt;wait&gt;</Entry>
-  <Entry Index="800">Entendi, &lt;apelido&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="801">Gostaria que eu o chamasse de outra coisa?&lt;wait&gt;</Entry>
-  <Entry Index="802">&lt;nickname&gt;, quero que saiba que tenho o 
-intenção de continuar trabalhando na clínica para o bem de 
-essas pessoas.&lt;wait&gt;</Entry>
+  <Entry Index="800">Entendi, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="801">Gostaria que eu o chamasse de outra forma?&lt;wait&gt;</Entry>
+  <Entry Index="802">&lt;nickname&gt;, quero que saiba que tenho a 
+intenção de continuar trabalhando na clínica para o
+bem dessas pessoas.&lt;wait&gt;</Entry>
   <Entry Index="803">Obrigado, &lt;nickname&gt;.&lt;wait&gt;</Entry>
   <Entry Index="804">Bem, &lt;apelido&gt;...
 Um brinde à nossa nova vida juntos.&lt;wait&gt;</Entry>
@@ -2070,7 +2094,7 @@ Um brinde à nossa nova vida juntos.&lt;wait&gt;</Entry>
   <Entry Index="914">0</Entry>
   <Entry Index="915">Rick 1/2</Entry>
   <Entry Index="916">←</Entry>
-  <Entry Index="917">Reunião</Entry>
+  <Entry Index="917">Namoro</Entry>
   <Entry Index="918">1</Entry>
   <Entry Index="919">2</Entry>
   <Entry Index="920">3</Entry>
@@ -2080,27 +2104,29 @@ Um brinde à nossa nova vida juntos.&lt;wait&gt;</Entry>
   <Entry Index="924">Apelido</Entry>
   <Entry Index="925">Voltar ao início</Entry>
   <Entry Index="926">Sair</Entry>
-  <Entry Index="927">Penhasco 1/2</Entry>
-  <Entry Index="928">Penhasco 2/2</Entry>
+  <Entry Index="927">Cliff 1/2</Entry>
+  <Entry Index="928">Cliff 2/2</Entry>
   <Entry Index="929">Doutor 1/2</Entry>
   <Entry Index="930">Doutor 2/2</Entry>
   <Entry Index="931">Kai 1/2</Entry>
   <Entry Index="932">Kai 2/2</Entry>
-  <Entry Index="933">Cinza 1/2</Entry>
-  <Entry Index="934">Cinza 2/2</Entry>
+  <Entry Index="933">Gray 1/2</Entry>
+  <Entry Index="934">Gray 2/2</Entry>
   <Entry Index="935">Ok. Acho que ninguém vai nos incomodar aqui.&lt;wait&gt;</Entry>
-  <Entry Index="936">Só para ter certeza de que entendi, você está dizendo 
-você quer que sejamos namorados, certo?&lt;wait&gt;&lt;page&gt;
+  <Entry Index="936">Só para ter certeza de que entendi, você está
+dizendo quer que sejamos namorados, certo?&lt;wait&gt;&lt;page&gt;
 Uau... meu coração disparou...&lt;wait&gt;</Entry>
-  <Entry Index="937">Só para ter certeza de que estou entendendo, você é
-Dizendo que quer que sejamos namorados, certo?&lt;wait&gt;&lt;page&gt;
+  <Entry Index="937">Só para ter certeza de que estou entendendo, você
+está dizendo que quer que sejamos namorados, certo?&lt;wait&gt;&lt;page&gt;
 Uau... meu coração disparou...&lt;wait&gt;</Entry>
-  <Entry Index="938">Claro que a resposta é sim. Como estou feliz por 
-você quer sair comigo!&lt;wait&gt;</Entry>
+  <Entry Index="938">Claro que a resposta é sim. Como estou feliz 
+por você querer ficar comigo!&lt;wait&gt;</Entry>
   <Entry Index="939">&lt;playername&gt;, você não tem ideia de como estou feliz por 
-dentro de. Eu sou seu namorado! Sinceramente, estou lisonjeado.&lt;wait&gt;</Entry>
+dentro. Eu sou seu namorado! Sinceramente,
+estou lisonjeado.&lt;wait&gt;</Entry>
   <Entry Index="940">&lt;playername&gt;, você não tem ideia de como estou feliz por 
-dentro de. Eu sou seu namorado! Sinceramente, estou lisonjeado.&lt;wait&gt;</Entry>
+dentro. Eu sou seu namorado! Sinceramente,
+estou lisonjeado.&lt;wait&gt;</Entry>
   <Entry Index="941">De qualquer forma, tenho que voltar ao trabalho.
 Até mais!&lt;wait&gt;</Entry>
   <Entry Index="942">Puta merda! &lt;playername&gt;!
