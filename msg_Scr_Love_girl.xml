@@ -619,89 +619,95 @@ não vou discutir.&lt;wait&gt;</Entry>
   <Entry Index="268">Sei que o trabalho agrícola não é brincadeira.
 Tenha cuidado, ok? Faça isso por mim.&lt;wait&gt;</Entry>
   <Entry Index="269">Ei, &lt;playername&gt;! Aqui!&lt;wait&gt;</Entry>
-  <Entry Index="270">Olá, &lt;playername&gt;! Desculpe, mas o refeitório
-está fechado.&lt;wait&gt;</Entry>
-  <Entry Index="271">Não, não é que seja ruim. Eu precisava girar um 
-algo que está em minha mente há muito tempo.&lt;wait&gt;</Entry>
-  <Entry Index="272">Não se preocupe, não é nada sério. Ei, por que você não 
-faça uma pausa e venha ver o mar comigo?&lt;wait&gt;</Entry>
-  <Entry Index="273">Nossa, não há nada melhor do que o cheiro salgado do mar
-grudado nas narinas e no som das ondas, né?&lt;espera&gt;</Entry>
+  <Entry Index="270">Olá, &lt;playername&gt;! Desculpe, mas a cozinha
+está fechada.&lt;wait&gt;</Entry>
+  <Entry Index="271">Não, não não tem nada de errado. Eu precisava
+pensar um pouco em algo que está na minha mente há
+muito tempo.&lt;wait&gt;</Entry>
+  <Entry Index="272">Não se preocupe, não é nada sério. Ei, por que
+você não faz uma pausa e vem ver o mar comigo?&lt;wait&gt;</Entry>
+  <Entry Index="273">Nossa, não há nada melhor do que o cheiro salgado
+do mar entrando pelas narinas e o som das
+ondas, né?&lt;espera&gt;</Entry>
   <Entry Index="274">Às vezes eu gostaria de sentar aqui, desligar o 
 cérebro e olhar para o mar para sempre...&lt;wait&gt;</Entry>
   <Entry Index="275">Hein? Você acha que há algo me incomodando?&lt;wait&gt;</Entry>
-  <Entry Index="276">Uau. Sinto muito. Eu não queria te preocupar, mas eu acho 
-Eu não sou bom em esconder que há algo errado comigo
-comendo dentro.&lt;wait&gt;</Entry>
-  <Entry Index="277">Ugh. Que mais dá. Não adianta guardar pra mim 
-para mim, então eu vou perguntar se você é &lt;gender&gt;("willing","willing")
-para ouvir.&lt;wait&gt;</Entry>
-  <Entry Index="278">Você provavelmente pensa que é bobagem, mas eu tenho 
-Tenho andado muito por aí, ok?&lt;wait&gt;&lt;page&gt;
-Olha, você sabe que eu sou uma pessoa que sempre diz lo
-que pensa. Eu sou assim com todo mundo, mas aparentemente 
-alguns acham que é rude.&lt;wait&gt;</Entry>
+  <Entry Index="276">Nossa. Sinto muito. Eu não queria te preocupar,
+mas eu acho que não sou bom em esconder que há algo
+de errado nutrindo dentro mim.&lt;wait&gt;</Entry>
+  <Entry Index="277">Ugh. O que fazer. Não adianta guardar
+para mim, então eu vou perguntar se você está
+&lt;gender&gt;("disposto","disposta") para ouvir.&lt;wait&gt;</Entry>
+  <Entry Index="278">Você provavelmente pensará que é bobagem, mas eu 
+tenho andado muito por aí, ok?&lt;wait&gt;&lt;page&gt;
+Olha, você sabe que eu sou uma pessoa que sempre fala
+o que pensa. Eu sou assim com todo mundo, mas
+aparentemente alguns acham que é rude.&lt;wait&gt;</Entry>
   <Entry Index="279">Para dizer a verdade, não entendo onde está o problema.
 Mas está claro que algumas pessoas estão muito chateadas.&lt;wait&gt;</Entry>
-  <Entry Index="280">E não é como se eu me importasse com o que você pensa
-a gente. Eu nunca senti a necessidade de mudar 
+  <Entry Index="280">E não é como se eu me importasse com o que elas
+pesam. Eu nunca senti a necessidade de mudar 
 para agradá-los.&lt;wait&gt;</Entry>
-  <Entry Index="281">Mas ultimamente tenho me perguntado se devo
-fazer alguma coisa, mesmo que apenas para tirá-los da sua cabeça
+  <Entry Index="281">Mas ultimamente tenho me perguntado se devo fazer alguma
+coisa, mesmo que apenas para tirar das suas cabeças
 aquela imagem esquisita que eles tem de mim.&lt;wait&gt;&lt;page&gt;
 O que você acha, &lt;playername&gt;?&lt;wait&gt;</Entry>
   <Entry Index="282">Não deixe que isso afete você.</Entry>
   <Entry Index="283">Uma abordagem diferente faria bem a você.</Entry>
   <Entry Index="284">Você não precisa mudar para ninguém.</Entry>
-  <Entry Index="285">Você deve fazer um pouco de sua parte.</Entry>
-  <Entry Index="286">Não deixe isso me afetar? Sabes que?
+  <Entry Index="285">Você deve fazer um pouco da sua parte.</Entry>
+  <Entry Index="286">Não deixar isso me afetar? Quer saber?
 Eu me sinto muito melhor sabendo que posso 
-contando com você, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Sim tem razão! Eu não deveria beber 
-tão peito Obrigado!&lt;wait&gt;</Entry>
-  <Entry Index="287">É melhor se for eu mesmo. Mude para agradar
-outros só vão me fazer sentir pior. Está claro.&lt;wait&gt;</Entry>
-  <Entry Index="288">Não muda para ninguém? Sabes que? Eu sinto muito 
-melhor saber que posso contar com você,
+contar com você, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Sim tem razão! Eu não deveria me preocupar 
+tanto. Obrigado!&lt;wait&gt;</Entry>
+  <Entry Index="287">É melhor se eu for eu mesmo. Mudar para agradar
+outros só vai me fazer sentir pior.
+Está claro.&lt;wait&gt;</Entry>
+  <Entry Index="288">Não mudar por ninguém? Quer saber? Eu me
+sinto muito melhor sabendo que posso contar com você,
 &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Sim tem razão! Eu não deveria levar isso tão difícil.
+Sim tem razão! Eu não deveria levar isso tão a sério.
 Obrigado!&lt;wait&gt;</Entry>
-  <Entry Index="289">Uau... então você pensa o mesmo também? Você pensa
+  <Entry Index="289">Uau... então você pensa o mesmo também? Você acha
 que meu jeito de falar com as pessoas é rude?&lt;wait&gt;&lt;page&gt;
-Está bem. Não sei se vou conseguir, mas vou tentar mudar meu 
-maneira de ser.&lt;wait&gt;</Entry>
+Está bem. Não sei se vou conseguir, mas vou tentar mudar 
+minha maneira de ser.&lt;wait&gt;</Entry>
   <Entry Index="290">O quê? Você também acha que eu sou rude? Oh...
-Você me deixou atordoado. Eu não esperava isso de você.&lt;wait&gt;&lt;page&gt;
-Está bem. Não sei se vou conseguir, mas vou tentar mudar meu 
-maneira de ser.&lt;wait&gt;</Entry>
-  <Entry Index="291">Obrigado por ouvir, &lt;playername&gt;. Me alegro
+Você me deixou atordoado. Eu não esperava isso
+de você.&lt;wait&gt;&lt;page&gt;
+Está bem. Não sei se vou conseguir, mas vou tentar mudar 
+minha maneira de ser.&lt;wait&gt;</Entry>
+  <Entry Index="291">Obrigado por ouvir, &lt;playername&gt;. Fico feliz
 que conversamos sobre isso.&lt;wait&gt;</Entry>
-  <Entry Index="292">*suspiro* Então eu tenho que melhorar minhas maneiras, hein?
-Isso vai me custar caro.&lt;wait&gt;</Entry>
+  <Entry Index="292">*suspiro* Então eu tenho que melhorar minhas
+maneiras, hein? Isso vai me custar caro.&lt;wait&gt;</Entry>
   <Entry Index="293">Aqui podemos conversar em particular.
 Bem... você pode dizer isso de novo?&lt;wait&gt;&lt;page&gt;
-E ei... espero que isso não seja uma piada de mau gosto, hein?&lt;wait&gt;</Entry>
-  <Entry Index="294">Sei que você não é esse tipo de pessoa, mas tudo isso é
-tão repentino... É difícil absorver tudo de uma vez.&lt;wait&gt;</Entry>
+E ei... espero que isso não seja uma piada
+de mau gosto, ok?&lt;wait&gt;</Entry>
+  <Entry Index="294">Sei que você não é esse tipo de pessoa,
+mas isso é tão repentino...
+É difícil absorver tudo de uma vez.&lt;wait&gt;</Entry>
   <Entry Index="295">Ha ha... Parece que estamos pensando a mesma coisa.&lt;wait&gt;</Entry>
-  <Entry Index="296">Desde que estamos namorando, gosto de ter você ao meu lado todo
-dia mais e mais e...&lt;wait&gt;&lt;page&gt;
-Eu estava começando a pensar que eu gostaria que fosse assim 
-para sempre...&lt;wait&gt;</Entry>
-  <Entry Index="297">Desde que estamos namorando, gosto de ter você ao meu lado todo
-dia mais e mais e...&lt;wait&gt;&lt;page&gt;
-Eu estava começando a pensar que eu gostaria que fosse assim 
-para sempre...&lt;wait&gt;</Entry>
-  <Entry Index="298">Que diabos! Minha resposta é sim! Eu te amo e eu amo
-passar o resto dos meus dias com você.&lt;wait&gt;</Entry>
-  <Entry Index="299">Que diabos! Minha resposta é sim! Eu te amo e eu amo
-passar o resto dos meus dias com você.&lt;wait&gt;</Entry>
-  <Entry Index="300">Cara, se isso é um sonho, eu nunca quero que acabe!
-Seremos o casamento perfeito, &lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="301">Mas agora tenho que voltar para o refeitório.
-Eu direi ao prefeito.&lt;wait&gt;</Entry>
+  <Entry Index="296">Desde que estamos namorando, gosto de ter
+você ao meu lado todos os dias, mais e mais e...&lt;wait&gt;&lt;page&gt;
+Eu estava começando a pensar que eu gostaria que fosse
+assim para sempre...&lt;wait&gt;</Entry>
+  <Entry Index="297">Desde que estamos namorando, gosto de ter você
+ao meu lado todos os dias mais e mais e...&lt;wait&gt;&lt;page&gt;
+Eu estava começando a pensar que eu gostaria que fosse
+assim para sempre...&lt;wait&gt;</Entry>
+  <Entry Index="298">Que diabos! Minha resposta é sim! Eu te amo e
+eu amaria passar o resto dos meus dias com você.&lt;wait&gt;</Entry>
+  <Entry Index="299">Que diabos! Minha resposta é sim! Eu te amo e
+eu amaria passar o resto dos meus dias com você.&lt;wait&gt;</Entry>
+  <Entry Index="300">Cara, se isso é um sonho, eu espero não
+acordar jamais! Seremos o casal perfeito, &lt;playername&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="301">Mas agora tenho que voltar para a cozinha.
+Eu falarei com o prefeito.&lt;wait&gt;</Entry>
   <Entry Index="302">O próximo passo é contar a todos. Quero que
-que haja uma cerimônia e um banquete para todos.&lt;wait&gt;</Entry>
+que haja uma cerimônia e um banquete.&lt;wait&gt;</Entry>
   <Entry Index="303">Ah, você vai se casar? Que maravilha! Parabéns a ambos!&lt;wait&gt;</Entry>
   <Entry Index="304">Ah, você vai se casar? Que maravilha! Parabéns a ambos!&lt;wait&gt;</Entry>
   <Entry Index="305">Parabéns Kai, &lt;playername&gt;!&lt;wait&gt;</Entry>
@@ -709,84 +715,91 @@ que haja uma cerimônia e um banquete para todos.&lt;wait&gt;</Entry>
   <Entry Index="307">Deixe os preparativos do casamento comigo.&lt;wait&gt;&lt;page&gt;
 Cuidarei de reservar um lugar e enviar todos os 
 convites.&lt;wait&gt;&lt;page&gt;
-Considerando todos os preparativos que precisam ser feitos, 
-Imagino que o casamento será em uma semana mais ou menos.&lt;wait&gt;</Entry>
+Considerando todos os preparativos que precisam
+ser feitos, imagino que o casamento será em uma
+ semana mais ou menos.&lt;wait&gt;</Entry>
   <Entry Index="308">Deixe os preparativos do casamento comigo.&lt;wait&gt;&lt;page&gt;
 Cuidarei de reservar um lugar e enviar todos os 
 convites.&lt;wait&gt;&lt;page&gt;
-Considerando todos os preparativos que precisam ser feitos, 
-Imagino que o casamento será em uma semana mais ou menos.&lt;wait&gt;</Entry>
+Considerando todos os preparativos que precisam
+ser feitos, imagino que o casamento será em uma
+semana mais ou menos.&lt;wait&gt;</Entry>
   <Entry Index="309">Deixe os preparativos do casamento comigo.&lt;wait&gt;&lt;page&gt;
 Cuidarei de reservar um lugar e enviar todos os 
 convites.&lt;wait&gt;&lt;page&gt;
-Considerando todos os preparativos que precisam ser feitos, 
-Acho que teremos que adiar a cerimônia até 
-primeiro dia de outono.&lt;wait&gt;</Entry>
+Considerando todos os preparativos que precisam
+ser feitos, acho que teremos que adiar a cerimônia
+até o primeiro dia do outono.&lt;wait&gt;</Entry>
   <Entry Index="310">Deixe os preparativos do casamento comigo.&lt;wait&gt;&lt;page&gt;
 Cuidarei de reservar um lugar e enviar todos os 
 convites.&lt;wait&gt;&lt;page&gt;
-Considerando todos os preparativos que precisam ser feitos, 
-Acho que teremos que adiar a cerimônia até 
-primeiro dia de outono.&lt;wait&gt;</Entry>
+Considerando todos os preparativos que precisam
+ser feitos, acho que teremos que adiar a cerimônia
+até o primeiro dia de outono.&lt;wait&gt;</Entry>
   <Entry Index="311">Ótimo! Obrigado.&lt;wait&gt;</Entry>
-  <Entry Index="312">Queridos irmãos, estamos reunidos aqui hoje para ver
-&lt;nomedojogador&gt; e Kai se unem em sagrado matrimônio.
-Vamos começar.&lt;wait&gt;</Entry>
-  <Entry Index="313">Queridos irmãos, estamos reunidos aqui hoje para ver
-&lt;nomedojogador&gt; e Kai se unem em sagrado matrimônio.
-Vamos começar.&lt;wait&gt;</Entry>
-  <Entry Index="314">&lt;playername&gt;. Kai. Você jura ser fiel o resto 
-suas vidas...&lt;wait&gt;&lt;page&gt;
-... e amá-lo e respeitá-lo nas alegrias e nas tristezas, no
-saúde e na doença? Agora e para sempre?&lt;wait&gt;</Entry>
+  <Entry Index="312">Queridos irmãos, estamos reunidos aqui hoje para
+celebrar a união de &lt;nomedojogador&gt; e Kai em
+sagrado matrimônio. Vamos começar.&lt;wait&gt;</Entry>
+  <Entry Index="313">Queridos irmãos, estamos reunidos aqui hoje para
+celebrar a união de &lt;nomedojogador&gt; e Kai em
+sagrado matrimônio. Vamos começar.&lt;wait&gt;</Entry>
+  <Entry Index="314">&lt;playername&gt;. Kai. Vocês juram serem fiéis
+pelo resto de suas vidas...&lt;wait&gt;&lt;page&gt;
+... e se amarem e se respeitarem nas alegrias e
+nas tristezas, na saúde e na doença?
+Agora e para sempre?&lt;wait&gt;</Entry>
   <Entry Index="315">Parabéns Kai! Parabéns, &lt;playername&gt;!&lt;wait&gt;&lt;page&gt;
 Tentem fazer o outro feliz, ok?&lt;wait&gt;</Entry>
   <Entry Index="316">Parabéns a ambos. &lt;playername&gt;, não deixe 
-Kai nunca perde o interesse em você, para que a
-bom dia desapareça, hein?&lt;wait&gt;</Entry>
-  <Entry Index="317">Uau! Como voce é bonito! Desejo-lhe o melhor!&lt;wait&gt;</Entry>
+Kai perde o interesse em você jamais, para que esse
+belo dia nunca desapareça, hein?&lt;wait&gt;</Entry>
+  <Entry Index="317">Nossa! Como voces estão bonitos!
+Desejo-lhes o melhor!&lt;wait&gt;</Entry>
   <Entry Index="318">Finalmente estaremos juntos para sempre,
 &lt;playername&gt;... Eu te amo. ∀&lt;wait&gt;</Entry>
   <Entry Index="319">Finalmente estaremos juntos para sempre,
 &lt;playername&gt;... Eu te amo. ∀&lt;wait&gt;</Entry>
-  <Entry Index="320">Meu Deus! Eu posso finalmente respirar. A cerimônia, o
-banquete, fotos... Este dia foi um turbilhão de 
+  <Entry Index="320">Meu Deus! Eu posso finalmente respirar. A cerimônia,
+o banquete, fotos... Este dia foi um turbilhão de 
 emoções!&lt;wait&gt;</Entry>
-  <Entry Index="321">Meu Deus! Eu posso finalmente respirar. A cerimônia, o
-banquete, fotos... Este dia foi um turbilhão de 
+  <Entry Index="321">Meu Deus! Eu posso finalmente respirar. A cerimônia,
+o banquete, fotos... Este dia foi um turbilhão de 
 emoções!&lt;wait&gt;</Entry>
-  <Entry Index="322">O Sr. Thomas tem sido ótimo. A verdade que não
-Eu esperava. Traga todas essas coisas para nós...&lt;wait&gt;</Entry>
-  <Entry Index="323">E agora... Já era hora de eu ter um minuto a sós com
-minha garota.&lt;wait&gt;</Entry>
-  <Entry Index="324">E agora... Já era hora de eu ter um minuto a sós com
-meu menino.&lt;wait&gt;</Entry>
+  <Entry Index="322">O Sr. Thomas tem sido ótimo. A verdade é que
+eu não esperava que fizesse todas essas coisas
+para nós...&lt;wait&gt;</Entry>
+  <Entry Index="323">E agora... Já era hora de eu ter um minuto a
+sós com minha garota.&lt;wait&gt;</Entry>
+  <Entry Index="324">E agora... Já era hora de eu ter um minuto a
+sós com meu garoto.&lt;wait&gt;</Entry>
   <Entry Index="325">A propósito, agora que estamos casados, que tal 
-damos apelidos carinhosos um ao outro? Não é uma boa ideia?&lt;wait&gt;&lt;page&gt;
+daemos apelidos carinhosos um ao outro?
+Não é uma boa ideia?&lt;wait&gt;&lt;page&gt;
 Pode me chamar de Kai, como sempre.&lt;wait&gt;&lt;page&gt;
-Mas como você quer que eu ligue para você?&lt;wait&gt;</Entry>
+Mas como você gostaria que te chamasse?&lt;wait&gt;</Entry>
   <Entry Index="326">Entendi! Então está decidido.&lt;wait&gt;</Entry>
   <Entry Index="327">Entendi! Então está decidido.
-Vou chamá-lo de &lt;apelido&gt;. ∀&lt;wait&gt;</Entry>
-  <Entry Index="328">Outra coisa? E como você quer que eu ligue para você?&lt;wait&gt;</Entry>
-  <Entry Index="329">Entendi! De agora em diante, é assim que eu vou te chamar,
-&lt;apelido&gt;. ∀&lt;wait&gt;</Entry>
-  <Entry Index="330">Ah, sim! Quase me esqueço. Agora que estamos casados, eu sou 
-pensando em criar raízes aqui em Mineral City.&lt;wait&gt;&lt;page&gt;
-Você se importa se eu combinar meu trabalho aqui e no 
-café?&lt;wait&gt;&lt;page&gt;
+Vou chamá-lo de &lt;nickname&gt;. ∀&lt;wait&gt;</Entry>
+  <Entry Index="328">Outra coisa? E como você quer que eu te chame?&lt;wait&gt;</Entry>
+  <Entry Index="329">Entendi! De agora em diante, é assim que eu vou
+te chamar, &lt;nickname&gt;. ∀&lt;wait&gt;</Entry>
+  <Entry Index="330">Ah, sim! Quase me esqueci. Agora que estamos casados,
+eu estou pensando em criar raízes aqui na
+Cidade Mineral.&lt;wait&gt;&lt;page&gt;
+Você se importaria se eu conciliasse meu trabalho aqui
+e no café?&lt;wait&gt;&lt;page&gt;
 Embora, pensando bem, seria divertido ter um 
 café de verão aberto o ano todo, certo?
 Uau.&lt;wait&gt;</Entry>
-  <Entry Index="331">Obrigado, &lt;apelido&gt;. Obrigado.&lt;wait&gt;</Entry>
-  <Entry Index="332">Ei, vamos lá. É uma tarefa muito complicada. Estarei aqui para 
-manhãs e noites, ok?&lt;wait&gt;</Entry>
-  <Entry Index="333">Uau, &lt;apelido&gt;. Estou desejando começar 
+  <Entry Index="331">Obrigado, &lt;nickname&gt;. Obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="332">Ei, vamos lá. É uma tarefa muito complicada.
+Estarei aqui durante as manhãs e as noites, ok?&lt;wait&gt;</Entry>
+  <Entry Index="333">Uau, &lt;nickname&gt;. Estou desejando começar 
 nossa vida juntos. ∀&lt;wait&gt;</Entry>
-  <Entry Index="334">Uau, &lt;apelido&gt;. Mal posso esperar para passar o 
-resto da minha vida com você. ∀&lt;wait&gt;</Entry>
-  <Entry Index="335">Uau, não me lembro de ter visto você aqui antes. Chá
-se importa se eu roubar um pouco do seu tempo?&lt;wait&gt;</Entry>
+  <Entry Index="334">Uau, &lt;nickname&gt;. Mal posso esperar para passar
+o resto da minha vida com você. ∀&lt;wait&gt;</Entry>
+  <Entry Index="335">Nossa, não me lembro de ter visto você aqui antes.
+Se importa se eu roubar um pouco do seu tempo?&lt;wait&gt;</Entry>
   <Entry Index="336">Você é &lt;playername&gt;, &lt;gender&gt;("the","the") que acabou de se mudar para lá
 fazenda, certo?&lt;wait&gt;</Entry>
   <Entry Index="337">Eu sou Carter, o padre desta humilde igreja.
