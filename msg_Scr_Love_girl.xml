@@ -3010,15 +3010,15 @@ Eu vou indo, então. Eu tenho coisas para fazer.
 Até mais.&lt;wait&gt;</Entry>
   <Entry Index="1276">Ei, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
 Eu sei que é um pouco repentino, mas você poderia vir
-para minha casa?&lt;wait&gt;</Entry>
-  <Entry Index="1277">Não, nada está errado. Carter me deu alguns 
+até a minha casa?&lt;wait&gt;</Entry>
+  <Entry Index="1277">Não, não tem nada errado. Carter me deu algumas 
 ervas e cogumelos selvagens, então...&lt;wait&gt;&lt;page&gt;
 ... Queria aproveitar para fazer 
 um pouco de café com ervas... hein?
-Que as pessoas chamam de chá?&lt;wait&gt;</Entry>
+O que as pessoas chamam de chá?&lt;wait&gt;</Entry>
   <Entry Index="1278">Não se preocupe.
-Eu tentei desta vez.&lt;wait&gt;&lt;page&gt;
-É muito bom, então eu queria compartilhar com vocês 
+Eu provei desta vez.&lt;wait&gt;&lt;page&gt;
+É muito bom, então eu queria compartilhar com vocês
 depois de tudo que você suportou.&lt;wait&gt;&lt;page&gt;
 Você virá?&lt;wait&gt;</Entry>
   <Entry Index="1279">Perfeito. Vamos lá então.&lt;wait&gt;</Entry>
@@ -3026,133 +3026,141 @@ Você virá?&lt;wait&gt;</Entry>
 Espero não estar incomodando.&lt;wait&gt;</Entry>
   <Entry Index="1281">Olá, &lt;playername&gt;.
 Espero não estar incomodando.&lt;wait&gt;</Entry>
-  <Entry Index="1282">Ok, vou direto para a cozinha fazer uma xícara para você.&lt;wait&gt;&lt;page&gt;
-Por favor, sente-se. Vou esperar um momento.&lt;wait&gt;</Entry>
+  <Entry Index="1282">Ok, vou direto para a cozinha preparar
+uma xícara para você.&lt;wait&gt;&lt;page&gt;
+Por favor, sente-se. Espere um momento.&lt;wait&gt;</Entry>
   <Entry Index="1283">&lt;playername&gt;...
 Vejo que você ainda tem dúvidas.
 Bem, isso é normal.&lt;wait&gt;&lt;page&gt;
-O médico me encorajou... a tentar o dele 
-medicamentos, então eu entendo como você se sente.&lt;wait&gt;&lt;page&gt;
-Mas desta vez ele conseguiu inventar algo extraordinário. Nenhum
-Nem tem gosto de cogumelos.&lt;wait&gt;</Entry>
+O Doutor me encorajou... a provar os medicamento
+dele, então eu entendo como você se sente.&lt;wait&gt;&lt;page&gt;
+Mas desta vez ele conseguiu inventar algo extraordinário.
+Nem gosto de cogumelos tem.&lt;wait&gt;</Entry>
   <Entry Index="1284">&lt;playername&gt;...
 Vejo que você ainda tem dúvidas.
 Bem, isso é normal.&lt;wait&gt;&lt;page&gt;
-O médico me encorajou... a tentar o dele 
-medicamentos, então eu entendo como você se sente.&lt;wait&gt;&lt;page&gt;
-Mas desta vez ele conseguiu inventar algo extraordinário. Nenhum
-Nem tem gosto de cogumelos.&lt;wait&gt;</Entry>
-  <Entry Index="1285">Desculpe deixá-lo esperando.
-Aqui tens. Bebê.&lt;wait&gt;</Entry>
-  <Entry Index="1286">Isso é bom? Mas é claro que sim! Como isso poderia ser
-capaz de prescrever-lhe outro teste de mau gosto!&lt;wait&gt;</Entry>
-  <Entry Index="1287">Hein? Você teria problemas para beber isso diariamente? Oh
-bem, é engraçado você dizer isso...&lt;wait&gt;&lt;page&gt;
+O Doutor me encorajou... a provar os medicamento
+dele, então eu entendo como você se sente.&lt;wait&gt;&lt;page&gt;
+Mas desta vez ele conseguiu inventar algo extraordinário.
+Nem gosto de cogumelos tem.&lt;wait&gt;</Entry>
+  <Entry Index="1285">Desculpe deixá-los esperando.
+Aqui está. Bebam.&lt;wait&gt;</Entry>
+  <Entry Index="1286">Isso é bom? Mas é claro que sim! Como eu poderia
+ser capaz de prescrever-lhe outro teste
+de gosto ruim!&lt;wait&gt;</Entry>
+  <Entry Index="1287">Hein? Você teria problemas para beber isso
+diariamente? Oh bem, é engraçado você
+dizer isso...&lt;wait&gt;&lt;page&gt;
 acho que... dessa vez não tomei nota 
 da receita que usei.&lt;wait&gt;&lt;page&gt;
-Eu não mudei nada sobre o sabor, mas por algum motivo,
-É delicioso.&lt;wait&gt;</Entry>
+Eu não mudei nada sobre o sabor, mas por algum
+motivo, é delicioso.&lt;wait&gt;</Entry>
   <Entry Index="1288">Em outras palavras... é aleatório. Muito pouco
-cientista, eu sei.&lt;wait&gt;&lt;page&gt;
-Para que o sucesso de hoje se repita, dependemos do 
+cientifico, eu sei.&lt;wait&gt;&lt;page&gt;
+Para que o sucesso de hoje se repita, dependemos das
 ervas que Carter me traz.&lt;wait&gt;</Entry>
-  <Entry Index="1289">Não dependa de outros.</Entry>
+  <Entry Index="1289">Não dependa dos outros.</Entry>
   <Entry Index="1290">Na próxima vez, anote a receita.</Entry>
-  <Entry Index="1291">Enquanto você está nisso, pegue um bisturi e me corte até o núcleo,
-&lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Para sua informação, eu mesma preparei o café.&lt;wait&gt;</Entry>
+  <Entry Index="1291">Enquanto você estava nisso, peguei um bisturi
+e me cortei até o núcleo, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Para sua informação, eu mesma preparei o chá.&lt;wait&gt;</Entry>
   <Entry Index="1292">Sim, você está absolutamente certo.
 Desculpe... Ha ha ha...&lt;wait&gt;</Entry>
   <Entry Index="1293">Ha ha ha...&lt;wait&gt;</Entry>
   <Entry Index="1294">Doutor e você formam um casal
 maravilhoso, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Fico feliz que você tenha encontrado sua cara metade.&lt;wait&gt;&lt;page&gt;
-Ele pode ser um pouco excêntrico às vezes. Só uma mulher
-especial pode mantê-lo sob controle.&lt;wait&gt;</Entry>
-  <Entry Index="1295">Doutor e vocês formam um casal maravilhoso,
+Fico feliz que você tenha encontrado sua
+cara metade.&lt;wait&gt;&lt;page&gt;
+Ele pode ser um pouco excêntrico às vezes. Só uma
+mulher especial poderia mantê-lo sob controle.&lt;wait&gt;</Entry>
+  <Entry Index="1295">Doutor e você formam um casal maravilhoso,
 &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Fico feliz que você tenha encontrado sua cara metade.&lt;wait&gt;&lt;page&gt;
-Ele pode ser um pouco excêntrico às vezes. Apenas um homem
-especial pode mantê-lo sob controle.&lt;wait&gt;</Entry>
-  <Entry Index="1296">Você também acha, Carter? O que há em mim que inspira
-Tanta desconfiança?&lt;wait&gt;</Entry>
+Fico feliz que você tenha encontrado sua
+cara metade.&lt;wait&gt;&lt;page&gt;
+Ele pode ser um pouco excêntrico às vezes. Apenas um
+homem especial poderia mantê-lo sob controle.&lt;wait&gt;</Entry>
+  <Entry Index="1296">Você também acha, Carter? O que há em mim que
+passa tanta desconfiança?&lt;wait&gt;</Entry>
   <Entry Index="1297">Bem, em primeiro lugar, pessoas normais não forçam 
-pessoas que acabaram de conhecer para tomar remédio
+pessoas que acabaram de conhecer para tomar remédios
 que ainda estão em desenvolvimento.&lt;wait&gt;</Entry>
   <Entry Index="1298">Como você sabe que...?&lt;wait&gt;</Entry>
   <Entry Index="1299">Ha ha, eu me pergunto...&lt;wait&gt;</Entry>
-  <Entry Index="1300">Bem... admito que às vezes não sigo os procedimentos
-mais ético.&lt;wait&gt;</Entry>
+  <Entry Index="1300">Bem... admito que às vezes não sigo os
+procedimentos mais éticos.&lt;wait&gt;</Entry>
   <Entry Index="1301">Talvez eu tenha cruzado a linha, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1302">Hein? Só fiz isso porque sou apaixonada pelo que estou fazendo 
-investigando, sabe?&lt;wait&gt;</Entry>
+  <Entry Index="1302">Hein? Só fiz isso porque sou apaixonada pelo que
+estou investigando, sabia?&lt;wait&gt;</Entry>
   <Entry Index="1303">Fico aliviado em ouvir você dizer isso.&lt;wait&gt;&lt;page&gt;
-Ajuda-me a pensar que as decisões que tomei não são 
-eles foram um fracasso total.&lt;wait&gt;&lt;page&gt;
+Ajuda-me a pensar que as decisões que tomei não
+foram um fracasso total.&lt;wait&gt;&lt;page&gt;
 Obrigado, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1304">Cada um de nós está predestinado a conhecer o
-pessoa que nos complementa. Aquele em que 
-podemos apoiar uns aos outros.&lt;wait&gt;&lt;page&gt;
-E devemos tudo à deusa que cuida de nós.&lt;wait&gt;</Entry>
+  <Entry Index="1304">Cada um de nós está predestinado a conhecer a
+pessoa que nos complementa. Aquele em quem 
+podemos apoiar um ao outro.&lt;wait&gt;&lt;page&gt;
+E devemos tudo à Deusa que cuida de nós.&lt;wait&gt;</Entry>
   <Entry Index="1305">Sim... Claro que acho que sim.&lt;wait&gt;&lt;page&gt;
-Com sua ajuda, continuarei trabalhando para revolucionar o 
-mundo da medicina.&lt;wait&gt;</Entry>
-  <Entry Index="1306">Ai! É certamente uma meta grandiosa, mas...&lt;wait&gt;</Entry>
-  <Entry Index="1307">Talvez você deva primeiro se concentrar em aprender a 
-anote os passos das receitas.&lt;wait&gt;</Entry>
+Com sua ajuda, continuarei trabalhando para revolucionar 
+o mundo da medicina.&lt;wait&gt;</Entry>
+  <Entry Index="1306">Ah! É certamente uma meta grandiosa, mas...&lt;wait&gt;</Entry>
+  <Entry Index="1307">Talvez você deva primeiro se concentrar em aprender 
+a anotar os passos das receitas.&lt;wait&gt;</Entry>
   <Entry Index="1308">Sim, não me diga duas vezes...&lt;wait&gt;</Entry>
   <Entry Index="1309">Ei, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Eu estava pensando em dar um passeio para limpar minha mente
-por um momento.&lt;wait&gt;&lt;page&gt;
+Eu estava pensando em dar um passeio para limpar
+minha mente por um momento.&lt;wait&gt;&lt;page&gt;
 Quer se juntar a mim?&lt;wait&gt;</Entry>
   <Entry Index="1310">Bom. Vamos lá.&lt;wait&gt;</Entry>
-  <Entry Index="1311">Vamos lá, eles são Doutor e &lt;playername&gt;. Olá.&lt;wait&gt;</Entry>
+  <Entry Index="1311">Vamos lá, são o Doutor e &lt;playername&gt;. Olá.&lt;wait&gt;</Entry>
   <Entry Index="1312">Olá, Mugi.
 Espero que esteja tudo bem?&lt;wait&gt;</Entry>
   <Entry Index="1313">Claro.&lt;wait&gt;&lt;page&gt;
-Minhas juntas antigas estão mais fortes do que nunca sem
-dúvida graças a você me ajudar quando eu precisei.&lt;wait&gt;</Entry>
+Minhas juntas antigas estão mais fortes do que nunca, sem
+dúvida graças a sua ajuda quando eu precisei.&lt;wait&gt;</Entry>
   <Entry Index="1314">Isso é bom.
 Mas tenha cuidado.&lt;wait&gt;</Entry>
-  <Entry Index="1315">Mesmo que seja apenas um pulso torcido, se você não tiver 
-cuidados durante o processo de cicatrização...&lt;wait&gt;</Entry>
-  <Entry Index="1316">Sim, doutor, terei cuidado.&lt;wait&gt;&lt;page&gt;
-Ah, por falar nisso. Eu queria te dar esse leite do meu rancho,
-se você aceitar.&lt;wait&gt;&lt;page&gt;
-Eu estava a caminho da clínica para dar a você como agradecimento
-por cuidar de mim.&lt;wait&gt;</Entry>
-  <Entry Index="1317">Uau...
+  <Entry Index="1315">Mesmo que seja apenas um pulso torcido,
+se você não tiver cuidados durante o processo
+de cicatrização...&lt;wait&gt;</Entry>
+  <Entry Index="1316">Sim, Doutor, terei cuidado.&lt;wait&gt;&lt;page&gt;
+Ah, por falar nisso. Eu queria te dar esse leite do
+meu rancho, se você aceitar.&lt;wait&gt;&lt;page&gt;
+Eu estava a caminho da clínica para dar a você como
+agradecimento por cuidar de mim.&lt;wait&gt;</Entry>
+  <Entry Index="1317">Nossa...
 É um gesto muito gentil. Obrigado.&lt;wait&gt;</Entry>
   <Entry Index="1318">De nada, Doutor.&lt;wait&gt;&lt;page&gt;
 Bem, se você me dá licença...
 Tenha um bom dia com &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="1319">Thomas. Olá.&lt;wait&gt;</Entry>
-  <Entry Index="1320">Uau, mas eles são Doutor e &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1320">Nossa, mas são Doutor e &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="1321">A propósito, Doutor...
 Passei na casa da Lillia.&lt;wait&gt;&lt;page&gt;
-Vejo que o novo remédio que você prescreveu para ele é
+Vejo que o novo remédio que você prescreveu para ela é
 muito efetivo. Ela está encantada com isso.&lt;wait&gt;</Entry>
-  <Entry Index="1322">Ah, sim?
+  <Entry Index="1322">Ah, sério?
 Fico feliz em saber disso.&lt;wait&gt;</Entry>
   <Entry Index="1323">Lillia queria agradecer a você também, então talvez
-você pode passar na casa dele quando tiver uma vaga.&lt;wait&gt;&lt;page&gt;
-Ela é muito grata pelo remédio, mas também muito
-feliz por você ter falado mais durante 
+você possa passar na casa dela quando tiver
+um tempo.&lt;wait&gt;&lt;page&gt;
+Ela é muito grata pelo remédio, mas também ficou muito
+feliz por você ter conversado mais durante 
 sua última visita.&lt;wait&gt;</Entry>
   <Entry Index="1324">Ela... lhe disse isso?&lt;wait&gt;</Entry>
   <Entry Index="1325">Exatamente.&lt;wait&gt;&lt;page&gt;
-Ellen estava dizendo a mesma coisa: que seus visitantes tendem a 
-durar mais do que o normal.&lt;wait&gt;&lt;page&gt;
+Ellen estava dizendo a mesma coisa: que suas visitantes
+estão durando mais do que o normal.&lt;wait&gt;&lt;page&gt;
 Como prefeito, não tenho palavras para expressar o quanto 
-que me alegra. Espero que continue cuidando das pessoas 
+me alegra. Espero que continue cuidando das pessoas 
 da cidade.&lt;wait&gt;</Entry>
-  <Entry Index="1326">Você pode se surpreender, mas isso nunca aconteceu antes.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="1326">Você pode se surpreender, mas isso nunca
+aconteceu antes.&lt;wait&gt;&lt;page&gt;
 Ninguém parou para falar comigo a menos que fosse 
 para uma emergência médica.&lt;wait&gt;</Entry>
-  <Entry Index="1327">Acho que já lhe disse, não disse? Que eu tenho essa... forma de 
-sendo que intimida as pessoas.&lt;wait&gt;</Entry>
+  <Entry Index="1327">Acho que já lhe disse, não disse? Que eu tenho
+essa... jeito que intimida as pessoas.&lt;wait&gt;</Entry>
   <Entry Index="1328">Desde então, venho quebrando a cabeça para 
-encontre uma solução.&lt;wait&gt;&lt;page&gt;
+encontrar uma solução.&lt;wait&gt;&lt;page&gt;
 Uma das mudanças que fiz é ter conversas 
 inconsequente quando me encontro com pacientes que 
 venha fazer uma avaliação.&lt;wait&gt;&lt;page&gt;
@@ -3161,42 +3169,46 @@ sobre seus hábitos e imitá-los quando puder.&lt;wait&gt;</Entry>
   <Entry Index="1329">Desde então, venho quebrando a cabeça para 
 encontre uma solução.&lt;wait&gt;&lt;page&gt;
 Uma das mudanças que fiz é ter conversas 
-inconsequente quando me encontro com pacientes que 
-venha fazer uma avaliação.&lt;wait&gt;&lt;page&gt;
+levianas quando me encontro com pacientes que 
+vou fazer uma avaliação.&lt;wait&gt;&lt;page&gt;
 Desde que começamos a namorar, tento refletir 
-sobre seus hábitos e imitá-los quando puder.&lt;wait&gt;</Entry>
-  <Entry Index="1330">Você fala com todo mundo, você recebe 
+sobre seus hábitos e imitá-los quando posso.&lt;wait&gt;</Entry>
+  <Entry Index="1330">Você fala com todo mundo, você é recebido
 naturalmente.&lt;wait&gt;&lt;page&gt;
-E você também dá presentes para todos os habitantes da cidade
-com presentes. É assim que você constrói bons relacionamentos.&lt;wait&gt;&lt;page&gt;
+E você também dá presentes para todos os habitantes
+da cidade. É assim que você constrói bons
+relacionamentos.&lt;wait&gt;&lt;page&gt;
 Estou tentando seguir seu exemplo.&lt;wait&gt;</Entry>
-  <Entry Index="1331">Agora, quando as pessoas me veem na rua, elas falam comigo.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="1331">Agora, quando as pessoas me veem na rua,
+elas falam comigo.&lt;wait&gt;&lt;page&gt;
 Eu nunca me importei antes, mas...&lt;wait&gt;&lt;page&gt;
 Abrir seu coração para os outros é uma experiência 
-muito satisfatório.&lt;wait&gt;</Entry>
+muito satisfatória.&lt;wait&gt;</Entry>
   <Entry Index="1332">Não me imite.</Entry>
   <Entry Index="1333">O trabalho duro compensa.</Entry>
-  <Entry Index="1334">Ah... Desculpe. Eu deveria ter pedido sua permissão
-antes?&lt;esperar&gt;&lt;page&gt;
+  <Entry Index="1334">Ah... Desculpe. Eu deveria ter pedido sua
+permissão antes?&lt;esperar&gt;&lt;page&gt;
 Desculpe se magoei seus sentimentos.&lt;wait&gt;</Entry>
-  <Entry Index="1335">Eu sei. Essa maneira de pensar foi exatamente o que me fez 
-ele estava desaparecido, não só como médico, mas como homem.&lt;wait&gt;&lt;page&gt;
-Procure ativamente outros para relacionamentos...
+  <Entry Index="1335">Eu sei. Essa maneira de pensar foi exatamente o que 
+estava me fazendo desaparecer, não só como médico,
+mas como homem.&lt;wait&gt;&lt;page&gt;
+Procurei ativamente outros para relacionamentos...
 Pode ser natural para você, mas não para mim.&lt;wait&gt;&lt;page&gt;
-Respeito profundamente esse aspecto de sua personalidade.&lt;wait&gt;</Entry>
+Respeito profundamente esse aspecto de sua
+personalidade.&lt;wait&gt;</Entry>
   <Entry Index="1336">&lt;playername&gt;, tenho certeza que ainda existem 
-Muitas vezes eu não presto atenção aos sentimentos 
-outros.&lt;wait&gt;&lt;page&gt;
+muitas vezes que eu não presto atenção aos sentimentos 
+dos outros.&lt;wait&gt;&lt;page&gt;
 Pode ser um incômodo para você, mas...&lt;wait&gt;&lt;page&gt;
 Eu ficaria grato se você me dissesse quando eu me comporto 
 dessa forma.&lt;wait&gt;</Entry>
   <Entry Index="1337">Claro. Conto com você.&lt;wait&gt;</Entry>
   <Entry Index="1338">Hein? E você?&lt;wait&gt;</Entry>
-  <Entry Index="1339">Ah, eu sei. Você é &lt;gender&gt;("o novo agricultor","o novo agricultor") que apenas
-mover, certo? Thomas nos falou sobre você.&lt;wait&gt;&lt;page&gt;
-Meu nome é Gotts. Eu sou o carpinteiro local. Sim está
-Pensando em reformar sua casa, venha me ver.&lt;wait&gt;&lt;page&gt;
-O trabalho na fazenda não é um passeio, tenho certeza. Bom
+  <Entry Index="1339">Ah, eu sei. Você é &lt;gender&gt;("o novo fazendeiro","a nova fazendeira") que
+se mudou, certo? Thomas nos falou sobre você.&lt;wait&gt;&lt;page&gt;
+Meu nome é Gotts. Eu sou o carpinteiro local. Se estiver
+pensando em reformar sua casa, venha me ver.&lt;wait&gt;&lt;page&gt;
+O trabalho na fazenda não é um passeio, tenho certeza.
 Boa sorte e tente não quebrar as costas, hein?&lt;wait&gt;</Entry>
   <Entry Index="1340">Olá, &lt;playername&gt;. Prazer em ver você.&lt;wait&gt;</Entry>
   <Entry Index="1341">Ah, sim! &lt;playername&gt;, agora que você está aqui, deixe-me 
