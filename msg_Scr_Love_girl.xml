@@ -2422,133 +2422,139 @@ algo que me assusta, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="1051">Bem, chega de conversa fiada. Há comida para
 para um time, então coma o quanto quiser.&lt;wait&gt;</Entry>
   <Entry Index="1052">E resumindo, é isso...</Entry>
-  <Entry Index="1053">Umm. Eu entendo. Existem todos os tipos deles,
+  <Entry Index="1053">Umm. Eu entendo. Existem todos os tipos,
 certo?&lt;wait&gt;</Entry>
-  <Entry Index="1054">Ah, &lt;playername&gt;. Como vai, querida?&lt;wait&gt;</Entry>
-  <Entry Index="1055">Olá, &lt;playername&gt;! Você está vindo buscar sementes para 
-plantar uma nova safra?&lt;wait&gt;</Entry>
-  <Entry Index="1056">Uau. Sangue, suor e lágrimas na fazenda como
-Sempre, hein?&lt;wait&gt;</Entry>
-  <Entry Index="1057">Hein? Você acha estranho me encontrar aqui no bazar?&lt;wait&gt;</Entry>
-  <Entry Index="1058">Hein? Você acha estranho me encontrar aqui no bazar?&lt;wait&gt;</Entry>
-  <Entry Index="1059">Ha ha! Sim, claro que é isso que você está recebendo 
+  <Entry Index="1054">Ah, &lt;playername&gt;. Como vai, querido?&lt;wait&gt;</Entry>
+  <Entry Index="1055">Olá, &lt;playername&gt;! Você está vindo buscar sementes
+para plantar uma nova safra?&lt;wait&gt;</Entry>
+  <Entry Index="1056">Nossa. Sangue, suor e lágrimas na fazenda
+como sempre, hein?&lt;wait&gt;</Entry>
+  <Entry Index="1057">Hein? Você acha estranho me encontrar aqui
+na mercearia?&lt;wait&gt;</Entry>
+  <Entry Index="1058">Hein? Você acha estranho me encontrar aqui
+na mercearia?&lt;wait&gt;</Entry>
+  <Entry Index="1059">Ha ha! Sim, claro que é isso que você está se
 perguntando, certo?&lt;wait&gt;</Entry>
-  <Entry Index="1060">Ha ha! Sim, claro que é isso que você está recebendo 
+  <Entry Index="1060">Ha ha! Sim, claro que é isso que você está se 
 perguntando, certo?&lt;wait&gt;</Entry>
-  <Entry Index="1061">Você não é a única pessoa, querida. Somos todos 
-surpreso ao ver Kai aqui.&lt;wait&gt;</Entry>
-  <Entry Index="1062">Você nunca passa por aqui, querida. Só quando você ficar 
-sem algo no refeitório.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="1061">Você não é a única pessoa, querido. Estamos todos 
+surpresos por ver Kai aqui.&lt;wait&gt;</Entry>
+  <Entry Index="1062">Você nunca passa por aqui, querido. Só quando fica
+sem nada no café.&lt;wait&gt;&lt;page&gt;
 E você sempre vem nas horas mais calmas, então 
 outros clientes não o veem aqui.&lt;wait&gt;&lt;page&gt;
-Além disso, hoje você perguntou exatamente por que...&lt;wait&gt;</Entry>
-  <Entry Index="1063">Você disse isso, querida. E pensar que Kai, de todos 
-gente, eu vinha aqui perguntar isso. Você tem
-surpreso, é claro.&lt;wait&gt;</Entry>
-  <Entry Index="1064">Ah! Ouve! Pare o carro, Jeff! E você também, Sasha! Você
-Eu disse que era apenas uma ideia!&lt;wait&gt;</Entry>
-  <Entry Index="1065">Não importa! A propósito, &lt;playername&gt;, você veio para 
+Além disso, hoje você perguntou exatamente
+o por que...&lt;wait&gt;</Entry>
+  <Entry Index="1063">Você falou tudo, querida. E pensar que Kai,
+de todas as pessoas, viria aqui perguntar isso.
+Estamos surpresos, é claro.&lt;wait&gt;</Entry>
+  <Entry Index="1064">Ah! Escuta! Vai com calma, Jeff!
+E você também, Sasha! Eu disse que era apenas
+uma ideia!&lt;wait&gt;</Entry>
+  <Entry Index="1065">Não importa! A propósito, &lt;playername&gt;, você veio 
 comprar, certo?&lt;wait&gt;</Entry>
-  <Entry Index="1066">Tenho certeza de que você tem muito trabalho a fazer no 
-fazenda, então não se preocupe comigo! Vá e pegue o que 
-você precisa. Ok?&lt;wait&gt;</Entry>
-  <Entry Index="1067">Eu, uh... eu deveria voltar para o refeitório. Eu não conheço a comida 
-ela cozinha sozinha, sabe? Até mais!&lt;wait&gt;</Entry>
-  <Entry Index="1068">Ah... E agora também &lt;playername&gt;. O que você veio fazer 
-isso? De repente, Kai parece ter entrado em pânico.&lt;wait&gt;</Entry>
-  <Entry Index="1069">Ah... E agora também &lt;playername&gt;. O que você veio fazer 
-isso? De repente, Kai parece ter entrado em pânico.&lt;wait&gt;</Entry>
-  <Entry Index="1070">Vamos, querida. Não está claro o suficiente? Para o
-o que Kai perguntou e como ele reagiu, eu acho 
+  <Entry Index="1066">Tenho certeza de que você tem muito trabalho
+para fazer na fazenda, então não se preocupe comigo!
+Vá e pegue o que precisa. Ok?&lt;wait&gt;</Entry>
+  <Entry Index="1067">Eu, uh... eu deveria voltar para o café. A comida
+não vai se cozinhar sozinha, sabe? Até mais!&lt;wait&gt;</Entry>
+  <Entry Index="1068">Ah... E agora também &lt;playername&gt;. O que aconteceu?
+De repente, Kai parece ter entrado em pânico.&lt;wait&gt;</Entry>
+  <Entry Index="1069">Ah... E agora também &lt;playername&gt;. O que aconteceu?
+De repente, Kai parece ter entrado em pânico.&lt;wait&gt;</Entry>
+  <Entry Index="1070">Vamos, querido. Não está claro o suficiente?
+Pela pergunta do Kai e como ele reagiu, acho 
 o que é bastante óbvio.&lt;wait&gt;&lt;page&gt;
 hee hee ∀ Você faz isso por &lt;playername&gt;, certo?&lt;wait&gt;</Entry>
-  <Entry Index="1071">Ah! &lt;playername&gt;, você me seguiu aqui? Não
-Você tem trabalho a fazer?&lt;wait&gt;</Entry>
-  <Entry Index="1072">Não... Eu sei por que você fez isso. Você me seguiu porque você 
-Você se preocupou comigo, não é? Obrigado. 
-Isso me faz sentir melhor.&lt;wait&gt;</Entry>
+  <Entry Index="1071">Ah! &lt;playername&gt;, você me seguiu?
+Você não tem trabalho a fazer?&lt;wait&gt;</Entry>
+  <Entry Index="1072">Não... Eu sei por que você fez isso. Você me seguiu
+porque se preocupou comigo, não é? Obrigado. 
+Isso faz eu me sentir melhor.&lt;wait&gt;</Entry>
   <Entry Index="1073">Bem, isso... &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1074">Fui ao bazar perguntar que tipo de coisas
-Eu precisaria se... você sabe... se eu ficasse aqui o ano todo.&lt;wait&gt;&lt;page&gt;
-Perguntei a eles sobre o clima, quais eventos são realizados 
-na cidade... esse tipo de coisa.&lt;wait&gt;</Entry>
+  <Entry Index="1074">Fui a mercearia perguntar que tipo de coisas
+eu precisaria se... você sabe... se eu ficasse aqui
+o ano todo.&lt;wait&gt;&lt;page&gt;
+Perguntei a eles sobre o clima, quais eventos são
+realizados na cidade... esse tipo de coisa.&lt;wait&gt;</Entry>
   <Entry Index="1075">Mas é apenas uma ideia!&lt;wait&gt;</Entry>
-  <Entry Index="1076">Podemos estar juntos! Para sempre.</Entry>
+  <Entry Index="1076">Podemos ficar juntos! Para sempre.</Entry>
   <Entry Index="1077">Você realmente gosta desta cidade, não é?</Entry>
-  <Entry Index="1078">Podemos estar juntos! Para sempre.</Entry>
+  <Entry Index="1078">Podemos ficar juntos! Para sempre.</Entry>
   <Entry Index="1079">Você realmente gosta desta cidade, não é?</Entry>
-  <Entry Index="1080">Ha ha ha! Ei, e aquele rosto? Realmente te faz feliz ter 
-em torno de um tolo como eu o tempo todo?&lt;wait&gt;</Entry>
+  <Entry Index="1080">Ha ha ha! Ei, e essa cara? Realmente te deixa feliz 
+ter um bobo como eu por perto o tempo todo?&lt;wait&gt;</Entry>
   <Entry Index="1081">Sim, hein? Obrigado, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1082">Ei, ei! Ja vale! Você está me fazendo corar. Do
-realmente te faz feliz ter um tolo como eu por perto 
-o clima?&lt;wait&gt;</Entry>
-  <Entry Index="1083">Olha, estive pensando no futuro e se eu quiser 
-continuar vivendo como antes ou se eu preferir 
-para que as coisas mudem.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="1082">Ei, ei! Já chega! Você está me fazendo corar.
+Realmente te deixa feliz ter um bobo como eu por perto 
+o tempo todo?&lt;wait&gt;</Entry>
+  <Entry Index="1083">Olha, estive pensando no futuro e se eu queria 
+continuar vivendo como antes, ou se eu preferiria
+mudar as coisas.&lt;wait&gt;&lt;page&gt;
 Vendo você trabalhar tanto na fazenda...&lt;wait&gt;&lt;page&gt;
-E venha me ver &lt;gender&gt;("out of stock","out of stock") y
-sorria para mim depois de dar uma mordida na minha comida...
-Isso me deu uma pausa, sabe?&lt;wait&gt;</Entry>
-  <Entry Index="1084">Olha, estive pensando no futuro e se eu quiser 
-continuar vivendo como antes ou se eu preferir 
-para que as coisas mudem.&lt;wait&gt;&lt;page&gt;
+E vindo me ver estando &lt;gender&gt;("esgotado","esgotada"), e
+sorrindo para mim depois de dar uma mordida
+na minha comida... Isso me toca, sabe?&lt;wait&gt;</Entry>
+  <Entry Index="1084">Olha, estive pensando no futuro e se eu queria 
+continuar vivendo como antes, ou se eu preferiria
+mudar as coisas.&lt;wait&gt;&lt;page&gt;
 Vendo você trabalhar tanto na fazenda...&lt;wait&gt;&lt;page&gt;
-E venha me ver &lt;gender&gt;("out of stock","out of stock") y
-sorria para mim depois de dar uma mordida na minha comida...
-Isso me deu uma pausa, sabe?&lt;wait&gt;</Entry>
+E vindo me ver estando &lt;gender&gt;("esgotado","esgotada"), e
+sorrindo para mim depois de dar uma mordida
+na minha comida... Isso me toca, sabe?&lt;wait&gt;</Entry>
   <Entry Index="1085">Eu estava pensando... talvez ficar aqui
-poderia ser de mais ajuda, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1086">Eu odeio o frio, sabe? Vou evitá-lo, perseguindo 
-o calor onde quer que você vá.&lt;wait&gt;&lt;page&gt;
-Mas agora estou pensando em ficar aqui. Seria um
-grande mudança, você não acha? E eu estou um pouco envergonhado 
-fale sobre isso.&lt;wait&gt;</Entry>
+poderia seria mais uma ajuda, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1086">Eu odeio o frio, sabe? Venho evitando-o, perseguindo 
+o calor para onde quer que ele vá.&lt;wait&gt;&lt;page&gt;
+Mas agora estou pensando em ficar aqui. Seria uma
+grande mudança, você não acha? E eu estou um pouco
+envergonhado de falar sobre isso.&lt;wait&gt;</Entry>
   <Entry Index="1087">Quando mencionei isso para Jeff e Sasha, 
-eles ficaram atordoados.&lt;wait&gt;&lt;page&gt;
+eles ficaram confusos.&lt;wait&gt;&lt;page&gt;
 Então você entrou, e de repente eu congelei. 
 Não é um jogo de palavras. 
 Por isso tive que sair de lá.&lt;wait&gt;</Entry>
-  <Entry Index="1088">Ugh. Eu devo ter parecido um idiota para você. Espero que não haja 
-assustou Jeff e Sasha.&lt;wait&gt;</Entry>
-  <Entry Index="1089">Agora que penso nisso, devo tê-los preocupado tanto
-como você, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1088">Ugh. Eu devo ter parecido um idiota para você.
+Espero que não tenha assustado Jeff e Sasha.&lt;wait&gt;</Entry>
+  <Entry Index="1089">Agora que penso nisso, devo tê-los preocupado
+tanto quanto você, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="1090">Uma vez que eu tenha meus pés no chão e
-Calma, eu volto e explico tudo.&lt;wait&gt;</Entry>
-  <Entry Index="1091">Enquanto isso, você poderia, uh... ficar mais um pouco
-assistindo o oceano comigo?&lt;wait&gt;</Entry>
-  <Entry Index="1092">Enquanto isso, você poderia, uh... ficar mais um pouco
-assistindo o oceano comigo?&lt;wait&gt;</Entry>
-  <Entry Index="1093">Ah... Ha ha... Sim. Claro. Essa cidade é linda e as pessoas são
-muito agradável. Todo mundo gostaria de morar aqui.&lt;wait&gt;&lt;page&gt;
+calma, eu volto e explico tudo.&lt;wait&gt;</Entry>
+  <Entry Index="1091">Enquanto isso, você poderia, uh... ficar mais um
+pouco observando o oceano comigo?&lt;wait&gt;</Entry>
+  <Entry Index="1092">Enquanto isso, você poderia, uh... ficar mais um
+pouco observando o oceano comigo?&lt;wait&gt;</Entry>
+  <Entry Index="1093">Ah... Ha ha... Sim. Claro. Essa cidade é linda e
+as pessoas são muito agradáveis. Qualquer um gostaria
+de morar aqui.&lt;wait&gt;&lt;page&gt;
 Embora... Isso ainda é meio hipotético, ok?&lt;wait&gt;</Entry>
-  <Entry Index="1094">Não quero confundir as pessoas com a ideia de que estou saindo
-ficar quando ainda não decidi nada. É por isso que eu
-fugiu Entrei em pânico.&lt;wait&gt;&lt;page&gt;
-Mas você sabe... eu não estou acostumado com os outros
-estações do ano. Ter que enfrentá-los soa 
-Durado. Pode não ser para mim.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="1094">Não quero confundir as pessoas com a ideia de
+que estou pensando em ficar quando ainda não decidi
+nada. É por isso que eu entrei em pânico e fugi.&lt;wait&gt;&lt;page&gt;
+Mas você sabe... eu não estou acostumado com os outras
+estações do ano. Ter que enfrentá-las me parece 
+difícil. Pode não ser para mim.&lt;wait&gt;&lt;page&gt;
 Na verdade... vamos esquecer o que falamos,
-&lt;playername&gt;. 
-Vamos fingir que nunca aconteceu. Obrigado.&lt;wait&gt;</Entry>
+&lt;playername&gt;. Vamos fingir que nunca
+aconteceu. Obrigado.&lt;wait&gt;</Entry>
   <Entry Index="1095">Tenho que contar a Jeff e Sasha 
-deixe que eles também façam o mesmo.&lt;wait&gt;</Entry>
-  <Entry Index="1096">Continuo tentando recuperar o fôlego... Não sei o que está acontecendo
-vem isso, &lt;playername&gt;. Você me deu um susto.&lt;wait&gt;</Entry>
-  <Entry Index="1097">Continuo tentando recuperar o fôlego... Não sei o que está acontecendo
-vem isso, &lt;playername&gt;. Você me deu um susto.&lt;wait&gt;</Entry>
+para explicar a situação.&lt;wait&gt;</Entry>
+  <Entry Index="1096">Continuo tentando recuperar o fôlego... Não sei o que
+aconteceu, &lt;playername&gt;. Você me deu um susto.&lt;wait&gt;</Entry>
+  <Entry Index="1097">Continuo tentando recuperar o fôlego... Não sei o que
+aconteceu, &lt;playername&gt;. Você me deu um susto.&lt;wait&gt;</Entry>
   <Entry Index="1098">Sim... obrigado. Fico feliz que você pense 
 assim, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Mas, uh... Tem certeza que está bem comigo? Não quero que
-então se arrependa.&lt;wait&gt;</Entry>
+Mas, uh... Tem certeza que está de boa comigo?
+Não quero que se arrependa.&lt;wait&gt;</Entry>
   <Entry Index="1099">Sim... obrigado. Fico feliz que você pense 
 assim, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Mas, uh... Tem certeza que está bem comigo? Não quero que
-então se arrependa.&lt;wait&gt;</Entry>
-  <Entry Index="1100">Não, espere. Eu não posso ser assim. Eu deveria salvar isso 
-momento na minha memória e seja feliz.&lt;wait&gt;</Entry>
-  <Entry Index="1101">Não, espere. Eu não posso ser assim. Eu deveria salvar isso 
-momento na minha memória e seja feliz.&lt;wait&gt;</Entry>
+Mas, uh... Tem certeza que está de boa comigo?
+Não quero que se arrependa.&lt;wait&gt;</Entry>
+  <Entry Index="1100">Não, espere. Eu não posso ser assim. Eu deveria
+guardar esse momento na minha memória e ser feliz.&lt;wait&gt;</Entry>
+  <Entry Index="1101">Não, espere. Eu não posso ser assim. Eu deveria
+guardar isso momento na minha memória e ser feliz.&lt;wait&gt;</Entry>
   <Entry Index="1102">Então, ei, espero que você fique comigo,
 &lt;playername&gt;. Você pode precisar de um pouco mais 
 de paciência.&lt;wait&gt;</Entry>
@@ -2557,58 +2563,65 @@ de paciência.&lt;wait&gt;</Entry>
 de paciência.&lt;wait&gt;</Entry>
   <Entry Index="1104">Até mais tarde, ok?&lt;wait&gt;</Entry>
   <Entry Index="1105">Meu Deus! &lt;playername&gt;!
-Há quanto tempo você está lá?!&lt;wait&gt;</Entry>
+Há quanto tempo você está aí?!&lt;wait&gt;</Entry>
   <Entry Index="1106">Meu Deus! &lt;playername&gt;!
-Há quanto tempo você está lá?!&lt;wait&gt;</Entry>
+Há quanto tempo você está aí?!&lt;wait&gt;</Entry>
   <Entry Index="1107">Por um momento senti meu coração explodir.
 Você deveria ter dito algo.&lt;wait&gt;</Entry>
-  <Entry Index="1108">Você diz que ele tinha uma cara feia? Sim, acho que ninguém 
-gostaria de se aproximar de mim então. Desculpe...&lt;wait&gt;</Entry>
-  <Entry Index="1109">Bom. ♪ O que estamos jogando agora?&lt;wait&gt;</Entry>
-  <Entry Index="1110">Quero ir para o campo e fazer uma coroa de flores!&lt;wait&gt;</Entry>
-  <Entry Index="1111">Vou pegar bugs!
+  <Entry Index="1108">Você diz que eu estava com uma cara feia?
+Sim, acho que ninguém gostaria de se aproximar
+de mim então. Desculpe...&lt;wait&gt;</Entry>
+  <Entry Index="1109">Bem. ♪ Do que estamos brincando agora?&lt;wait&gt;</Entry>
+  <Entry Index="1110">Quero ir para o campo e fazer uma coroa
+de flores!&lt;wait&gt;</Entry>
+  <Entry Index="1111">Vou pegar insetos!
 Eu quero um que seja muito legal!&lt;wait&gt;</Entry>
-  <Entry Index="1112">Essas crianças estão cheias de energia. Eles se dão tão bem...
-mesmo sem ser da família nem nada.&lt;wait&gt;</Entry>
-  <Entry Index="1113">Ao olhar para eles... vejo um raio de esperança. Eles me fazem pensar...&lt;wait&gt;</Entry>
-  <Entry Index="1114">O quê?! &lt;nomedojogador&gt;?!
+  <Entry Index="1112">Essas crianças estão cheias de energia. Eles se dão
+tão bem... mesmo sem ser da família nem nada.&lt;wait&gt;</Entry>
+  <Entry Index="1113">Ao olhar para eles... vejo um raio de esperança.
+Eles me fazem pensar...&lt;wait&gt;</Entry>
+  <Entry Index="1114">O quê?! &lt;playername&gt;?!
 Que diabos...?&lt;wait&gt;</Entry>
-  <Entry Index="1115">O quê?! &lt;nomedojogador&gt;?!
+  <Entry Index="1115">O quê?! &lt;playername&gt;?!
 Que diabos...?&lt;wait&gt;</Entry>
-  <Entry Index="1116">Uau, se eles são &lt;playername&gt; e Cliff. Olá! O que você está fazendo
-aqui os dois juntos?&lt;wait&gt;</Entry>
+  <Entry Index="1116">Nossa, se não são &lt;playername&gt; e Cliff. Olá!
+O que estão fazendo aqui os dois juntos?&lt;wait&gt;</Entry>
   <Entry Index="1117">Oooh! É Cliff e &lt;playername&gt;!&lt;wait&gt;</Entry>
   <Entry Index="1118">Oooh! É Cliff e &lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="1119">Você vem jogar conosco?&lt;wait&gt;</Entry>
+  <Entry Index="1119">Você veio brincar conosco?&lt;wait&gt;</Entry>
   <Entry Index="1120">Ah, não, nós, uh... apenas
-Estávamos passando e...&lt;wait&gt;</Entry>
+estávamos passando e...&lt;wait&gt;</Entry>
   <Entry Index="1121">Ei, o que você está...?!&lt;wait&gt;</Entry>
   <Entry Index="1122">Ei, o que você está...?!&lt;wait&gt;</Entry>
-  <Entry Index="1123">Oooooo! Bieen!
-Vamos jogar! ♪&lt;esperar&gt;</Entry>
-  <Entry Index="1124">Jogue, jogue! ♪&lt;esperar&gt;</Entry>
-  <Entry Index="1125">Com tantas pessoas, podemos jogar muitos jogos diferentes.
-Qual você acha mais divertido? ♪&lt;esperar&gt;</Entry>
-  <Entry Index="1126">E aí, Cliff? Não me diga que você não quer jogar 
-conosco.&lt;wait&gt;</Entry>
+  <Entry Index="1123">Oooooo! Beeen!
+Vamos brincar! ♪&lt;esperar&gt;</Entry>
+  <Entry Index="1124">Brinque, Brinque! ♪&lt;esperar&gt;</Entry>
+  <Entry Index="1125">Com tantas pessoas, podemos brincar de
+muitos jogos diferentes. Qual você acha mais
+divertido? ♪&lt;wait&gt;</Entry>
+  <Entry Index="1126">E aí, Cliff? Não me diga que você não quer 
+brincar conosco.&lt;wait&gt;</Entry>
   <Entry Index="1127">N-não... Não é isso.
 Você se importa... se eu entrar?
 Tem certeza de que não sou irritante?&lt;wait&gt;</Entry>
-  <Entry Index="1128">Por que você se importa com isso? Não seja bobo!&lt;wait&gt;</Entry>
+  <Entry Index="1128">Por que você se importa com isso?
+Não seja bobo!&lt;wait&gt;</Entry>
   <Entry Index="1129">Cabeça louca!
-Então, o que estamos jogando?&lt;wait&gt;</Entry>
+Então, do que vamos brincar?&lt;wait&gt;</Entry>
   <Entry Index="1130">Sim... Essa é uma boa pergunta.
-Brincamos de esconde-esconde? Ou talvez a recuperação?&lt;wait&gt;</Entry>
+Brincaremos de esconde-esconde? Ou talvez de
+recuperação?&lt;wait&gt;</Entry>
   <Entry Index="1131">Um, dois, três...&lt;wait&gt;</Entry>
   <Entry Index="1132">Estou indo!&lt;wait&gt;</Entry>
   <Entry Index="1133">Pronto! Tem alguém atrás daquela árvore.
 E encontrei outro nos arbustos!&lt;wait&gt;</Entry>
   <Entry Index="1134">Heh heh heh! Oh! Você me encontrou! ♪&lt;esperar&gt;</Entry>
   <Entry Index="1135">Pronto... Vamos lá!&lt;wait&gt;</Entry>
-  <Entry Index="1136">Jogamos muito! ♪
-Kkkkk! Tem sido super divertido! ♪&lt;esperar&gt;</Entry>
+  <Entry Index="1136">Brincamos muito! ♪
+Ha ha ha! Foi super divertido! ♪&lt;esperar&gt;</Entry>
   <Entry Index="1137">Sim! Foi o dia mais engraçado de todos! ♪&lt;esperar&gt;</Entry>
-  <Entry Index="1138">Não sabia que você era tão rápido, Cliff. Você é incrível!&lt;wait&gt;</Entry>
+  <Entry Index="1138">Não sabia que você era tão rápido, Cliff.
+Você é incrível!&lt;wait&gt;</Entry>
   <Entry Index="1139">Sim, &lt;playername&gt; é muito rápido, 
 mas Cliff é ainda mais!&lt;wait&gt;</Entry>
   <Entry Index="1140">Sim, &lt;playername&gt; é muito rápido, 
