@@ -2133,178 +2133,188 @@ Até mais!&lt;wait&gt;</Entry>
 O que você estava fazendo lá?!&lt;wait&gt;</Entry>
   <Entry Index="943">Caramba! &lt;playername&gt;!
 O que você estava fazendo lá?!&lt;wait&gt;</Entry>
-  <Entry Index="944">Não. Nada acontece. Eu sou o único que deveria pedir desculpas. Eu estava tão 
-tão rápido que nem te vi.&lt;wait&gt;</Entry>
-  <Entry Index="945">De qualquer forma, estou feliz por você ter vindo, mas
-Estou ocupado agora e acho que não 
-que eu possa escapar.&lt;wait&gt;&lt;page&gt;
-Acabei de encomendar nosso estoque, mas agora
-Eu tenho que alimentar as galinhas.&lt;espera&gt;&lt;pagina&gt;
-Popuri está fora, vai quem sabe onde, então não posso 
-ajudá-lo na loja agora mesmo e...&lt;wait&gt;</Entry>
-  <Entry Index="946">O quê? Você vai me ajudar a alimentar as galinhas?&lt;wait&gt;</Entry>
-  <Entry Index="947">Bem, obrigado, mas aqui está você &lt;gender&gt;("o convidado","o convidado").
+  <Entry Index="944">Não. Nada é nada. Eu sou o único que deveria
+pedir desculpas. Eu estava tão 
+rápido que nem te vi.&lt;wait&gt;</Entry>
+  <Entry Index="945">De qualquer forma, estou feliz por você ter vindo,
+estou ocupado agora e acho que eu 
+não posso escapar.&lt;wait&gt;&lt;page&gt;
+Acabei de encomendar nosso estoque, e agora
+eu tenho que alimentar as galinhas.&lt;espera&gt;&lt;pagina&gt;
+Popuri saiu, foi quem sabe onde, então não pode
+me ajudar no armazém agora e...&lt;wait&gt;</Entry>
+  <Entry Index="946">O quê? Você vai me ajudar a alimentar
+as galinhas?&lt;wait&gt;</Entry>
+  <Entry Index="947">Bem, obrigado, mas você é &lt;gender&gt;("o convidado","a convidada").
 Não posso pedir que você faça o trabalho para mim...&lt;wait&gt;</Entry>
-  <Entry Index="948">Bem, obrigado, mas aqui está você &lt;gender&gt;("the guest","the guest").
+  <Entry Index="948">Bem, obrigado, mas você é &lt;gender&gt;("o convidado","a convidada").
 Não posso pedir que você faça o trabalho para mim...&lt;wait&gt;</Entry>
   <Entry Index="949">&lt;playername&gt;... Sim, você está certo. É o tipo de 
-momento em que devo pedir ajuda à minha namorada.&lt;wait&gt;</Entry>
+momento em que devo pedir ajuda à minha
+namorada.&lt;wait&gt;</Entry>
   <Entry Index="950">&lt;playername&gt;... Sim, você está certo. É o tipo de 
-momento em que devo pedir ajuda ao meu namorado.&lt;wait&gt;</Entry>
+momento em que devo pedir ajuda ao meu
+namorado.&lt;wait&gt;</Entry>
   <Entry Index="951">Ok. Eu aprecio qualquer ajuda que você
-você pode me emprestar.&lt;wait&gt;</Entry>
+possa me emprestar.&lt;wait&gt;</Entry>
   <Entry Index="952">Ok. Eu aprecio qualquer ajuda que você
-você pode me emprestar.&lt;wait&gt;</Entry>
-  <Entry Index="953">Ei, volte aqui! Pare de dar mais trabalho a ele
+possa me emprestar.&lt;wait&gt;</Entry>
+  <Entry Index="953">Ei, volte aqui! Pare de dar mais trabalho
 para &lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="954">Ei, volte aqui! Pare de dar mais trabalho a ele
+  <Entry Index="954">Ei, volte aqui! Pare de dar mais trabalho 
 para &lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="955">Uau, &lt;playername&gt;! Incrível! Aquele é muito tímido,
-ele sempre foge. Não há como colocá-la em 
-no curral.&lt;wait&gt;</Entry>
-  <Entry Index="956">Uau, &lt;playername&gt;! Incrível! Aquele é muito tímido,
-ele sempre foge. Não há como colocá-la em 
-no curral.&lt;wait&gt;</Entry>
-  <Entry Index="957">Como você pode saber que é &lt;gender&gt;("agricultor","agricultor"). Você é &lt;gender&gt;("usado","usado")
-para cuidar do gado. Acho que não tenho que te ensinar 
+  <Entry Index="955">Nossa, &lt;playername&gt;! Incrível! Aquela é muito tímida,
+ela sempre foge. Não há como colocá-la
+no galinheiro.&lt;wait&gt;</Entry>
+  <Entry Index="956">Nossa, &lt;playername&gt;! Incrível! Aquela é muito tímida,
+ela sempre foge. Não há como colocá-la 
+no galinheiro.&lt;wait&gt;</Entry>
+  <Entry Index="957">Como você é &lt;gender&gt;("agricultor","agricultora"). Você deve saber &lt;gender&gt;("cuidar","cuidar")
+dos animais. Acho que não tenho que te ensinar 
 nada, hein?&lt;wait&gt;</Entry>
-  <Entry Index="958">Ai. Eu, por outro lado... eu tenho que tomar 
-a loja e as galinhas ao mesmo tempo&lt;wait&gt;&lt;page&gt;
-e agora também não posso fazer 
-tarefas bem.&lt;wait&gt;</Entry>
-  <Entry Index="959">Você faz o seu melhor, querida.</Entry>
-  <Entry Index="960">Você precisa se esforçar mais.</Entry>
-  <Entry Index="961">Ha ha ha... Acho que sim. Isso me incentiva muito 
-para ouvir você dizer isso, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="962">Ha ha ha... Acho que sim. Isso me incentiva muito 
-para ouvir você dizer isso, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="958">Ah. Eu, por outro lado... tenho que cuidar 
+do aramzém e das galinhas ao mesmo tempo&lt;wait&gt;&lt;page&gt;
+e agora também não consigo fazer as
+tarefas direito.&lt;wait&gt;</Entry>
+  <Entry Index="959">Você faz o seu melhor, querido.</Entry>
+  <Entry Index="960">Você precisa se esforçar demais.</Entry>
+  <Entry Index="961">Ha ha ha... Acho que sim. Ouvir isso de você
+me incentiva a continuar, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="962">Ha ha ha... Acho que sim. Ouvir isso de você
+me incentiva a continuar, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="963">Não sei o que teria feito se você não tivesse 
-venha, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+vindo, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
 Aposto que teria entrado em pânico e
-enlouqueceu, e nada teria dado certo.&lt;wait&gt;
-</Entry>
+enlouquecido, e nada teria dado certo.&lt;wait&gt;</Entry>
   <Entry Index="964">Não sei o que teria feito se você não tivesse 
-venha, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+vindo, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
 Aposto que teria entrado em pânico e
-enlouqueceu e nada teria dado certo.&lt;wait&gt;</Entry>
-  <Entry Index="965">Muito obrigado por sua ajuda.
-Sinceramente eu precisava... que bom que 
+enlouquecido, e nada teria dado certo.&lt;wait&gt;</Entry>
+  <Entry Index="965">Muito obrigado pela sua ajuda.
+Sinceramente, eu precisava... que bom que 
 você esteve aqui.&lt;wait&gt;</Entry>
   <Entry Index="966">Ei! Vejo que vocês se tornaram bons amigos,
 &lt;playername&gt;, Rick.&lt;wait&gt;</Entry>
-  <Entry Index="967">Uau, uau! Bem, vocês estão muito próximos ultimamente.&lt;wait&gt;</Entry>
-  <Entry Index="968">Mãe?! Popô?! Onde você esteve? Você tem
-ideia de quantos problemas eu já tive 
-do que cuidar?!&lt;wait&gt;</Entry>
+  <Entry Index="967">Nossa, uau! Bem, vocês estão muito próximos
+ultimamente.&lt;wait&gt;</Entry>
+  <Entry Index="968">Mamãe?! Popu?! Onde vocês estavam? Vocês tem
+ideia de quantos problemas eu tive 
+que cuidar hoje?!&lt;wait&gt;</Entry>
   <Entry Index="969">Desculpe, Rick. Mas vejo que você se divertiu com 
 &lt;playername&gt;, então não foi tão ruim assim.&lt;wait&gt;</Entry>
   <Entry Index="970">Ok, sim, concordo com você, mas ainda assim!&lt;wait&gt;</Entry>
   <Entry Index="971">Não importa! Compramos muitos lanches
-delicioso, quer que tomemos chá? Vamos, anime-se.
+deliciosos, vamos tomar um chá? Vamos, anime-se.
 Com um cubo de açúcar?&lt;wait&gt;</Entry>
-  <Entry Index="972">A deve ver. Da próxima vez, fique por aqui e ajude,
-ok?&lt;wait&gt;</Entry>
+  <Entry Index="972">Você vai ver. Da próxima vez, fique por aqui
+e ajude, ok?&lt;wait&gt;</Entry>
   <Entry Index="973">Ok mano!&lt;wait&gt;</Entry>
   <Entry Index="974">Sim... Isso mesmo.&lt;wait&gt;&lt;page&gt;
-Eu nunca teria terminado isso tão rapidamente sem sua ajuda, 
+Eu nunca teria terminado isso tão rapidamente sem
+a sua ajuda, 
 &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="975">Sim... Isso mesmo.&lt;wait&gt;&lt;page&gt;
-Eu nunca teria terminado isso tão rapidamente sem sua ajuda, 
+Eu nunca teria terminado isso tão rapidamente sem
+a sua ajuda, 
 &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="976">Obrigado por sua ajuda. Eu sei que você é uma garota muito ocupada, 
-E estou roubando muito do seu tempo. Desculpe.&lt;wait&gt;</Entry>
-  <Entry Index="977">Obrigado por sua ajuda. Eu sei que você é um menino muito ocupado,
-E estou roubando muito do seu tempo. Desculpe.&lt;wait&gt;</Entry>
-  <Entry Index="978">Eu mesmo posso cuidar do resto da limpeza. Nós
-até mais tarde.&lt;wait&gt;</Entry>
+  <Entry Index="976">Obrigado pela ajuda. Eu sei que você é uma
+garota muito ocupada, e estou roubando muito do
+seu tempo. Desculpe.&lt;wait&gt;</Entry>
+  <Entry Index="977">Obrigado pela ajuda. Eu sei que você é um
+garoto muito ocupado, e estou roubando muito do
+seu tempo. Desculpe.&lt;wait&gt;</Entry>
+  <Entry Index="978">Eu mesmo posso cuidar do resto da limpeza.
+Até mais tarde.&lt;wait&gt;</Entry>
   <Entry Index="979">Olá, &lt;playername&gt;. Posso entrar?&lt;wait&gt;</Entry>
   <Entry Index="980">Olá, &lt;playername&gt;. Posso entrar?&lt;wait&gt;</Entry>
-  <Entry Index="981">Desculpe por me deixar assim, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Eu pensei que você já teria terminado sua lição de casa agora.
-Você tem um momento?&lt;wait&gt;&lt;page&gt;
+  <Entry Index="981">Desculpe por chegar assim, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Eu pensei que você já teria terminado suas tarefas.
+Você teria um momento?&lt;wait&gt;&lt;page&gt;
 É um dia incrível. Se você quiser, podemos sair juntos 
 para uma caminhada.&lt;wait&gt;</Entry>
-  <Entry Index="982">Desculpe por me deixar assim, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Eu pensei que você já teria terminado sua lição de casa agora.
-Você tem um momento?&lt;wait&gt;&lt;page&gt;
+  <Entry Index="982">Desculpe por chegar assim, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Eu pensei que você já teria terminado suas tarefas.
+Você teria um momento?&lt;wait&gt;&lt;page&gt;
 É um dia incrível. Se você quiser, podemos sair juntos 
 para uma caminhada.&lt;wait&gt;</Entry>
   <Entry Index="983">Ótimo! A verdade é que eu tinha um pouco de medo 
-pegar você &lt;gender&gt;("ocupado","ocupado").&lt;wait&gt;</Entry>
+pegar você &lt;gender&gt;("ocupado","ocupada").&lt;wait&gt;</Entry>
   <Entry Index="984">Perfeito! Vamos dar uma volta, &lt;playername&gt;!&lt;wait&gt;</Entry>
   <Entry Index="985">Perfeito! Vamos dar uma volta, &lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="986">É um lugar bem pitoresco, você não acha? Vamos a
+  <Entry Index="986">É um lugar bem bonito, você não acha? Vamos
 descansar um pouco aqui. A propósito, eu também trouxe 
-almoço para vocês dois.&lt;wait&gt;</Entry>
-  <Entry Index="987">É um lugar bem pitoresco, você não acha? Vamos a
+almoço para nós dois.&lt;wait&gt;</Entry>
+  <Entry Index="987">É um lugar bem bonito, você não acha? Vamos
 descansar um pouco aqui. A propósito, eu também trouxe 
-almoço para vocês dois.&lt;wait&gt;</Entry>
+almoço para nós dois.&lt;wait&gt;</Entry>
   <Entry Index="988">Ugh... O ar puro da floresta está carregado de íons
 negativos. Certamente, se o respirarmos, nos fará bem.&lt;wait&gt;</Entry>
-  <Entry Index="989">Gosto de cuidar das galinhas, mas cuide das 
+  <Entry Index="989">Gosto de cuidar das galinhas, mas cuidar dos
 seres vivos é uma grande responsabilidade que deve 
-ser levado a sério.&lt;wait&gt;&lt;page&gt;
+ser levada a sério.&lt;wait&gt;&lt;page&gt;
 Você ficaria surpreso com o quão difícil é relaxar quando 
-Você também trabalha em uma loja. Eu preciso de dias de folga 
-assim.&lt;wait&gt;</Entry>
-  <Entry Index="990">É por isso que eu queria passar um tempo com você, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Você também trabalha em um armazém. Eu preciso de dias
+de folga como esse.&lt;wait&gt;</Entry>
+  <Entry Index="990">É por isso que eu queria passar um tempo com você,
+&lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
 Mas eu também queria te agradecer por ser tão 
-bem com a mãe e com Popuri. E por me ajudar no outro dia
-na loja.&lt;wait&gt;</Entry>
-  <Entry Index="991">É por isso que eu queria passar um tempo com você, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+legal com a mamãe e com a Popuri. E por me ajudar no
+outro dia no aramzém.&lt;wait&gt;</Entry>
+  <Entry Index="991">É por isso que eu queria passar um tempo com você,
+&lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
 Mas eu também queria te agradecer por ser tão 
-bem com a mãe e com Popuri. E por me ajudar no outro dia
-na loja.&lt;wait&gt;</Entry>
-  <Entry Index="992">Desculpe por trazer isso à tona novamente. Como você
-Eu contei, meu pai... um dia ele nos abandonou. Desde então, não
-ele voltou para casa.&lt;wait&gt;&lt;page&gt;
+legal com a mamãe e com a Popuri. E por me ajudar no
+outro dia no aramazém.&lt;wait&gt;</Entry>
+  <Entry Index="992">Desculpe por trazer isso à tona novamente.
+Eu contei para você, meu pai... ele nos abandonou um dia .
+Desde então, não voltou para casa.&lt;wait&gt;&lt;page&gt;
 Você viu como minha mãe é frágil, e Popuri ainda é
 muito jovem.&lt;wait&gt;&lt;page&gt;
-Eu tenho feito o meu melhor por você. Para cuidar não só 
-da loja, mas também da minha família.&lt;wait&gt;</Entry>
+Eu tenho feito o meu melhor por eles. Para cuidar não só 
+do aramzém, mas também da minha família.&lt;wait&gt;</Entry>
   <Entry Index="993">É muito estressante, sabe? Sou consciente de que
-Eu sou mal-humorado e estou sempre exausto. Mas é
-Eu nem tenho tempo para descansar.&lt;wait&gt;</Entry>
-  <Entry Index="994">Quando vejo como você se dá bem com mamãe e Popuri, e o que
-você vem ajudar a loja...&lt;wait&gt;</Entry>
-  <Entry Index="995">Quando vejo como você se dá bem com mamãe e Popuri, e o que
-você vem ajudar a loja...&lt;wait&gt;</Entry>
-  <Entry Index="996">Me sinto muito bem por ter você aqui comigo. Sinto que
-Conto com ajuda. Como se eu não tivesse que fazer 
-tudo sozinho.&lt;wait&gt;</Entry>
-  <Entry Index="997">Me sinto muito bem por ter você aqui comigo. Sinto que
-Conto com ajuda. Como se eu não tivesse que fazer 
-tudo sozinho.&lt;wait&gt;</Entry>
+sou mal-humorado e estou sempre exausto. Mas é
+que eu nem tenho tempo para descansar.&lt;wait&gt;</Entry>
+  <Entry Index="994">Quando vejo como você se dá bem com a mamãe e a Popuri,
+e que vem ajudar no aramzém...&lt;wait&gt;</Entry>
+  <Entry Index="995">Quando vejo como você se dá bem com a mamãe e a Popuri,
+e que vem ajudar no armazém...&lt;wait&gt;</Entry>
+  <Entry Index="996">Me sinto muito bem por ter você aqui comigo.
+Sinto que posso contar com a sua ajuda. Como se eu não
+eu tivesse que fazer tudo sozinho.&lt;wait&gt;</Entry>
+  <Entry Index="997">Me sinto muito bem por ter você aqui comigo.
+Sinto que posso contar com a sua ajuda. Como se eu não
+tivesse que fazer tudo sozinho.&lt;wait&gt;</Entry>
   <Entry Index="998">Você pode confiar em mim.</Entry>
   <Entry Index="999">Temos um ao outro.</Entry>
-  <Entry Index="1000">Sim. É claro. Você é uma pessoa que pode ser confiável,
+  <Entry Index="1000">Sim. É claro. Você é uma pessoa confiável,
 &lt;playername&gt;. Estou feliz por ter uma garota como 
 você ao meu lado.&lt;wait&gt;</Entry>
-  <Entry Index="1001">Sim. É claro. Você é uma pessoa que pode ser confiável,
+  <Entry Index="1001">Sim. É claro. Você é uma pessoa confiável,
 &lt;playername&gt;. Estou feliz por ter um cara como 
 você ao meu lado.&lt;wait&gt;</Entry>
-  <Entry Index="1002">Mas... não quero me apoiar muito em você. Não quero ser
-um carregamento...&lt;wait&gt;</Entry>
-  <Entry Index="1003">Só pedirei sua ajuda se as coisas ficarem muito ruins
-difícil e eu não sou capaz de tudo. Eu prometo.&lt;wait&gt;</Entry>
+  <Entry Index="1002">Mas... não quero me apoiar muito em você.
+Não quero ser um fardo...&lt;wait&gt;</Entry>
+  <Entry Index="1003">Só pedirei sua ajuda se as coisas ficarem muito
+difíceis e eu não for capaz de tudo. Eu prometo.&lt;wait&gt;</Entry>
   <Entry Index="1004">Ok. Obrigado, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="1005">Ok. Obrigado, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1006">Eu deveria ser o homem da casa, mas você é sempre
-você que me socorre, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="1006">Eu deveria ser o homem da casa, mas é sempre
+você quem me socorre, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
 Algum dia, eu quero ser capaz de apoiá-lo da mesma forma 
-como você me apoia Ser o homem da nossa casa.&lt;wait&gt;</Entry>
-  <Entry Index="1007">Eu deveria ser o homem da casa, mas você é sempre
-você que me socorre, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+como você me apoia a ser o homem da nossa casa.&lt;wait&gt;</Entry>
+  <Entry Index="1007">Eu deveria ser o homem da casa, mas é sempre
+você quem me socorre, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
 Algum dia, eu quero ser capaz de apoiá-lo da mesma forma 
-como você me apoia Ser o homem da nossa casa.
+como você me apoia ser o homem da nossa casa.
 Bem, um deles.&lt;wait&gt;</Entry>
-  <Entry Index="1008">Enquanto eu tiver você ao meu lado, eu acho... não, eu sei que posso
-superar qualquer obstáculo que esteja no meu caminho 
-caminho.&lt;wait&gt;</Entry>
-  <Entry Index="1009">Bem, está ficando tarde. Vamos voltar. Eu vou te acompanhar
-para sua fazenda.&lt;wait&gt;</Entry>
-  <Entry Index="1010">Bem, está ficando tarde. Vamos voltar. O último em
-chegando é um ovo podre!&lt;wait&gt;</Entry>
+  <Entry Index="1008">Enquanto eu tiver você ao meu lado, eu acho... não, 
+eu sei que posso superar qualquer obstáculo que
+esteja no meu caminho.&lt;wait&gt;</Entry>
+  <Entry Index="1009">Bem, está ficando tarde. Vamos voltar. Eu vou te
+acompanhar até sua fazenda.&lt;wait&gt;</Entry>
+  <Entry Index="1010">Bem, está ficando tarde. Vamos voltar. O último
+que chegar é um ovo podre!&lt;wait&gt;</Entry>
   <Entry Index="1011">Muito obrigado por passar o dia comigo,
 &lt;playername&gt;. Obrigado.&lt;wait&gt;</Entry>
   <Entry Index="1012">Muito obrigado por passar o dia comigo,
@@ -2313,100 +2323,107 @@ chegando é um ovo podre!&lt;wait&gt;</Entry>
 Temos que repetir outro dia.&lt;wait&gt;</Entry>
   <Entry Index="1014">O tempo voa quando você está se divertindo.
 Temos que repetir outro dia.&lt;wait&gt;</Entry>
-  <Entry Index="1015">Ah! Vou ter um ataque cardíaco! Eu juro por 
-Por um momento, senti meu cérebro explodir.&lt;wait&gt;</Entry>
-  <Entry Index="1016">Ah. Comprovante. É claro. Eu sei exatamente o que você quer me dizer.
-Você quer que sejamos um casal, certo?&lt;wait&gt;&lt;page&gt;
-Você não tem ideia de como me deixa feliz, &lt;playername&gt;! Sou
-suor e tudo! Suando de felicidade!&lt;wait&gt;</Entry>
-  <Entry Index="1017">Uau. Comprovante. É claro. Eu sei exatamente o que você quer 
-diga-me Você quer ser um casal, certo?&lt;wait&gt;&lt;page&gt;
-Você não tem ideia de como me deixa feliz, &lt;playername&gt;! Sou
-suor e tudo! Suando de felicidade!&lt;wait&gt;</Entry>
+  <Entry Index="1015">Ah! Vou ter um ataque cardíaco! Eu juro que 
+por um momento, senti meu cérebro explodir.&lt;wait&gt;</Entry>
+  <Entry Index="1016">Ah. Certo. É claro. Eu sei exatamente o que
+você quer me dizer. Quer formar um casal, certo?&lt;wait&gt;&lt;page&gt;
+Você não tem ideia de como isso me deixa feliz, &lt;playername&gt;!
+Estou suando e tudo! Suando de felicidade!&lt;wait&gt;</Entry>
+  <Entry Index="1017">Uau. Certo. É claro. Eu sei exatamente o que
+você quer me dizer. Quer formar um casal, certo?&lt;wait&gt;&lt;page&gt;
+Você não tem ideia de como isso me deixa feliz, &lt;playername&gt;!
+Estou suando e tudo! Suando de felicidade!&lt;wait&gt;</Entry>
   <Entry Index="1018">Que pergunta! Claro que minha resposta é sim.
-Neste momento, eu sou... o abacaxi que você precisa no seu 
-vida! Ok?&lt;wait&gt;</Entry>
+Neste momento, eu sou... o abacaxi que você precisa no sua 
+vida! Certo?&lt;wait&gt;</Entry>
   <Entry Index="1019">Que pergunta! Claro que minha resposta é sim.
 A partir deste momento, somos um casal de abacaxis no 
-jardim do amor! Ok?&lt;wait&gt;</Entry>
+jardim do amor! Certo?&lt;wait&gt;</Entry>
   <Entry Index="1020">Ha ha ha! Ok, isso foi muito brega.
-Estou animado com o nosso futuro juntos, embora o 
-as coisas não mudam muito.&lt;wait&gt;</Entry>
+Estou animado com o nosso futuro juntos, embora
+as coisas não mudem muito.&lt;wait&gt;</Entry>
   <Entry Index="1021">De qualquer forma, tenho que voltar ao trabalho.
 Até mais!&lt;wait&gt;</Entry>
-  <Entry Index="1022">Olá, &lt;playername&gt;! &lt;gender&gt;("Bem-vindo", "Bem-vindo")!&lt;wait&gt;
+  <Entry Index="1022">Olá, &lt;playername&gt;! &lt;gender&gt;("Bem-vindo", "Bem-vinda")!&lt;wait&gt;
 Gostaria de comer algo?&lt;wait&gt;</Entry>
-  <Entry Index="1023">Hein? Se eu tiver algum tempo livre, você me quer
-vamos pescar?&lt;wait&gt;</Entry>
-  <Entry Index="1024">Ha ha! É claro! Eu estava prestes a terminar no 
-Cantina. Além disso, tenho vontade de me exercitar.&lt;wait&gt;</Entry>
+  <Entry Index="1023">Hein? Se eu tiver algum tempo livre, você quer
+ir pescar?&lt;wait&gt;</Entry>
+  <Entry Index="1024">Ha ha! É claro! Eu estava prestes a terminar 
+tudo no café. Além disso, tenho vontade
+de me exercitar.&lt;wait&gt;</Entry>
   <Entry Index="1025">Olha, quer saber? Em vez disso, por que não vamos ao 
 lago para pescar e esticar as pernas?&lt;wait&gt;&lt;page&gt;
-Só estou aqui no verão, e não costumo ir muito longe da praia.
-Quero explorar com você.&lt;wait&gt;</Entry>
-  <Entry Index="1026">Ótimo! Trato feito. Vamos para aquela sorveteria...
-Pensando bem, e se eu adicionasse sorvete ao cardápio
-do refeitório?&lt;wait&gt;</Entry>
-  <Entry Index="1027">Hein? Isso é uma galinha? O que você está fazendo aqui solto?&lt;wait&gt;</Entry>
+Só estou aqui no verão, e não costumo ir muito
+longe da praia. Quero explorar com você.&lt;wait&gt;</Entry>
+  <Entry Index="1026">Ótimo! Trato feito. Vamos para aquela
+sorveteria... Pensando bem, e se eu adicionasse
+sorvete ao cardápio do café?&lt;wait&gt;</Entry>
+  <Entry Index="1027">Hein? Isso é uma galinha?
+O que você está fazendo solta por aqui?&lt;wait&gt;</Entry>
   <Entry Index="1028">Hein? &lt;playername&gt;, e aí?&lt;wait&gt;</Entry>
   <Entry Index="1029">Não pode ser! É uma das suas galinhas?!&lt;wait&gt;</Entry>
-  <Entry Index="1030">Ai! Uau. Eu não sei se sou boa em ficar em silêncio.
-Eu a assustei.&lt;wait&gt;</Entry>
-  <Entry Index="1031">Hein? Você vai atrás dela? Você quer que eu espere por você no 
-café nesse meio tempo? Bem, vai ser não! Deixar
-ajudá-lo!&lt;wait&gt;</Entry>
-  <Entry Index="1032">Embora, pensando bem, um idiota que não sabe nada sobre 
-Galinhas seria mais um obstáculo do que uma ajuda, não é?&lt;wait&gt;</Entry>
+  <Entry Index="1030">Ai! Nossa. Eu não sei se sou bom em ficar
+em silêncio. Eu a assustei.&lt;wait&gt;</Entry>
+  <Entry Index="1031">Hein? Você vai atrás dela? Você quer que eu
+espere por você no café nesse meio tempo? Bem, não!
+Quero ajudá-lo!&lt;wait&gt;</Entry>
+  <Entry Index="1032">Embora, pensando bem, um idiota que não sabe nada
+sobre galinhas seria mais um obstáculo do que
+uma ajuda, não é?&lt;wait&gt;</Entry>
   <Entry Index="1033">Ok, &lt;playername&gt;. Não se preocupe comigo.
-Vá e pegue seu frango.
-Muita merda...! Quero dizer, boa sorte!&lt;wait&gt;</Entry>
+Vá pegar sua galinha.
+Puta merda...! Quero dizer, boa sorte!&lt;wait&gt;</Entry>
   <Entry Index="1034">Ah! Você voltou. Como foi?&lt;wait&gt;</Entry>
   <Entry Index="1035">Pelo que posso ver, tudo correu bem.&lt;wait&gt;</Entry>
-  <Entry Index="1036">Hein? Perdoa-te por estragar o nosso dia 
-De pesca? Não, não se preocupe com isso. Podemos ir
+  <Entry Index="1036">Hein? Desculpe por estragar o nosso dia 
+de pesca? Não, não se preocupe com isso. Podemos ir
 outra hora.&lt;wait&gt;</Entry>
-  <Entry Index="1037">Ainda assim, foi uma explosão! Quem teria pensado aquilo
-vamos esbarrar em uma de suas galinhas? De entre
-todos os sites, ali mesmo!&lt;wait&gt;</Entry>
+  <Entry Index="1037">Ainda assim, foi uma explosão! Quem teria
+pensado que iríamos esbarrar em uma de suas galinhas?
+Dentre todos os lugares, ali mesmo!&lt;wait&gt;</Entry>
   <Entry Index="1038">Ha ha ha! Deixe-me adivinhar: abriu
-o apetite? Felizmente me ocorreu fazer isso com você 
-enquanto eu esperava.&lt;wait&gt;</Entry>
-  <Entry Index="1039">Achei que você voltaria &lt;gender&gt;("cansado e com fome","cansado e com fome") da perseguição
-para o frango.&lt;wait&gt;</Entry>
+o apetite? Felizmente me ocorreu preparar isso para
+você enquanto eu esperava.&lt;wait&gt;</Entry>
+  <Entry Index="1039">Achei que você voltaria &lt;gender&gt;("cansado e com fome","cansada e com fome")
+da perseguição a galinha.&lt;wait&gt;</Entry>
   <Entry Index="1040">Ah! Faça-me uma sobremesa também!</Entry>
   <Entry Index="1041">Eu me curvo a você, Senhor do Sustento!</Entry>
   <Entry Index="1042">Ah! Recargas grátis também, certo?</Entry>
   <Entry Index="1043">Eu me curvo a você, Senhor do Sustento!</Entry>
-  <Entry Index="1044">Ei, ei. Você espera que eu prepare um banquete inteiro para você?
-Minha mãe. Bem... Para você, talvez.&lt;wait&gt;</Entry>
-  <Entry Index="1045">Ei, ei! Quão faminto você está? Minha mãe. Está bem.
-Para você, pode.&lt;wait&gt;</Entry>
+  <Entry Index="1044">Ei, ei. Você espera que eu prepare um banquete
+inteiro para você? Meu Deus. Bem... Para você,
+talvez.&lt;wait&gt;</Entry>
+  <Entry Index="1045">Ei, ei! Quão faminto você está? Meu Deus.
+Está bem. Para você, pode ser.&lt;wait&gt;</Entry>
   <Entry Index="1046">Bem, você se saiu bem, então merece um prêmio.
-Sabes que? Também fiz uma sobremesa para você.&lt;wait&gt;</Entry>
+Quer saber? Também fiz uma sobremesa
+para você.&lt;wait&gt;</Entry>
   <Entry Index="1047">Bem, você se saiu bem, então merece um prêmio.
-Sabes que? Vou até fazer uma sobremesa para você.&lt;wait&gt;</Entry>
+Quer saber? Vou até fazer uma sobremesa
+para você.&lt;wait&gt;</Entry>
   <Entry Index="1048">Vê-lo tão animado com a minha comida faz o
-trabalho que vale a pena.&lt;wait&gt;&lt;page&gt;
+esforço valer a pena.&lt;wait&gt;&lt;page&gt;
 Espere um segundo, &lt;playername&gt;.
 Vou fazer uma sobremesa deliciosa para você!&lt;wait&gt;</Entry>
-  <Entry Index="1049">Ver você tão feliz comendo minha comida faz o trabalho
-vale a pena.&lt;wait&gt;</Entry>
-  <Entry Index="1050">Pensando bem, o trabalho agrícola tem que ser 
+  <Entry Index="1049">Ver você tão feliz comendo minha comida faz o
+esforço valer a pena.&lt;wait&gt;</Entry>
+  <Entry Index="1050">Pensando bem, o trabalho agrícola deve ser 
 bastante difícil.&lt;wait&gt;&lt;page&gt;
-Aqui no refeitório, às vezes eu tenho que atender clientes
+Aqui no café, às vezes eu tenho que atender clientes
 exigentes que reclamam de qualquer coisa...&lt;wait&gt;&lt;page&gt;
-E ter que lidar com eles para que eles se acalmem e saibam
-Vá me dar uma dor de cabeça. Mas pelo menos eu posso 
-fale com eles.&lt;wait&gt;&lt;page&gt;
-Os animais, por outro lado, não falam. Fazer que
-entender as coisas tem que ser muito mais difícil do que 
-lidar com os clientes mais pesados.&lt;wait&gt;&lt;page&gt;
-Poder cuidar deles todos os dias é...
+E ter que lidar com eles para que se acalmem,
+me da uma dor de cabeça. Mas pelo menos eu posso 
+falar com alguém.&lt;wait&gt;&lt;page&gt;
+Os animais, por outro lado, não falam. Fazê-los
+entender as coisas deve ser muito mais difícil do
+que lidar com os clientes chatos.&lt;wait&gt;&lt;page&gt;
+Ter que cuidar deles todos os dias é...
 algo que me assusta, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1051">Bem, chega de conversa fiada. Há comida para parar a
-treine, então coma o quanto quiser.&lt;wait&gt;</Entry>
+  <Entry Index="1051">Bem, chega de conversa fiada. Há comida para
+para um time, então coma o quanto quiser.&lt;wait&gt;</Entry>
   <Entry Index="1052">E resumindo, é isso...</Entry>
-  <Entry Index="1053">Umm. Eu entendo. Existem todos os tipos deles, certo?&lt;wait&gt;</Entry>
+  <Entry Index="1053">Umm. Eu entendo. Existem todos os tipos deles,
+certo?&lt;wait&gt;</Entry>
   <Entry Index="1054">Ah, &lt;playername&gt;. Como vai, querida?&lt;wait&gt;</Entry>
   <Entry Index="1055">Olá, &lt;playername&gt;! Você está vindo buscar sementes para 
 plantar uma nova safra?&lt;wait&gt;</Entry>
