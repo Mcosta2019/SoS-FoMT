@@ -1004,13 +1004,13 @@ Ouça-me quando eu digo para você aproveitar essa
 chance. Me ajude, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="423">... Ok, você venceu.
 Eu vou.&lt;wait&gt;</Entry>
-  <Entry Index="424">Ah, &lt;playername&gt;, veja.
+  <Entry Index="424">Ah, &lt;playername&gt;, olha.
 Um coelho.&lt;wait&gt;</Entry>
   <Entry Index="425">É ótimo poder vê-lo de perto.&lt;wait&gt;</Entry>
-  <Entry Index="426">Ah, &lt;playername&gt;, veja.
+  <Entry Index="426">Ah, &lt;playername&gt;, olha.
 Um coelho.&lt;wait&gt;</Entry>
   <Entry Index="427">Ah... Ele fugiu. Que pena. Teria gostado
-assista por mais tempo.&lt;wait&gt;</Entry>
+de observá-lo por mais tempo.&lt;wait&gt;</Entry>
   <Entry Index="428">Finalmente chegamos.
 Está tudo bem, &lt;playername&gt;?
 Hum, você não se cansou, não é?&lt;wait&gt;</Entry>
@@ -1019,27 +1019,27 @@ Está tudo bem, &lt;playername&gt;?
 Hum, você não se cansou, não é?&lt;wait&gt;</Entry>
   <Entry Index="430">E aí? Trabalhar na fazenda te fortaleceu tanto 
 que este é apenas um passeio para você, hein?
-Uau, isso é bom.&lt;wait&gt;</Entry>
-  <Entry Index="431">Este Duque... Ele é um pouco mandão às vezes.&lt;wait&gt;&lt;page&gt;
+Nossa, isso é bom.&lt;wait&gt;</Entry>
+  <Entry Index="431">Este Duke... Ele é um pouco mandão às vezes.&lt;wait&gt;&lt;page&gt;
 Eu não queria arrastar você até aqui e estragar seu dia...&lt;wait&gt;</Entry>
-  <Entry Index="432">Este Duque... Ele é um pouco mandão às vezes.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="432">Este Duke... Ele é um pouco mandão às vezes.&lt;wait&gt;&lt;page&gt;
 Eu não queria arrastar você até aqui e estragar seu dia...&lt;wait&gt;</Entry>
-  <Entry Index="433">Mas no fundo não foi ruim que ele me deu um 
-correr. A verdade é que eu ainda não conheci
-obrigado pelo que fez por mim.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="433">Mas no fundo não foi ruim que ele tenha me dado
+um empurrão. A verdade é que eu ainda não consegui
+agradecer pelo que fez por mim.&lt;wait&gt;&lt;page&gt;
 &lt;playername&gt;...
 Obrigado. Realmente.&lt;wait&gt;&lt;page&gt;
 Graças a você comecei a encontrar sentido na minha vida
 nesta cidade.&lt;wait&gt;</Entry>
-  <Entry Index="434">Mas no fundo não foi ruim que ele me deu um 
-correr. A verdade é que ainda não consegui 
-obrigado pelo que fez por mim.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="434">Mas no fundo não foi ruim que ele tenha me dado
+um empurrão. A verdade é que ainda não consegui 
+agradecer pelo que fez por mim.&lt;wait&gt;&lt;page&gt;
 &lt;playername&gt;...
 Obrigado. Realmente.&lt;wait&gt;&lt;page&gt;
 Graças a você comecei a encontrar sentido na minha vida
 nesta cidade.&lt;wait&gt;</Entry>
-  <Entry Index="435">Pouco a pouco, estou me acostumando com esse trabalho. Ei,
-Acho que até estou gostando.&lt;wait&gt;</Entry>
+  <Entry Index="435">Pouco a pouco, estou me acostumando com esse trabalho.
+Ei, acho que até estou gostando.&lt;wait&gt;</Entry>
   <Entry Index="436">Sim...
 Ei, &lt;playername&gt;...
 Você gosta do seu trabalho?&lt;wait&gt;</Entry>
@@ -1051,24 +1051,25 @@ Você gosta do seu trabalho?&lt;wait&gt;</Entry>
   <Entry Index="440">Acho que é minha vocação.</Entry>
   <Entry Index="441">Ainda estou pensando nisso.</Entry>
   <Entry Index="442">Isso... é gratificante, certo? Eu também acho 
-Estou começando a gostar do meu trabalho.&lt;wait&gt;</Entry>
+que estou começando a gostar do meu trabalho.&lt;wait&gt;</Entry>
   <Entry Index="443">As frutas que colho acabam se transformando em vinho que
 as pessoas gostam. Quando penso nisso...&lt;wait&gt;&lt;page&gt;
 Eu nunca me senti assim antes. Fazendo essa conexão 
-Sinto que... meu esforço tem valor real.&lt;wait&gt;</Entry>
-  <Entry Index="444">Ainda não sou muito bom nisso. já tenho certeza 
-Já dei várias dores de cabeça ao Duke
-Maná com todos os meus erros.&lt;wait&gt;</Entry>
-  <Entry Index="445">Hum, eu sei que é muito repentino, mas... aqui. É um presente
-para te agradecer por tudo. Mantenha-o se quiser.&lt;wait&gt;</Entry>
+sinto que... meu esforço tem valor real.&lt;wait&gt;</Entry>
+  <Entry Index="444">Ainda não sou muito bom nisso.
+Já dei várias dores de cabeça ao Duke e a
+Manna com todos os meus erros.&lt;wait&gt;</Entry>
+  <Entry Index="445">Hum, eu sei que é muito repentino, mas... aqui.
+É um presente para te agradecer por tudo.
+Fique com ele se quiser.&lt;wait&gt;</Entry>
   <Entry Index="446">B-bem, acho que é hora de voltar.
 Estou preocupado com o Duke.&lt;wait&gt;</Entry>
-  <Entry Index="447">O-oh... Acho que não era uma pergunta apropriada. Isto
-desculpe...&lt;wait&gt;</Entry>
+  <Entry Index="447">O-oh... Acho que não era uma pergunta apropriada.
+Desculpe por isso...&lt;wait&gt;</Entry>
   <Entry Index="448">B-bem, acho que é hora de voltar.
 Estou preocupado com o Duke.&lt;wait&gt;</Entry>
   <Entry Index="449">Gostaria de saber o que você está pensando.&lt;wait&gt;</Entry>
-  <Entry Index="450">Bem, o problema não é seu. Você tem que ficar em 
+  <Entry Index="450">Bem, o problema não é seu. Você tem que ficar na 
 margem, querida.&lt;wait&gt;</Entry>
   <Entry Index="451">Mas...&lt;wait&gt;</Entry>
   <Entry Index="452">Você não está preocupado com Cliff?
@@ -1076,7 +1077,8 @@ Você já viu, não é? Tem sido...
 E então... Então...&lt;wait&gt;</Entry>
   <Entry Index="453">Eu sei. Não vou negar que isso me preocupa.
 Cliff... e... É uma verdadeira surpresa.&lt;wait&gt;</Entry>
-  <Entry Index="454">É por isso que temos que intervir e falar com ele!&lt;wait&gt;</Entry>
+  <Entry Index="454">É por isso que temos que intervir e falar
+com ele!&lt;wait&gt;</Entry>
   <Entry Index="455">Eu já te disse!
 Isso é entre os dois!
 Estou preocupado com Cliff também, garanto.&lt;wait&gt;&lt;page&gt;
@@ -1088,52 +1090,53 @@ dar-lhe algum conselho?&lt;wait&gt;</Entry>
   <Entry Index="456">O-oh! Olá!
 Que surpresa vê-lo aqui, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="457">Olá, &lt;playername&gt;.
-Você não está nos ouvindo, está?&lt;wait&gt;</Entry>
-  <Entry Index="458">Você não ouviu? Claro? Bem, não se preocupe, o que
-não estávamos discutindo.&lt;wait&gt;</Entry>
-  <Entry Index="459">Apenas temos uma opinião diferente sobre um determinado tópico... É típico
-de casamentos, asseguro-lhe. Desculpe se temos 
-feito para se sentir &lt;gender&gt;("desconfortável","desconfortável").&lt;wait&gt;</Entry>
+Você não estava nos ouvindo, estava?&lt;wait&gt;</Entry>
+  <Entry Index="458">Você não ouviu? Claro? Bem, não se preocupe,
+o que não estávamos discutindo.&lt;wait&gt;</Entry>
+  <Entry Index="459">Apenas temos uma opinião diferente sobre um determinado
+tópico... É típico de casamentos, asseguro-lhe.
+Desculpe se fizemos você se sentir &lt;gender&gt;("desconfortável","desconfortável").&lt;wait&gt;</Entry>
   <Entry Index="460">&lt;playername&gt;, posso perguntar uma coisa?&lt;wait&gt;</Entry>
-  <Entry Index="461">Bom céu, querida! Já quer desistir? Você não dá 
-percebe que está mexendo onde não te chamam?&lt;wait&gt;</Entry>
+  <Entry Index="461">Pelo céus, querida! Já quer desistir? Você não 
+percebe que está mexendo onde não é chamada?&lt;wait&gt;</Entry>
   <Entry Index="462">Cala a boca! O que há de errado em se preocupar 
-para a família?&lt;wait&gt;</Entry>
+com a família?&lt;wait&gt;</Entry>
   <Entry Index="463">Ow... você me pegou até o nariz.
 Faça o que quiser.&lt;wait&gt;</Entry>
   <Entry Index="464">Sinto muito, &lt;playername&gt;.
 Na verdade... eu queria falar com você sobre Cliff.&lt;wait&gt;&lt;page&gt;
-Qual você diria que é sua fraqueza?
-Perdoe-me por perguntar isso do nada, mas o que é
+Qual você diria que é a sua fraqueza?
+Perdoe-me por perguntar isso do nada, mas qual é a
 primeira coisa que vem à mente?&lt;wait&gt;</Entry>
   <Entry Index="465">Você pensa demais nas coisas.</Entry>
-  <Entry Index="466">Penhasco? Não vejo pontos fracos.</Entry>
+  <Entry Index="466">Cliff? Não vejo pontos fracos.</Entry>
   <Entry Index="467">Exatamente! Quão bem você o conhece, &lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="468">Você está absolutamente certo, querido. Está engarrafado e fechado 
-hermeticamente fechado, como um dos nossos melhores vinhos
-idade.&lt;wait&gt;&lt;page&gt;
-Eu gostaria que ele tivesse mais confiança conosco, mas fecha 
-para cal e música. É frustrante.&lt;wait&gt;</Entry>
-  <Entry Index="469">Não, não. Está tudo muito bem elogiando os pontos fortes de 
-pessoas, mas você também precisa reconhecer suas fraquezas.&lt;wait&gt;</Entry>
+  <Entry Index="468">Você está absolutamente certo, querido. Está engarrafado
+e completamente fechado, como um dos nossos melhores vinhos
+antigos.&lt;wait&gt;&lt;page&gt;
+Eu gostaria que ele tivesse mais confiança em nós, mas se 
+para tudo. É frustrante.&lt;wait&gt;</Entry>
+  <Entry Index="469">Não, não. Está tudo bem elogiar os pontos fortes
+das pessoas, mas você também precisa reconhecer
+suas fraquezas.&lt;wait&gt;</Entry>
   <Entry Index="470">Olha, desculpe. Isso é entre nós.
 Portanto, não se preocupe, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="471">Duque. Maná.
-Terminei meu dever de casa de hoje.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="471">Duke. Manna.
+Terminei minhas tarefas de hoje.&lt;wait&gt;&lt;page&gt;
 Olá, &lt;playername&gt;.
 Você tem coisas para fazer na loja?&lt;wait&gt;</Entry>
-  <Entry Index="472">Duque. Maná.
-Terminei meu dever de casa de hoje.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="472">Duke. Manna.
+Terminei minhas tarefas de hoje.&lt;wait&gt;&lt;page&gt;
 Olá, &lt;playername&gt;.
 Você tem coisas para fazer na loja?&lt;wait&gt;</Entry>
   <Entry Index="473">Ei! Bom trabalho, Cliff.
 Obrigado por dar 110%, como sempre.&lt;wait&gt;</Entry>
-  <Entry Index="474">&lt;playername&gt; Eu estava falando sobre jantar com você no 
-a pensão esta noite. Certo, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="474">&lt;playername&gt; Eu estava falando sobre o jantar na
+pensão esta noite. Certo, &lt;playername&gt;?&lt;wait&gt;</Entry>
   <Entry Index="475">Hein? E-você veio até aqui para isso?&lt;wait&gt;</Entry>
   <Entry Index="476">Isso mesmo, Cliff.&lt;wait&gt;</Entry>
-  <Entry Index="477">Você terminou suas tarefas, então vá em frente! Nós
-nós tratamos do resto.&lt;wait&gt;</Entry>
+  <Entry Index="477">Você terminou suas tarefas, então vá em frente!
+Nós cuidamos do resto.&lt;wait&gt;</Entry>
   <Entry Index="478">Sim, senhor. Obrigado. Ok, &lt;playername&gt;, vamos?&lt;esperar&gt;</Entry>
   <Entry Index="479">Sim, senhor. Obrigado. Ok, &lt;playername&gt;, vamos?&lt;esperar&gt;</Entry>
   <Entry Index="480">O especial de hoje foi muito bom.&lt;wait&gt;</Entry>
@@ -1145,33 +1148,36 @@ Eu me pergunto por quê.&lt;wait&gt;</Entry>
 Sim, tenho certeza.&lt;wait&gt;</Entry>
   <Entry Index="484">Ei... &lt;playername&gt;.
 Tem uma coisa que eu queria te perguntar.
-Posso?&lt;esperar&gt;</Entry>
+Posso?&lt;wait&gt;</Entry>
   <Entry Index="485">É porque estou com você, &lt;playername&gt;?&lt;wait&gt;</Entry>
   <Entry Index="486">Ei... &lt;playername&gt;.
 Tem uma coisa que eu queria te perguntar.
 Você se importa?&lt;wait&gt;</Entry>
   <Entry Index="487">Algumas horas atrás, quando fui anunciar que havia 
-trabalho terminado, vi vocês três conversando.&lt;wait&gt;&lt;page&gt;
+terminado o trabalho, vi vocês três conversando.&lt;wait&gt;&lt;page&gt;
 Me perdoe. Eu não queria espionar, mas ouvi algumas partes 
 da conversa...&lt;wait&gt;&lt;page&gt;
-Na verdade, só ouvi meu nome... E percebi isso 
+Na verdade, só ouvi meu nome... E percebi que 
 Duke e Manna estavam agindo de forma muito estranha.&lt;wait&gt;</Entry>
   <Entry Index="488">Estou... causando problemas novamente
 sem perceber?&lt;wait&gt;</Entry>
   <Entry Index="489">Eles se preocupam com você.</Entry>
   <Entry Index="490">Você é importante para eles.</Entry>
-  <Entry Index="491">Você está preocupado? Sim, eu acho porque...
-Ainda tenho muito a aprender, tenho certeza que você acha 
-que eles não podem confiar em mim.&lt;wait&gt;</Entry>
-  <Entry Index="492">Obrigado por me contar. Vou trabalhar duro a partir de agora.&lt;wait&gt;</Entry>
-  <Entry Index="493">Sou... importante para eles? Ei? Nós nem somos 
+  <Entry Index="491">Eles estão preocupado? Sim, eu acho que é porque...
+Ainda tenho muito a aprender, tenho certeza que eles
+acham não podem confiar em mim.&lt;wait&gt;</Entry>
+  <Entry Index="492">Obrigado por me contar. Vou trabalhar duro a
+partir de agora.&lt;wait&gt;</Entry>
+  <Entry Index="493">Sou... importante para eles? Hein? Nós nem somos 
 família... por que eles se importariam?&lt;wait&gt;</Entry>
-  <Entry Index="494">Se isso for verdade... Estou tão feliz por não conseguir o 
-palavras. Sinceramente, acho que não mereço.&lt;wait&gt;</Entry>
-  <Entry Index="495">Muito obrigado por hoje, &lt;playername&gt;. Ser
-Com você me dá uma sensação estranha por dentro.&lt;wait&gt;</Entry>
-  <Entry Index="496">Espero... que você me convide para sair outro dia.&lt;wait&gt;</Entry>
-  <Entry Index="497">Muito obrigado por hoje, &lt;playername&gt;. eu amo
+  <Entry Index="494">Se isso for verdade... Estou tão feliz que não
+consigo encontrar palavras. Sinceramente,
+acho que não mereço.&lt;wait&gt;</Entry>
+  <Entry Index="495">Muito obrigado por hoje, &lt;playername&gt;. Sair
+com você me dá uma sensação estranha por dentro.&lt;wait&gt;</Entry>
+  <Entry Index="496">Espero... que você me convide para sair
+outro dia.&lt;wait&gt;</Entry>
+  <Entry Index="497">Muito obrigado por hoje, &lt;playername&gt;.
 Eu me diverti muito.&lt;wait&gt;</Entry>
   <Entry Index="498">O Cliff realmente acha que... ?&lt;wait&gt;</Entry>
   <Entry Index="499">Veja o que você fez.
@@ -1181,9 +1187,9 @@ mas puxei o gatilho muito rápido.&lt;wait&gt;</Entry>
   <Entry Index="501">Perdoe-nos, &lt;playername&gt;.
 Parece que estávamos errados.
 Não se preocupe.&lt;wait&gt;</Entry>
-  <Entry Index="502">Olha, não sei que tipo de sentimentos você tem por Cliff,
-mas isso não muda o fato de que os dois 
-vocês dois se dão muito bem.&lt;wait&gt;</Entry>
+  <Entry Index="502">Olha, não sei que tipo de sentimentos você tem
+por Cliff, mas isso não muda o fato de que os dois 
+se dão muito bem.&lt;wait&gt;</Entry>
   <Entry Index="503">Vou deixar você cuidar de Ran.&lt;wait&gt;</Entry>
   <Entry Index="504">E aí? Você veio para comer?&lt;wait&gt;</Entry>
   <Entry Index="505">Ugh...
@@ -1192,287 +1198,306 @@ Acho que vamos ficar bem aqui.&lt;wait&gt;</Entry>
 de antes... E-eh...&lt;wait&gt;</Entry>
   <Entry Index="507">Não... Não estou entendendo errado, estou?
 Se estiver falando sério, mostre-me mais uma vez.&lt;wait&gt;</Entry>
-  <Entry Index="508">Isso mesmo. É totalmente verdade... acho difícil de acreditar, mas
-a prova está diante dos meus olhos. Estou muito feliz.&lt;wait&gt;</Entry>
-  <Entry Index="509">Conhecer você mudou minha vida. Você é o primeiro 
+  <Entry Index="508">Isso mesmo. É totalmente verdade... acho difícil
+de acreditar, mas a prova está diante dos meus olhos.
+Estou muito feliz.&lt;wait&gt;</Entry>
+  <Entry Index="509">Conhecer você mudou minha vida. Você é a primeira
 pessoa que conseguiu silenciar 
-para o meu crítico interior.&lt;wait&gt;&lt;page&gt;
-Eu não consigo parar de pensar em você. Na mulher que faz o quê
-Eu quero ficar e viver nesta cidade para sempre.
+o meu crítico interior.&lt;wait&gt;&lt;page&gt;
+Eu não consigo parar de pensar em você. Na mulher que faz 
+eu querer ficar e viver nesta cidade para sempre.
 E aqui estamos.&lt;wait&gt;</Entry>
-  <Entry Index="510">Conhecer você mudou minha vida. Você é o primeiro 
+  <Entry Index="510">Conhecer você mudou minha vida. Você é a primeira 
 pessoa que conseguiu silenciar 
-para o meu crítico interior.&lt;wait&gt;&lt;page&gt;
+o meu crítico interior.&lt;wait&gt;&lt;page&gt;
 Eu não consigo parar de pensar em você. No homem que faz 
-Eu quero ficar e viver nesta cidade para sempre.
+eu querer ficar e viver nesta cidade para sempre.
 E aqui estamos.&lt;wait&gt;</Entry>
-  <Entry Index="511">"Serei bom o suficiente para ela?" Não posso
-pare de me fazer essa pergunta. Mas se você ficar 
-Comigo, serei o melhor marido do mundo.&lt;wait&gt;</Entry>
-  <Entry Index="512">"Serei bom o suficiente para ele?" Não posso
-pare de me fazer essa pergunta. Mas se você ficar 
-Comigo, serei o melhor marido do mundo.&lt;wait&gt;</Entry>
-  <Entry Index="513">De repente, todos os meus sonhos se tornam realidade... Of
-Você realmente merece tanta felicidade?&lt;wait&gt;</Entry>
-  <Entry Index="514">Ei, &lt;playername&gt;. Eu quero dizer a Duke agora 
-Maná... E também Carter.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="511">"Serei bom o suficiente para ela?" Não paro
+de me fazer essa pergunta. Mas se você ficar 
+comigo, serei o melhor marido do mundo.&lt;wait&gt;</Entry>
+  <Entry Index="512">"Serei bom o suficiente para ele?" Não paro
+de me fazer essa pergunta. Mas se você ficar 
+comigo, serei o melhor marido do mundo.&lt;wait&gt;</Entry>
+  <Entry Index="513">De repente, todos os meus sonhos se tornaram realidade...
+Eu realmente mereço tanta felicidade?&lt;wait&gt;</Entry>
+  <Entry Index="514">Ei, &lt;playername&gt;. Eu quero dizer ao Duke e a
+Manna... E também ao Carter.&lt;wait&gt;&lt;page&gt;
 Estou indo agora.&lt;wait&gt;</Entry>
-  <Entry Index="515">Ei, &lt;playername&gt;. Eu quero dizer a Duke agora 
-Maná... E também Carter.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="515">Ei, &lt;playername&gt;. Eu quero dizer ao Duke e a
+Manna... E também ao Carter.&lt;wait&gt;&lt;page&gt;
 Estou indo agora.&lt;wait&gt;</Entry>
   <Entry Index="516">Cliff... Estou tão feliz por você.
 Eu estava esperando esse dia chegar.
 Parabéns.&lt;wait&gt;</Entry>
-  <Entry Index="517">O quê? Você está chorando, querida? Você deveria comemorar isso 
-tempo com parabéns, não lágrimas!&lt;wait&gt;</Entry>
-  <Entry Index="518">É só que Cliff, precisamente ele entre tantas pessoas,
-ele finalmente encontrou a felicidade.
-Não posso deixar de ficar animado.&lt;wait&gt;</Entry>
-  <Entry Index="519">Uau, uau. Parabéns, Cliff.
+  <Entry Index="517">O quê? Você está chorando, querida? Você deveria
+comemorar esse momento com parabéns, não lágrimas!&lt;wait&gt;</Entry>
+  <Entry Index="518">É só que Cliff, precisamente ele entre tantas
+pessoas, finalmente encontrou a felicidade.
+Não posso deixar de ficar animada.&lt;wait&gt;</Entry>
+  <Entry Index="519">Nossa, uau. Parabéns, Cliff.
 Fico feliz em ver que existem pessoas que se importam tanto 
-para você.&lt;wait&gt;</Entry>
+com você.&lt;wait&gt;</Entry>
   <Entry Index="520">Sim...
-Duque... e Maná...
+Duke... e Manna...
 E você também, Carter.&lt;wait&gt;&lt;page&gt;
-Muito obrigado por sempre pensar em mim.&lt;wait&gt;</Entry>
+Muito obrigado por sempre pensarem em mim.&lt;wait&gt;</Entry>
   <Entry Index="521">&lt;playername&gt;,
 Eu confio Cliff a você.&lt;wait&gt;</Entry>
   <Entry Index="522">&lt;playername&gt;,
 Eu confio Cliff a você.&lt;wait&gt;</Entry>
-  <Entry Index="523">É melhor começarmos a planejar o casamento. Vamos a
-esteja muito ocupado!&lt;wait&gt;</Entry>
-  <Entry Index="524">É melhor começarmos a planejar o casamento. Vamos a
-esteja muito ocupado!&lt;wait&gt;</Entry>
-  <Entry Index="525">Temos que preparar o mimo e enviar convites para 
+  <Entry Index="523">É melhor começarmos a planejar o casamento.
+A não ser que estejam muito ocupado!&lt;wait&gt;</Entry>
+  <Entry Index="524">É melhor começarmos a planejar o casamento.
+A não ser que estejam muito ocupado!&lt;wait&gt;</Entry>
+  <Entry Index="525">Temos que preparar o local e enviar convites para 
 todas as pessoas da cidade, então vai demorar mais ou menos
 uma semana. Deixe comigo, Cliff!&lt;wait&gt;</Entry>
-  <Entry Index="526">Você não sabe o que isso significa para mim, Duke... Obrigado.&lt;wait&gt;</Entry>
-  <Entry Index="527">Queridos irmãos, estamos reunidos aqui hoje para ver
-&lt;nomedojogador&gt; e Cliff se unem em sagrado matrimônio.
-Vamos começar.&lt;wait&gt;</Entry>
-  <Entry Index="528">Queridos irmãos, estamos reunidos aqui hoje para ver
-&lt;nomedojogador&gt; e Cliff se unem em sagrado matrimônio.
-Vamos começar.&lt;wait&gt;</Entry>
-  <Entry Index="529">&lt;playername&gt;. Penhasco. Você jura ser fiel o resto 
-suas vidas...&lt;wait&gt;&lt;page&gt;
-... e amá-lo e respeitá-lo nas alegrias e nas tristezas, no
-saúde e na doença? Agora e para sempre?&lt;wait&gt;</Entry>
-  <Entry Index="530">Cliff, quero que saiba que você é como um filho para mim!
-Só desejo que você seja feliz para sempre!&lt;wait&gt;</Entry>
-  <Entry Index="531">Penhasco! &lt;playername&gt;! Parabéns!
-Desejo a você toda a felicidade do mundo!&lt;wait&gt;</Entry>
-  <Entry Index="532">Cliff, de agora em diante, você compartilhará as alegrias e o
-penalidades com &lt;playername&gt;. Desejo-lhe o melhor.&lt;wait&gt;</Entry>
-  <Entry Index="533">&lt;playername&gt;, espero estarmos juntos por 
+  <Entry Index="526">Você não sabe o que isso significa para mim, Duke...
+Obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="527">Queridos irmãos, estamos reunidos aqui hoje para
+celebrar a união de &lt;nomedojogador&gt; e Cliff em
+sagrado matrimônio. Vamos começar.&lt;wait&gt;</Entry>
+  <Entry Index="528">Queridos irmãos, estamos reunidos aqui hoje para
+celebrar a união de &lt;nomedojogador&gt; e Cliff em
+sagrado matrimônio. Vamos começar.&lt;wait&gt;</Entry>
+  <Entry Index="529">&lt;playername&gt;. Cliff. Vocês juram serem fiéis
+pelo resto de suas vidas...&lt;wait&gt;&lt;page&gt;
+... e se amarem e se respeitarem nas alegrias e
+nas tristezas, na saúde e na doença?
+Agora e para sempre?&lt;wait&gt;</Entry>
+  <Entry Index="530">Cliff, quero que saiba que você é como um filho
+para mim! Só desejo que você seja feliz
+para sempre!&lt;wait&gt;</Entry>
+  <Entry Index="531">Cliff! &lt;playername&gt;! Parabéns!
+Desejo a vocês toda a felicidade do mundo!&lt;wait&gt;</Entry>
+  <Entry Index="532">Cliff, de agora em diante, você compartilhará as alegrias
+e as tristezas com &lt;playername&gt;. Desejo-lhe o melhor.&lt;wait&gt;</Entry>
+  <Entry Index="533">&lt;playername&gt;, espero ficarmos juntos 
 para todo sempre. Eu te amo. ∀&lt;wait&gt;</Entry>
-  <Entry Index="534">&lt;playername&gt;, espero estarmos juntos por 
+  <Entry Index="534">&lt;playername&gt;, espero ficarmos juntos 
 para todo sempre. Eu te amo. ∀&lt;wait&gt;</Entry>
-  <Entry Index="535">Ugh. Estou exausto. Após a cerimônia, tivemos o 
-fotos, o mimo e tudo mais...&lt;wait&gt;</Entry>
-  <Entry Index="536">Ugh. Estou exausto. Após a cerimônia, tivemos o 
-fotos, o mimo e tudo mais...&lt;wait&gt;</Entry>
-  <Entry Index="537">Duke e os outros tiveram o cuidado de organizá-lo
-tudo bem.&lt;wait&gt;</Entry>
-  <Entry Index="538">E agora... estamos finalmente sozinhos. Pela primeira vez like
-marido e mulher, nem mais nem menos.&lt;wait&gt;</Entry>
-  <Entry Index="539">E agora... estamos finalmente sozinhos. Pela primeira vez como 
-casamento, nem mais, nem menos.&lt;wait&gt;</Entry>
-  <Entry Index="540">Agora que estamos casados, que tal encontrarmos alguns 
-apelido carinhoso?&lt;wait&gt;&lt;page&gt;
+  <Entry Index="535">Ugh. Estou exausto. Após a cerimônia, tivemos as 
+fotos, o banquete e tudo mais...&lt;wait&gt;</Entry>
+  <Entry Index="536">Ugh. Estou exausto. Após a cerimônia, tivemos as 
+fotos, o banquete e tudo mais...&lt;wait&gt;</Entry>
+  <Entry Index="537">Duke e os outros tiveram o cuidado de organizar
+tudo muito bem.&lt;wait&gt;</Entry>
+  <Entry Index="538">E agora... estamos finalmente sozinhos. Pela primeira
+vez como marido e mulher, nem mais nem menos.&lt;wait&gt;</Entry>
+  <Entry Index="539">E agora... estamos finalmente sozinhos. Pela primeira
+vez como um casal, nem mais, nem menos.&lt;wait&gt;</Entry>
+  <Entry Index="540">Agora que estamos casados, que tal escolhermos alguns 
+apelidos carinhosos?&lt;wait&gt;&lt;page&gt;
 Você ainda pode me chamar de "Cliff."&lt;wait&gt;&lt;page&gt;
 Como você gostaria que eu o chamasse, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="541">Ok. Muito bom.&lt;wait&gt;</Entry>
+  <Entry Index="541">Ok. Muito bem.&lt;wait&gt;</Entry>
   <Entry Index="542">Pode me chamar de... amor. ∀&lt;wait&gt;</Entry>
   <Entry Index="543">Pode me chamar de... querida. ∀&lt;wait&gt;</Entry>
   <Entry Index="544">Você prefere outro apelido?
-Como o quê?&lt;wait&gt;</Entry>
-  <Entry Index="545">Ok. De agora em diante, é assim que eu vou te chamar,
-&lt;apelido&gt;. ∀&lt;wait&gt;</Entry>
+Tipo qual?&lt;wait&gt;</Entry>
+  <Entry Index="545">Ok. De agora em diante, é assim que eu vou
+te chamar, &lt;nickname&gt;. ∀&lt;wait&gt;</Entry>
   <Entry Index="546">Planejo morar aqui, é claro, mas
-Você se importa se eu continuar trabalhando no vinhedo?&lt;wait&gt;</Entry>
+você se importa se eu continuar trabalhando na vinícola?&lt;wait&gt;</Entry>
   <Entry Index="547">Obrigado, &lt;nickname&gt;.&lt;wait&gt;</Entry>
   <Entry Index="548">Desculpe. É só que eu encontrei um emprego,
-Prefiro não precisar sair.&lt;wait&gt;&lt;page&gt;
+gostaria de não precisar sair.&lt;wait&gt;&lt;page&gt;
 Eu prometo que estarei em casa de manhã e
-pôr do sol, ok?&lt;wait&gt;</Entry>
-  <Entry Index="549">Bem, &lt;apelido&gt;. ∀
+ao pôr do sol, ok?&lt;wait&gt;</Entry>
+  <Entry Index="549">Bem, &lt;nickname&gt;. ∀
 Um brinde à nossa nova vida juntos.&lt;wait&gt;</Entry>
-  <Entry Index="550">Bem, &lt;apelido&gt;. ∀
+  <Entry Index="550">Bem, &lt;nickname&gt;. ∀
 Um brinde à nossa nova vida juntos.&lt;wait&gt;</Entry>
   <Entry Index="551">Por quê? O que há de errado?&lt;wait&gt;</Entry>
-  <Entry Index="552">O que há de errado? Idiota! Pense nisso e você terá 
-a resposta. Se você não entender algo tão simples assim...&lt;wait&gt;</Entry>
-  <Entry Index="553">O quê? O que você esta olhando? Se você não tem nada 
-o que fazer aqui...&lt;wait&gt;</Entry>
-  <Entry Index="554">Cinza! Como você ousa falar com um cliente assim!&lt;wait&gt;</Entry>
+  <Entry Index="552">O que há de errado? Idiota! Pense nisso e você
+terá a resposta. Se você não entender algo tão
+simples assim...&lt;wait&gt;</Entry>
+  <Entry Index="553">O quê? O que você esta olhando? Se você não tem
+nada para fazer aqui...&lt;wait&gt;</Entry>
+  <Entry Index="554">Gray! Como você ousa falar com um
+cliente assim!&lt;wait&gt;</Entry>
   <Entry Index="555">Ah... D-desculpe.&lt;wait&gt;</Entry>
-  <Entry Index="556">&lt;gender&gt;("Bem-vindo","Bem-vindo").&lt;wait&gt;</Entry>
-  <Entry Index="557">Ah, você deve ser &lt;playername&gt;. A pessoa que eu conheço 
-mudou-se recentemente para esse farm.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="556">&lt;gender&gt;("Bem-vindo","Bem-vinda").&lt;wait&gt;</Entry>
+  <Entry Index="557">Ah, você deve ser &lt;playername&gt;. A pessoa que 
+se mudou recentemente para aquela fazenda.&lt;wait&gt;&lt;page&gt;
 Meu nome é Saibara.
 Este aqui é meu neto, Gray.&lt;wait&gt;</Entry>
   <Entry Index="558">Sim. Prazer em conhecê-lo!&lt;wait&gt;</Entry>
-  <Entry Index="559">Uau, mas é &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Apenas a tempo.
+  <Entry Index="559">Uau, se não é &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Bem a tempo.
 Este aqui é meu neto, Gray.&lt;wait&gt;&lt;page&gt;
 Venha aqui, Grey. Diga olá.&lt;wait&gt;</Entry>
   <Entry Index="560">Ah... é você, &lt;playername&gt;.
 ... Olá.&lt;wait&gt;</Entry>
   <Entry Index="561">E aí, vocês se conhecem?&lt;wait&gt;&lt;page&gt;
 Ah, você deve ser &lt;playername&gt;.
-&lt;gender&gt;("O","O") que administra essa fazenda.&lt;wait&gt;</Entry>
+&lt;gender&gt;("Aquele","Aquela") que administra essa fazenda.&lt;wait&gt;</Entry>
   <Entry Index="562">Entendo. Meu nome é Saibara.
 E este é o meu ferreiro.&lt;wait&gt;&lt;page&gt;
-Muito bom...&lt;wait&gt;</Entry>
+Muito bem...&lt;wait&gt;</Entry>
   <Entry Index="563">Ah... é você, &lt;playername&gt;.
 ... Olá.&lt;wait&gt;</Entry>
   <Entry Index="564">&lt;playername&gt;, hein?&lt;wait&gt;</Entry>
   <Entry Index="565">Vou descansar um pouco.
 Atenda os clientes.&lt;wait&gt;</Entry>
   <Entry Index="566">Desculpe por mais cedo.&lt;wait&gt;</Entry>
-  <Entry Index="567">Ai. Você não deveria ter testemunhado isso. O que
-sem dúvida você ouviu, ele estava me dizendo para começar 
-novamente desde o início.&lt;wait&gt;&lt;page&gt;
-Eu tenho que lutar muito para conseguir coçar um pouco 
-elogios ou palavras de encorajamento ao vovô.&lt;wait&gt;</Entry>
-  <Entry Index="568">Todos os dias, a mesma história.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="567">Ah. Você não deveria ter testemunhado isso.
+Sem dúvida você ouviu, ele estava me dizendo para 
+começar do início novamente.&lt;wait&gt;&lt;page&gt;
+Eu tenho que me esforçar muito para conseguir arrancar
+um pouco de elogios ou palavras de encorajamento
+do vovô.&lt;wait&gt;</Entry>
+  <Entry Index="568">Todos os dias, é a mesma história.&lt;wait&gt;&lt;page&gt;
 A ponto de não saber se posso continuar assim.&lt;wait&gt;</Entry>
   <Entry Index="569">Você precisa se fortalecer. Anime-se.</Entry>
   <Entry Index="570">Bem, deixe se não puder.</Entry>
   <Entry Index="571">Sim, você está certo.
 Estou me comportando como uma criança.&lt;wait&gt;</Entry>
-  <Entry Index="572">Desculpe. Não sei o que estou fazendo reclamando de tudo para você.&lt;wait&gt;</Entry>
+  <Entry Index="572">Desculpe. Não sei o que estou fazendo
+reclamando de tudo para você.&lt;wait&gt;</Entry>
   <Entry Index="573">Obrigado pelo incentivo, &lt;playername&gt;.
-Ainda não sei o que o vovô está tentando me ensinar.&lt;wait&gt;&lt;page&gt;
-Mas vou continuar trabalhando nisso. Eu confio nisso 
-Eu vou conseguir um dia.&lt;wait&gt;</Entry>
+Ainda não sei o que o vovô está tentando
+me ensinar.&lt;wait&gt;&lt;page&gt;
+Mas vou continuar trabalhando nisso. Eu confio que 
+vou conseguir um dia.&lt;wait&gt;</Entry>
   <Entry Index="574">Agora tenho que voltar ao trabalho.
 Conversaremos mais tarde.&lt;wait&gt;</Entry>
-  <Entry Index="575">O quê? E é dito por alguém que não distingue uma solda em
-flange de um em ângulo...! Argh, eu não deveria 
-reclamou, mas...&lt;wait&gt;</Entry>
-  <Entry Index="576">Olha, desculpe perguntar, mas você poderia ir para casa?
-Preciso ficar sozinho.&lt;wait&gt;</Entry>
+  <Entry Index="575">O quê? Vindo de alguém que não diferencia
+uma solda com flange de uma com ângulo...! Argh,
+eu não deveria reclamar, mas...&lt;wait&gt;</Entry>
+  <Entry Index="576">Olha, desculpe perguntar, mas você poderia
+ir embora? Preciso ficar sozinho.&lt;wait&gt;</Entry>
   <Entry Index="577">Estou praticando agora. Desculpe.&lt;wait&gt;</Entry>
-  <Entry Index="578">Você pode pegar qualquer livro que chame sua atenção e
-confira.&lt;wait&gt;</Entry>
+  <Entry Index="578">Você pode pegar qualquer livro que chame sua
+atenção e confirir.&lt;wait&gt;</Entry>
   <Entry Index="579">Ah... Olá, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="580">&lt;playername&gt;...
 Ah...&lt;wait&gt;</Entry>
-  <Entry Index="581">Há algo que eu gostaria de falar com você, se você tiver um momento.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="581">Há algo que eu gostaria de falar com você,
+se você tiver um momento.&lt;wait&gt;&lt;page&gt;
 Hum... Desculpe por gritar com você mais cedo.
-Não é assim que os clientes são tratados. Sinto muito.&lt;wait&gt;</Entry>
+Não é assim que os clientes são tratados.
+Sinto muito.&lt;wait&gt;</Entry>
   <Entry Index="582">O-obrigado.&lt;wait&gt;</Entry>
-  <Entry Index="583">Eu fico assim com pessoas que não conheço bem. EU
-Eu acendo como cobre em uma forja em brasa. E eu explodo para 
-a primeira alteração.&lt;wait&gt;</Entry>
-  <Entry Index="584">Mas eu não gostaria que você pensasse mal de mim por causa de 
-que chateado.&lt;wait&gt;&lt;page&gt;
-Espero que você aceite minhas desculpas por tal situação 
-desconfortável. Estamos em paz?&lt;wait&gt;</Entry>
-  <Entry Index="585">Ah, esqueci! Você faz embarques de minério e outros 
-materiais, certo, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="586">Você não ficará surpreso, considerando o que eu faço para viver,
-mas sou um grande entusiasta de minerais e gemas.&lt;wait&gt;&lt;page&gt;
-E eu estava pensando em criar algo em segredo. Você sabe, sem 
-avise o velho.&lt;wait&gt;&lt;page&gt;
-Tenho que dar muito trabalho se quiser melhorar.&lt;wait&gt;</Entry>
+  <Entry Index="583">Eu sou assim com pessoas que não conheço bem.
+Eu acendo como cobre em uma forja em brasa. E eu explodo 
+na primeira alteração.&lt;wait&gt;</Entry>
+  <Entry Index="584">Mas eu não gostaria que você pensasse mal
+de mim por estar chateado.&lt;wait&gt;&lt;page&gt;
+Espero que você aceite minhas desculpas por tal
+situação desconfortável. Estamos em paz?&lt;wait&gt;</Entry>
+  <Entry Index="585">Ah, esqueci! Você faz buscas de minério e
+outros materiais, certo, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="586">Você não ficará surpreso, considerando o que
+eu faço para viver, mas sou um grande entusiasta
+de minerais e gemas.&lt;wait&gt;&lt;page&gt;
+E eu estava pensando em criar algo em segredo. Você sabe,
+sem avisar o velho.&lt;wait&gt;&lt;page&gt;
+Tenho que mostrar muito serviço se quiser melhorar.&lt;wait&gt;</Entry>
   <Entry Index="587">É natural, eu acho.</Entry>
   <Entry Index="588">Vou me tornar seu fã.</Entry>
   <Entry Index="589">O-ok. É... normal.&lt;wait&gt;&lt;page&gt;
-M-mas me escute quando te digo que pretendo fazer um esforço 
-muito.&lt;wait&gt;</Entry>
-  <Entry Index="590">Quando eu aperfeiçoar um pouco minha técnica, você quer que eu
-tente fazer algo por você, &lt;playername&gt;?&lt;wait&gt;</Entry>
+M-mas me escute quando te digo que pretendo me
+esforçar muito.&lt;wait&gt;</Entry>
+  <Entry Index="590">Quando eu aperfeiçoar um pouco minha técnica,
+você gostaria que eu tentasse fazer algo
+para você, &lt;playername&gt;?&lt;wait&gt;</Entry>
   <Entry Index="591">Ok. Espere para ver.&lt;wait&gt;</Entry>
   <Entry Index="592">Não é grande coisa.&lt;wait&gt;&lt;page&gt;
 Ainda tenho um longo caminho a percorrer, mas algum dia 
-Vou largar o velho. Como ferreiro, eu quero
-diga.&lt;wait&gt;&lt;page&gt;
-Quando eu tiver polido um pouco minha técnica, farei alguma coisa
-especial para você, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="593">M-mas estou avisando que só vou mostrar se der certo,
-então não fique com esperanças.&lt;wait&gt;&lt;page&gt;
+vou largar o velho. Como ferreiro, eu quero
+dizer.&lt;wait&gt;&lt;page&gt;
+Quando eu tiver polido um pouco minhas técnicas,
+farei alguma coisa especial para você, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="593">M-mas estou avisando que só vou mostrar
+se der certo, então não fique com esperanças.&lt;wait&gt;&lt;page&gt;
 Pretendo tentar com todas as minhas forças.&lt;wait&gt;</Entry>
   <Entry Index="594">Ah... você precisa de alguma coisa?&lt;wait&gt;</Entry>
   <Entry Index="595">Vou aumentar a intensidade das minhas práticas.&lt;wait&gt;</Entry>
   <Entry Index="596">Olá, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="597">O vovô me repreendeu de novo hoje.
 Não vou deixar isso me afetar.&lt;wait&gt;&lt;page&gt;
-Na verdade, acho que estou começando a entender por que 
+Na verdade, acho que estou começando a entender 
 por que ele é tão duro comigo.&lt;wait&gt;</Entry>
-  <Entry Index="598">Você pode finalmente estar começando a pensar como um 
-ferreiro completo.&lt;wait&gt;</Entry>
-  <Entry Index="599">Há algo sobre o qual estou curioso
-pergunte a você, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="598">Eu posso finalmente estar começando a pensar
+como um ferreiro completo.&lt;wait&gt;</Entry>
+  <Entry Index="599">Há algo sobre o qual estou curioso,
+e queria perguntar a você, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="600">Você nunca usa joias ou algo parecido.&lt;wait&gt;</Entry>
   <Entry Index="601">Você não está interessado nessas coisas?&lt;wait&gt;</Entry>
-  <Entry Index="602">Adoro opulência!</Entry>
+  <Entry Index="602">Adoro luxúria!</Entry>
   <Entry Index="603">Você viu como minhas unhas estão sujas?</Entry>
-  <Entry Index="604">Achei que sim. Muitas garotas por aí diriam o mesmo.
-Embora eu tenha certeza... de uma maneira menos estranha.&lt;wait&gt;</Entry>
-  <Entry Index="605">Ah, não, não quis dizer nada de errado com isso. Realmente.&lt;wait&gt;</Entry>
+  <Entry Index="604">Achei que sim. Muitas garotas por aí diriam
+o mesmo. Embora eu tenha certeza...
+de uma maneira menos estranha.&lt;wait&gt;</Entry>
+  <Entry Index="605">Ah, não, não quis dizer nada de errado com isso.
+É sério.&lt;wait&gt;</Entry>
   <Entry Index="606">Hum... você está bravo?&lt;wait&gt;</Entry>
   <Entry Index="607">Ok.&lt;wait&gt;</Entry>
   <Entry Index="608">Há uma razão pela qual estou aqui hoje.&lt;wait&gt;&lt;page&gt;
 Eu queria dar isso a você.&lt;wait&gt;</Entry>
   <Entry Index="609">É um broche que fiz. Achei que ficaria bem em você.
-Espero que gostem.&lt;wait&gt;</Entry>
+Espero que goste.&lt;wait&gt;</Entry>
   <Entry Index="610">Você gosta de moda, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="611">Adoro opulência!</Entry>
+  <Entry Index="611">Adoro luxúria!</Entry>
   <Entry Index="612">Você viu como minhas unhas estão sujas?</Entry>
   <Entry Index="613">Ah, sim? Que boas notícias.&lt;wait&gt;</Entry>
-  <Entry Index="614">Tire. É uma pulseira que eu fiz. Eu pensei em você
-seria ótimo. Espero que gostem.&lt;wait&gt;</Entry>
-  <Entry Index="615">Eu estava com medo de que você não estivesse nem um pouco interessado. fico feliz em ver 
-você gosta.&lt;wait&gt;</Entry>
+  <Entry Index="614">Pegue. É uma pulseira que eu fiz. Eu pensei que
+ficaria ótimo em você. Espero que goste.&lt;wait&gt;</Entry>
+  <Entry Index="615">Eu estava com medo de que você não estivesse
+nem um pouco interessado. fico feliz em ver 
+que você gosta.&lt;wait&gt;</Entry>
   <Entry Index="616">Fiz tudo sozinho, sem o vovô saber.&lt;wait&gt;&lt;page&gt;
-Ele é muito mais habilidoso do que eu, mas pelo menos agora
-Posso fazer coisas simples como esta.&lt;wait&gt;&lt;page&gt;
-Eu disse a mim mesmo: "Se no final eu tiver uma coisa legal,
-Vou entregá-lo a &lt;playername&gt;".&lt;wait&gt;</Entry>
-  <Entry Index="617">Seria muito importante para mim se você o usasse.
-Bem, até mais.&lt;wait&gt;</Entry>
+Ele é muito mais habilidoso do que eu, mas pelo menos
+agora posso fazer coisas simples como esta.&lt;wait&gt;&lt;page&gt;
+Eu disse a mim mesmo: "Se no final eu fizer uma
+coisa legal, Vou entregá-lo a &lt;playername&gt;".&lt;wait&gt;</Entry>
+  <Entry Index="617">Seria muito importante para mim se você
+o usasse. Bem, até mais.&lt;wait&gt;</Entry>
   <Entry Index="618">Cuide bem dele.&lt;wait&gt;</Entry>
   <Entry Index="619">O-oh... Ok.
 Eu, ah... eu deveria voltar agora.&lt;wait&gt;</Entry>
   <Entry Index="620">Bom ver você, &lt;playername&gt;.
 Você pode vir aqui por um momento?&lt;wait&gt;</Entry>
-  <Entry Index="621">Você parece se dar bem com meu Gray, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Sem dúvida, ele herdou minha atitude distante. EU
-Eu estava preocupado que seria difícil para ele fazer amigos, mas...&lt;wait&gt;&lt;page&gt;
+  <Entry Index="621">Você parece se dar bem com meu Gray,
+&lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Sem dúvida, ele herdou minha atitude distante.
+Eu estava preocupado que seria difícil para ele
+fazer amigos, mas...&lt;wait&gt;&lt;page&gt;
 Fico feliz em ver que ele gosta de você, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="622">Gray está cada vez mais animado para aprender o 
-profissão. Estou impressionado com sua diligência.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="622">Gray está cada vez mais animado em aprender
+a profissão. Estou impressionado com sua dedicação.&lt;wait&gt;&lt;page&gt;
 Mas parece que há algo que o aflige. É refletido 
 nas ferramentas que cria.&lt;wait&gt;</Entry>
-  <Entry Index="623">Cinza!&lt;wait&gt;</Entry>
+  <Entry Index="623">Gray!&lt;wait&gt;</Entry>
   <Entry Index="624">E aí, vovô?&lt;wait&gt;&lt;page&gt;
-Ah, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo", "Bem-vindo").&lt;wait&gt;</Entry>
-  <Entry Index="625">Gray, você pode deixar para hoje.&lt;wait&gt;</Entry>
+Ah, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo", "Bem-vinda").&lt;wait&gt;</Entry>
+  <Entry Index="625">Gray, você pode parar por hoje.&lt;wait&gt;</Entry>
   <Entry Index="626">Você está brincando comigo?
-Você nunca me deixa ir mais cedo.&lt;wait&gt;</Entry>
-  <Entry Index="627">Cheguei à conclusão de que &lt;playername&gt; é o
-motivo da sua angústia.&lt;wait&gt;&lt;page&gt;
-Com licença, &lt;playername&gt;, mas você pode entrar
+Você nunca me deixa eu sair mais cedo.&lt;wait&gt;</Entry>
+  <Entry Index="627">Cheguei à conclusão de que &lt;playername&gt;
+é o motivo da sua angústia.&lt;wait&gt;&lt;page&gt;
+Com licença, &lt;playername&gt;, mas você poderia passar um
 tempo com ele hoje?&lt;wait&gt;</Entry>
-  <Entry Index="628">Com licença, &lt;playername&gt;, mas você poderia entrar
-tempo com ele hoje?&lt;wait&gt;</Entry>
-  <Entry Index="629">Desculpe... O vovô diz coisas estranhas de vez em quando
+  <Entry Index="628">Com licença, &lt;playername&gt;, mas você poderia
+passar um tempo com ele hoje?&lt;wait&gt;</Entry>
+  <Entry Index="629">Desculpe... O vovô diz coisas estranhas de vez em
 quando. Você teve azar.&lt;wait&gt;</Entry>
   <Entry Index="630">Hum... Ei. Eu acho que é um bom momento 
 para perguntar a você.&lt;wait&gt;&lt;page&gt;
-Você está planejando ficar nesta cidade durante 
+Você está planejando ficar nesta cidade por 
 muito tempo, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="631">Não consigo imaginar a vida em outro lugar!</Entry>
+  <Entry Index="631">Difícil imaginar a vida longe daqui!</Entry>
   <Entry Index="632">O futuro é incerto.</Entry>
   <Entry Index="633">Ah! Que alivio.
 Uh, isso... quero dizer...&lt;wait&gt;</Entry>
-  <Entry Index="634">Algumas pessoas ficam apenas por um tempo, como
-Kai. É como um nômade, sabe?&lt;wait&gt;&lt;page&gt;
-Outros, como meu pai, acabam se mudando para outra cidade.&lt;wait&gt;&lt;page&gt;
-Por isso fiquei curioso para saber o que você estava indo
-a fazer, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="634">Algumas pessoas ficam apenas por um tempo,
+como o Kai. É como um nômade, sabe?&lt;wait&gt;&lt;page&gt;
+Outros, como meu pai, acabam se mudando para
+outra cidade.&lt;wait&gt;&lt;page&gt;
+Por isso fiquei curioso para saber o que você estava
+pensando em fazer, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="635">Em outras palavras...
 O que estou tentando dizer é...&lt;wait&gt;</Entry>
   <Entry Index="636">Eu sentiria sua falta se você fosse embora.
