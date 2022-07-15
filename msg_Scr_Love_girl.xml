@@ -800,36 +800,37 @@ nossa vida juntos. ∀&lt;wait&gt;</Entry>
 o resto da minha vida com você. ∀&lt;wait&gt;</Entry>
   <Entry Index="335">Nossa, não me lembro de ter visto você aqui antes.
 Se importa se eu roubar um pouco do seu tempo?&lt;wait&gt;</Entry>
-  <Entry Index="336">Você é &lt;playername&gt;, &lt;gender&gt;("the","the") que acabou de se mudar para lá
-fazenda, certo?&lt;wait&gt;</Entry>
+  <Entry Index="336">Você é &lt;playername&gt;, &lt;gender&gt;("aquele","aquela") que acabou de se mudar para
+a velha fazenda, certo?&lt;wait&gt;</Entry>
   <Entry Index="337">Eu sou Carter, o padre desta humilde igreja.
 Prazer em conhecê-lo.&lt;wait&gt;</Entry>
-  <Entry Index="338">Você é &lt;playername&gt;, &lt;gender&gt;("the","the") que acabou de se mudar para lá
-fazenda, certo?&lt;wait&gt;</Entry>
-  <Entry Index="339">Meu Deus, se você é &lt;playername&gt;. Você se importa se você 
-roubar um pouco do seu tempo?&lt;wait&gt;</Entry>
-  <Entry Index="340">Meu Deus, se você é &lt;playername&gt;. Você se importa se você 
-roubar um pouco do seu tempo?&lt;wait&gt;</Entry>
+  <Entry Index="338">Você é &lt;playername&gt;, &lt;gender&gt;("aquele","aquela") que acabou de se mudar para
+a velha fazenda, certo?&lt;wait&gt;</Entry>
+  <Entry Index="339">Meu Deus, se não é &lt;playername&gt;. Você se importa se 
+eu roubar um pouco do seu tempo?&lt;wait&gt;</Entry>
+  <Entry Index="340">Meu Deus, se não é &lt;playername&gt;. Você se importa se 
+eu roubar um pouco do seu tempo?&lt;wait&gt;</Entry>
   <Entry Index="341">Serei honesto: tenho algo para lhe pedir, &lt;playername&gt;.
 Você acha que poderia me ajudar?&lt;wait&gt;</Entry>
   <Entry Index="342">Serei honesto: tenho algo para lhe pedir, &lt;playername&gt;.
 Você acha que poderia me ajudar?&lt;wait&gt;</Entry>
   <Entry Index="343">Você notou o jovem sentado naquele banco
-de Ali? O nome dele é Cliff.&lt;wait&gt;</Entry>
+logo ali? O nome dele é Cliff.&lt;wait&gt;</Entry>
   <Entry Index="344">Você notou o jovem sentado naquele banco
-de Ali? O nome dele é Cliff.&lt;wait&gt;</Entry>
-  <Entry Index="345">Para falar a verdade, o favor que quero pedir a você é
-relacionado a ele. Você se importaria de falar com ele? Algum
-o tema servirá, tenho certeza.&lt;wait&gt;</Entry>
-  <Entry Index="346">O pobre cordeirinho veio para esta cidade sozinho, assim como você,
-&lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="347">Mas parece que você está tendo dificuldades para se comunicar com 
-alguém além de mim.&lt;wait&gt;&lt;page&gt;
-Ele tem dificuldade em manter uma conversa, sobre 
-especialmente quando se trata de assumir a liderança.&lt;wait&gt;</Entry>
-  <Entry Index="348">O pobre cordeirinho veio para esta cidade sozinho, assim como você,
-&lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="349">Você me faria um favor? Que a deusa te abençoe.
+logo ali? O nome dele é Cliff.&lt;wait&gt;</Entry>
+  <Entry Index="345">Para falar a verdade, o favor que quero pedir a você
+é relacionado a ele. Você se importaria de falar
+com ele? Qualquer assunto servirá, tenho certeza.&lt;wait&gt;</Entry>
+  <Entry Index="346">O pobre cordeirinho veio para esta cidade
+sozinho, assim como você, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="347">Mas parece que ele está tendo dificuldades para se
+comunicar com alguém além de mim.&lt;wait&gt;&lt;page&gt;
+Ele tem dificuldade em manter uma conversa,
+especialmente quando se trata de assumir a
+liderança.&lt;wait&gt;</Entry>
+  <Entry Index="348">O pobre cordeirinho veio para esta cidade
+sozinho, assim como você, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="349">Você me faria esse favor? Que a Deusa te abençoe.
 Desejo-lhe boa sorte.&lt;wait&gt;</Entry>
   <Entry Index="350">Uh...uh...
 Hum, você precisa de alguma coisa?&lt;wait&gt;</Entry>
@@ -845,144 +846,162 @@ Uh... O-olá.&lt;wait&gt;</Entry>
 Uh... O-olá.&lt;wait&gt;</Entry>
   <Entry Index="355">...
 ... Eh.&lt;wait&gt;&lt;page&gt;
-O que está acontecendo? Há algo errado com meu rosto?&lt;wait&gt;</Entry>
-  <Entry Index="356">Hein? Queres falar comigo?
-Comigo?&lt;wait&gt;</Entry>
+O que está acontecendo? Há algo errado com
+meu rosto?&lt;wait&gt;</Entry>
+  <Entry Index="356">Hein? Você quer falar comigo?&lt;wait&gt;</Entry>
   <Entry Index="357">Ah... Ah... B-bem. Eu...
 E-eh...&lt;wait&gt;</Entry>
-  <Entry Index="358">Fico muito nervoso, especialmente quando estou sozinho
-com alguém. Não... não sou muito bom em falar.&lt;wait&gt;</Entry>
-  <Entry Index="359">Não desanime, cara!</Entry>
+  <Entry Index="358">Fico muito nervoso, especialmente quando estou
+sozinho com alguém. Não... não sou muito
+bom em conversar.&lt;wait&gt;</Entry>
+  <Entry Index="359">Não desanime, colega!</Entry>
   <Entry Index="360">Não tenha pressa.</Entry>
-  <Entry Index="361">Não desanime, cara!</Entry>
+  <Entry Index="361">Não desanime, colega!</Entry>
   <Entry Index="362">Não tenha pressa.</Entry>
   <Entry Index="363">Ok... Hum... Uh, eu gostaria, mas...
-É... mais fácil falar do que fazer, sabe?&lt;wait&gt;&lt;page&gt;
+É... mais fácil falar do que fazer, sabia?&lt;wait&gt;&lt;page&gt;
 Então... Hum, me desculpe, mas...
 Eu gostaria de ficar sozinho. P-por favor.&lt;wait&gt;</Entry>
   <Entry Index="364">... Ok, acho que estou mais calmo agora.
 Obrigado, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="365">... Ok, acho que estou mais calmo agora.
 Obrigado, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="366">Não deveria... não deveria estar preocupado? Eu entendo você. ES muito
-Atenciosamente, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-A propósito... É verdade que você veio para esta cidade &lt;gender&gt;("sozinho","sozinho") e
-executando um farm sozinho?&lt;wait&gt;</Entry>
-  <Entry Index="367">É incrível. Não me vejo crescendo ou criando nada.&lt;wait&gt;</Entry>
-  <Entry Index="368">Você pode achar estranho eu dizer isso, mas... Ei, por mais difícil que seja
-às vezes acontece... espere, ok?&lt;wait&gt;</Entry>
-  <Entry Index="369">Não deveria... não deveria estar preocupado? Eu entendo você. ES muito
-Atenciosamente, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-A propósito... É verdade que você veio para esta cidade &lt;gender&gt;("sozinho","sozinho") e
-executando um farm sozinho?&lt;wait&gt;</Entry>
-  <Entry Index="370">E ei... Se você não se importar, poderia vir falar comigo em 
-outra hora? Y-somente se você tiver tempo, é claro.&lt;wait&gt;</Entry>
-  <Entry Index="371">Eu, uh... sou muito ruim em falar com as pessoas, mas
-se for você... &lt;playername&gt;...&lt;wait&gt;</Entry>
-  <Entry Index="372">Eu, uh... sou muito ruim em falar com as pessoas, mas
-se for você... &lt;playername&gt;...&lt;wait&gt;</Entry>
+  <Entry Index="366">Não deveria... não deveria estar preocupado?
+Eu entendo você. É muito atenciosamente,
+&lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+A propósito... É verdade que você veio para esta cidade
+adminstrar um fazenda &lt;gender&gt;("sozinho","sozinha")?&lt;wait&gt;</Entry>
+  <Entry Index="367">É incrível. Não me vejo cultivando ou
+criando nada.&lt;wait&gt;</Entry>
+  <Entry Index="368">Você pode achar estranho eu dizer isso, mas...
+Ei, por mais difícil que seja,
+às vezes acontece... aguente, ok?&lt;wait&gt;</Entry>
+  <Entry Index="369">Não deveria... não deveria estar preocupado?
+Eu entendo você. É muito atenciosamente,
+&lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+A propósito... É verdade que você veio para esta cidade
+adminstrar um fazenda &lt;gender&gt;("sozinho","sozinha")?&lt;wait&gt;</Entry>
+  <Entry Index="370">E ei... Se você não se importar, poderia vir
+falar comigo em  outra hora? S-somente se você tiver
+tempo, é claro.&lt;wait&gt;</Entry>
+  <Entry Index="371">Eu, uh... sou muito ruim em falar com as 
+pessoas, mas se for você... &lt;playername&gt;...&lt;wait&gt;</Entry>
+  <Entry Index="372">Eu, uh... sou muito ruim em falar com as
+pessoas, mas se for você... &lt;playername&gt;...&lt;wait&gt;</Entry>
   <Entry Index="373">Aham. Bem, tenha cuidado no caminho para casa.&lt;wait&gt;</Entry>
-  <Entry Index="374">Uau, mas é &lt;playername&gt;.
-Você chega na hora perfeita.&lt;wait&gt;</Entry>
-  <Entry Index="375">Uau, mas é &lt;playername&gt;.
-Você chega na hora perfeita.&lt;wait&gt;</Entry>
+  <Entry Index="374">Nossa, se não é &lt;playername&gt;.
+Você chegou na hora perfeita.&lt;wait&gt;</Entry>
+  <Entry Index="375">Nossa, se não é &lt;playername&gt;.
+Você chegou na hora perfeita.&lt;wait&gt;</Entry>
   <Entry Index="376">Cliff e eu estávamos pensando em jantar juntos
 esta noite.&lt;wait&gt;</Entry>
-  <Entry Index="377">Se você não tem planos... você pode se juntar a nós,
+  <Entry Index="377">Se não tiver planos... você poderia se juntar a nós,
 &lt;playername&gt;. O que você acha?&lt;wait&gt;</Entry>
-  <Entry Index="378">Se você não tem planos... você pode se juntar a nós,
+  <Entry Index="378">Se não tiver planos... você poderia se juntar a nós,
 &lt;playername&gt;. O que você acha?&lt;wait&gt;</Entry>
-  <Entry Index="379">Seria ótimo se você viesse jantar com 
-nós, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="380">Seria ótimo se você viesse jantar com 
-nós, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="379">Seria ótimo se você viesse jantar 
+conosco, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="380">Seria ótimo se você viesse jantar 
+conosco, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="381">Nós íamos pedir a Ran para nos trazer comida
-pensão.&lt;wait&gt;&lt;page&gt;
-Importa-se de limpar o quarto antes de eu chegar?&lt;wait&gt;&lt;page&gt;
-Estarei no confessionário. Se alguém vier, me avise.&lt;wait&gt;</Entry>
+da estalagem.&lt;wait&gt;&lt;page&gt;
+Importa-se de limpar a sala antes de ela
+chegar?&lt;wait&gt;&lt;page&gt;
+Estarei no confessionário. Se alguém chegar,
+me avise.&lt;wait&gt;</Entry>
   <Entry Index="382">Ugh, Carter... Você não precisa limpar nada,
 &lt;playername&gt;. Eu cuido disso.&lt;wait&gt;</Entry>
   <Entry Index="383">Ah, Carter... Você não precisa limpar nada,
 &lt;playername&gt;. Eu cuido disso.&lt;wait&gt;</Entry>
   <Entry Index="384">Ok, porque eu ia dizer isso...</Entry>
-  <Entry Index="385">Gostaria.</Entry>
+  <Entry Index="385">Adoraria.</Entry>
   <Entry Index="386">Vou descansar enquanto você trabalha.</Entry>
   <Entry Index="387">Será um bom exercício.</Entry>
-  <Entry Index="388">Bem, então... Espere lá fora eu terminar, ok?&lt;wait&gt;</Entry>
-  <Entry Index="389">Ei! Ah, dá-me um pontapé! Um momento...
+  <Entry Index="388">Bem, então... Espere lá fora até eu terminar, ok?&lt;wait&gt;</Entry>
+  <Entry Index="389">Ei! Ah, me belisque! Um momento...
 É você, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="390">Desculpe, eu estava pulando e não
-Esperava não encontrar ninguém na porta da igreja.&lt;wait&gt;</Entry>
-  <Entry Index="391">Ei! Ah, dá-me um pontapé! Espere... é você,
+  <Entry Index="390">Desculpe, eu estava saltitando e não
+esperava encontrar ninguém na porta da igreja.&lt;wait&gt;</Entry>
+  <Entry Index="391">Ei! Ah, me belisque! Espere... é você,
 &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="392">Uau... ele convidou você, hein? É por isso que você está aqui. Ah,
-ha. Desculpe deixá-lo esperando pelo jantar.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="392">Nossa... ele convidou você, hein? É por isso que
+está aqui. Ah. Desculpe deixá-lo esperando
+pelo jantar.&lt;wait&gt;&lt;page&gt;
 Eu não sabia que você e Cliff se davam tão bem.&lt;wait&gt;</Entry>
   <Entry Index="393">Quero dizer... Cliff só fala com Carter, sabe?
-Ele é o cara clássico que guarda tudo para si mesmo.&lt;wait&gt;</Entry>
-  <Entry Index="394">É por isso que estou um pouco preocupado com ele. Mas eu acho
-Que eu não tenho motivo, certo?&lt;wait&gt;</Entry>
-  <Entry Index="395">Uau... ele convidou você, hein? É por isso que você está aqui. Ah,
-ha. Desculpe deixá-lo esperando pelo jantar.&lt;wait&gt;&lt;page&gt;
+Ele é o cara clássico que guarda tudo para
+si mesmo.&lt;wait&gt;</Entry>
+  <Entry Index="394">É por isso que estou um pouco preocupado com ele.
+Mas eu acho não tenho motivos, certo?&lt;wait&gt;</Entry>
+  <Entry Index="395">Nossa... ele convidou você, hein? É por isso que
+está aqui. Ah. Desculpe deixá-lo esperando
+pelo jantar.&lt;wait&gt;&lt;page&gt;
 Eu não sabia que você e Cliff se davam tão bem.&lt;wait&gt;</Entry>
   <Entry Index="396">Bem, vamos entrar antes que a comida esfrie.&lt;wait&gt;</Entry>
-  <Entry Index="397">Oh Ran. Vejo que você está trazendo nossa comida.&lt;wait&gt;</Entry>
+  <Entry Index="397">Oh Ran. Vejo que você está trazendo nossa
+comida.&lt;wait&gt;</Entry>
   <Entry Index="398">Cliff acabou de limpar também. Você chegou
 bem na hora.&lt;wait&gt;</Entry>
   <Entry Index="399">Obrigado por nos trazer o jantar, Ran.
 E...desculpe a espera, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="400">Vamos lá, vamos afundar nossos dentes enquanto ainda está lá
-está quente.&lt;wait&gt;</Entry>
+  <Entry Index="400">Vamos lá, vamos afundar nossos dentes enquanto
+ainda está quente.&lt;wait&gt;</Entry>
   <Entry Index="401">Obrigado por nos trazer o jantar, Ran.
 E...desculpe a espera, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="402">Foi um prazer jantarmos juntos.&lt;wait&gt;</Entry>
-  <Entry Index="403">Sério? Muito amável da sua parte. Agora, se você não 
-se importa de me dar uma mão com isso...&lt;wait&gt;</Entry>
-  <Entry Index="404">Você poderia me ajudar apenas para um pequeno exercício? Ha ha, 
-ha. Está bem. Eu aceito.&lt;wait&gt;</Entry>
+  <Entry Index="403">Sério? Muito adorável da sua parte.
+Agora, se você não se importa de me dar uma
+mão com isso...&lt;wait&gt;</Entry>
+  <Entry Index="404">Você poderia me ajudar apenas com um pequeno
+exercício? Ha ha, está bem. Eu aceito.&lt;wait&gt;</Entry>
   <Entry Index="405">Ah... desculpe por olhar. Estava pensando
-o que... Você tem grande habilidade com as mãos.&lt;wait&gt;&lt;page&gt;
-E fiquei me perguntando se... você trabalha tão rápido em 
-a fazenda também.&lt;wait&gt;</Entry>
+que... Você tem uma grande habilidade
+com as mãos.&lt;wait&gt;&lt;page&gt;
+E fiquei me perguntando se... você trabalha tão rápido
+na fazenda também.&lt;wait&gt;</Entry>
   <Entry Index="406">Ah... desculpe por olhar. Estava pensando
-o que... Você tem grande habilidade com as mãos.&lt;wait&gt;&lt;page&gt;
-E fiquei me perguntando se... você trabalha tão rápido em 
-a fazenda também.&lt;wait&gt;</Entry>
+que... Você tem uma grande habilidade
+com as mãos.&lt;wait&gt;&lt;page&gt;
+E fiquei me perguntando se... você trabalha tão rápido 
+na fazenda também.&lt;wait&gt;</Entry>
   <Entry Index="407">Quando você cuida do campo e dos animais...
-Quando você corre para a cidade, ou para a floresta...&lt;wait&gt;</Entry>
-  <Entry Index="408">Ha ha ha. Eu acho que quando você está com tanta pressa todo mundo 
-todos os dias, no final você aprende a usar melhor o seu tempo.&lt;wait&gt;</Entry>
-  <Entry Index="409">Já é noite! Aqui está a ordem! Quem tem
+Quando você corre para a cidade, ou para
+a floresta...&lt;wait&gt;</Entry>
+  <Entry Index="408">Ha ha ha. Eu acho que quando você está com tanta
+pressa todos os dias, no final você aprende a
+usar melhor o seu tempo.&lt;wait&gt;</Entry>
+  <Entry Index="409">Já é noite! Está tudo em ordem! Quem está
 com fome?&lt;wait&gt;</Entry>
-  <Entry Index="410">A comida chegou, vamos deixar a limpeza para a
-momento. Vou encontrar Carter.&lt;wait&gt;</Entry>
-  <Entry Index="411">Ah... Olá, Duque.&lt;wait&gt;</Entry>
-  <Entry Index="412">Bom trabalho hoje, Cliff. Sua ética de trabalho nunca para
-impressione-me Se você precisar fazer uma pausa, faça isso 
-sem hesitação.&lt;wait&gt;</Entry>
+  <Entry Index="410">A comida chegou, vamos deixar a limpeza para
+depois. Vou encontrar Carter.&lt;wait&gt;</Entry>
+  <Entry Index="411">Ah... Olá, Duke.&lt;wait&gt;</Entry>
+  <Entry Index="412">Bom trabalho hoje, Cliff. Sua ética de trabalho nunca
+de me impressionar. Se você precisar fazer uma pausa,
+faça isso sem hesitação.&lt;wait&gt;</Entry>
   <Entry Index="413">Não se preocupe... Estou bem.&lt;wait&gt;</Entry>
-  <Entry Index="414">Bem, temo que Manna esteja um passo à frente de você. Você
-preocupado que você possa desmaiar por excesso de trabalho.&lt;wait&gt;</Entry>
-  <Entry Index="415">O quê? Não, estou bem, sério... Por favor, não 
-trabalho demais para mim.&lt;wait&gt;</Entry>
+  <Entry Index="414">Bem, temo que Manna esteja um passo à
+frente de você. Preocupada que você possa desmaiar
+por excesso de trabalho.&lt;wait&gt;</Entry>
+  <Entry Index="415">O quê? Não, estou bem, sério... Por favor, 
+não se preocupe comigo.&lt;wait&gt;</Entry>
   <Entry Index="416">Não fazer isso por você?
 Olhe para isso, Cliff...&lt;wait&gt;</Entry>
-  <Entry Index="417">Uau, mas é &lt;playername&gt;.
+  <Entry Index="417">Nossa, mas é &lt;playername&gt;.
 Não fique aí. Vamos lá.&lt;wait&gt;</Entry>
-  <Entry Index="418">A tempo. Cliff, por que você não dá um passeio até o 
-Mother Hill com &lt;playername&gt;?&lt;wait&gt;&lt;page&gt;
-Com o bom dia de hoje, tenho certeza que você vai curtir 
+  <Entry Index="418">A tempo. Cliff, por que você não dá um passeio até
+a Colina Mãe com &lt;playername&gt;?&lt;wait&gt;&lt;page&gt;
+Com o bom dia de hoje, tenho certeza que vocês vão curtir 
 excelentes vistas do topo.&lt;wait&gt;</Entry>
   <Entry Index="419">O quê? Mas ainda tenho trabalho para...&lt;wait&gt;</Entry>
-  <Entry Index="420">Nem outra palavra. Você já trabalhou o suficiente para 
-hoje. Vou terminar o resto.&lt;wait&gt;</Entry>
-  <Entry Index="421">Mas... não posso deixar você fazer isso. Eu aceitei isso 
-Eu trabalho e agora tenho que...&lt;esperar&gt;</Entry>
-  <Entry Index="422">Penhasco. Se bem me lembro...&lt;wait&gt;&lt;page&gt;
-... você ainda não agradeceu &lt;playername&gt; O que
-ele merece por ajudar você a conseguir este emprego.&lt;wait&gt;&lt;page&gt;
-Ouça-me quando eu digo para você aproveitar isso 
-chance. Jogue comigo, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="420">Nem outra palavra. Você já trabalhou o suficiente 
+por hoje. Vou terminar o resto.&lt;wait&gt;</Entry>
+  <Entry Index="421">Mas... não posso deixar você fazer isso. Eu aceitei 
+o trabalho e agora tenho que...&lt;esperar&gt;</Entry>
+  <Entry Index="422">Cliff. Se me lembro bem...&lt;wait&gt;&lt;page&gt;
+... você ainda não agradeceu &lt;playername&gt; como
+ele merece por ajudá-lo a conseguir este emprego.&lt;wait&gt;&lt;page&gt;
+Ouça-me quando eu digo para você aproveitar essa 
+chance. Me ajude, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="423">... Ok, você venceu.
 Eu vou.&lt;wait&gt;</Entry>
   <Entry Index="424">Ah, &lt;playername&gt;, veja.
