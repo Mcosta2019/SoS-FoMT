@@ -2615,46 +2615,47 @@ recuperação?&lt;wait&gt;</Entry>
   <Entry Index="1132">Estou indo!&lt;wait&gt;</Entry>
   <Entry Index="1133">Pronto! Tem alguém atrás daquela árvore.
 E encontrei outro nos arbustos!&lt;wait&gt;</Entry>
-  <Entry Index="1134">Heh heh heh! Oh! Você me encontrou! ♪&lt;esperar&gt;</Entry>
+  <Entry Index="1134">Heh heh heh! Oh! Você me encontrou! ♪&lt;wait&gt;</Entry>
   <Entry Index="1135">Pronto... Vamos lá!&lt;wait&gt;</Entry>
   <Entry Index="1136">Brincamos muito! ♪
-Ha ha ha! Foi super divertido! ♪&lt;esperar&gt;</Entry>
-  <Entry Index="1137">Sim! Foi o dia mais engraçado de todos! ♪&lt;esperar&gt;</Entry>
+Ha ha ha! Foi super divertido! ♪&lt;wait&gt;</Entry>
+  <Entry Index="1137">Sim! Foi o dia mais engraçado de todos! ♪&lt;wait&gt;</Entry>
   <Entry Index="1138">Não sabia que você era tão rápido, Cliff.
 Você é incrível!&lt;wait&gt;</Entry>
   <Entry Index="1139">Sim, &lt;playername&gt; é muito rápido, 
 mas Cliff é ainda mais!&lt;wait&gt;</Entry>
   <Entry Index="1140">Sim, &lt;playername&gt; é muito rápido, 
 mas Cliff é ainda mais!&lt;wait&gt;</Entry>
-  <Entry Index="1141">Ele me encontrou imediatamente no jogo de esconde-esconde! ♪&lt;esperar&gt;</Entry>
+  <Entry Index="1141">Ele me encontrou imediatamente no jogo
+de esconde-esconde! ♪&lt;esperar&gt;</Entry>
   <Entry Index="1142">Sério? Devo ter tido sorte.&lt;wait&gt;</Entry>
   <Entry Index="1143">Bem, é melhor irmos para casa.&lt;wait&gt;</Entry>
-  <Entry Index="1144">Adeus!
+  <Entry Index="1144">Tchau!
 Até mais Cliff, &lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="1145">Adeus!
+  <Entry Index="1145">Tchau!
 Até mais Cliff, &lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="1146">Venha jogar outro dia!&lt;wait&gt;</Entry>
+  <Entry Index="1146">Venha brincar outro dia!&lt;wait&gt;</Entry>
   <Entry Index="1147">Gosto de ver você sorrir.</Entry>
   <Entry Index="1148">Agora você tem companheiros.</Entry>
   <Entry Index="1149">Agora você tem companheiros.</Entry>
   <Entry Index="1150">&lt;playername&gt;...&lt;wait&gt;</Entry>
   <Entry Index="1151">&lt;playername&gt;...&lt;wait&gt;</Entry>
   <Entry Index="1152">Obrigado... Foi tudo graças ao seu empurrão.&lt;wait&gt;&lt;page&gt;
-No começo, eu estava preocupado que todos me afastassem por 
-participe mas... eu me diverti muito.&lt;wait&gt;</Entry>
+No começo, eu estava preocupado que todos me afastassem
+por participar mas... eu me diverti muito.&lt;wait&gt;</Entry>
   <Entry Index="1153">Obrigado... Foi tudo graças ao seu empurrão.&lt;wait&gt;&lt;page&gt;
-No começo, eu estava preocupado que todos me afastassem por 
-participe mas... eu me diverti muito.&lt;wait&gt;</Entry>
+No começo, eu estava preocupado que todos me afastassem
+por participar mas... eu me diverti muito.&lt;wait&gt;</Entry>
   <Entry Index="1154">Você acha...? Sim.
 Acho que você está certo.&lt;wait&gt;</Entry>
   <Entry Index="1155">É tudo porque você me deu 
-um push, &lt;playername&gt;.
+um empurrão, &lt;playername&gt;.
 Eu realmente... me diverti muito hoje.&lt;wait&gt;</Entry>
   <Entry Index="1156">É tudo porque você me deu 
-um push, &lt;playername&gt;.
+um empurrão, &lt;playername&gt;.
 Eu realmente... me diverti muito hoje.&lt;wait&gt;</Entry>
   <Entry Index="1157">O tempo voa quando você está se divertindo,
-VERDADE? Devemos voltar agora.&lt;wait&gt;</Entry>
+NÃO É? Devemos voltar agora.&lt;wait&gt;</Entry>
   <Entry Index="1158">Hum... Olá.
 Você está em casa, &lt;playername&gt;?&lt;wait&gt;</Entry>
   <Entry Index="1159">Hum... Olá.
@@ -2663,99 +2664,101 @@ Você está em casa, &lt;playername&gt;?&lt;wait&gt;</Entry>
 Você poderia, hum... ter um momento para conversar?&lt;wait&gt;</Entry>
   <Entry Index="1161">Ei... estou aqui para convidá-lo para sair hoje, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="1162">Ei... estou aqui para convidá-lo para sair hoje, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1163">V-você vem comigo para comprar frutas e legumes
-selvagem? E-se você não tiver outros planos, é claro...&lt;wait&gt;</Entry>
+  <Entry Index="1163">V-você vem comigo para encontrar frutas e
+legumes silvestres? S-se você não tiver outros planos,
+é claro...&lt;wait&gt;</Entry>
   <Entry Index="1164">Você está falando sério, &lt;playername&gt;?
 Ufa. Estou feliz que você disse sim. Obrigado.&lt;wait&gt;</Entry>
   <Entry Index="1165">Você está falando sério, &lt;playername&gt;?
 Ufa. Estou feliz que você disse sim. Obrigado.&lt;wait&gt;</Entry>
   <Entry Index="1166">Então... não vamos perder tempo.&lt;wait&gt;</Entry>
-  <Entry Index="1167">Nós percorremos um longo caminho na floresta, você acha
-aqui vamos nós bem?&lt;wait&gt;&lt;page&gt;
-Espero que levemos uma cesta inteira para casa. Não seria
-ótimo, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="1168">Nós percorremos um longo caminho na floresta, você acha
-aqui vamos nós bem?&lt;wait&gt;&lt;page&gt;
-Espero que levemos uma cesta inteira para casa. Não seria
-ótimo, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="1167">Nós percorremos um longo caminho no bosque,
+você acha que aqui vamos nor dar bem?&lt;wait&gt;&lt;page&gt;
+Espero que levemos uma cesta inteira para casa.
+Não seria ótimo, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="1168">Nós percorremos um longo caminho no bosque,
+você acha aqui vamos nos dar bem?&lt;wait&gt;&lt;page&gt;
+Espero que levemos uma cesta inteira para casa.
+Não seria ótimo, &lt;playername&gt;?&lt;wait&gt;</Entry>
   <Entry Index="1169">Veja, &lt;playername&gt;.
-Há muito por lá.&lt;wait&gt;</Entry>
+Há muito por alí.&lt;wait&gt;</Entry>
   <Entry Index="1170">Veja, &lt;playername&gt;.
-Há muito por lá.&lt;wait&gt;</Entry>
-  <Entry Index="1171">Bom trabalho. Você é muito &lt;gender&gt;("rápido","rápido"), e tem um bom olho
-para encontrá-los.&lt;wait&gt;</Entry>
-  <Entry Index="1172">Bom trabalho. Você é muito &lt;gender&gt;("rápido","rápido"), e tem um bom olho
-para encontrá-los.&lt;wait&gt;</Entry>
+Há muito por alí.&lt;wait&gt;</Entry>
+  <Entry Index="1171">Bom trabalho. Você é muito &lt;gender&gt;("rápido","rápida"),
+e tem um bom olho para encontrá-los.&lt;wait&gt;</Entry>
+  <Entry Index="1172">Bom trabalho. Você é muito &lt;gender&gt;("rápido","rápida"),
+e tem um bom olho para encontrá-los.&lt;wait&gt;</Entry>
   <Entry Index="1173">Não esperava encontrar tantos.&lt;wait&gt;</Entry>
   <Entry Index="1174">Você pode ficar com todos eles.</Entry>
-  <Entry Index="1175">Vamos oferecê-los à deusa.</Entry>
+  <Entry Index="1175">Vamos entregá-los como oferenda à deusa.</Entry>
   <Entry Index="1176">Vamos entregá-los às pessoas da cidade.</Entry>
   <Entry Index="1177">Ah... obrigado, mas...
-Não posso guardar tudo.&lt;wait&gt;</Entry>
-  <Entry Index="1178">Aguarde. E se os dermos às pessoas da cidade?&lt;wait&gt;</Entry>
+não posso guardar tudo.&lt;wait&gt;</Entry>
+  <Entry Index="1178">Espere. E se os dermos às pessoas
+da cidade?&lt;wait&gt;</Entry>
   <Entry Index="1179">Obrigado por aceitar.
 Vamos voltar para a cidade.&lt;wait&gt;</Entry>
-  <Entry Index="1180">Para a deusa da colheita? Não é uma má ideia, mas não é
-muito para uma oferta?&lt;wait&gt;</Entry>
-  <Entry Index="1181">Todos ficaram muito felizes. Eu me senti... muito orgulhoso
-eu mesmo.&lt;wait&gt;</Entry>
+  <Entry Index="1180">Para a Deusa da Colheita? Não é uma má ideia,
+mas não é muito para uma oferenda?&lt;wait&gt;</Entry>
+  <Entry Index="1181">Todos ficaram muito felizes. Eu me senti...
+muito orgulhoso de mim mesmo.&lt;wait&gt;</Entry>
   <Entry Index="1182">Nunca pensei em fazer algo assim sozinho,
-você sabe.&lt;wait&gt;&lt;page&gt;
-É por isso que estou feliz por ter tido a coragem de convidá-lo
-hoje, &lt;playername&gt;.&lt;wait&gt;</Entry>
+você sabia.&lt;wait&gt;&lt;page&gt;
+É por isso que estou feliz por ter tido a coragem de
+convidá-lo hoje, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="1183">Nunca pensei em fazer algo assim sozinho,
-você sabe.&lt;wait&gt;&lt;page&gt;
-É por isso que estou feliz por ter tido a coragem de convidá-lo
-hoje, &lt;playername&gt;.&lt;wait&gt;</Entry>
+você sabia.&lt;wait&gt;&lt;page&gt;
+É por isso que estou feliz por ter tido a coragem de
+convidá-lo hoje, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="1184">Obrigado, &lt;playername&gt;...
-Por vir comigo.&lt;wait&gt;</Entry>
+por vir comigo.&lt;wait&gt;</Entry>
   <Entry Index="1185">Obrigado, &lt;playername&gt;...
-Por vir comigo.&lt;wait&gt;</Entry>
-  <Entry Index="1186">Bem, vamos deixar por hoje.
-Adeus, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1187">Bem, vamos deixar por hoje.
-Adeus, &lt;playername&gt;.&lt;wait&gt;</Entry>
+por vir comigo.&lt;wait&gt;</Entry>
+  <Entry Index="1186">Bem, vamos encerrar por hoje.
+Tchau, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1187">Bem, vamos encerrar por hoje.
+Tchau, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="1188">Distribua isso entre as pessoas da cidade...
 É uma ótima ideia!&lt;wait&gt;</Entry>
-  <Entry Index="1189">Ah... mas não sei, talvez se os pegássemos sem avisar ele poderia
-ser um incômodo.&lt;wait&gt;</Entry>
-  <Entry Index="1190">Você não acha? Nós devemos ir?
+  <Entry Index="1189">Ah... mas não sei, talvez se os levassemos
+sem avisar poderia ser um incômodo.&lt;wait&gt;</Entry>
+  <Entry Index="1190">Você não acha? Vamos?
 Sim... Se você diz, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="1191">Você não acha? Vamos?
 Sim... Se você diz, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="1192">Entendo. É por isso que você veio aqui.&lt;wait&gt;</Entry>
-  <Entry Index="1193">Que bom que você pegou o 
+  <Entry Index="1193">Que bom que não foi um
 aborrecimento, &lt;playername&gt; e Cliff!&lt;wait&gt;</Entry>
   <Entry Index="1194">Sim, vamos aproveitá-los muito! Nós somos tão
-ocupado na vinha que não temos tempo para ir 
-floresta.&lt;wait&gt;</Entry>
+ocupados na vinícola que não temos tempo para ir 
+ao bosque.&lt;wait&gt;</Entry>
   <Entry Index="1195">Fico feliz que tenha gostado.
 Bem, temos que ir.&lt;wait&gt;</Entry>
-  <Entry Index="1196">Os donos do bazar...
+  <Entry Index="1196">Os donos do mercearia...
 E os aposentados... Carter...
 E agora Duke e Manna...&lt;wait&gt;</Entry>
-  <Entry Index="1197">Todos nos saudaram com um sorriso.
+  <Entry Index="1197">Todos nos agradeceram com um sorriso.
 Isso... me emociona.&lt;wait&gt;</Entry>
   <Entry Index="1198">É raro eu pensar em fazer algo assim. 
 Mas ultimamente comecei a mudar 
 minha maneira de pensar.&lt;wait&gt;&lt;page&gt;
-Estou feliz por ter tido a coragem de convidá-lo hoje para 
-sair, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Quando estou com você, me sinto...
-Como se esta cidade fosse minha casa.&lt;wait&gt;</Entry>
+Estou feliz por ter tido a coragem de convidá-lo hoje
+para sair, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Quando estou com você, sinto...
+como se esta cidade fosse a minha casa.&lt;wait&gt;</Entry>
   <Entry Index="1199">É raro eu pensar em fazer algo assim. 
 Mas ultimamente comecei a mudar 
 minha maneira de pensar.&lt;wait&gt;&lt;page&gt;
-Estou feliz por ter tido a coragem de convidá-lo hoje para 
-sair, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Quando estou com você, me sinto...
-Como se esta cidade fosse minha casa.&lt;wait&gt;</Entry>
+Estou feliz por ter tido a coragem de convidá-lo hoje
+para sair, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Quando estou com você, sinto...
+como se esta cidade fosse a minha casa.&lt;wait&gt;</Entry>
   <Entry Index="1200">Obrigado, &lt;playername&gt;...
 Por se juntar a mim hoje.&lt;wait&gt;</Entry>
   <Entry Index="1201">Obrigado, &lt;playername&gt;...
 Por se juntar a mim hoje.&lt;wait&gt;</Entry>
   <Entry Index="1202">A propósito...
-Sobre o que você disse antes...&lt;wait&gt;</Entry>
+sobre o que você disse antes...&lt;wait&gt;</Entry>
   <Entry Index="1203">Você quer que eu seja seu namorado?
 Você acha que sou bom o suficiente para você?&lt;wait&gt;&lt;page&gt;
 Tenho certeza que você tem um monte de caras 
@@ -2772,37 +2775,37 @@ Então eu aceito. Vamos tentar.&lt;wait&gt;</Entry>
 A verdade é... eu também quero ter um relacionamento
 especial com você.&lt;wait&gt;&lt;page&gt;
 Então eu aceito. Vamos tentar.&lt;wait&gt;</Entry>
-  <Entry Index="1207">Ha ha... OMG, que pena.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="1207">Ha ha... Oh meu Deus, que pena.&lt;wait&gt;&lt;page&gt;
 Bem, eu vou indo agora.
-Até breve.&lt;wait&gt;</Entry>
+Até depois.&lt;wait&gt;</Entry>
   <Entry Index="1208">Ah, &lt;playername&gt;.
-&lt;gender&gt;("Bem-vindo", "Bem-vindo").&lt;wait&gt;</Entry>
+&lt;gender&gt;("Bem-vindo", "Bem-vinda").&lt;wait&gt;</Entry>
   <Entry Index="1209">Ah, &lt;playername&gt;.
-&lt;gender&gt;("Bem-vindo", "Bem-vindo").&lt;wait&gt;</Entry>
+&lt;gender&gt;("Bem-vindo", "Bem-vinda").&lt;wait&gt;</Entry>
   <Entry Index="1210">O vovô está fora, cuidando de alguns negócios.&lt;wait&gt;</Entry>
-  <Entry Index="1211">Desculpe, mas se você quiser falar com ele, terá que voltar
-mais tarde.&lt;wait&gt;</Entry>
+  <Entry Index="1211">Desculpe, mas se você quiser falar com ele,
+terá que voltar mais tarde.&lt;wait&gt;</Entry>
   <Entry Index="1212">Hein?
 &lt;playername&gt;, sua foice...&lt;wait&gt;&lt;page&gt;
-Ele quebrou?&lt;wait&gt;</Entry>
+ela quebrou?&lt;wait&gt;</Entry>
   <Entry Index="1213">Hein?
 &lt;playername&gt;, sua foice...&lt;wait&gt;&lt;page&gt;
-Ele quebrou?&lt;wait&gt;</Entry>
+ele quebrou?&lt;wait&gt;</Entry>
   <Entry Index="1214">Eu sabia.&lt;wait&gt;&lt;page&gt;
-É quase imperceptível, mas está amassado.&lt;wait&gt;&lt;page&gt;
-Acho que até eu conseguiria consertar algo assim 
-simples. Espere um minuto.&lt;wait&gt;&lt;page&gt;
+É quase imperceptível, mas está amassada.&lt;wait&gt;&lt;page&gt;
+Acho que até eu conseguiria consertar algo 
+simples assim. Espere um minuto.&lt;wait&gt;&lt;page&gt;
 Eh... Na verdade, pensando nisso...&lt;wait&gt;&lt;page&gt;
 Talvez seja melhor esperar até o vovô voltar.&lt;wait&gt;&lt;page&gt;
-Se eu tentar consertar e cometer um erro, tenho certeza 
-Eu aceito.&lt;wait&gt;</Entry>
-  <Entry Index="1215">Hein? Quer que eu corrija?&lt;wait&gt;</Entry>
+Se eu tentar consertar e cometer um erro, tenho
+certeza que não irá aceitar.&lt;wait&gt;</Entry>
+  <Entry Index="1215">Hein? Quer que eu corcerte?&lt;wait&gt;</Entry>
   <Entry Index="1216">...&lt;wait&gt;&lt;page&gt;
 ... Ok.&lt;wait&gt;&lt;page&gt;
 Pode confiar em mim.
-Prometo que vou corrigir.&lt;wait&gt;&lt;page&gt;
+Prometo que vou concertar.&lt;wait&gt;&lt;page&gt;
 Eu não estou prestes a quebrar uma de suas ferramentas
-mais precioso, &lt;playername&gt;. Palavra de ferreiro.&lt;wait&gt;</Entry>
+mais preciosas, &lt;playername&gt;. Palavra de ferreiro.&lt;wait&gt;</Entry>
   <Entry Index="1217">...&lt;wait&gt;&lt;page&gt;
 ...Ok.&lt;wait&gt;&lt;page&gt;
 Pode confiar em mim.
