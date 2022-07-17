@@ -99,108 +99,112 @@ Pts. de amizade atuais=&lt;string2&gt;&lt;wait&gt;&lt;page&gt;</Entry>
   <Entry Index="38">Niv. de afeto aumentou=&lt;string0&gt;
 Pts. de afeto anteriores=&lt;string1&gt;
 Pts. de afeto atuais=&lt;string2&gt;&lt;wait&gt;&lt;page&gt;</Entry>
-  <Entry Index="39">¿Eh? ¿Qué? ¿Cómo dices?
-Oye, oye, oye.
-Un momento, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="40">No deberíamos tener esta conversación aquí. Vamos a tu
-casa.&lt;wait&gt;</Entry>
-  <Entry Index="41">¿Eh? ¿Qué? ¿Cómo dices?
-Oye, oye, oye.
-Un momento, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="42">No deberíamos tener esta conversación aquí. Vamos a tu
-casa.&lt;wait&gt;</Entry>
-  <Entry Index="43">¿Eh? ¿Esto es lo que creo que es?
-Que me aspen...&lt;wait&gt;&lt;page&gt;
-Oye, no deberíamos tener esta conversación aquí. Vamos a
-tu casa.&lt;wait&gt;</Entry>
-  <Entry Index="44">¿Eh? ¿Esto es lo que creo que es?
-Que me aspen...&lt;wait&gt;&lt;page&gt;
-Oye, no deberíamos tener esta conversación aquí. Vamos a
-tu casa.&lt;wait&gt;</Entry>
-  <Entry Index="45">Ah, ¿os casáis? ¡Felicidades! Será de gran ayuda contar
-con otra persona en la granja, supongo.&lt;wait&gt;</Entry>
-  <Entry Index="46">Vaya. Una flor preservada. Es para mí, supongo.&lt;wait&gt;&lt;page&gt;
-Um... Me halaga que sientas eso por mí, pero me parece
-que no es mutuo.&lt;wait&gt;</Entry>
-  <Entry Index="47">Um... Me halaga que me hagas este regalo, pero creo que
-todavía es demasiado pronto. Lo siento.&lt;wait&gt;</Entry>
-  <Entry Index="48">Dicen por ahí que &lt;linkedfarmname&gt; debe de tener un
-montón de animales.&lt;wait&gt;&lt;page&gt;
-Tú también debes intentar esforzarte todo lo que puedas,
+  <Entry Index="39">Hein? O que? Como é?
+Ei ei ei.
+Um momento, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="40">Não deveríamos ter essa conversa aqui. Vamos para
+sua casa.&lt;wait&gt;</Entry>
+  <Entry Index="41">Hein? O que? Como é?
+Ei ei ei.
+Um momento, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="42">Não deveríamos ter essa conversa aqui. Vamos para
+sua casa.&lt;wait&gt;</Entry>
+  <Entry Index="43">Hein? É isso que eu acho que é?
+Maldição...&lt;wait&gt;&lt;page&gt;
+Ei, não deveríamos ter essa conversa aqui. Vamos para
+sua casa.&lt;wait&gt;</Entry>
+  <Entry Index="44">>Hein? É isso que eu acho que é?
+Maldição...&lt;wait&gt;&lt;page&gt;
+Ei, não deveríamos ter essa conversa aqui. Vamos para
+sua casa.&lt;wait&gt;</Entry>
+  <Entry Index="45">Ah, você vai se casar? Parabéns! Vai ajudar muito
+ter outra pessoa na fazenda, eu acho.&lt;wait&gt;</Entry>
+  <Entry Index="46">Nossa. Uma flor preservada. É para mim, eu acho.&lt;wait&gt;&lt;page&gt;
+Hum... Fico lisonjeado que você se sinta assim
+por mim, mas não acho que seja mútuo.&lt;wait&gt;</Entry>
+  <Entry Index="47">Hum... Estou lisonjeado que você está me dando
+este presente, mas acho que ainda é muito cedo.
+Desculpe.&lt;wait&gt;</Entry>
+  <Entry Index="48">Dizem por aí que a &lt;linkedfarmname&gt; deve ter
+muitos animais.&lt;wait&gt;&lt;page&gt;
+Você também deve tentar fazer o máximo que puder,
 &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="49">Dicen por ahí que &lt;linkedfarmname&gt; debe de tener un
-montón de animales.&lt;wait&gt;&lt;page&gt;
-Tú también debes intentar esforzarte todo lo que puedas,
+  <Entry Index="49">Dizem por aí que a &lt;linkedfarmname&gt; deve ter
+um monte de animais.&lt;wait&gt;&lt;page&gt;
+Você também deve tentar fazer o máximo que puder,
 &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="50">Dicen por ahí que &lt;linkedfarmname&gt; debe de tener un
-montón de animales.&lt;wait&gt;&lt;page&gt;
-Intenta esforzarte todo lo que puedas tú también,
+  <Entry Index="50">Dizem por aí que a &lt;linkedfarmname&gt; deve ter
+um monte de animais.&lt;wait&gt;&lt;page&gt;
+Você também deve tentar fazer o máximo que puder,
 &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="51">¿Qué hay, &lt;playername&gt;? Mañana es la Noche
-Estrellada, ¿lo sabías?&lt;wait&gt;&lt;page&gt;
-Mi familia quiere dar una fiesta para celebrar la ocasión.
-Puedes venir si quieres.&lt;wait&gt;</Entry>
-  <Entry Index="52">¿Qué hay, &lt;playername&gt;? Mañana es la Noche
-Estrellada, ¿lo sabías?&lt;wait&gt;&lt;page&gt;
-Mi familia quiere dar una fiesta para celebrar la ocasión.
-Puedes venir si quieres.&lt;wait&gt;</Entry>
-  <Entry Index="53">¡La fiesta no empieza hasta que no llegue
-yo!</Entry>
-  <Entry Index="54">Lo siento. No puedo ir.</Entry>
-  <Entry Index="55">¿Vendrás? ¡Genial! Pásate por mi casa sobre las 18:00. Te
-estaremos esperando.&lt;wait&gt;</Entry>
-  <Entry Index="56">¿De verdad? Qué pena. Supongo que tienes que mucho de
-lo que encargarte en la granja. Oh, vaya.&lt;wait&gt;</Entry>
-  <Entry Index="57">Mañana vamos a celebrar una fiesta con motivo de la
-Noche Estrellada. No te olvides de pasarte por casa
-sobre las 18:00, ¿vale?&lt;wait&gt;</Entry>
-  <Entry Index="58">Vaya, y pensar que nuestro bebé está creciendo aquí en
-tu vientre, convirtiéndose en una personita más grande
-cada día.&lt;wait&gt;&lt;page&gt;
-Tienes que cuidarte tanto como puedas en tu estado.
-Prométeme que no te quedarás hasta tarde fuera, que
-luego refresca, ¿vale?&lt;wait&gt;</Entry>
-  <Entry Index="59">¿Tienes náuseas por la mañana? Dicen que es duro.&lt;wait&gt;&lt;page&gt;
-Yo, al ser un chico, no puedo ni imaginarme lo incómodo
-que debe de ser. Avísame si necesitas algo, ¿vale?&lt;wait&gt;</Entry>
-  <Entry Index="60">Ahora tienes mucho mejor aspecto.
-¿Se está moviendo el bebé?&lt;wait&gt;</Entry>
-  <Entry Index="61">Si notas cualquier cosa, dímelo, ¿vale? Me pregunto si será
-un niño o una niña...&lt;wait&gt;&lt;page&gt;
-Si es una niña, creo que tú deberías elegir el nombre,
+  <Entry Index="51">E aí, &lt;playername&gt;? Amanhã é Noite
+Estrelada, você sabia?&lt;wait&gt;&lt;page&gt;
+Minha família quer dar uma festa para comemorar a ocasião.
+Você pode vir se quiser.&lt;wait&gt;</Entry>
+  <Entry Index="52">E aí, &lt;playername&gt;? Amanhã é Noite
+Estrelada, você sabia?&lt;wait&gt;&lt;page&gt;
+Minha família quer dar uma festa para comemorar a ocasião.
+Você pode vir se quiser.&lt;wait&gt;</Entry>
+  <Entry Index="53">A festa só começa quando eu chegar!</Entry>
+  <Entry Index="54">Desculpe. Não posso ir.</Entry>
+  <Entry Index="55">Você virá? Legal! Venha na minha casa por volta
+das 18:00. Estaremos esperando por você.&lt;wait&gt;</Entry>
+  <Entry Index="56">Sério? Que pena. Acho que você tem muita
+responsabilidade na fazenda. Nossa.&lt;wait&gt;</Entry>
+  <Entry Index="57">Amanhã teremos uma festa de Noite Estrelada.
+Não se esqueça de aparecer por volta
+das 18h, ok?&lt;wait&gt;</Entry>
+  <Entry Index="58">Nossa, pensar que nosso bebê está crescendo aqui
+no seu ventre, se tornando uma pessoinha
+maior a cada dia.&lt;wait&gt;&lt;page&gt;
+Você tem que se cuidar o máximo que puder no seu
+estado. Prometa que não vai ficar na rua até
+tarde, depois vai esfriar, ok?&lt;wait&gt;</Entry>
+  <Entry Index="59">Você sente náuseas pela manhã? Dizem que é difícil.&lt;wait&gt;&lt;page&gt;
+Sendo um cara, nem consigo imaginar o quão
+desconfortável deve ser. Avise-me se precisar
+de alguma coisa, ok?&lt;wait&gt;</Entry>
+  <Entry Index="60">Você parece muito melhor agora.
+O bebê está se mexendo?&lt;wait&gt;</Entry>
+  <Entry Index="61">Se você notar alguma coisa, me diga, ok?
+Gostaria de saber se será menino ou menina...&lt;wait&gt;&lt;page&gt;
+Se for uma menina, acho que você deveria
+escolher o nome,
 &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="62">¿Cómo te sientes? No estás cansada, ¿o sí?&lt;wait&gt;</Entry>
-  <Entry Index="63">He oído que es bueno hacer un poco de ejercicio durante
-el embarazo.
-¡Ay, qué ganas tengo de ser padre!&lt;wait&gt;</Entry>
-  <Entry Index="64">El bebé debería nacer mañana, ¿verdad? Les diré a Elly y
-al doctor que vengan, por si acaso.&lt;wait&gt;</Entry>
-  <Entry Index="65">Mañana estaré todo el día en casa contigo, ¿vale? Y
-deberías acostarte pronto hoy.&lt;wait&gt;</Entry>
-  <Entry Index="66">Los párpados... se me cierran... ¡Ay! Supongo que las
-noches de insomnio vienen dentro del paquete de ser
-padres, ¿eh?&lt;wait&gt;</Entry>
-  <Entry Index="67">Madre mía. Nuestro bebé no duerme más de dos horas
-seguidas, y aquí no hay quien pegue ojo. ¿Lo llevas bien?&lt;wait&gt;</Entry>
-  <Entry Index="68">Tiene mis ojos, ¿no crees? ¡Creo que alguien se va a
-parecer mucho a su papá!&lt;wait&gt;</Entry>
-  <Entry Index="69">Tiene mis ojos, ¿no crees? ¡Creo que alguien se va a
-parecer mucho a su papá!&lt;wait&gt;</Entry>
-  <Entry Index="70">No puedo apartar la vista de nuestro bebé. Qué cosita
-tan linda. Creo que hemos ganado peso.&lt;wait&gt;</Entry>
-  <Entry Index="71">¡Ay, qué monada! Es maravilloso ver cómo crecen. ∀&lt;wait&gt;</Entry>
-  <Entry Index="72">¿Qué haremos mañana?
-Ni siquiera en el trabajo puedo dejar de pensar en
-nuestro bebé.&lt;wait&gt;</Entry>
-  <Entry Index="73">&lt;nickname&gt;, no estarás cansada, ¿verdad? ¿Te
-encuentras bien?&lt;wait&gt;</Entry>
-  <Entry Index="74">Tiene que ser duro estar en tu lugar ahora mismo. ¡Siento
-cansancio solo de verte! ¿Por qué no descansas y dejas
-que yo me encargue del resto?&lt;wait&gt;</Entry>
-  <Entry Index="75">Qué rápido crecen los bebés. ¿No te parece?&lt;wait&gt;&lt;page&gt;
-Me pregunto en qué tipo de persona se convertirá
-&lt;childname&gt;. Me muero de ganas por saberlo. Lo sé,
-no son las palabras más acertadas...&lt;wait&gt;</Entry>
+  <Entry Index="62">Como você está se sentindo? Você não
+está cansado, está?&lt;wait&gt;</Entry>
+  <Entry Index="63">Ouvi dizer que é bom fazer algum exercício
+durante a gravidez.
+Ah, mal posso esperar para ser pai&lt;wait&gt;</Entry>
+  <Entry Index="64">O bebê deve nascer amanhã, certo? Direi a Elly
+e ao Doutor para virem, só por precaução.&lt;wait&gt;</Entry>
+  <Entry Index="65">Estarei em casa com você o dia todo amanhã, ok?
+E você deveria ir para a cama cedo hoje.&lt;wait&gt;</Entry>
+  <Entry Index="66">Minhas pálpebras... fecharam... Ah! Acho que
+noites sem dormir fazem parte de ser pai, né?&lt;wait&gt;</Entry>
+  <Entry Index="67">Meu Deus. Nosso bebê não dorme mais de duas horas
+por vez, e ninguém dorme uma piscadela aqui.
+Como você está lidando?&lt;wait&gt;</Entry>
+  <Entry Index="68">Ele tem meus olhos, você não acha?
+Acho que alguém vai se parecer muito com o pai!&lt;wait&gt;</Entry>
+  <Entry Index="69">Ele tem meus olhos, você não acha?
+Acho que alguém vai se parecer muito com o pai!&lt;wait&gt;</Entry>
+  <Entry Index="70">Não consigo tirar os olhos do nosso bebê.
+Que coisinha fofa. Acho que ganhamos peso.&lt;wait&gt;</Entry>
+  <Entry Index="71">Nossa, que gracinha! É maravilhoso ver como eles
+crescem. ∀&lt;wait&gt;</Entry>
+  <Entry Index="72">O que faremos amanhã?
+Mesmo no trabalho, não consigo parar de
+pensar em nosso bebê.&lt;wait&gt;</Entry>
+  <Entry Index="73">&lt;nickname&gt;, você não está cansado, está?
+Você está bem?&lt;wait&gt;</Entry>
+  <Entry Index="74">Deve ser difícil estar no seu lugar agora. Eu me sinto
+cansado só de olhar para você! Por que você não
+descansa e me deixa cuidar do resto?&lt;wait&gt;</Entry>
+  <Entry Index="75">Os bebês crescem muito rápido. Você não acha?&lt;wait&gt;&lt;page&gt;
+Eu me pergunto que tipo de pessoa se tornará
+&lt;childname&gt;. Estou morrendo de vontade de saber.
+Eu sei, não as palavras mais precisas...&lt;wait&gt;</Entry>
   <Entry Index="76">Dicen que las chicas son más rebeldes con sus padres que
 con sus madres. Uf, espero que eso no nos pase con la
 nuestra...&lt;wait&gt;</Entry>
