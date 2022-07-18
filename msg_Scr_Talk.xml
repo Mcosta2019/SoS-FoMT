@@ -9746,54 +9746,55 @@ Supongo que vosotros no estáis
 en ese punto de vuestra relación todavía.&lt;wait&gt;</Entry>
   <Entry Index="4171">¿Eh? ¿Al abuelo? Sí, tienes razón.
 Deberíamos invitarle también.&lt;wait&gt;</Entry>
-  <Entry Index="4172">Tiene que estar bien tener a alguien en casa cuando
-vuelves.&lt;wait&gt;</Entry>
-  <Entry Index="4173">¡Hola, &lt;playername&gt;! ¿Cómo está tu media naranja?&lt;wait&gt;</Entry>
-  <Entry Index="4174">¡Hola, &lt;playername&gt;! ¿Cómo está tu media naranja?&lt;wait&gt;</Entry>
-  <Entry Index="4175">¿A que está bien tener a alguien que te apoya?&lt;wait&gt;&lt;page&gt;
-Cuando estamos solos, acabamos teniendo demasiadas
-cosas que hacer.&lt;wait&gt;</Entry>
-  <Entry Index="4176">Ah, &lt;playername&gt;. ¿Cómo van las cosas por casa?&lt;wait&gt;</Entry>
-  <Entry Index="4177">Dile a tu pareja que pasaré a visitaros pronto.&lt;wait&gt;</Entry>
-  <Entry Index="4178">¡Oh, qué bonito! ¿Venden ahora estas flores?&lt;wait&gt;</Entry>
-  <Entry Index="4179">¿Ahora venden estas flores? Aunque no es que les vaya a
-dar mucho uso.&lt;wait&gt;</Entry>
-  <Entry Index="4180">Vale, ¡nos pondremos las pilas y mañana
-trabajaremos duro!&lt;wait&gt;</Entry>
-  <Entry Index="4181">Es una flor muy bonita...&lt;wait&gt;</Entry>
-  <Entry Index="4182">¡Ah, si es esa flor que hicimos! ¡Es tan bonita que nunca
-me canso de mirarla!&lt;wait&gt;</Entry>
-  <Entry Index="4183">¡Vaya, es la flor de nuestro experimento! ¡Si me permites
-decirlo, ha salido muy bien!&lt;wait&gt;</Entry>
-  <Entry Index="4184">¡Es nuestra preciosa flor! Es una pena que no tenga pinta
-de valer para cocinar.&lt;wait&gt;</Entry>
-  <Entry Index="4185">¡Qué bonita! Me alegro de que nuestro experimento haya
-sido todo un éxito.&lt;wait&gt;</Entry>
-  <Entry Index="4186">Es muy bonita, pero no parece que llene mucho...&lt;wait&gt;</Entry>
-  <Entry Index="4187">Vaya, qué flor más bonita.
-Aunque no me hace falta.&lt;wait&gt;</Entry>
-  <Entry Index="4188">Esta flor se ha hecho muy popular. Espero que transmita
-tus sentimientos.&lt;wait&gt;</Entry>
-  <Entry Index="4189">Veo que has comprado una flor, ¿es que vas a confesarle
-tus sentimientos a alguien?&lt;wait&gt;</Entry>
-  <Entry Index="4190">Pero si es una flor preservada. Las hemos incluido en
-nuestro catálogo.&lt;wait&gt;</Entry>
-  <Entry Index="4191">Vaya, así que tienes en tus manos una pluma azul,
-¿eh? Se suele utilizar para pedirle la mano a alguien.
-Buena suerte.&lt;wait&gt;</Entry>
-  <Entry Index="4192">¡Pero si es una flor muy chula! ¿Qué es eso? ¿Se usa para
-confesar tus sentimientos?&lt;wait&gt;&lt;page&gt;
-Es una tradición moderna, ¿no? ¡Pues mucha suerte!&lt;wait&gt;</Entry>
-  <Entry Index="4193">Es una flor preservada, ¿no? Da igual la forma que
-tengan, todas las flores son bellas a su manera.&lt;wait&gt;</Entry>
-  <Entry Index="4194">Vaya, qué flor tan bella.
-¿La vas a usar para confesar tus sentimientos? Qué
-bonito.&lt;wait&gt;</Entry>
-  <Entry Index="4195">Jo, jo, una flor preservada. ¡Buena suerte!&lt;wait&gt;</Entry>
-  <Entry Index="4196">¡Guau! ¡Qué bonita!
-¿Es de verdad?&lt;wait&gt;</Entry>
-  <Entry Index="4197">¿Qué es esa flor? ¿Para confesarte a alguien? Pues
-buena suerte.&lt;wait&gt;</Entry>
+  <Entry Index="4172">Deve ser bom ter alguém em casa quando
+você voltar.&lt;wait&gt;</Entry>
+  <Entry Index="4173">Olá, &lt;playername&gt;! Como está sua cara metade?&lt;wait&gt;</Entry>
+  <Entry Index="4174">Olá, &lt;playername&gt;! Como está sua cara metade?&lt;wait&gt;</Entry>
+  <Entry Index="4175">Não há problema em ter alguém para apoiá-lo?&lt;wait&gt;&lt;page&gt;
+Quando estamos sozinhos, acabamos tendo muitas
+coisas para resolver.&lt;wait&gt;</Entry>
+  <Entry Index="4176">Ah, &lt;playername&gt;. Como estão as coisas em casa?&lt;wait&gt;</Entry>
+  <Entry Index="4177">Diga ao seu parceiro que irei visitá-los em breve.&lt;wait&gt;</Entry>
+  <Entry Index="4178">Ah, que legal! Você vende essas flores agora?&lt;wait&gt;</Entry>
+  <Entry Index="4179">Você vende essas flores agora? Não que eu vá tirar
+muito proveito delas.&lt;wait&gt;</Entry>
+  <Entry Index="4180">Ok, vamos agir juntos e trabalhar
+duro amanhã!&lt;wait&gt;</Entry>
+  <Entry Index="4181">É uma flor muito bonita...&lt;wait&gt;</Entry>
+  <Entry Index="4182">Ah, é aquela flor que fizemos! É tão
+bonita que não me canso de olhar para ela!&lt;wait&gt;</Entry>
+  <Entry Index="4183">Uau, essa é a flor do nosso experimento! Se me
+permite dizer, ficou muito boa!&lt;wait&gt;</Entry>
+  <Entry Index="4184">É nossa flor preciosa! É uma pena que não pareça
+ser boa para cozinhar.&lt;wait&gt;</Entry>
+  <Entry Index="4185">Que linda! Fico feliz que nosso experimento
+tenha sido um sucesso.&lt;wait&gt;</Entry>
+  <Entry Index="4186">É muito bonito, mas não parece muito recheado...&lt;wait&gt;</Entry>
+  <Entry Index="4187">Nossa, que linda flor.
+Mas não preciso.&lt;wait&gt;</Entry>
+  <Entry Index="4188">Esta flor tornou-se muito popular. Espero que
+transmita seus sentimentos.&lt;wait&gt;</Entry>
+  <Entry Index="4189">Vejo que você comprou uma flor, você vai confessar
+seus sentimentos a alguém?&lt;wait&gt;</Entry>
+  <Entry Index="4190">Mas é uma flor preservada. Nós as incluímos
+em nosso catálogo.&lt;wait&gt;</Entry>
+  <Entry Index="4191">Nossa, então você tem uma caneta azul em suas mãos, hein?
+Muitas vezes é usado para pedir a mão de alguém.
+Boa sorte.&lt;wait&gt;</Entry>
+  <Entry Index="4192">Mas é uma flor muito legal! Como é? É usada
+para confessar seus sentimentos?&lt;wait&gt;&lt;page&gt;
+É uma tradição moderna, não é? Bem, boa sorte!&lt;wait&gt;</Entry>
+  <Entry Index="4193">>É uma flor preservada, certo? Não importa a
+forma que assumam, todas as flores são bonitas
+à sua maneira.&lt;wait&gt;</Entry>
+  <Entry Index="4194">Uau, que flor linda.
+Você vai usá-la para confessar seus sentimentos?
+Que legal.&lt;wait&gt;</Entry>
+  <Entry Index="4195">Ho ho, uma flor preservada. Boa sorte!&lt;wait&gt;</Entry>
+  <Entry Index="4196">Uau! Que bonita!
+É real?&lt;wait&gt;</Entry>
+  <Entry Index="4197">O que é essa flor? Confessar a alguém?
+Bem, boa sorte.&lt;wait&gt;</Entry>
   <Entry Index="4198">Hein? Uau, mas é uma flor preservada.
 É usado para confessar seus sentimentos, não é?
 Que maravilha! Receber um presente desses
