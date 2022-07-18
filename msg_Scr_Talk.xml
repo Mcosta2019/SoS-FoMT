@@ -9794,60 +9794,64 @@ bonito.&lt;wait&gt;</Entry>
 ¿Es de verdad?&lt;wait&gt;</Entry>
   <Entry Index="4197">¿Qué es esa flor? ¿Para confesarte a alguien? Pues
 buena suerte.&lt;wait&gt;</Entry>
-  <Entry Index="4198">¿Eh? Vaya, pero si es una flor preservada.
-Se usa para confesar tus sentimientos, ¿no?
-¡Qué maravilla! Recibir un obsequio así
-con palabras de amor sería un sueño hecho realidad.
-¡Un momento! ¿Vas a dársela a alguien especial?
-¡Tienes todo mi apoyo!&lt;wait&gt;</Entry>
-  <Entry Index="4199">Ah, vaya, mira qué muestra más bonita. Parece que
-cuesta bastante dinero. ¿Qué? ¿Que se usa para confesar
-tus sentimientos? Vaya, vaya. ¡Buena suerte!&lt;wait&gt;</Entry>
-  <Entry Index="4200">¿Una flor preservada? ¿Vas a dársela a alguien?
-Fantástico. Ojalá fuese capaz de expresar mis
-sentimientos...&lt;wait&gt;</Entry>
-  <Entry Index="4201">Ah, cuéntame a quién le vas a confesar tus sentimientos.&lt;wait&gt;</Entry>
-  <Entry Index="4202">Mmm. Los jóvenes las usáis para confesar vuestros
-sentimientos, ¿no?&lt;wait&gt;</Entry>
-  <Entry Index="4203">Muy bonita. Está bien que puedas exhibirla sin
-preocuparte por que se marchite.&lt;wait&gt;</Entry>
-  <Entry Index="4204">¡Oh, qué flor más bonita!&lt;wait&gt;</Entry>
-  <Entry Index="4205">Oh, pero qué flor más bonita.&lt;wait&gt;</Entry>
-  <Entry Index="4206">¿La granja está prosperando?&lt;wait&gt;&lt;page&gt;
-Tengo que atender la clínica, así que no puedo ayudarte,
-pero avísame si algo va mal. ¡Después de todo, estamos
-casados!&lt;wait&gt;</Entry>
-  <Entry Index="4207">Oye, &lt;playername&gt;. ¿Qué pasa?&lt;wait&gt;</Entry>
-  <Entry Index="4208">Oye, &lt;playername&gt;. ¿Qué pasa?&lt;wait&gt;</Entry>
-  <Entry Index="4209">¿Qué tal la vida de &lt;gender&gt;("casado","casada")? Estoy seguro de que no todo
-es diversión, pero sigue ahí.&lt;wait&gt;</Entry>
-  <Entry Index="4210">Ah, &lt;playername&gt;. ¿Qué tal la vida de &lt;gender&gt;("casado","casada")?</Entry>
-  <Entry Index="4211">Dicen que te has casado. ¿Cómo te va?&lt;wait&gt;</Entry>
-  <Entry Index="4212">Marie es una fuente inagotable de recomendaciones de
-buenos libros.&lt;wait&gt;&lt;page&gt;
-Deberías hablar con ella si necesitas una buena lectura.&lt;wait&gt;</Entry>
-  <Entry Index="4213">Ya veo... Sin duda, tienes muchas cosas que hacer como
-para que te moleste con lo mío. No te preocupes por ello.&lt;wait&gt;</Entry>
-  <Entry Index="4214">Vaya, hola, &lt;playername&gt;. ¿Cómo te va ahora que te
-has casado?&lt;wait&gt;</Entry>
-  <Entry Index="4215">Dicen que las flores preservadas no se marchitan aunque
-no las cuides. Qué raro.&lt;wait&gt;</Entry>
-  <Entry Index="4216">Me encantan las flores, y esta no es para menos. ¡Es tan
-bonita!&lt;wait&gt;</Entry>
-  <Entry Index="4217">¡Ah, una flor preservada! ¿Cómo las harán?&lt;wait&gt;</Entry>
-  <Entry Index="4218">Esa flor preservada es una muestra increíble. No tiene
-polen. Puedes traerla a la clínica sin el temor de que a
-alguien le dé alergia.&lt;wait&gt;</Entry>
-  <Entry Index="4219">Es una flor preservada, ¿no? Mmm, podríamos usarla para
-decorar la pensión.&lt;wait&gt;</Entry>
-  <Entry Index="4220">Qué flor más bonita. Mi padre tiene otra. Jeff se la dio
-para que la investigase.&lt;wait&gt;</Entry>
-  <Entry Index="4221">Una flor preservada, ya veo. Como artista, admiro su
-belleza imperecedera.&lt;wait&gt;</Entry>
-  <Entry Index="4222">Ah, qué bonita. Todas las flores de la madre naturaleza
-son únicas y bonitas a su manera.&lt;wait&gt;</Entry>
-  <Entry Index="4223">Había pensado en decorar la cafetería con una. No hace
-falta cuidarlas de ninguna forma, ¿no?&lt;wait&gt;</Entry>
-  <Entry Index="4224">Eso es una flor preservada, ¿verdad? ¿Se podría hacer con
-cualquier tipo de flor?&lt;wait&gt;</Entry>
+  <Entry Index="4198">Hein? Uau, mas é uma flor preservada.
+É usado para confessar seus sentimentos, não é?
+Que maravilha! Receber um presente desses
+com palavras de amor seria um sonho realizado.
+Um momento! Você vai presentear alguém
+especial? Tem todo o meu apoio!&lt;wait&gt;</Entry>
+  <Entry Index="4199">Ah, uau, olha que amostra linda. Parece ser
+bastante caro. O que? É usado para confessar
+seus sentimentos? Nossa, ual. Boa sorte!&lt;wait&gt;</Entry>
+  <Entry Index="4200">Uma flor preservada? Você vai dar para alguém?
+Fantástico. Eu gostaria de poder expressar
+meus sentimentos...&lt;wait&gt;</Entry>
+  <Entry Index="4201">Ah, diga-me para quem você vai confessar seus
+sentimentos.&lt;wait&gt;</Entry>
+  <Entry Index="4202">Hmm. Vocês jovens os usam para confessar seus
+sentimentos, certo?&lt;wait&gt;</Entry>
+  <Entry Index="4203">Muito bonita. É bom que você possa exibi-la
+sem se preocupar que ela murche.&lt;wait&gt;</Entry>
+  <Entry Index="4204">Ah, que flor linda!&lt;wait&gt;</Entry>
+  <Entry Index="4205">Oh, mas que flor mais bonita.&lt;wait&gt;</Entry>
+  <Entry Index="4206">A fazenda está prosperando?&lt;wait&gt;&lt;page&gt;
+Eu tenho que ir à clínica, então não posso ajudá-lo
+mas me avise se algo der errado.
+Afinal, somos casados!&lt;wait&gt;</Entry>
+  <Entry Index="4207">E aí, &lt;playername&gt;. Tudo bem&lt;wait&gt;</Entry>
+  <Entry Index="4208">E aí, &lt;playername&gt;. Tudo bem?&lt;wait&gt;</Entry>
+  <Entry Index="4209">Como está a vida de &lt;gender&gt;("casado","casada")? Tenho certeza que
+nem sempre é divertido, mas continue firme.&lt;wait&gt;</Entry>
+  <Entry Index="4210">Ah, &lt;playername&gt;. Como está a vida de &lt;gender&gt;("casado","casada")?</Entry>
+  <Entry Index="4211">Disseram que você está casado. Como vai?&lt;wait&gt;</Entry>
+  <Entry Index="4212">Marie é uma fonte inesgotável de boas
+recomendações de livros.&lt;wait&gt;&lt;page&gt;
+Você deve conversar com ela se precisar de uma
+boa leitura.&lt;wait&gt;</Entry>
+  <Entry Index="4213">Entendo... Certamente você tem muito o que fazer
+para que eu o incomode.
+Não se preocupe com isso..&lt;wait&gt;</Entry>
+  <Entry Index="4214">Nossa, olá, &lt;playername&gt;. Como você está
+agora que é casado?&lt;wait&gt;</Entry>
+  <Entry Index="4215">Dizem que as flores preservadas não murcham mesmo
+se você não cuidar delas. Que estranho.&lt;wait&gt;</Entry>
+  <Entry Index="4216">Adoro flores, e esta não é de menos.
+Ela é tão bonita!&lt;wait&gt;</Entry>
+  <Entry Index="4217">Ah, uma flor preservada! Com foi feita?&lt;wait&gt;</Entry>
+  <Entry Index="4218">Essa flor preservada é um espécime incrível.
+Não tem pólen. Você pode trazê-lo para a clínica
+sem medo de alguém pegar uma alergia.&lt;wait&gt;</Entry>
+  <Entry Index="4219">É uma flor preservada, certo? Hmm, poderíamos
+usá-la para decorar a estalagem.&lt;wait&gt;</Entry>
+  <Entry Index="4220">Que flor linda. Meu pai tem outra.
+Jeff deu a ele para estudar.&lt;wait&gt;</Entry>
+  <Entry Index="4221">Uma flor preservada, estou vendo. Como artista,
+admiro sua beleza imortal..&lt;wait&gt;</Entry>
+  <Entry Index="4222">Ah, que linda. Todas as flores da Mãe Natureza são
+únicas e bonitas à sua maneira.&lt;wait&gt;</Entry>
+  <Entry Index="4223">Eu estava pensando em decorar o refeitório
+com uma. Não há necessidade de cuidar delas
+de alguma forma, certo?&lt;wait&gt;</Entry>
+  <Entry Index="4224">Essa é uma flor preservada, certo? Poderia ser
+feita com qualquer tipo de flor?&lt;wait&gt;</Entry>
 </Entries>
