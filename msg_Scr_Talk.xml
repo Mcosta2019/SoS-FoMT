@@ -9646,56 +9646,58 @@ unos bonitos vestidos de novia...&lt;wait&gt;&lt;page&gt;
 ya nuestra boda!&lt;wait&gt;</Entry>
   <Entry Index="4130">Eh... ¿Te parece bien si hablamos en tu casa,
 &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="4131">Eh... ¿Te parece bien si hablamos en tu casa,
+  <Entry Index="4131">Ei... Tudo bem se conversarmos na sua casa,
 &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="4132">¡Guau, gracias! Sí que eres buena persona,
-&lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="4133">¡&lt;playername&gt;! ¿Sabes que ya mismo es la Noche
-Estrellada?&lt;wait&gt;&lt;page&gt;
-Voy a celebrar una fiesta en mi casa a partir de las 18:00,
-¡ven si te apetece!&lt;wait&gt;</Entry>
-  <Entry Index="4134">Ah, vaya... ¿Eso es...?&lt;wait&gt;</Entry>
-  <Entry Index="4135">Lo siento mucho, &lt;playername&gt;. Creo que es
-demasiado pronto para mí.&lt;wait&gt;</Entry>
-  <Entry Index="4136">¡Bieeeen! Voy a hacerte una comida especial, ¡así que
-intenta venir con apetito! ∀&lt;wait&gt;</Entry>
-  <Entry Index="4137">¡Hola, &lt;playername&gt;!</Entry>
-  <Entry Index="4138">¿Qué tal le va a Popuri? ¡Me encantaría pasar el rato con
-&lt;gender&gt;("vosotros","vosotras") algún día!&lt;wait&gt;</Entry>
-  <Entry Index="4139">Un momento... Es mucho que asimilar...&lt;wait&gt;&lt;page&gt;
-Tal vez deberíamos hablarlo en tu casa,
-&lt;playername&gt;. ¿Te parece bien?&lt;wait&gt;</Entry>
-  <Entry Index="4140">Un momento... Es mucho que asimilar...&lt;wait&gt;&lt;page&gt;
-Tal vez deberíamos hablarlo en tu casa,
-&lt;playername&gt;. ¿Te parece bien?&lt;wait&gt;</Entry>
-  <Entry Index="4141">&lt;gender&gt;("Casados","Casadas")... Da igual cuántas veces lo diga en voz alta, ¡me
-sigo poniendo roja!&lt;wait&gt;</Entry>
-  <Entry Index="4142">Mola eso que llevas ahí, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
-Te importa si se lo doy a... Ja, ja, ¡no me mires así! ¡Era
-una broma! ¡Gracias!&lt;wait&gt;</Entry>
-  <Entry Index="4143">Es esencial que ambos sigamos con nuestros quehaceres
-incluso después del matrimonio... Aunque sigamos
-ayudándonos en tiempos de necesidad, claro.&lt;wait&gt;</Entry>
-  <Entry Index="4144">&lt;nickname&gt;, mañana es la Noche Estrellada, ¿no?&lt;wait&gt;&lt;page&gt;
-¿Por qué no vemos las estrellas &lt;gender&gt;("juntos","juntas")?&lt;wait&gt;</Entry>
-  <Entry Index="4145">Vaya, gracias, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
-Tal vez debería enviarle uno igual a mi madre...&lt;wait&gt;</Entry>
-  <Entry Index="4146">Me alegra que te hayas acordado de mi cumpleaños. Te lo
-agradezco.&lt;wait&gt;&lt;page&gt;
-Si te soy sincero, se me había pasado que era hoy...&lt;wait&gt;</Entry>
-  <Entry Index="4147">¡Oh, muchas gracias! No esperaba menos de ti. Has hecho
-bien en averiguar mis preferencias personales.&lt;wait&gt;</Entry>
-  <Entry Index="4148">¡Te lo agradezco, &lt;playername&gt;! Me gusta mucho.&lt;wait&gt;</Entry>
-  <Entry Index="4149">Aunque tenga ojo para el arte, me pregunto si esto me
-quedará bien...&lt;wait&gt;&lt;page&gt;
-Bueno, si insistes, &lt;playername&gt;, acepto.&lt;wait&gt;</Entry>
-  <Entry Index="4150">Em... Gracias.&lt;wait&gt;</Entry>
-  <Entry Index="4151">No me interesa, si te soy sincero. Pero si era un regalo, no
-me queda otra que aceptarlo.&lt;wait&gt;</Entry>
-  <Entry Index="4152">¡Ah! Muchas gracias, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="4153">Pero ¿qué narices es esto? Te aseguro que no lo necesito
-para nada.&lt;wait&gt;&lt;page&gt;
-Pero si debo aceptarlo... Está bien.&lt;wait&gt;</Entry>
+  <Entry Index="4132">Nossa, obrigado! Sim, você é uma boa
+pessoa &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="4133">&lt;playername&gt;! Você sabiae que é Noite Estrelada
+hoje?&lt;wait&gt;&lt;page&gt;
+Vou dar uma festa na minha casa a partir das 18:00,
+venha se tiver vontade!&lt;wait&gt;</Entry>
+  <Entry Index="4134">Ah, nossa... Isso é...?&lt;wait&gt;</Entry>
+  <Entry Index="4135">Sinto muito, &lt;playername&gt;. Acho que é
+muito cedo para mim.&lt;wait&gt;</Entry>
+  <Entry Index="4136">Beeem! Eu vou fazer uma refeição especial para
+você, então tente vir com apetite! ∀&lt;wait&gt;</Entry>
+  <Entry Index="4137">Olá, &lt;playername&gt;!</Entry>
+  <Entry Index="4138">Como está Popuri? Eu adoraria sair com
+&lt;gender&gt;("vocês","vocês") algum dia!&lt;wait&gt;</Entry>
+  <Entry Index="4139">Espere um minuto... Isso é muito para absorver...&lt;wait&gt;&lt;page&gt;
+Talvez devêssemos falar sobre isso em sua casa,
+&lt;playername&gt;. Tudo bem para você?&lt;wait&gt;</Entry>
+  <Entry Index="4140">Espere um minuto... Isso é muito para absorver...&lt;wait&gt;&lt;page&gt;
+Talvez devêssemos falar sobre isso em sua casa,
+&lt;playername&gt;. Tudo bem para você?&lt;wait&gt;</Entry>
+  <Entry Index="4141">&lt;gender&gt;("Casados","Casadas")...Não importa quantas vezes eu diga
+isso em voz alta, ainda fico vermelho!&lt;wait&gt;</Entry>
+  <Entry Index="4142">Que legal que você está usando, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
+Você se importa se eu der para... Ha ha, não olhe
+para mim assim! Era uma piada! Obrigado!&lt;wait&gt;</Entry>
+  <Entry Index="4143">É essencial que ambos continuemos com nossas tarefas
+mesmo depois do casamento... Mas continuaremos
+nos ajudando em tempos de necessidades, é claro.&lt;wait&gt;</Entry>
+  <Entry Index="4144">&lt;nickname&gt;, amanhã é Noite Estrelada, né?&lt;wait&gt;&lt;page&gt;
+Por que não vamos ver as estrelas&lt;gender&gt;("juntos","juntas")?&lt;wait&gt;</Entry>
+  <Entry Index="4145">Nossa, obrigado, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
+Talvez eu deva enviar um igualzinho para
+minha mãe...&lt;wait&gt;</Entry>
+  <Entry Index="4146">Fico feliz por você ter lembrado do meu
+aniversário. Obrigado.&lt;wait&gt;&lt;page&gt;
+Para ser sincero, esqueci que era hoje...&lt;wait&gt;</Entry>
+  <Entry Index="4147">Ah, muito obrigado! Não esperava menos de você
+Você fez bem em descobrir minhas preferências
+pessoais.&lt;wait&gt;</Entry>
+  <Entry Index="4148">Muito obrigado, &lt;playername&gt;! Eu gostei bastante.&lt;wait&gt;</Entry>
+  <Entry Index="4149">Mesmo que eu tenha um olho para a arte, eu me
+pergunto se isso vai me agradar...&lt;wait&gt;&lt;page&gt;
+Bem, se você insiste, &lt;playername&gt;, eu aceito.&lt;wait&gt;</Entry>
+  <Entry Index="4150">Hm... Obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="4151">Não estou interessado, para ser honesto. Mas se é
+um presente, não tenho escolha a não ser
+aceitá-lo.&lt;wait&gt;</Entry>
+  <Entry Index="4152">Ah! Muito obrigado, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="4153">Mas que diabos é isso? Garanto que não preciso.&lt;wait&gt;&lt;page&gt;
+Mas se eu tiver que aceitar... Tudo bem.&lt;wait&gt;</Entry>
   <Entry Index="4154">Não consegui encontrar um emprego, então decidi
 partir &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
 Ter que deixar você e esta cidade dói, mas...
