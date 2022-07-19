@@ -9547,54 +9547,57 @@ siento...&lt;wait&gt;&lt;page&gt;</Entry>
   <Entry Index="4092">¿Eh? ¡Pero si es San Valentín, &lt;gender&gt;("tonto","tonta")! Bueno, estoy
 segura de que te has esforzado mucho... ¡así que lo acepto!
 ¡Gracias!&lt;wait&gt;</Entry>
-  <Entry Index="4093">¿E-eh? ¿Para mí? Estaría encantada. Muchísimas gracias
-por pensar en mí.&lt;wait&gt;</Entry>
-  <Entry Index="4094">Tiene una pinta exquisita. Eh... Gracias. ¿Hoy es el Día
-Blanco? Bueno, está bien.&lt;wait&gt;</Entry>
-  <Entry Index="4095">¿Eh? ¿Quieres regalarme eso? Qué amable por tu parte.
-Muchísimas gracias.&lt;wait&gt;</Entry>
-  <Entry Index="4096">Ah, pero si es San Valentín... ¿Está bien que lo acepte?
-¿Seguro? Muchas gracias...&lt;wait&gt;</Entry>
-  <Entry Index="4097">¡Pero mira que eres un encanto de esposa! No sabía que
-me ibas a hacer galletas, &lt;nickname&gt;. Me has
-alegrado el día... Gracias. ∀&lt;wait&gt;</Entry>
-  <Entry Index="4098">¡Ah! ¿Un regalo de San Valentín para mí? Debería haberte
-hecho uno a ti... Lo siento.&lt;wait&gt;</Entry>
-  <Entry Index="4099">¡Ah, sí! Casi se me olvida San Valentín.&lt;wait&gt;&lt;page&gt;
-Gracias... ¿Pero no debería ser yo la que te diese el regalo
-a ti? Aunque lo aprecio de todas formas. ∀&lt;wait&gt;</Entry>
-  <Entry Index="4100">Todo el mundo está celebrando San Valentín, ¿no?&lt;wait&gt;&lt;page&gt;
-¿Y tú quieres darme bombones? Qué adorable por tu
-parte.&lt;wait&gt;</Entry>
-  <Entry Index="4101">Esto... ¿se supone que es un regalo de San Valentín?&lt;wait&gt;&lt;page&gt;
-Pensaba que era yo la que debería darte bombones...
-Bueno, te lo agradezco. ∀&lt;wait&gt;</Entry>
-  <Entry Index="4102">Ah, es San Valentín, ¿no?&lt;wait&gt;&lt;page&gt;
-Bueno, si me das los bombones a mí, no los voy a rechazar.
-Gracias.&lt;wait&gt;</Entry>
-  <Entry Index="4103">¿Eh? ¿Bombones? ¡Guau, gracias! Me encanta estar
-casada contigo, ¿sabes?&lt;wait&gt;&lt;page&gt;
-¿No se supone que te tengo que dar yo los bombones? Lo
-siento...&lt;wait&gt;</Entry>
-  <Entry Index="4104">¡Oh! ¿Es para mí? ¿De verdad?&lt;wait&gt;&lt;page&gt;
-¡Gracias! ¡Eres una maravilla de esposa! ¡Es muy
-adorable!&lt;wait&gt;</Entry>
-  <Entry Index="4105">¿Eh? Pero... hoy es San Valentín. ¿Seguro que no te has
-equivocado? ¿De verdad?&lt;wait&gt;&lt;page&gt;
-Acepto. Gracias por pensar hoy en mí.&lt;wait&gt;</Entry>
-  <Entry Index="4106">Eh, espera, ¿esto es para mí? ¡Ja, ja, gracias! Estamos
-&lt;gender&gt;("juntos","juntas") y sabes que no puedo negarte nada...&lt;wait&gt;</Entry>
-  <Entry Index="4107">Oh, vaya. Recibir bombones de una chica me da un poco de
-vergüenza...&lt;wait&gt;&lt;page&gt;
-¡No digo que sea nada malo! ¡Porque eres MI chica!&lt;wait&gt;</Entry>
-  <Entry Index="4108">Buen día, &lt;nickname&gt;. ¿Vienes a comprar?&lt;wait&gt;&lt;page&gt;
-Ahora compras para dos, ¿sí? ¡Es algo maravilloso!&lt;wait&gt;</Entry>
-  <Entry Index="4109">¿Que qué me pasa? ¿Dices que cada día parezco más un
-papá? Me alegra escuchar eso.&lt;wait&gt;</Entry>
-  <Entry Index="4110">&lt;gender&gt;("Bienvenido, querido","Bienvenida, querida") &lt;playername&gt;. ¿Va todo bien?&lt;wait&gt;</Entry>
-  <Entry Index="4111">Pensé que tal vez le había pasado algo a
-&lt;childname&gt;. Tengo ganas de ver su sonrisita.&lt;wait&gt;&lt;page&gt;
-Me pregunto qué estará haciendo ahora.&lt;wait&gt;</Entry>
+  <Entry Index="4093">H-hein? Para mim? Seria um prazer.
+Muito obrigado por pensar em mim.&lt;wait&gt;</Entry>
+  <Entry Index="4094">Parece requintado. Ah... Obrigado. Hoje é dia branco?
+Bem, tudo bem.&lt;wait&gt;</Entry>
+  <Entry Index="4095">Hein? Você quer me dar isso? Que gentil de sua parte.
+Muito obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="4096">Ah, mas se for Dia dos Namorados... Tudo bem se
+eu aceitar? Claro? Muito obrigado...&lt;wait&gt;</Entry>
+  <Entry Index="4097">Mas veja que esposa adorável você é! Eu não sabia que
+você ia me fazer biscoitos, &lt;nickname&gt;. Você fez
+meu dia... Obrigado. ∀&lt;wait&gt;</Entry>
+  <Entry Index="4098">Ah! Um presente de dia dos namorados para mim? Eu deveria
+ter preparado um para você... desculpe.&lt;wait&gt;</Entry>
+  <Entry Index="4099">Ah, sim! Quase me esqueci do Dia dos Namorados.&lt;wait&gt;&lt;page&gt;
+Obrigado... Mas não deveria ser eu quem te daria o presente?
+Embora eu aprecie de qualquer maneira. ∀&lt;wait&gt;</Entry>
+  <Entry Index="4100">Todo mundo está comemorando o Dia dos Namorados, né?&lt;wait&gt;&lt;page&gt;
+E você quer me dar chocolates? Que adorável da
+sua parte.&lt;wait&gt;</Entry>
+  <Entry Index="4101">Isto...supostamente é para ser um presente
+de dia dos namorados?&lt;wait&gt;&lt;page&gt;
+Achei que deveria ser eu a te dar chocolates...
+Bem, eu agradeço. ∀&lt;wait&gt;</Entry>
+  <Entry Index="4102">Ah, é Dia dos Namorados, não é?&lt;wait&gt;&lt;page&gt;
+Bem, se você me der os chocolates, eu não irei
+recusá-los. Obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="4103">Hein? Chocolates? Uau, obrigado! Eu amo estar
+casada com você, sabia?&lt;wait&gt;&lt;page&gt;
+Eu não deveria te dar os chocolates? Desculpe...&lt;wait&gt;</Entry>
+  <Entry Index="4104">Oh! É para mim? Sério?&lt;wait&gt;&lt;page&gt;
+Obrigada! Você é uma esposa maravilhosa! É muito
+adorável!&lt;wait&gt;</Entry>
+  <Entry Index="4105">Hein? Mas... hoje é Dia dos Namorados. Tem certeza
+de que não cometeu um erro? Mesmo?&lt;wait&gt;&lt;page&gt;
+Ok. Obrigado por pensar em mim.&lt;wait&gt;</Entry>
+  <Entry Index="4106">Ei, espere, isso é para mim? Ha ha, Obrigado! Estamos
+&lt;gender&gt;("juntos","juntas") e você sabe que não posso recusar nada...&lt;wait&gt;</Entry>
+  <Entry Index="4107">Uau. Receber chocolates de uma garota me deixa um
+pouco envergonhado...&lt;wait&gt;&lt;page&gt;
+Não estou dizendo que é uma coisa ruim! Afinal você
+é a MINHA garota!&lt;wait&gt;</Entry>
+  <Entry Index="4108">Bom dia, &lt;nickname&gt;. Veio fazer compras?&lt;wait&gt;&lt;page&gt;
+Você está comprando por dois agora, né?
+É uma coisa maravilhosa!!&lt;wait&gt;</Entry>
+  <Entry Index="4109">O que há de errado comigo? Você está dizendo que
+a cada dia eu pareço mais um pai?
+Fico feliz em saber disso.&lt;wait&gt;</Entry>
+  <Entry Index="4110">&lt;gender&gt;("Bem-vindo, querido","Bem-vinda, querida") &lt;playername&gt;. Está tudo bem?&lt;wait&gt;</Entry>
+  <Entry Index="4111">Achei que talvez tivesse acontecido algo com
+&lt;childname&gt;. Mal posso esperar para ver seu sorriso.&lt;wait&gt;&lt;page&gt;
+Gostaria de saber o que está fazendo agora.&lt;wait&gt;</Entry>
   <Entry Index="4112">&lt;gender&gt;("Bem-vindo","Bem-vinda"), &lt;nickname&gt;! Como está
 &lt;childname&gt; em casa?&lt;wait&gt;&lt;page&gt;
 Espero que &lt;childname&gt; se comporte quando a
