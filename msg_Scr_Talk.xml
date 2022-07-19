@@ -9595,56 +9595,59 @@ papá? Me alegra escuchar eso.&lt;wait&gt;</Entry>
   <Entry Index="4111">Pensé que tal vez le había pasado algo a
 &lt;childname&gt;. Tengo ganas de ver su sonrisita.&lt;wait&gt;&lt;page&gt;
 Me pregunto qué estará haciendo ahora.&lt;wait&gt;</Entry>
-  <Entry Index="4112">¡&lt;gender&gt;("Bienvenido","Bienvenida"), &lt;nickname&gt;! ¿Qué tal le va a
-&lt;childname&gt; en casa?&lt;wait&gt;&lt;page&gt;
-¡Espero que &lt;childname&gt; se porte bien cuando
-mamá no está!&lt;wait&gt;</Entry>
-  <Entry Index="4113">¿Se está portando &lt;childname&gt; como un angelito?&lt;wait&gt;&lt;page&gt;
-¡Cuando vuelvas a casa, dile a &lt;childname&gt; que
-mamá Karen regresará muy pronto!&lt;wait&gt;</Entry>
-  <Entry Index="4114">Oye, &lt;playername&gt;. Eh... ¿me puedes decir que me
-quieres otra vez?&lt;wait&gt;&lt;page&gt;
-Ji, ji, no hace falta si te da vergüenza. ∀&lt;wait&gt;</Entry>
-  <Entry Index="4115">La gente siempre dice que soy muy infantil...&lt;wait&gt;&lt;page&gt;
-Pero tú no piensas así, ¿verdad, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="4116">Oh, gracias... Se supone que los chicos dan los regalos hoy,
-pero...&lt;wait&gt;&lt;page&gt;
-Me alegra que me hayas hecho un regalo,
+  <Entry Index="4112">&lt;gender&gt;("Bem-vindo","Bem-vinda"), &lt;nickname&gt;! Como está
+&lt;childname&gt; em casa?&lt;wait&gt;&lt;page&gt;
+Espero que &lt;childname&gt; se comporte quando a
+mamãe estiver fora!&lt;wait&gt;</Entry>
+  <Entry Index="4113">&lt;childname&gt; está sendo um anjinho?&lt;wait&gt;&lt;page&gt;
+Ao chegar em casa, diga a &lt;childname&gt; que a
+mamãe Karen vai chegar logo!&lt;wait&gt;</Entry>
+  <Entry Index="4114">Ei, &lt;playername&gt;. Uh... você poderia
+dizer que me ama de novo?&lt;wait&gt;&lt;page&gt;
+Hee hee, não há necessidade se você
+está envergonhado. ∀&lt;wait&gt;</Entry>
+  <Entry Index="4115">As pessoas sempre dizem que sou muito infantil...&lt;wait&gt;&lt;page&gt;
+Mas você não acha isso, não é, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="4116">Ah, obrigado... Os meninos deveriam dar
+presentes hoje, mas...&lt;wait&gt;&lt;page&gt;
+Estou feliz que você me deu um presente,
 &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="4117">Gracias... Está bien saber que piensas así de mí.&lt;wait&gt;</Entry>
-  <Entry Index="4118">¿Eh? Hoy es... Un momento.&lt;wait&gt;&lt;page&gt;
-Creo que te has confundido de festivo... Pero lo acepto
-con gusto. Gracias.&lt;wait&gt;</Entry>
-  <Entry Index="4119">¿Eh? ¿Es un regalo de San Valentín?&lt;wait&gt;&lt;page&gt;
-¡Te lo quito de las manos con gusto! ¡Gracias! ∀&lt;wait&gt;</Entry>
-  <Entry Index="4120">¿Qué tal le va a Popuri? ¿Todo bien?&lt;wait&gt;&lt;page&gt;
-Espero que no te esté causando muchos problemas.&lt;wait&gt;</Entry>
-  <Entry Index="4121">Me alegro de que esté contigo, &lt;playername&gt;. ¡Puedo
-ir a veros en cualquier momento!&lt;wait&gt;&lt;page&gt;
-Si estuviese con ese tal Kai, ¡no sé si querría volver a
-verla!&lt;wait&gt;</Entry>
-  <Entry Index="4122">Estoy empezando a disfrutar de mi aprendizaje.
-Pero no es que no me lo esté tomando en serio ni nada por
-el estilo.&lt;wait&gt;&lt;page&gt;
-Te tengo a ti supervisándome, después de todo.&lt;wait&gt;</Entry>
-  <Entry Index="4123">Lo siento... Todavía no sé si estoy lista para hablar de eso.&lt;wait&gt;</Entry>
-  <Entry Index="4124">¡Eh, guau! ¿Un regalo del Día Blanco, para mí?&lt;wait&gt;&lt;page&gt;
-Eres el mejor marido del mundo, tío. ¡De verdad!&lt;wait&gt;</Entry>
-  <Entry Index="4125">Lo siento... No sé si estoy listo para eso todavía. ¿Me
-puedes... dar un poco de tiempo?&lt;wait&gt;</Entry>
-  <Entry Index="4126">¡Guau! ¿Esto es lo que creo que es? ¡Necesito un segundo!
-¿Podemos ir a tu casa, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="4127">¡¿Qué?! ¿Una flor preservada? ¿Para mí? Eh... ¿crees que
-podríamos ir a hablar a tu casa, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="4128">¡Ah, qué flor preservada tan bonita! ¿Y? ¿A quién tienes
-pensado dársela, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="4129">¡Todavía me parece increíble
-que pronto nos vayamos a casar! ♪&lt;wait&gt;&lt;page&gt;
-Ah, y ambas nos podremos poner
-unos bonitos vestidos de novia...&lt;wait&gt;&lt;page&gt;
-¡Agh, qué ganas de que llegue
-ya nuestra boda!&lt;wait&gt;</Entry>
-  <Entry Index="4130">Eh... ¿Te parece bien si hablamos en tu casa,
+  <Entry Index="4117">Obrigado... É bom saber que você pensa assim de mim.&lt;wait&gt;</Entry>
+  <Entry Index="4118">Hein? Hoje é... Espere um minuto.&lt;wait&gt;&lt;page&gt;
+Acho que você confundiu o feriado...
+Mas eu aceito com prazer. Obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="4119">Hein? É um presente de dia dos namorados?&lt;wait&gt;&lt;page&gt;
+Eu o tiro de suas mãos com prazer! Obrigada! ∀&lt;wait&gt;</Entry>
+  <Entry Index="4120">Como está Popuri? Tudo bem?&lt;wait&gt;&lt;page&gt;
+Espero não estar causando muitos problemas.&lt;wait&gt;</Entry>
+  <Entry Index="4121">Estou feliz por ela estar com você, &lt;playername&gt;.
+Posso ir vê-los a qualquer hora!!&lt;wait&gt;&lt;page&gt;
+Se ela estivesse com aquele tal Kai,
+não sei se gostaria de vê-la novamente!!&lt;wait&gt;</Entry>
+  <Entry Index="4122">Estou começando a gostar do meu aprendizado.
+Mas não é por isso que eu não vou levar a
+sério nem nada.&lt;wait&gt;&lt;page&gt;
+Afinal, você está me supervisionando.&lt;wait&gt;</Entry>
+  <Entry Index="4123">Desculpe... ainda não sei se estou pronto para falar
+sobre isso.&lt;wait&gt;</Entry>
+  <Entry Index="4124">Uh, nossa! Um presente do Dia Branco para mim?&lt;wait&gt;&lt;page&gt;
+Você é o melhor marido do mundo, cara. Sério!&lt;wait&gt;</Entry>
+  <Entry Index="4125">Desculpe... Não sei se estou pronto para isso ainda.
+Você poderia... me dar algum tempo?&lt;wait&gt;</Entry>
+  <Entry Index="4126">Nossa! O que eu acho que é? Preciso de um segundo!
+Podemos ir até sua casa, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="4127">O que?! Uma flor preservada? Para mim? Ei...
+você acha que podemos ir conversar na sua casa,
+&lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="4128">Ah, que flor preservada linda! Uh?
+Para quem você planeja dar, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="4129">Ainda parece incrível para mim que em
+breve vamos nos casar! ♪&lt;wait&gt;&lt;page&gt;
+Ah, e nós duas podemos usar
+lindos vestidos de noiva...&lt;wait&gt;&lt;page&gt;
+Agh, mal posso esperar para
+que nosso casamento chegue logo!&lt;wait&gt;</Entry>
+  <Entry Index="4130">Ei... Tudo bem se conversarmos na sua casa,
 &lt;playername&gt;?&lt;wait&gt;</Entry>
   <Entry Index="4131">Ei... Tudo bem se conversarmos na sua casa,
 &lt;playername&gt;?&lt;wait&gt;</Entry>
