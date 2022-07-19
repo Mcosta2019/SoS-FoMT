@@ -9496,57 +9496,63 @@ secreto, sí. No se lo diré ni a mi pareja.&lt;wait&gt;</Entry>
   <Entry Index="4067">¿Eh? ¿Qué pasa? ¿Querías hablar conmigo de algo?&lt;wait&gt;</Entry>
   <Entry Index="4068">En cualquier caso, puedes quedarte aquí todo
 el tiempo que quieras.&lt;wait&gt;</Entry>
-  <Entry Index="4069">Vaya, ¿en serio? Ja, ja, estoy tan contenta de que seas mi
-esposa, &lt;nickname&gt;. ♪&lt;wait&gt;</Entry>
-  <Entry Index="4070">¿Eh? ¿Y a quién vas a darle eso?&lt;wait&gt;</Entry>
-  <Entry Index="4071">¿Lo que llevas ahí es una pluma azul? Es un objeto muy
-bonito, pero no me inspira mucho.&lt;wait&gt;</Entry>
-  <Entry Index="4072">¿Eh? Gracias... Pero sabes que hoy es San Valentín,
-¿verdad?&lt;wait&gt;</Entry>
-  <Entry Index="4073">Gracias por pensar en mí en días así, &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="4074">Gracias... Siempre eres tan &lt;gender&gt;("atento","atenta") con estos regalos sin
-importar la estación que sea.&lt;wait&gt;</Entry>
-  <Entry Index="4075">Gracias... Pero es San Valentín. ¿Está bien que acepte
-esto?&lt;wait&gt;</Entry>
-  <Entry Index="4076">¿Eh? Ah, es San Valentín, ¿no? Ja, ja, gracias...&lt;wait&gt;</Entry>
-  <Entry Index="4077">Gracias, &lt;nickname&gt;. Me alegra que me sigas
-haciendo regalos así hasta después de casarnos.&lt;wait&gt;</Entry>
-  <Entry Index="4078">¿Eh? Hoy es... ¡Ah, sí! Gracias.&lt;wait&gt;</Entry>
-  <Entry Index="4079">Gracias. Puede que te hayas equivocado de celebración,
-pero supongo que la intención es lo que cuenta.&lt;wait&gt;</Entry>
-  <Entry Index="4080">¿Eh? ¿Bombones? ¿Es que te has liado con los festivos o
-algo?&lt;wait&gt;&lt;page&gt;
-Bueno, te has esforzado por hacerme el regalo, así que...
-Lo aceptaré. Gracias.&lt;wait&gt;</Entry>
-  <Entry Index="4081">¿Eh? ¿Es para mí?&lt;wait&gt;&lt;page&gt;
-Muchas gracias. Qué amable.&lt;wait&gt;</Entry>
-  <Entry Index="4082">¿Eh? ¿Sabes qué fiesta es hoy? Bueno, supongo que en el
-fondo no importa... Gracias.&lt;wait&gt;</Entry>
-  <Entry Index="4083">¿Eh? ¿Galletas del Día Blanco para mí?&lt;wait&gt;&lt;page&gt;
-¡Qué amable por pensar en mí! Xie xie.&lt;wait&gt;</Entry>
-  <Entry Index="4084">¡Gracias! Veo que la ocasión te importa poco. Solo quieres
-repartir alegría, ¿sí? Lo acepto con gusto.&lt;wait&gt;</Entry>
-  <Entry Index="4085">¡Sí! Hoy es el Día Blanco, ¿no?&lt;wait&gt;&lt;page&gt;
-Me reconforta saber que piensas en mí sin importar la
-estación que sea. ¡Gracias!&lt;wait&gt;</Entry>
-  <Entry Index="4086">Ja, ja, eres una esposa increíble, ¿sabes? Lo acepto con
-gusto.&lt;wait&gt;</Entry>
-  <Entry Index="4087">¿Eh? Pero si es San Valentín... ¿Seguro?&lt;wait&gt;&lt;page&gt;
-¡Veo que piensas en todo! ¡Me encantan los dulces!&lt;wait&gt;</Entry>
-  <Entry Index="4088">¿Eh? Pero normalmente en el Día Blanco los chicos...&lt;wait&gt;&lt;page&gt;
-Bah, qué más da. ¡Nunca rechazaría un regalo de mi
-adorable esposa! ¡Gracias!&lt;wait&gt;</Entry>
-  <Entry Index="4089">¿Un regalo de San Valentín para mí? ¡Vaya, gracias!&lt;wait&gt;&lt;page&gt;
-Se supone que yo te debería dar uno a ti... ¡Lo siento!&lt;wait&gt;</Entry>
-  <Entry Index="4090">¡Vaya, gracias! ¡Lo acepto con gusto!&lt;wait&gt;&lt;page&gt;
-Pero... No tengo nada que darte a cambio. ¡Lo siento!&lt;wait&gt;</Entry>
-  <Entry Index="4091">¿Eh? ¿Un regalo de San Valentín? ¡Gracias! Ji, ji. Estar
-casada no está nada mal.&lt;wait&gt;&lt;page&gt;
-¡Aunque debería ser yo la que te haga bombones! Lo
-siento...&lt;wait&gt;&lt;page&gt;</Entry>
-  <Entry Index="4092">¿Eh? ¡Pero si es San Valentín, &lt;gender&gt;("tonto","tonta")! Bueno, estoy
-segura de que te has esforzado mucho... ¡así que lo acepto!
-¡Gracias!&lt;wait&gt;</Entry>
+  <Entry Index="4069">Uau, sério? Ha ha, estou tão feliz que você
+é minha esposa, &lt;nickname&gt;. ♪&lt;wait&gt;</Entry>
+  <Entry Index="4070">Hein? E para quem você vai dar isso?&lt;wait&gt;</Entry>
+  <Entry Index="4071">É uma pena azul que você tem aí? É um objeto
+muito legal, mas não me inspira muito.&lt;wait&gt;</Entry>
+  <Entry Index="4072">Hein? Obrigado... Mas você sabe que hoje é
+Dia dos Namorados, certo?&lt;wait&gt;</Entry>
+  <Entry Index="4073">Obrigado por pensar em mim em dias como este, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="4074">Obrigado... Você é sempre tão &lt;gender&gt;("atento","atenta") com esses 
+presentes, não importa a estação.&lt;wait&gt;</Entry>
+  <Entry Index="4075">Obrigado... Mas é Dia dos Namorados.
+Posso aceitar isso?&lt;wait&gt;</Entry>
+  <Entry Index="4076">Hein? Oh, é dia dos namorados, não é?
+Ha ha, obrigado...&lt;wait&gt;</Entry>
+  <Entry Index="4077">Obrigado, &lt;nickname&gt;. Fico feliz que você continue
+me dando presentes como este até depois de
+nos casarmos.&lt;wait&gt;</Entry>
+  <Entry Index="4078">Hein? Hoje é... Ah sim! Obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="4079">Obrigado. Você pode ter errado a comemoração,
+mas acho que é o pensamento que conta.&lt;wait&gt;</Entry>
+  <Entry Index="4080">Hein? Chocolates? Você mexeu nos
+feriados ou algo assim?&lt;wait&gt;&lt;page&gt;
+Bem, você se esforçou para me dar o presente,
+então... eu aceito. Obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="4081">Hein? É para mim?&lt;wait&gt;&lt;page&gt;
+Muito obrigado. Que gentileza.&lt;wait&gt;</Entry>
+  <Entry Index="4082">Uh Você sabe que feriado é hoje? Bem,
+acho que no fundo não importa... Obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="4083">Hein? Biscoitos do Dia Branco para mim?&lt;wait&gt;&lt;page&gt;
+Que gentil da sua parte pensar em mim! Xie xie.&lt;wait&gt;</Entry>
+  <Entry Index="4084">>Obrigado! Vejo que a ocasião pouco importa para você.
+Você só quer espalhar alegria, sim?
+Aceito com prazer&lt;wait&gt;</Entry>
+  <Entry Index="4085">Sim! Hoje é o Dia Branco, certo?&lt;wait&gt;&lt;page&gt;
+Me conforta saber que você pensa em mim, não importa
+em qual estação esteja. Obrigado!&lt;wait&gt;</Entry>
+  <Entry Index="4086">Ha ha, você é uma esposa incrível, sabia?
+Aceito com prazer.&lt;wait&gt;</Entry>
+  <Entry Index="4087">Hein? Mas é Dia dos Namorados... Tem certeza?&lt;wait&gt;&lt;page&gt;
+Eu vejo que você pensa em tudo! Adoro doces!&lt;wait&gt;</Entry>
+  <Entry Index="4088">Uh? Mas geralmente no Dia Branco são
+os meninos...&lt;wait&gt;&lt;page&gt;
+Aah, o que importa. Eu nunca recusaria um presente
+da minha adorável esposa! Obrigado!&lt;wait&gt;</Entry>
+  <Entry Index="4089">Um presente de Dia dos Namorados para mim?
+Nossa, obrigado!&lt;wait&gt;&lt;page&gt;
+Eu deveria te dar um... Desculpe!&lt;wait&gt;</Entry>
+  <Entry Index="4090">Nossa, obrigado! Aceito com prazer!&lt;wait&gt;&lt;page&gt;
+Mas... não tenho nada para lhe dar em troca.
+Desculpe!&lt;wait&gt;</Entry>
+  <Entry Index="4091">Hein? Um presente de dia dos namorados? Obrigada!
+hee hee Ser casado não é nada ruim.&lt;wait&gt;&lt;page&gt;
+Embora eu devesse ser o único a fazer chocolates
+para você! Desculpe...&lt;wait&gt;&lt;page&gt;</Entry>
+  <Entry Index="4092">Mas se for Dia dos Namorados, &lt;gender&gt;("bobo","boba")!
+Bem, tenho certeza que você se esforçou muito...
+então eu aceito! Obrigado!&lt;wait&gt;</Entry>
   <Entry Index="4093">H-hein? Para mim? Seria um prazer.
 Muito obrigado por pensar em mim.&lt;wait&gt;</Entry>
   <Entry Index="4094">Parece requintado. Ah... Obrigado. Hoje é dia branco?
