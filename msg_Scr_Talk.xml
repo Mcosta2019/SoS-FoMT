@@ -9245,58 +9245,70 @@ No te lo había dicho, así que no tenías forma de saberlo.&lt;wait&gt;&lt;page
 Aun así, como alguien que intenta ser un modelo a seguir
 para los demás, me da vergüenza admitir que hay cosas
 que no me gustan.&lt;wait&gt;</Entry>
-  <Entry Index="3965">Madre mía... No me gustan, cariño.&lt;wait&gt;&lt;page&gt;
-Ah, ¿es que no lo sabías? No tiene sentido hacerte sentir
-mal entonces. Es que no tenías ni idea.&lt;wait&gt;</Entry>
-  <Entry Index="3966">Madre mía, ¿te ha dicho Yu que hagas esto?
-Un momento... No sabías que no me gustan, ¿verdad?&lt;wait&gt;&lt;page&gt;
-No pasa nada. No puedo culparte si no lo sabías. Eso
-suponiendo que estés siendo &lt;gender&gt;("sincero","sincera").&lt;wait&gt;</Entry>
-  <Entry Index="3967">¡Bah! ¿Me estás copiando?
-¡Pero odio las cosas así!&lt;wait&gt;&lt;page&gt;
-Aunque supongo que si no lo sabías... Agh, ahora empiezo a
-entender cómo se sienten todos cuando me meto con ellos.&lt;wait&gt;</Entry>
-  <Entry Index="3968">Eh, esto... ¿yuju? Graci... Puaj.
-No. No puedo. Lo siento, pero no soporto las cosas así.&lt;wait&gt;&lt;page&gt;
-Aun así, no podías haberlo sabido. 
-Nunca te dije nada.&lt;wait&gt;</Entry>
-  <Entry Index="3969">Ah, lo siento. No me gustan nada. Ah, ¿es que no lo sabías?
-Bueno, supongo que está bien entonces.&lt;wait&gt;&lt;page&gt;
-Pero que sea una lección, ¿vale?
-No lo vuelvas a hacer, por favor.&lt;wait&gt;</Entry>
-  <Entry Index="3970">Me gusta tanto como una botella vacía. Que es lo mismo
-que... nada. Pero no pasa nada. Todo el mundo comete
-errores.&lt;wait&gt;</Entry>
-  <Entry Index="3971">Me temo que no me gustan nada.&lt;wait&gt;&lt;page&gt;
-No, no. No lo podrías saber a no ser que te lo dijese. No
-pasa nada. Sé que no tenías mala intención.&lt;wait&gt;</Entry>
-  <Entry Index="3972">Madre mía... La gente dice que tengo una paciencia
-celestial, pero hay cosas que ni yo puedo aguantar.&lt;wait&gt;&lt;page&gt;
-Bueno, está bien. Un montón de cosas.
-Pero te perdono, &lt;gender&gt;("hijo mío","hija mía"). No sabías que no me gustaba.&lt;wait&gt;</Entry>
-  <Entry Index="3973">Eh, no me gustan. Suelo guardarme esas cosas, así que no
-lo podrías saber. Está bien.&lt;wait&gt;</Entry>
-  <Entry Index="3974">¡Puaj! Guau, eh... Lo siento, pero es que no me gusta nada.&lt;wait&gt;&lt;page&gt;
-Aunque no lo sabías, ¿no? Está bien, no pasa nada. Sé que
-no tenías mala intención.&lt;wait&gt;</Entry>
-  <Entry Index="3975">¿Pero qué...? Eh, lo siento, pero eso es peor que un suelo
-sucio para mí...&lt;wait&gt;&lt;page&gt;
-¡Pues vaya! No lo podrías haber sabido. Ja, ja, ja.&lt;wait&gt;</Entry>
-  <Entry Index="3976">Yo, eh, lo odio tanto como el invierno. Pero era imposible
-que lo supieses, así que no es culpa tuya.&lt;wait&gt;</Entry>
-  <Entry Index="3977">Ah, ¿esta basura? Lo siento. No me va. Aun así, dudo que lo
-supieses, así que te daré otra oportunidad.&lt;wait&gt;</Entry>
-  <Entry Index="3978">Es lo que menos me gusta del mundo. No se lo suelo decir a
-nadie, así que supongo que no lo podrías haber sabido.&lt;wait&gt;</Entry>
-  <Entry Index="3979">Creo que es bastante horrible. Aunque... No lo podrías
-saber porque no te lo había dicho. Supongo que está bien.&lt;wait&gt;</Entry>
-  <Entry Index="3980">Eh... sí. Lo siento. No me gustan nada. Bueno. No lo podrías
-haber sabido, ¿no? No te preocupes.&lt;wait&gt;</Entry>
-  <Entry Index="3981">¿Qué? No. Es peor que un monedero vacío. Pero no lo
-sabías, así que no lo podías haber evitado. Te perdono.&lt;wait&gt;</Entry>
-  <Entry Index="3982">¡Anda! Qué poco apetitoso. Aunque no sabías que mis
-gustos se alejaban de esto. No hay razón para
-enfurruñarse.&lt;wait&gt;</Entry>
+  <Entry Index="3965">Oh meu Deus... não gosto disso, querido.&lt;wait&gt;&lt;page&gt;
+Ah, você não sabia? Não há motivo em fazê-lo se
+sentir mal então, se você simplesmente não
+fazia ideia.&lt;wait&gt;</Entry>
+  <Entry Index="3966">Oh meu Deus, Yu pediu para você fazer isso?
+Espere um minuto... Você não sabia que eu
+não gostava disso, não é?&lt;wait&gt;&lt;page&gt;
+Sem problema. Não posso culpá-lo se você não sabia.
+Isso supondo que você esteja sendo &lt;gender&gt;("sincero","sincera").&lt;wait&gt;</Entry>
+  <Entry Index="3967">Aah! Você está me copiando?
+Mas eu odeio coisas assim!&lt;wait&gt;&lt;page&gt;
+Mas acho que se você não sabia... Ugh, agora estou
+começando a entender como todo mundo se sente
+quando mexo com eles.&lt;wait&gt;</Entry>
+  <Entry Index="3968">Oh, isso... whoo? Obrig... Eca.
+Não não posso. Desculpe, mas não suporto coisas assim.&lt;wait&gt;&lt;page&gt;
+Ainda assim, você não tinha como saber.
+Eu nunca te disse nada.&lt;wait&gt;</Entry>
+  <Entry Index="3969">Ah, desculpe. Eu não gosto disso. Ah, você
+não sabia? Bem, acho que está tudo bem então.&lt;wait&gt;&lt;page&gt;
+Mas que seja uma lição, ok?
+Não faça isso novamente, por favor.&lt;wait&gt;</Entry>
+  <Entry Index="3970">Gosto tanto quanto de uma garrafa vazia.
+Que é o mesmo que... nada. Mas sem problema.
+Todo mundo comete erros.&lt;wait&gt;</Entry>
+  <Entry Index="3971">Receio não gostar nenhum pouco disso.&lt;wait&gt;&lt;page&gt;
+Não, não. Você não poderia saber a menos que eu
+tivesse lhe dito.. Não tem problema.
+Eu sei que você não quis fazer nenhum mal.&lt;wait&gt;</Entry>
+  <Entry Index="3972">Meu Deus... As pessoas dizem que tenho uma paciência
+celestial, mas há coisas que nem eu aguento.&lt;wait&gt;&lt;page&gt;
+Bom está bem. Um monte de coisas.
+Mas eu te perdôo, &lt;gender&gt;("meu filho","minha filha").
+Você não sabia que eu não gostava.&lt;wait&gt;</Entry>
+  <Entry Index="3973">Uh, eu não gosto disso. Eu costumo não
+contar essas coisas, então você não teria
+como saber. Tudo bem.&lt;wait&gt;</Entry>
+  <Entry Index="3974">Eca! Nossa, uh... Desculpe, mas não gosto
+nada disso.&lt;wait&gt;&lt;page&gt;
+Mas você não sabia disso, não é? Está tudo bem,
+não tem problema. Eu sei que você não quis
+fazer nenhum mal.&lt;wait&gt;</Entry>
+  <Entry Index="3975">Mas o que...? Ah, desculpe, mas isso é pior
+do que um chão sujo para mim...&lt;wait&gt;&lt;page&gt;
+Mas vamos! Você não tinha como saber. Ha ha ha.&lt;wait&gt;</Entry>
+  <Entry Index="3976">Eu, uh, odeio tanto quanto o inverno. Mas não
+havia como você saber, então não é sua culpa.&lt;wait&gt;</Entry>
+  <Entry Index="3977">Ah, esse lixo? Sinto muito. eu não quero.
+Mesmo assim, duvido que você soubesse,
+então vou lhe dar outra chance.&lt;wait&gt;</Entry>
+  <Entry Index="3978">É a coisa que menos gosto no mundo. Não costumo
+contar a ninguém, então acho que você não saberia.&lt;wait&gt;</Entry>
+  <Entry Index="3979">Acho muito horrível. Embora... Você não
+poderia saber porque eu não tinha lhe contado.
+Acho que não tem problema.&lt;wait&gt;</Entry>
+  <Entry Index="3980">Uh... sim. Sinto muito. Eu não gosto nenhum
+pouco disso. Certo. Você não tinha como saber,
+tinha? Não se preocupe.&lt;wait&gt;</Entry>
+  <Entry Index="3981">O quê? Não. É pior do que uma carteira vazia.
+Mas você não sabia, então não poderia ter
+evitado. Eu te perdôo.&lt;wait&gt;</Entry>
+  <Entry Index="3982">Vamos! Nenhum um pouco apetitoso. Mas
+você não sabia que meus gostos estão longe disso.
+Não há motivo para ficar de mau humor.&lt;wait&gt;</Entry>
   <Entry Index="3983">Ah, olá, &lt;playername&gt;. Oh meu Deus, não.
 Não gosto nada disso, &lt;gender&gt;("seu tonto","sua tonta").&lt;wait&gt;&lt;page&gt;
 É a primeira vez que você comete esse erro, então
