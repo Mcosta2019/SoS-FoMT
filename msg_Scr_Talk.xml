@@ -9397,56 +9397,57 @@ me basta. ¡Pero gracias! &lt;wait&gt;</Entry>
   <Entry Index="4019">¿Eh? Espera, creía que ya me habías dado algo hoy. Es
 suficiente, créeme.
 No podría aceptar más.&lt;wait&gt;</Entry>
-  <Entry Index="4020">Ya me has dado algo hoy. Aceptar
-algo más sería avaricioso.&lt;wait&gt;</Entry>
-  <Entry Index="4021">Ya me has dado hoy un regalo.
-No quiero ser maleducado.
-Uno es suficiente.&lt;wait&gt;</Entry>
-  <Entry Index="4022">¿Mmm? Ya me has dado un regalo hoy. La intención es
-más que suficiente. Que la madre naturaleza te bendiga.&lt;wait&gt;</Entry>
-  <Entry Index="4023">Vaya, ¿no me habías dado ya algo antes? Me sentiría
-culpable si aceptase otro regalo más.&lt;wait&gt;</Entry>
-  <Entry Index="4024">¡Ay! ¿Quieres darme más regalos? Gracias, pero con uno
-tengo de sobra. Dos son demasiado.&lt;wait&gt;</Entry>
-  <Entry Index="4025">Madre mía. Una idea seductora, pero ya me has dado un
-regalo hoy.&lt;wait&gt;</Entry>
-  <Entry Index="4026">Madre mía, pero si ya me has dado una ofrenda hoy.
-Estás extremadamente &lt;gender&gt;("generoso","generosa") hoy, ¿no crees?&lt;wait&gt;</Entry>
-  <Entry Index="4027">Ya dar regalo hoy. Uno estar bien.&lt;wait&gt;</Entry>
-  <Entry Index="4028">¡Anda! No podría aceptar un segundo regalo en un período
-tan breve. Pero aprecio tu intención.&lt;wait&gt;</Entry>
-  <Entry Index="4029">¡Oh, vaya! ¿Un segundo regalo? Pero ya me has dado uno
-hoy. Es más que suficiente para mí.&lt;wait&gt;</Entry>
-  <Entry Index="4030">¿Es para mí? Pero ya me has dado un regalo hoy. No
-quiero ser egoísta y pedir más.&lt;wait&gt;</Entry>
-  <Entry Index="4031">¿Es para mí? Pero ya me has dado un regalo hoy. No
-quiero ser egoísta y pedir más.&lt;wait&gt;</Entry>
-  <Entry Index="4032">¿Es para mí? Pero ya me has dado un regalo hoy. No
-quiero ser egoísta y pedir más.&lt;wait&gt;</Entry>
-  <Entry Index="4033">¿Es para mí? Pero ya me has dado un regalo hoy. No
-quiero ser egoísta y pedir más.&lt;wait&gt;</Entry>
-  <Entry Index="4034">¿Es para mí? Pero ya me has dado un regalo hoy. No
-quiero ser egoísta y pedir más.&lt;wait&gt;</Entry>
-  <Entry Index="4035">¿Es para mí? Pero ya me has dado un regalo hoy. No
-quiero ser egoísta y pedir más.&lt;wait&gt;</Entry>
-  <Entry Index="4036">¿Es para mí? Pero ya me has dado un regalo hoy. No
-quiero ser egoísta y pedir más.&lt;wait&gt;</Entry>
-  <Entry Index="4037">¿Qué pasa, &lt;playername&gt;? ¿Qué haces con esa flor
-preservada?&lt;wait&gt;</Entry>
-  <Entry Index="4038">Ah, no me digas que... Tal vez deberíamos ir a un sitio
-apartado.&lt;wait&gt;</Entry>
-  <Entry Index="4039">¿Tienes una flor preservada? Ojalá alguien me diese una
-algún día.&lt;wait&gt;</Entry>
-  <Entry Index="4040">¿Qué pasa? ¿Por qué tienes una flor preservada y me
-miras con esa cara tan seria?&lt;wait&gt;</Entry>
-  <Entry Index="4041">Espera... ¿En serio...?&lt;wait&gt;</Entry>
-  <Entry Index="4042">Eh, vamos a otro sitio. Este sitio... es demasiado público.&lt;wait&gt;</Entry>
-  <Entry Index="4043">¿Qué?&lt;wait&gt;</Entry>
-  <Entry Index="4044">Espera, eso no es para mí, ¿no? Tienes que quedártela
-hasta que llegue el momento de usarla.&lt;wait&gt;</Entry>
-  <Entry Index="4045">¿Qué pasa? ¿Necesitas algo de mí? Espera. ¿Eso es una
-flor preservada?&lt;wait&gt;</Entry>
-  <Entry Index="4046">Parece que temos algo sério para falar.
+  <Entry Index="4020">Você já me deu algo hoje. Aceitar
+qualquer outra coisa seria ganancioso.&lt;wait&gt;</Entry>
+  <Entry Index="4021">Você já me deu um presente hoje.
+Eu não quero ser rude.
+Um é suficiente.&lt;wait&gt;</Entry>
+  <Entry Index="4022">Hmm? Você já me deu um presente hoje. A intenção é
+mais do que suficiente. Que a mãe natureza
+te abençoe.&lt;wait&gt;</Entry>
+  <Entry Index="4023">Nossa, você não me deu algo antes? Eu me sentiria
+culpado se aceitasse mais um presente.&lt;wait&gt;</Entry>
+  <Entry Index="4024">Ei! Quer me dar mais presentes? Obrigado, mas tenho
+um sobrando. Dois é demais.&lt;wait&gt;</Entry>
+  <Entry Index="4025">Meu Deus. Uma ideia sedutora, mas você já me deu
+um presente hoje.&lt;wait&gt;</Entry>
+  <Entry Index="4026">Meu Deus, mas você já me deu uma oferenda hoje.
+Você está muito &lt;gender&gt;("generoso","generosa") hoje, não acha?&lt;wait&gt;</Entry>
+  <Entry Index="4027">Já me deu um presente hoje. Um está bom.&lt;wait&gt;</Entry>
+  <Entry Index="4028">Vamos! Eu não poderia aceitar um segundo presente
+em tão pouco tempo. Mas agradeço sua intensão.&lt;wait&gt;</Entry>
+  <Entry Index="4029">Oh, nossa! Um segundo presente? Mas você já me
+deu um hoje. É mais do que suficiente para mim..&lt;wait&gt;</Entry>
+  <Entry Index="4030">É para mim? Mas você já me deu um presente hoje.
+Não quero ser egoísta e pedir mais.&lt;wait&gt;</Entry>
+  <Entry Index="4031">É para mim? Mas você já me deu um presente hoje.
+Não quero ser egoísta e pedir mais.&lt;wait&gt;</Entry>
+  <Entry Index="4032">É para mim? Mas você já me deu um presente hoje.
+Não quero ser egoísta e pedir mais.&lt;wait&gt;</Entry>
+  <Entry Index="4033">É para mim? Mas você já me deu um presente hoje.
+Não quero ser egoísta e pedir mais.&lt;wait&gt;</Entry>
+  <Entry Index="4034">É para mim? Mas você já me deu um presente hoje.
+Não quero ser egoísta e pedir mais.&lt;wait&gt;</Entry>
+  <Entry Index="4035">É para mim? Mas você já me deu um presente hoje.
+Não quero ser egoísta e pedir mais.&lt;wait&gt;</Entry>
+  <Entry Index="4036">É para mim? Mas você já me deu um presente hoje.
+Não quero ser egoísta e pedir mais.&lt;wait&gt;</Entry>
+  <Entry Index="4037">E aí, &lt;playername&gt;? O que você está fazendo
+com essa flor preservada?&lt;wait&gt;</Entry>
+  <Entry Index="4038">Ah, não me diga que... Talvez devêssemos ir
+a algum lugar reservado.&lt;wait&gt;</Entry>
+  <Entry Index="4039">Você tem uma flor preservada? Eu gostaria que
+alguém me desse uma um dia.&lt;wait&gt;</Entry>
+  <Entry Index="4040">O que foi? Por que você tem uma flor preservada e
+está me olhando com uma cara tão séria?&lt;wait&gt;</Entry>
+  <Entry Index="4041">Espere... É sério...?&lt;wait&gt;</Entry>
+  <Entry Index="4042">Ei, vamos para outro lugar. Aqui é... muito público.&lt;wait&gt;</Entry>
+  <Entry Index="4043">O quê?&lt;wait&gt;</Entry>
+  <Entry Index="4044">Espere, isso não é para mim, é? Você deve
+guardá-la até a hora de usá-lo.&lt;wait&gt;</Entry>
+  <Entry Index="4045">E aí? Você precisa de alguma coisa? Espere.
+Isso é uma flor preservada?&lt;wait&gt;</Entry>
+  <Entry Index="4046">Parece que temos algo sério para conversar.
 Vamos para outro lugar.&lt;wait&gt;</Entry>
   <Entry Index="4047">Mas o que você está fazendo andando com uma
 flor preservada? Seria uma pena se você a perdesse.&lt;wait&gt;</Entry>
