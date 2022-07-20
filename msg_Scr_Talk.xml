@@ -9446,56 +9446,58 @@ miras con esa cara tan seria?&lt;wait&gt;</Entry>
 hasta que llegue el momento de usarla.&lt;wait&gt;</Entry>
   <Entry Index="4045">¿Qué pasa? ¿Necesitas algo de mí? Espera. ¿Eso es una
 flor preservada?&lt;wait&gt;</Entry>
-  <Entry Index="4046">Parece que tenemos algo serio de lo que hablar. Vamos a
-otro sitio.&lt;wait&gt;</Entry>
-  <Entry Index="4047">¿Pero qué haces andando con una flor preservada por
-ahí? Sería una lástima que la perdieses.&lt;wait&gt;</Entry>
-  <Entry Index="4048">¿Qué pasa? Estás muy &lt;gender&gt;("serio","seria").&lt;wait&gt;</Entry>
-  <Entry Index="4049">Espera, eso...&lt;wait&gt;</Entry>
-  <Entry Index="4050">Entiendo. Tal vez deberíamos ir a otro sitio.&lt;wait&gt;</Entry>
-  <Entry Index="4051">Eso es... ¿una flor preservada?</Entry>
-  <Entry Index="4052">No, no.
-No es en serio, ¿no? Mmm, tengo que pedirte que dejes de
-hacer bromas así.&lt;wait&gt;</Entry>
-  <Entry Index="4053">¡Todo es mucho más alegre con &lt;childname&gt; por
-aquí! Tanto, que siento que en vez de andar voy dando
-saltitos.&lt;wait&gt;</Entry>
-  <Entry Index="4054">Ahora que &lt;childname&gt; está aquí,
-supongo que eso me hace abuela.
-Es una sensación muy rara.
-¿Eh? ¿Te sorprende que me sienta así?
-Da igual la sangre, os considero a ti
-y a &lt;childname&gt; como de la familia.
-No lo olvides nunca.&lt;wait&gt;</Entry>
-  <Entry Index="4055">Me alegro mucho de que tengamos a &lt;childname&gt;.
-Siento que me ha ayudado a tener un objetivo en la vida.&lt;wait&gt;&lt;page&gt;
-Sí... Siento que mi propósito en la vida era conocerte a ti y
-tener a &lt;childname&gt;, &lt;nickname&gt;.</Entry>
-  <Entry Index="4056">¿Qué tipo de persona crees que acabará siendo
-&lt;childname&gt;? Es divertido pensarlo.&lt;wait&gt;</Entry>
-  <Entry Index="4057">Veo que &lt;childname&gt; tiene la misma energía de
-siempre.&lt;wait&gt;</Entry>
-  <Entry Index="4058">¡&lt;childname&gt; es nuestro retoño, después de todo!
-Tan alegre y saludable como siempre.&lt;wait&gt;</Entry>
-  <Entry Index="4059">Muchas gracias, &lt;nickname&gt;. No tengo palabras
-para describir lo agradecido que estoy de que tanto tú
-como &lt;childname&gt; estéis en mi vida.&lt;wait&gt;</Entry>
-  <Entry Index="4060">Pero ¿cómo es posible que &lt;childname&gt; haga tantas
-trastadas? ¿A quién habrá salido?&lt;wait&gt;</Entry>
-  <Entry Index="4061">Ah, &lt;playername&gt;. ¿Qué tal le va a mi adorable
-peque? Ah, quiero volver a hacerle una visita...&lt;wait&gt;</Entry>
-  <Entry Index="4062">Papá dice que &lt;childname&gt; se parece a nosotros.&lt;wait&gt;&lt;page&gt;
-No me había dado cuenta... pero me gusta.</Entry>
-  <Entry Index="4063">Siempre he querido tener un niño.&lt;wait&gt;</Entry>
-  <Entry Index="4064">Siempre he querido tener una niña.&lt;wait&gt;</Entry>
-  <Entry Index="4065">&lt;childname&gt; es un amor, ¿a que sí? Por cierto, se
-empieza a parecer a ti misteriosamente,
+  <Entry Index="4046">Parece que temos algo sério para falar.
+Vamos para outro lugar.&lt;wait&gt;</Entry>
+  <Entry Index="4047">Mas o que você está fazendo andando com uma
+flor preservada? Seria uma pena se você a perdesse.&lt;wait&gt;</Entry>
+  <Entry Index="4048">O que foi? Você está muito &lt;gender&gt;("sério","séria").&lt;wait&gt;</Entry>
+  <Entry Index="4049">Espere, isso...&lt;wait&gt;</Entry>
+  <Entry Index="4050">Entendo. Talvez devêssemos ir para outro lugar.&lt;wait&gt;</Entry>
+  <Entry Index="4051">Isso é... uma flor preservada?</Entry>
+  <Entry Index="4052">Não, não.
+Não é sério, né? Hmm, eu tenho que pedir para você
+parar de fazer piadas assim.&lt;wait&gt;</Entry>
+  <Entry Index="4053">Tudo fica muito mais alegre com &lt;childname&gt; por
+aqui! Tanto que sinto que, em vez de andar
+estou saltitando.&lt;wait&gt;</Entry>
+  <Entry Index="4054">Agora que &lt;childname&gt; está aqui,
+Acho que isso faz de mim uma avó.
+É uma sensação muito estranha.
+Uh? Você está surpreso que eu me sinta assim?
+Não importa o sangue, eu considero você
+e &lt;childname&gt; como da familia.
+Nunca se esqueça disso.&lt;wait&gt;</Entry>
+  <Entry Index="4055">Estou muito feliz por termos &lt;childname&gt;.
+Sinto que me ajudou a ter um propósito na vida.&lt;wait&gt;&lt;page&gt;
+Sim... Sinto que meu propósito na vida era conhecer
+você e ter &lt;childname&gt;, &lt;nickname&gt;.</Entry>
+  <Entry Index="4056">Que tipo de pessoa você acha que
+&lt;childname&gt; se tornará? É divertido pensar nisso.&lt;wait&gt;</Entry>
+  <Entry Index="4057">Vejo que &lt;childname&gt; tem a mesma energia
+de sempre.&lt;wait&gt;</Entry>
+  <Entry Index="4058">&lt;childname&gt; é nossa descendência, afinal!
+Tão alegre e saudável como sempre.&lt;wait&gt;</Entry>
+  <Entry Index="4059">Muito obrigado, &lt;nickname&gt;. Não tenho palavras
+para descrever o quanto sou grato por você e
+&lt;childname&gt; estarem na minha vida.&lt;wait&gt;</Entry>
+  <Entry Index="4060">Mas como é possível que &lt;childname&gt; faça
+tantas travessuras? Com quem teria aprendido?&lt;wait&gt;</Entry>
+  <Entry Index="4061">Ah, &lt;playername&gt;. Como está meu
+lindinho? Ah, quero visitá-lo novamente...&lt;wait&gt;</Entry>
+  <Entry Index="4062">Papai disse que &lt;childname&gt; se parece com a gente.&lt;wait&gt;&lt;page&gt;
+Eu não tinha notado... mas que bom.</Entry>
+  <Entry Index="4063">Sempre quis um menino.&lt;wait&gt;</Entry>
+  <Entry Index="4064">Sempre quis um menina.&lt;wait&gt;</Entry>
+  <Entry Index="4065">&lt;childname&gt; É um amor, né? A propósito,
+começou a se parecer com você misteriosamente,
 &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="4066">¿Eh? ¿Que si he ganado mucho yo? Bueno, eso es un
-secreto, sí. No se lo diré ni a mi pareja.&lt;wait&gt;</Entry>
-  <Entry Index="4067">¿Eh? ¿Qué pasa? ¿Querías hablar conmigo de algo?&lt;wait&gt;</Entry>
-  <Entry Index="4068">En cualquier caso, puedes quedarte aquí todo
-el tiempo que quieras.&lt;wait&gt;</Entry>
+  <Entry Index="4066">Hein? E se eu ganhei muito? Bem, isso é um
+segredo, certo. Eu nem vou contar ao meu
+cônjuge.&lt;wait&gt;</Entry>
+  <Entry Index="4067">Uh? O que está acontecendo?
+Você quer falar comigo sobre algo?&lt;wait&gt;</Entry>
+  <Entry Index="4068">De qualquer forma, você pode ficar aqui
+o tempo que quiser.&lt;wait&gt;</Entry>
   <Entry Index="4069">Uau, sério? Ha ha, estou tão feliz que você
 é minha esposa, &lt;nickname&gt;. ♪&lt;wait&gt;</Entry>
   <Entry Index="4070">Hein? E para quem você vai dar isso?&lt;wait&gt;</Entry>
