@@ -9297,55 +9297,58 @@ sabías, así que no lo podías haber evitado. Te perdono.&lt;wait&gt;</Entry>
   <Entry Index="3982">¡Anda! Qué poco apetitoso. Aunque no sabías que mis
 gustos se alejaban de esto. No hay razón para
 enfurruñarse.&lt;wait&gt;</Entry>
-  <Entry Index="3983">Ah, hola, &lt;playername&gt;. Ay, madre mía, no. No me
-gustan nada, &lt;gender&gt;("tonto","tonta").&lt;wait&gt;&lt;page&gt;
-Es la primera vez que cometes este error, así que no lo
-podrías saber. ¡No te preocupes, no pasa nada!.&lt;wait&gt;</Entry>
-  <Entry Index="3984">Puaj. No gustar nada. Vaya... Primera vez, error. Estar
-bien.&lt;wait&gt;</Entry>
-  <Entry Index="3985">Eh, me temo que debo admitir que no tengo el menor
-interés por tu regalo. Pero no lo podrías saber. Es
-compresible.&lt;wait&gt;</Entry>
-  <Entry Index="3986">Ah, ¿me quieres dar eso? Uf.
-No puedo darte las gracias.&lt;wait&gt;&lt;page&gt;
-Bueno. Nadie sabe lo que no le han dicho. Un error es un
-error, no pasa nada.&lt;wait&gt;</Entry>
-  <Entry Index="3987">Eh... Lo siento.
-¡No me gustan nada!&lt;wait&gt;&lt;page&gt;
-Pero nadie lo sabe la primera vez. No pasa nada. Es que
-no tenías ni idea.&lt;wait&gt;</Entry>
-  <Entry Index="3988">Eh... Lo siento.
-¡No me gustan nada!&lt;wait&gt;&lt;page&gt;
-Pero nadie lo sabe la primera vez. No pasa nada. Es que
-no tenías ni idea.&lt;wait&gt;</Entry>
-  <Entry Index="3989">Eh... Lo siento.
-¡No me gustan nada!&lt;wait&gt;&lt;page&gt;
-Pero nadie lo sabe la primera vez. No pasa nada. Es que
-no tenías ni idea.&lt;wait&gt;</Entry>
-  <Entry Index="3990">Eh... Lo siento.
-¡No me gustan nada!&lt;wait&gt;&lt;page&gt;
-Pero nadie lo sabe la primera vez. No pasa nada. Es que
-no tenías ni idea.&lt;wait&gt;</Entry>
-  <Entry Index="3991">Eh... Lo siento.
-¡No me gustan nada!&lt;wait&gt;&lt;page&gt;
-Pero nadie lo sabe la primera vez. No pasa nada. Es que
-no tenías ni idea.&lt;wait&gt;</Entry>
-  <Entry Index="3992">Eh... Lo siento.
-¡No me gustan nada!&lt;wait&gt;&lt;page&gt;
-Pero nadie lo sabe la primera vez. No pasa nada. Es que
-no tenías ni idea.&lt;wait&gt;</Entry>
-  <Entry Index="3993">Eh... Lo siento.
-¡No me gustan nada!&lt;wait&gt;&lt;page&gt;
-Pero nadie lo sabe la primera vez. No pasa nada. Es que
-no tenías ni idea.&lt;wait&gt;</Entry>
-  <Entry Index="3994">¿Mmm? Cariño, ya has tenido la amabilidad de darme un
-regalo hoy. No podría aceptar otro todavía.&lt;wait&gt;</Entry>
-  <Entry Index="3995">Gracias, pero ya me has dado un regalo hoy. Me sentiría
-culpable si aceptase otro tan pronto.&lt;wait&gt;</Entry>
-  <Entry Index="3996">¡Gracias, pero está bien! Ya me has dado
-un regalo hoy, &lt;gender&gt;("tonto","tonta").&lt;wait&gt;</Entry>
-  <Entry Index="3997">Oh, no, no. No podría. Ya has tenido la amabilidad
-de darme un regalo antes.&lt;wait&gt;</Entry>
+  <Entry Index="3983">Ah, olá, &lt;playername&gt;. Oh meu Deus, não.
+Não gosto nada disso, &lt;gender&gt;("seu tonto","sua tonta").&lt;wait&gt;&lt;page&gt;
+É a primeira vez que você comete esse erro, então
+não teria como saber. Não se preocupe, não foi nada!&lt;wait&gt;</Entry>
+  <Entry Index="3984">Eca. Não gosto nem um pouco. Nossa...
+Primeiro erro. Está tudo bem.&lt;wait&gt;</Entry>
+  <Entry Index="3985">Uh, devo admitir que não estou nem um pouco
+interessado em seu presente. Mas você não
+tinha como saber. É compressível.&lt;wait&gt;</Entry>
+  <Entry Index="3986">Ah, você quer me dar isso? Eca.
+Não vou agradecer.&lt;wait&gt;&lt;page&gt;
+OK. Ninguém saberia se não foi avisado.
+Um erro é um erro, não foi nada.&lt;wait&gt;</Entry>
+  <Entry Index="3987">Uh... me desculpe.
+Não gosto nem um pouco disso!&lt;wait&gt;&lt;page&gt;
+Mas ninguém sabe disso na primeira vez. Sem
+problema. Você simplesmente não fazia ideia.&lt;wait&gt;</Entry>
+  <Entry Index="3988">Uh... Desculpe.
+Não gosto nem um pouco disso!&lt;wait&gt;&lt;page&gt;
+Mas ninguém sabe disso na primeira vez. Sem
+problema. Você simplesmente não fazia ideia.&lt;wait&gt;</Entry>
+  <Entry Index="3989">Uh... Desculpe.
+Não gosto nem um pouco disso!&lt;wait&gt;&lt;page&gt;
+Mas ninguém sabe disso na primeira vez. Sem
+problema. Você simplesmente não fazia ideia.&lt;wait&gt;</Entry>
+  <Entry Index="3990">Uh... Desculpe.
+Não gosto nem um pouco disso!&lt;wait&gt;&lt;page&gt;
+Mas ninguém sabe disso na primeira vez. Sem
+problema. Você simplesmente não fazia ideia.&lt;wait&gt;</Entry>
+  <Entry Index="3991">Uh... Desculpe.
+Não gosto nem um pouco disso!&lt;wait&gt;&lt;page&gt;
+Mas ninguém sabe disso na primeira vez. Sem
+problema. Você simplesmente não fazia ideia.&lt;wait&gt;</Entry>
+  <Entry Index="3992">Uh... Desculpe.
+Não gosto nem um pouco disso!&lt;wait&gt;&lt;page&gt;
+Mas ninguém sabe disso na primeira vez. Sem
+problema. Você simplesmente não fazia ideia.&lt;wait&gt;</Entry>
+  <Entry Index="3993">Uh... Desculpe.
+Não gosto nem um pouco disso!&lt;wait&gt;&lt;page&gt;
+Mas ninguém sabe disso na primeira vez. Sem
+problema. Você simplesmente não fazia ideia.&lt;wait&gt;</Entry>
+  <Entry Index="3994">Hmm? Querido, você já teve a gentileza de me
+dar um presente hoje. Ainda não posso
+aceitar outro.&lt;wait&gt;</Entry>
+  <Entry Index="3995">Obrigado, mas você já me deu um presente hoje.
+Eu me sentiria culpado se aceitasse
+outro tão cedo.&lt;wait&gt;</Entry>
+  <Entry Index="3996">Obrigado, mas... bem! Você já me deu
+um presente hoje, &lt;gender&gt;("seu tonto","sua tonta").&lt;wait&gt;</Entry>
+  <Entry Index="3997">Ah, não, não. Não poderia aceitar.
+Você já teve a gentileza de me dar um
+presente antes.&lt;wait&gt;</Entry>
   <Entry Index="3998">Hein? Você já me deu um presente hoje. Eu gosto
 de presentes, mas não quero ser ganancioso.
 Ser ganancioso é egoísmo.&lt;wait&gt;</Entry>
