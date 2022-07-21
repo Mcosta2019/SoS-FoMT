@@ -9197,54 +9197,61 @@ Seguro que lo que ella desea es que vivamos
   <Entry Index="3949">¡Los fuegos artificiales son tan volubles! Arden tan
 brillantes como las estrellas y desaparecen en un
 instante. Tengo ganas de que llegue la fiesta de mañana.&lt;wait&gt;</Entry>
-  <Entry Index="3950">La madre naturaleza tiene la amabilidad de compartir
-sus poderes lunares tras su largo viaje hacia lo más alto.
-Debemos agradecer estos regalos cósmicos.&lt;wait&gt;</Entry>
-  <Entry Index="3951">Vaya. Me temo que no me importa en absoluto, cariño.&lt;wait&gt;&lt;page&gt;
-No te preocupes. Estoy segura de que no lo sabías. No
-pasa nada.&lt;wait&gt;</Entry>
-  <Entry Index="3952">¡Bah! No lo soporto...&lt;wait&gt;&lt;page&gt;
-¿Es que no lo sabías? Ah, bueno, no pasa nada. No puedo
-culparte si no lo sabías.&lt;wait&gt; </Entry>
-  <Entry Index="3953">¡Puaj! ¡No me gusta para nada!
-¿Es que no lo sabías? Oh. Bueno, te perdono. ¡Pero no lo
-vuelvas a hacer!&lt;wait&gt;</Entry>
-  <Entry Index="3954">¡Em! Lo siento, pero, eh...
-No me gusta para nada...&lt;wait&gt;&lt;page&gt;
-No, no. Si nadie te lo había dicho, no lo podías saber. No
-pasa nada. Todo el mundo comete errores.&lt;wait&gt;</Entry>
-  <Entry Index="3955">¡Puaj! ¡No me gusta! ¡Para nada! Ah... ¿no lo sabías?
-Supongo que no pasa nada. No tenías ni idea.&lt;wait&gt;</Entry>
-  <Entry Index="3956">¡Uf! ¿Quieres que me quede eso?
-No creo que me sirva para nada...&lt;wait&gt;&lt;page&gt;
-Bueno. No es que supieses que iba a reaccionar así. No
-importa.&lt;wait&gt;</Entry>
-  <Entry Index="3957">Eh, lo siento. No me va nada. Ah, ¿no lo sabías? Ya veo.
-Ningún problema, entonces. No te preocupes.&lt;wait&gt;</Entry>
-  <Entry Index="3958">Oh, esto... Lo siento. No me gustan mucho este tipo de
-cosas. ¿Es que no lo sabías? Vaya. Bueno, no pasa nada.&lt;wait&gt;</Entry>
-  <Entry Index="3959">Vaya. ¿Qué? No me gusta para nada. Aunque si no lo
-sabías, no pasa nada. Pero no lo vuelvas a hacer, por
-favor.&lt;wait&gt;</Entry>
-  <Entry Index="3960">Vaya, me temo que no me gustan nada. ¿Mmm? ¿Te
-sorprende saber que hay algo que no me gusta?&lt;wait&gt;&lt;page&gt;
-Ja, ja, ja. Soy humano, como todos los demás. Todos
-tenemos preferencias.&lt;wait&gt;</Entry>
-  <Entry Index="3961">Eh, es... Em... Bueno, si te soy sincera, no me gusta nada.&lt;wait&gt;&lt;page&gt;
-Ah, ¿es que no lo sabías? Madre mía, ¿no te lo había dicho?
-Bueno, no me extraña entonces. No pasa nada. No tenías
-ni idea.&lt;wait&gt;</Entry>
-  <Entry Index="3962">Madre mía, es peor que cortarse con papel. Nunca te he
-dicho que no me gustan, ¿no? No tenías forma de saberlo.&lt;wait&gt;</Entry>
-  <Entry Index="3963">¡Uff! Esto, eh, no me gustan nada... Ah, ¿es que no lo sabías?
-Aaah. Está bien entonces.&lt;wait&gt;&lt;page&gt;
-Soy el alcalde, sí, pero también soy humano. Tengo mis
-preferencias como todos los demás.&lt;wait&gt;</Entry>
-  <Entry Index="3964">Eh... Me temo que no me siento muy cómodo con algo así.
-No te lo había dicho, así que no tenías forma de saberlo.&lt;wait&gt;&lt;page&gt;
-Aun así, como alguien que intenta ser un modelo a seguir
-para los demás, me da vergüenza admitir que hay cosas
-que no me gustan.&lt;wait&gt;</Entry>
+  <Entry Index="3950">A Mãe Natureza tem a gentileza de compartilhar seus
+poderes lunares após sua longa jornada até o topo
+Devemos ser gratos por esses presentes cósmicos&lt;wait&gt;</Entry>
+  <Entry Index="3951">Nossa. Receio não me importar nem um pouco, querido.&lt;wait&gt;&lt;page&gt;
+Não se preocupe. Tenho certeza que você
+não sabia. Não tem problema.&lt;wait&gt;</Entry>
+  <Entry Index="3952">Aah! Não suporto...&lt;wait&gt;&lt;page&gt;
+Você não sabia? Ah, não tem problema. Não posso
+culpá-lo se você não sabia.&lt;wait&gt; </Entry>
+  <Entry Index="3953">Eca! Eu não gosto disso! Você não sabia?
+Oh. OK, eu perdoô você. Mas não faça isso
+de novo!&lt;wait&gt;</Entry>
+  <Entry Index="3954">Hum! Me desculpe, mas, uh...
+Eu não gosto nenhum pouco disso...&lt;wait&gt;&lt;page&gt;
+Não, não. Como ninguém havia lhe contado,
+você não teria como saber. Não se preocupe.
+Todo mundo comete erros.&lt;wait&gt;</Entry>
+  <Entry Index="3955">Eca! Não gosto! Nenhum pouco! Ah... você
+não sabia? Acho que tudo bem. Você não fazia ideia.&lt;wait&gt;</Entry>
+  <Entry Index="3956">Ah! Você quer que eu mantenha isso?
+Acho que não vai me ajudar em nada..&lt;wait&gt;&lt;page&gt;
+OK. Não é como se você soubesse que eu iria
+reagir assim. Não tem problema.&lt;wait&gt;</Entry>
+  <Entry Index="3957">Oh, desculpe. Não serve para mim.
+Ah, você não sabia? Entendi. Sem problemas então.
+Não se preocupe.&lt;wait&gt;</Entry>
+  <Entry Index="3958">Ah, hum... me desculpe. Eu realmente não gosto desse
+tipo de coisa. Você não sabia? Oh.
+Bem, não foi nada então.&lt;wait&gt;</Entry>
+  <Entry Index="3959">Nossa. O que? Eu não gosto nenhum pouco. Embora
+você não soubesse, sem problema. Mas não
+faça isso de novo, por favor.&lt;wait&gt;</Entry>
+  <Entry Index="3960">Nossa, acho que não gosto nada disso. Hum?
+Você está surpreso por saber que há algo
+que eu não gosto?&lt;wait&gt;&lt;page&gt;
+Ha ha ha. Eu sou humano, como todo mundo.
+Todos nós temos preferências.&lt;wait&gt;</Entry>
+  <Entry Index="3961">Uh, é... Hum... Bem, para ser honesto,
+eu não gosto nada disso..&lt;wait&gt;&lt;page&gt;
+Ah, você não sabia? Meu Deus, eu não te disse?
+Bem, não me admira então. Não foi nada.
+Você não fazia ideia.&lt;wait&gt;</Entry>
+  <Entry Index="3962">Meu Deus, é pior do que cortar um papel. 
+Eu nunca te contei que não gosto disso, não é?
+Você não tinha como saber.&lt;wait&gt;</Entry>
+  <Entry Index="3963">Aff! Isso, uh, eu não gosto nenhum pouco...
+Oh, você não sabia? Aaah. Ok então.&lt;wait&gt;&lt;page&gt;
+Eu sou o prefeito, sim, mas também sou humano.
+Tenho minhas preferências como todo mundo.&lt;wait&gt;</Entry>
+  <Entry Index="3964">Uh... Receio não estar muito confortável com
+algo assim. Eu não tinha lhe contado,
+então você não tinha como saber.&lt;wait&gt;&lt;page&gt;
+Ainda assim, como alguém que tenta ser um modelo
+para os outros, tenho vergonha de admitir que há
+coisas de que não gosto.&lt;wait&gt;</Entry>
   <Entry Index="3965">Oh meu Deus... não gosto disso, querido.&lt;wait&gt;&lt;page&gt;
 Ah, você não sabia? Não há motivo em fazê-lo se
 sentir mal então, se você simplesmente não
