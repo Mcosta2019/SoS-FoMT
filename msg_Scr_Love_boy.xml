@@ -27,14 +27,14 @@ Você veio fazer suas compras?&lt;wait&gt;</Entry>
 Você veio fazer suas compras?&lt;wait&gt;</Entry>
   <Entry Index="15">Sem problemas. Leve o tempo que precisar.&lt;wait&gt;</Entry>
   <Entry Index="16">Você encontrou o que precisava?
-Se precisar de qualquier coisa, me avise.&lt;wait&gt;</Entry>
+Se precisar de qualquer coisa, me avise.&lt;wait&gt;</Entry>
   <Entry Index="17">Você acabou de começar na fazenda, não é mesmo?
 Tenho certeza de que é uma dor de cabeça
 pensar em como começar.&lt;wait&gt;</Entry>
   <Entry Index="18">Você precisará de sementes para cultivar e forragem
 para alimentar os animais.
 Bem como as ferramentas para colhê-las, é claro.&lt;wait&gt;</Entry>
-  <Entry Index="19">A lista de coisas a fazer e a comprar é interminável.
+  <Entry Index="19">A lista de coisas a se fazer e a de se comprar é interminável.
 Não é?&lt;wait&gt;</Entry>
   <Entry Index="20">Eh... Acho que preciso de alguma ajuda...</Entry>
   <Entry Index="21">Sim, eu acho que sim!</Entry>
@@ -334,7 +334,7 @@ casada. Deixe &lt;playername&gt; fingir que é seu cônjuge.&lt;wait&gt;</Entry>
 provar o que preparei?&lt;wait&gt;</Entry>
   <Entry Index="168">Karen, &lt;playername&gt;, tive uma idéia.&lt;wait&gt;&lt;page&gt;
 Por que você não deixa ele provar o que preparou?&lt;wait&gt;</Entry>
-  <Entry Index="169">S-supongo... Eh, &lt;playername&gt;? Você gostaria de
+  <Entry Index="169">S-suponho... Eh, &lt;playername&gt;? Você gostaria de
 provar o que preparei?&lt;wait&gt;</Entry>
   <Entry Index="170">Claro. Vamos comer!</Entry>
   <Entry Index="171">Desculpe. Prefiro algo comestível.</Entry>
@@ -352,7 +352,7 @@ vazia!&lt;wait&gt;</Entry>
   <Entry Index="180">&lt;playername&gt;... Perdoe-nos.&lt;wait&gt;</Entry>
   <Entry Index="181">Venha. &lt;playername&gt; é &lt;gender&gt;("um","uma") &lt;gender&gt;("fazendeiro","fazendeira") experiente.
 Não se preocupe. Ficará bem... Espero.&lt;wait&gt;</Entry>
-  <Entry Index="182">Pegue! É o melhor prato que ja fiz, se me permite
+  <Entry Index="182">Pegue! É o melhor prato que já fiz, se me permite
 dizer. Experimente!&lt;wait&gt;</Entry>
   <Entry Index="183">O que houve? Se você não se apressar, vai esfriar.&lt;wait&gt;</Entry>
   <Entry Index="184">AAAAH! &lt;playername&gt;, O que está acontecendo!?
@@ -780,7 +780,7 @@ Mas ele saiu depois de ouvir um simples boato!
 Nós nem sabemos se aquela maldita flor
 realmente existe!&lt;wait&gt;&lt;page&gt;
 ISSO É irresponsável! Agora, a melhor coisa que
-ele poderia estár fazendo era é estar aqui para
+ele poderia estar fazendo era estar aqui para
 dar apoio a mamãe!&lt;wait&gt;</Entry>
   <Entry Index="369">Ouça, querida. Popuri e Rick estão brigando por
 causa do meu marido.&lt;wait&gt;&lt;page&gt;
@@ -836,7 +836,7 @@ Não era minha intenção.&lt;wait&gt;</Entry>
   <Entry Index="393">Ufa. Finalmente pararam de discutir. Que alívio.&lt;wait&gt;</Entry>
   <Entry Index="394">Agora. Popuri. Rick. Parem de discutir sobre o seu
 pai. Não é culpa dele. Isso é tudo minha culpa por
-estár doente.&lt;wait&gt;</Entry>
+estar doente.&lt;wait&gt;</Entry>
   <Entry Index="395">Mamãe, não! Você não pode se culpar!&lt;wait&gt;</Entry>
   <Entry Index="396">Sim. Você não fez nada de errado, mãe. E ei... Olha.
 desculpa por ter chamado o papai de estúpido.&lt;wait&gt;</Entry>
@@ -1540,11 +1540,11 @@ você ainda usava fraldas...&lt;wait&gt;</Entry>
   <Entry Index="734">Não, não, foi uma piada. Mas o tempo voa
 não é mesmo?&lt;wait&gt;&lt;page&gt;
 Você encontra alguém que ama, e antes que você
-se de conta, já vai estár se casando.&lt;wait&gt;</Entry>
+se der conta, já vai estar se casando.&lt;wait&gt;</Entry>
   <Entry Index="735">Não, não, foi uma piada. Mas o tempo voa
 não é mesmo?&lt;wait&gt;&lt;page&gt;
 Você encontra alguém que ama, e antes que você
-se de conta, já vai estár se casando.&lt;wait&gt;</Entry>
+se der conta, já vai estar se casando.&lt;wait&gt;</Entry>
   <Entry Index="736">Sim, as crianças definitivamente crescem bem
 debaixo do seu nariz.&lt;wait&gt;&lt;page&gt;
 A única coisa que nós pais podemos fazer é tentar
@@ -1666,10 +1666,10 @@ naqueles com quem se importam.&lt;wait&gt;</Entry>
 Tem algo errado?&lt;wait&gt;</Entry>
   <Entry Index="790">Tudo bem, &lt;playername&gt;?
 Tem algo errado?&lt;wait&gt;</Entry>
-  <Entry Index="791">¿Eh? Has... ¿has venido a verme?&lt;wait&gt;&lt;page&gt;
-Ah, &lt;playername&gt;. Qué amable eres.&lt;wait&gt;&lt;page&gt;
-No tengo a nadie a quien atender, así que puedo quedarme
-a hablar un rato.&lt;wait&gt;</Entry>
+  <Entry Index="791">Uh? Você... você veio me ver?&lt;wait&gt;&lt;page&gt;
+Ah, &lt;playername&gt;. Que gentileza sua.&lt;wait&gt;&lt;page&gt;
+Não tenho ninguém para atender, então podemos
+conversar um pouco.&lt;wait&gt;</Entry>
   <Entry Index="792">Uh? Você... você veio me ver?&lt;wait&gt;&lt;page&gt;
 Ah, &lt;playername&gt;. Que gentileza sua.&lt;wait&gt;&lt;page&gt;
 Não tenho ninguém para atender, então podemos
@@ -1832,9 +1832,9 @@ comporte tão mal.&lt;wait&gt;&lt;page&gt;
 O que você acha, &lt;playername&gt;?&lt;wait&gt;
 Quero que diga a verdade.&lt;wait&gt;</Entry>
   <Entry Index="862">Ele está fora de controle.</Entry>
-  <Entry Index="863">Ser gentil também é valido.</Entry>
+  <Entry Index="863">Ser gentil também é válido.</Entry>
   <Entry Index="864">Achei que você diria isso. Se todo mundo
-pensa o mesmo, então eu devo realmente estár
+pensa o mesmo, então eu devo realmente estar
 mimando ele.&lt;wait&gt;&lt;page&gt;
 Ah... Perdi toda a confiança.&lt;wait&gt;</Entry>
   <Entry Index="865">Bem, vou indo.
@@ -2702,7 +2702,7 @@ sua jornada, e há receitas detalhadas para cada
 prato no final.&lt;wait&gt;</Entry>
   <Entry Index="1220">Uau! Parece muito bom!&lt;wait&gt;</Entry>
   <Entry Index="1221">Sim, é impressionante. E há bastante uso
-da liscença poética na própria narrativa, por isso
+da licença poética na própria narrativa, por isso
 também é uma leitura inspiradora.&lt;wait&gt;&lt;page&gt;
 Seu lema é "Consegue manter seus olhos na minha faca?"
 Quando sua lendária faca de cozinha pisca, o
@@ -3440,7 +3440,7 @@ quando crescesse, teria que ser uma linda jovem
 e uma boa esposa.&lt;wait&gt;</Entry>
   <Entry Index="1449">Cansei de ouvir isso, como você deve imaginar.&lt;wait&gt;</Entry>
   <Entry Index="1450">Estou ciente de que o dinheiro é necessário
-para viver neste mundo, e que estár desamparada
+para viver neste mundo, e que estar desamparada
 pode ter seus problemas.&lt;wait&gt;&lt;page&gt;
 Mas acho que nossa prioridade deve ser encontrar
 nosso próprio caminho para a felicidade, sem se
