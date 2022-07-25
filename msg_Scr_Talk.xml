@@ -253,20 +253,20 @@ esposo. ♪&lt;wait&gt;</Entry>
 fazer para ajudá-lo, diga-me.&lt;wait&gt;</Entry>
   <Entry Index="98">É óbvio, mas estou pensando que quando você está
 na fazenda, você está definitivamente no seu elemento.&lt;wait&gt;</Entry>
-  <Entry Index="99">Oh, olá, &lt;nickname&gt;. Você veio comprar?&lt;wait&gt;&lt;page&gt;
+  <Entry Index="99">Ah, olá, &lt;nickname&gt;. Você veio comprar?&lt;wait&gt;&lt;page&gt;
 Lembre-se que agora você tem mais duas pessoas ao seu lado.
 posição. Faça-o com calma, ok?&lt;wait&gt;</Entry>
   <Entry Index="100">Você acha que estou levando tudo muito a sério?
-essa coisa de pais? Oh. vou levar como um
+essa coisa de pais? Ah. vou levar como um
 elogio.</Entry>
   <Entry Index="101">Olá;nickname&gt;. Como vai isso?&lt;wait&gt;</Entry>
   <Entry Index="102">Oh, isso... Só parei para saber como
 estava &lt;childname&gt;, é por isso que eu vim. Você pode vir
 pai para fazer uma visita?&lt;wait&gt;</Entry>
-  <Entry Index="103">Oh, isso... Olá, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="103">Ah, isso... Olá, &lt;nickname&gt;.&lt;wait&gt;</Entry>
   <Entry Index="104">Você poderia me dar um tempo por um momento? estou
 pensando nas minhas coisas.&lt;wait&gt;</Entry>
-  <Entry Index="105">Oh. Olá, &lt;nickname&gt;. O que acontece?&lt;wait&gt;</Entry>
+  <Entry Index="105">Ah. Olá, &lt;nickname&gt;. O que acontece?&lt;wait&gt;</Entry>
   <Entry Index="106">se você não precisa de mim, você poderia me deixar em paz, por favor?&lt;wait&gt;</Entry>
   <Entry Index="107">Olá, que tal? Você vem ver como estão as galinhas?&lt;wait&gt;</Entry>
   <Entry Index="108">Ou você vem ver como eu estou? Eu estou bem. tudo vai
@@ -274,7 +274,7 @@ maravilhosamente.&lt;wait&gt;</Entry>
   <Entry Index="109">Olá, &lt;nickname&gt;. Como está a fazenda?&lt;wait&gt;</Entry>
   <Entry Index="110">Estou feliz que sua casa esteja tão perto da minha. Sim
 algo acontece, Eu posso estar lá em um segundo.&lt;wait&gt;</Entry>
-  <Entry Index="111">Oh, Olá, &lt;nickname&gt;. você veio me ver, Ei? Oh.
+  <Entry Index="111">Ah, Olá, &lt;nickname&gt;. você veio me ver, Ei? Oh.
 Sinta-se como se fosse sua própria casa.&lt;wait&gt;</Entry>
   <Entry Index="112">Ainda me faz corar que nos encontramos em outro lugar que não
 seja a casa.&lt;wait&gt;</Entry>
@@ -313,8 +313,8 @@ Popuri, sendo honesto.&lt;wait&gt;&lt;page&gt;
 Embora ela seja minha irmã, ela é muito rude comigo, sempre
 ela está me dizendo para calar a boca ou deixá-la em paz. Isso é
 muito triste.&lt;wait&gt;</Entry>
-  <Entry Index="129">Oh, Olá, &lt;playername&gt;. Como vai isso?&lt;wait&gt;</Entry>
-  <Entry Index="130">Oh, Olá, &lt;playername&gt;. Como vai isso?&lt;wait&gt;</Entry>
+  <Entry Index="129">Ah, Olá, &lt;playername&gt;. Como vai isso?&lt;wait&gt;</Entry>
+  <Entry Index="130">Ah, Olá, &lt;playername&gt;. Como vai isso?&lt;wait&gt;</Entry>
   <Entry Index="131">Nos vamos se casar, não? Não é uma brincadeira. Você e eu.
 Casados. ∀&lt;wait&gt;&lt;page&gt;
 Você vai usar um vestido de noiva e tudo mais. estou morrendo de vontade de ver
@@ -381,25 +381,25 @@ fazer algumas compras.&lt;wait&gt;</Entry>
 fazer algumas compras.&lt;wait&gt;</Entry>
   <Entry Index="161">Escute, de vez em quando eu gosto de relaxar e curtir
 meu tempo livre. Meu coração é jovem lá no fundo.&lt;wait&gt;</Entry>
-  <Entry Index="162">Oh, outra vez o verão voltou. Aquele canalha do Kai
+  <Entry Index="162">Ah, outra vez o verão voltou. Aquele canalha do Kai
 vai passar por aqui novamente e vai tentar se envolver com a
-Popuri. ¡Lo sé!&lt;wait&gt;</Entry>
-  <Entry Index="163">Sinceramente, Popuri é parcialmente culpada. ela dá a ele
-esperanças.&lt;wait&gt;&lt;page&gt;
+Popuri. Eu sei!&lt;wait&gt;</Entry>
+  <Entry Index="163">Sinceramente, Popuri é parcialmente culpada. ela dá esperanças
+a ele.&lt;wait&gt;&lt;page&gt;
 Ele é tão inocente que ela não percebe como ele não é confiável.
 aquele patife.&lt;wait&gt;</Entry>
-  <Entry Index="164">Ultimamente, Popuri só passa pela casa no verão.
+  <Entry Index="164">Ultimamente, Popuri só vem no verão para casa.
 Nunca pensei que ficaria tão animada com a chegada de uma
 estação.&lt;wait&gt;</Entry>
-  <Entry Index="165">Mamãe está mais do que feliz que Popuri está passando em
+  <Entry Index="165">Mamãe está muito feliz que Popuri está vindo em
 casa para nos visitar.&lt;wait&gt;&lt;page&gt;
 Eu gostaria de poder ficar o ano todo.&lt;wait&gt;</Entry>
   <Entry Index="166">Olá. Popuri parece muito feliz com sua nova vida. Nos envia
-cartas todas as semanas e passa a nos visitar no
+cartas todas as semanas e vem nos visitar no
 verão.&lt;wait&gt;</Entry>
   <Entry Index="167">Claro, a única coisa que ele fala em suas cartas é
 como vai a vida com aquele desonesto Kai.&lt;wait&gt;&lt;page&gt;
-E ele sempre vem com ela quando nos visita no verão. Por isso
+E ele sempre vem com ela quando nos visita no verão. Será
 que ninguém para para pensar no pobre Rick?&lt;wait&gt;</Entry>
   <Entry Index="168">Eu gosto de todos na cidade, exceto o Kai.
 não aguento esse vagabundo.&lt;wait&gt;&lt;page&gt;
@@ -407,7 +407,7 @@ Aparece como uma maré de verão, coloca a cidade de cabeça para baixo
 e desaparece quando você mais precisar.&lt;wait&gt;</Entry>
   <Entry Index="169">Mamãe e Popuri não têm nada de ruim a dizer sobre Kai...&lt;wait&gt;&lt;page&gt;
 mas eu não estou surpreso, parece que as mulheres
-caem a seus pés. É outra das coisas que não
+caem sobe seus pés. É outra das coisas que não
 gosto dele.&lt;wait&gt;</Entry>
   <Entry Index="170">Olá, que tal? Você vem visitar?&lt;wait&gt;</Entry>
   <Entry Index="171">Me relaxa muito passar o tempo no meu antigo quarto.
@@ -418,7 +418,7 @@ nostalgia.&lt;wait&gt;</Entry>
 tirar o dia de folga.&lt;wait&gt;&lt;page&gt;
 Elas ficam agachadas em seu galinheiro, descansando
 tranquilamente. Nenhuma delas tentam escapar.&lt;wait&gt;</Entry>
-  <Entry Index="174">Olá. O que te traz a esta hora?&lt;wait&gt;</Entry>
+  <Entry Index="174">Olá. O que te traz essa hora?&lt;wait&gt;</Entry>
   <Entry Index="175">Você não acha que deveria parar por hoje e ir para casa?&lt;wait&gt;&lt;page&gt;
 Você está sozinho cuidando do trabalho de
 uma fazenda inteira. Você deve descansar quando tiver
@@ -426,11 +426,11 @@ chance.&lt;wait&gt;</Entry>
   <Entry Index="176">Ah, Olá, &lt;playername&gt;. Como vai você? Eu? Não poderia
 estar melhor.&lt;wait&gt;</Entry>
   <Entry Index="177">É bom ter uma mudança de rotina de tempos em tempos. Pois se
-você apenas se concentrar no trabalho, você vai acabar se queimando.&lt;wait&gt;</Entry>
+você apenas se concentrar no trabalho, você vai acabar se esgotando.&lt;wait&gt;</Entry>
   <Entry Index="178">Ah, Olá, &lt;playername&gt;. Como vai você? Eu? Não poderia
 estar melhor.&lt;wait&gt;</Entry>
   <Entry Index="179">O bazar está fechado às terças-feiras, assim eu não tenho que
-sair correndo como frango sem... he, he, piada ruim.&lt;wait&gt;</Entry>
+sair correndo como galinha sem... he, he, piada ruim.&lt;wait&gt;</Entry>
   <Entry Index="180">Ah, Olá, &lt;playername&gt;. Você terminou com suas
 tarefas diárias? Que tal sairmos para beber?&lt;wait&gt;</Entry>
   <Entry Index="181">É muito difícil encontrar um tempo para sair
@@ -442,39 +442,39 @@ tarefas diárias?&lt;wait&gt;</Entry>
   <Entry Index="184">Aaah. ♪ Não há nada melhor do que tomar algo refrescante
 depois de um dia duro de trabalho.&lt;wait&gt;</Entry>
   <Entry Index="185">Hum? Ah, Olá, &lt;nickname&gt;. Você veio para
-verifique suas ferramentas? Yo también.&lt;wait&gt;</Entry>
-  <Entry Index="186">Son auténticos profesionales. Asegúrate de darles las
-gracias por el buen trabajo que hacen, ¿vale? Se lo
-merecen.&lt;wait&gt;</Entry>
-  <Entry Index="187">Todos los martes me paso por la herrería y le pido al
-señor Saibara que eche un vistazo mis herramientas.&lt;wait&gt;</Entry>
-  <Entry Index="188">Tienes un montón de herramientas en la granja, ¿verdad,
-&lt;playername&gt;? ¿El señor Saibara también se
-encarga del mantenimiento de tus herramientas?&lt;wait&gt;</Entry>
-  <Entry Index="189">Tienes un montón de herramientas en la granja, ¿verdad,
-&lt;playername&gt;? ¿El señor Saibara también se
-encarga del mantenimiento de tus herramientas?&lt;wait&gt;</Entry>
-  <Entry Index="190">Ya mismo es el Derbi de Primavera. ¡Todos los años estoy
-deseando que llegue!&lt;wait&gt;</Entry>
-  <Entry Index="191">Me pregunto quién ganará el Derbi de Primavera
-mañana... Estoy deseando averiguarlo.&lt;wait&gt;</Entry>
-  <Entry Index="192">¡Oye! ¿Vas a participar en los Duelos de Gallinas de este
-año?&lt;wait&gt;</Entry>
-  <Entry Index="193">Si participas en los Duelos de Gallinas, ¡créeme cuando te
-digo que armaré más follón animándote que un gallo
-cacareando por la mañana!&lt;wait&gt;</Entry>
-  <Entry Index="194">A propósito... ¿Vas a participar en el Festival de la Vaca?&lt;wait&gt;</Entry>
-  <Entry Index="195">¡Una vaca criada con cariño y amor seguro que te
-consigue una gran puntuación!&lt;wait&gt;</Entry>
-  <Entry Index="196">Ah, qué ganas de que sean los fuegos artificiales mañana.
-¿A quién no le gustan unos buenos fuegos artificiales?&lt;wait&gt;</Entry>
-  <Entry Index="197">Mañana es la Noche a la Luz de la Luna. Esperemos que
-el clima acompañe...&lt;wait&gt;</Entry>
-  <Entry Index="198">¿Vas a participar en el Derbi de Otoño?&lt;wait&gt;</Entry>
-  <Entry Index="199">El Derbi de Otoño es ya mañana...
-¡Me pregunto quién ganará!&lt;wait&gt;</Entry>
-  <Entry Index="200">¡Qué ganas de saber quién va a participar en el Festival
-de la Suavidad este año!&lt;wait&gt;</Entry>
+modificar suas ferramentas? Eu também.&lt;wait&gt;</Entry>
+  <Entry Index="186">São verdadeiros profissionais. Certifique-se de dar-lhes
+obrigado pelo bom trabalho que voce faz, ok? Se o
+merecer.&lt;wait&gt;</Entry>
+  <Entry Index="187">Todas as terças-feiras passo na ferraria e pergunto ao
+Sr. Saibara para dar uma olhada nas minhas ferramentas.&lt;wait&gt;</Entry>
+  <Entry Index="188">Você tem muitas ferramentas na fazenda, verdade,
+&lt;playername&gt;? O Sr. Saibara também faz
+manutenção em suas ferramentas?&lt;wait&gt;</Entry>
+  <Entry Index="189">Você tem muitas ferramentas na fazenda, verdade,
+&lt;playername&gt;? O Sr. Saibara também faz
+manutenção em suas ferramentas?&lt;wait&gt;</Entry>
+  <Entry Index="190">Agora mesmo é a Corrida de Primavera. Todo ano eu fico
+ancioso para que chegue logo!&lt;wait&gt;</Entry>
+  <Entry Index="191">Eu me pergunto quem vai ganhar a Corrida de Primavera
+amanhã... estou ansioso para descobrir.&lt;wait&gt;</Entry>
+  <Entry Index="192">Ouça! Você vai participar dos Duelos de Galinhas deste
+ano?&lt;wait&gt;</Entry>
+  <Entry Index="193">Se você participar dos Duelos de Galinhas, acredite em mim quando lhe
+digo que vou fazer mais bagunça te animando do que um galo
+cacarejando de manhã!&lt;wait&gt;</Entry>
+  <Entry Index="194">A propósito... Você vai participar do Festival da Vaca?&lt;wait&gt;</Entry>
+  <Entry Index="195">Uma vaca criada com carinho e amor certamente
+obterá uma grande pontuação!&lt;wait&gt;</Entry>
+  <Entry Index="196">Ah, Mal posso esperar para ver os fogos de artifício amanhã.
+Quem não gosta de uns bons fogos de artifício?&lt;wait&gt;</Entry>
+  <Entry Index="197">Amanhã é noite de luar. Esperamos que
+o clima acompanhe...&lt;wait&gt;</Entry>
+  <Entry Index="198">Você vai participar da Corrida de outono?&lt;wait&gt;</Entry>
+  <Entry Index="199">A Corrida de outono já é amanhã...
+Eu me pergunto quem vai ganhar!&lt;wait&gt;</Entry>
+  <Entry Index="200">Mal posso esperar para saber quem vai participar do Festival
+de Suavidade este ano!&lt;wait&gt;</Entry>
   <Entry Index="201">¡Si quieres ganar el Festival de la Suavidad, debes cuidar
 de tus peluditos para triunfar! Aunque supongo que eso se
 aplica a todos los animales, ¿no?&lt;wait&gt;</Entry>
