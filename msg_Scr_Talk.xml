@@ -8946,54 +8946,55 @@ suena haber oído hablar de él?&lt;wait&gt;</Entry>
 ¿Mmm? ¿Me lo regalas porque te regalé algo el pasado
 Día Blanco? Vaya. Debo decir que no tenía ninguna otra
 intención cuando te lo di.&lt;wait&gt;</Entry>
-  <Entry Index="3840">Gracias. Me gustan los dulces.&lt;wait&gt;&lt;page&gt;
-¿Mmm? ¿Me lo regalas porque te regalé algo el pasado
-Día Blanco? Vaya. Me había olvidado de este ritual por
-completo.&lt;wait&gt;</Entry>
-  <Entry Index="3841">¿Es el Día de San Valentín? Vaya. Qué sorpresa.&lt;wait&gt;&lt;page&gt;
-No, no. Si estás &lt;gender&gt;("seguro","segura") de querer dármelo, lo aceptaré.
-Gracias.&lt;wait&gt;</Entry>
-  <Entry Index="3842">¿Es el Día de San Valentín? Vaya. Qué sorpresa.&lt;wait&gt;&lt;page&gt;
-Así que sigue siendo un regalo aceptable incluso estando
-en una relación. Me gusta.&lt;wait&gt;</Entry>
-  <Entry Index="3843">Dicen que el cielo nocturno será especialmente bonito
-mañana. ¿Quieres que lo observemos juntos?&lt;wait&gt;</Entry>
-  <Entry Index="3844">Vaya. Perfecto. Ven antes de las 18:00 entonces. Te
-estaré esperando.&lt;wait&gt;</Entry>
-  <Entry Index="3845">Vaya. Una pena.&lt;wait&gt;</Entry>
-  <Entry Index="3846">Mmm. Buenos días.
-Tengo la mente nublada todavía.&lt;wait&gt;</Entry>
-  <Entry Index="3847">Vivir en una granja implica levantarse antes de lo que
-estoy acostumbrado.
-Necesitaré tiempo para acostumbrarme.&lt;wait&gt;</Entry>
-  <Entry Index="3848">Es raro. Simplemente estando aquí, siento que quiero
-tomarme el día con más calma.&lt;wait&gt;</Entry>
-  <Entry Index="3849">Veo que el trabajo en la granja te mantiene &lt;gender&gt;("ocupado","ocupada").&lt;wait&gt;</Entry>
-  <Entry Index="3850">Te sugiero que priorices un buen descanso. Te agotas
-demasiado cuando te dedicas a tus tareas diarias.&lt;wait&gt;</Entry>
-  <Entry Index="3851">La oscuridad trae su propia inspiración. Así podrá
-prosperar, con la tranquilidad de este pueblo.&lt;wait&gt;</Entry>
-  <Entry Index="3852">Buenos días, &lt;nickname&gt;. Creo que las primeras
-horas de la mañana en una granja son muy agradables.&lt;wait&gt;</Entry>
-  <Entry Index="3853">Últimamente veo que mi espíritu creativo está
-completamente activo, hasta en las primeras horas de la
-mañana.&lt;wait&gt;</Entry>
-  <Entry Index="3854">Si estás &lt;gender&gt;("cansado","cansada"), haz una pausa.&lt;wait&gt;</Entry>
-  <Entry Index="3855">Hay tantas cosas fascinantes que observar aquí que no
-veo probable que me vaya a aburrir.&lt;wait&gt;</Entry>
-  <Entry Index="3856">¿Por qué no lo dejas por hoy?&lt;wait&gt;</Entry>
-  <Entry Index="3857">No te preocupes por mí.
-Si quieres descansar, adelante.&lt;wait&gt;</Entry>
-  <Entry Index="3858">Buenos días, &lt;nickname&gt;. He estado aquí lo
-suficiente como para sentirme en armonía con los ritmos
-naturales de la tierra.&lt;wait&gt;</Entry>
-  <Entry Index="3859">Creo que todo el tiempo que he pasado contigo ha
-marcado un cambio en mi estilo artístico,
+  <Entry Index="3840">Obrigado. Eu gosto de doces.&lt;wait&gt;&lt;page&gt;
+Hum? Você está me dando porque eu te dei algo
+no último Dia Branco? Oh. Eu tinha me esquecido
+completamente desse costume.&lt;wait&gt;</Entry>
+  <Entry Index="3841">É Dia dos Namorados? Nossa. Que surpresa.&lt;wait&gt;&lt;page&gt;
+Não, não. Se você tem &lt;gender&gt;("certeza","certeza") que quer me dar,
+eu vou aceitar. Obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="3842">É Dia dos Namorados? Nossa. Que surpresa.&lt;wait&gt;&lt;page&gt;
+Portanto, ainda é um presente aceitável, mesmo
+quando você está em um relacionamento. Gostei.&lt;wait&gt;</Entry>
+  <Entry Index="3843">Dizem que o céu noturno estará especialmente
+bonito amanhã. Vamos observá-lo juntos?&lt;wait&gt;</Entry>
+  <Entry Index="3844">Nossa. Perfeito. Venha antes das 18:00 então.
+Estarei esperando por você.&lt;wait&gt;</Entry>
+    <Entry Index="3845">Nossa. É uma pena.&lt;wait&gt;</Entry>
+  <Entry Index="3846">Mmm. Bom dia.
+Minha mente ainda está nublada.&lt;wait&gt;</Entry>
+  <Entry Index="3847">Morar em uma fazenda significa acordar mais cedo
+do que estou acostumado. Vou precisar de
+tempo para me acostumar.&lt;wait&gt;</Entry>
+  <Entry Index="3848">É estranho. Só de estar aqui, sinto que
+quero relaxar no dia.&lt;wait&gt;</Entry>
+  <Entry Index="3849">Vejo que o trabalho na fazenda mantém você
+&lt;gender&gt;("ocupado","ocupada").&lt;wait&gt;</Entry>
+  <Entry Index="3850">Sugiro que priorize um bom descanso. Você fica muito
+exausto quando realiza suas tarefas diárias.&lt;wait&gt;</Entry>
+  <Entry Index="3851">A escuridão traz sua própria inspiração. Assim você
+pode prosperar, com a tranquilidade desta cidade.&lt;wait&gt;</Entry>
+  <Entry Index="3852">Bom dia, &lt;nickname&gt;. Acho que as manhãs
+cedo em uma fazenda são muito agradáveis.&lt;wait&gt;</Entry>
+  <Entry Index="3853">Ultimamente, vejo que meu espírito criativo está
+totalmente ativo, mesmo nas primeiras horas
+da manhã.&lt;wait&gt;</Entry>
+  <Entry Index="3854">Se você estiver &lt;gender&gt;("cansado","cansada"), faça uma pausa.&lt;wait&gt;</Entry>
+  <Entry Index="3855">Há tantas coisas fascinantes para ver aqui que
+não vou ficar entediado.&lt;wait&gt;</Entry>
+  <Entry Index="3856">Por que você não deixa para hoje?&lt;wait&gt;</Entry>
+  <Entry Index="3857">Não se preocupe comigo.
+Se quiser descansar, vá em frente.&lt;wait&gt;</Entry>
+  <Entry Index="3858">Bom dia, &lt;nickname&gt;. Estou aqui há tempo
+suficiente para me sentir em harmonia com
+os ritmos naturais da terra.&lt;wait&gt;</Entry>
+  <Entry Index="3859">Acho que todo o tempo que passei com você
+marcou uma mudança no meu estilo artístico,
 &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="3860">Es raro, la verdad. No sabría decirte cómo, pero el
-matrimonio ha cambiado mi forma de ver el mundo.&lt;wait&gt;</Entry>
-  <Entry Index="3861">Es raro, la verdad. No sabría decirte cómo, pero el
-matrimonio ha cambiado mi forma de ver el mundo.&lt;wait&gt;</Entry>
+  <Entry Index="3860">É estranho, realmente. Não sei dizer como, mas o
+casamento mudou a maneira como vejo o mundo.&lt;wait&gt;</Entry>
+  <Entry Index="3861">É estranho, realmente. Não sei dizer como, mas o
+casamento mudou a maneira como vejo o mundo.&lt;wait&gt;</Entry>
   <Entry Index="3862">&lt;nickname&gt;, estou começando a sentir sua presença no
 meu processo criativo. Acho que essa peça pode
 ser uma das melhores que já fiz.&lt;wait&gt;</Entry>
