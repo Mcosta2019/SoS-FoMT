@@ -8897,55 +8897,57 @@ gente dice, que la &lt;gender&gt;("paternidad","maternidad") te cambia.&lt;wait&
 expresar con una claridad envidiable.&lt;wait&gt;</Entry>
   <Entry Index="3814">Hola.&lt;wait&gt;</Entry>
   <Entry Index="3815">¿Qué pasa?&lt;wait&gt;</Entry>
-  <Entry Index="3816">Ah... &lt;playername&gt;, ¿no? ¿Qué necesitas de mí?&lt;wait&gt;</Entry>
-  <Entry Index="3817">De vez en cuando paseo por aquí en busca de inspiración y
-materiales.&lt;wait&gt;</Entry>
-  <Entry Index="3818">La imaginación es una herramienta esencial para los
-artistas. La cuido y la desarrollo con interacciones
-sociales y naturales.&lt;wait&gt;</Entry>
-  <Entry Index="3819">Hablar contigo es tan revitalizante, &lt;playername&gt;.
-Estimulas mi imaginación.&lt;wait&gt;</Entry>
-  <Entry Index="3820">¿Mmm? ¿Y tú eres?&lt;wait&gt;&lt;page&gt;
-¿&lt;playername&gt;? Ya veo.
-Yo soy Brandon. El placer es mío.&lt;wait&gt;</Entry>
-  <Entry Index="3821">Gracias. Parece útil.&lt;wait&gt;</Entry>
-  <Entry Index="3822">Gracias, &lt;playername&gt;. Me sorprende que conozcas
-mis preferencias.&lt;wait&gt;</Entry>
-  <Entry Index="3823">¿Para mí? Gracias.&lt;wait&gt;</Entry>
-  <Entry Index="3824">Gracias.&lt;wait&gt;</Entry>
+  <Entry Index="3816">Ah... &lt;playername&gt;, certo? O que você precisa de mim?&lt;wait&gt;</Entry>
+  <Entry Index="3817">De vez em quando eu ando aqui procurando inspiração
+e materiais&lt;wait&gt;</Entry>
+  <Entry Index="3818">A imaginação é uma ferramenta essencial para
+os artistas. Eu cuido dela e a desenvolvo com
+interações sociais e naturais.&lt;wait&gt;</Entry>
+  <Entry Index="3819">Falar com você é tão revigorante, &lt;playername&gt;.
+Estimula minha imaginação.&lt;wait&gt;</Entry>
+  <Entry Index="3820">Hmm? E você?&lt;wait&gt;&lt;page&gt;
+&lt;playername&gt;? Entendo.
+Eu sou Brandon. O prazer é meu.&lt;wait&gt;</Entry>
+  <Entry Index="3821">Obrigado. Parece útil.&lt;wait&gt;</Entry>
+  <Entry Index="3822">Obrigado, &lt;playername&gt;. Estou surpreso que
+você conheça minhas preferências.&lt;wait&gt;</Entry>
+  <Entry Index="3823">Para mim? Obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="3824">Obrigado.&lt;wait&gt;</Entry>
   <Entry Index="3825">...&lt;wait&gt;</Entry>
-  <Entry Index="3826">¿Qué es esto? No lo necesito.
-Llévatelo de aquí, por favor.&lt;wait&gt;</Entry>
-  <Entry Index="3827">Vaya. Gracias. Ahora que lo pienso, hoy es mi cumpleaños,
-¿no? Me había olvidado por completo.&lt;wait&gt;</Entry>
-  <Entry Index="3828">Sí. Una monada.&lt;wait&gt;</Entry>
-  <Entry Index="3829">No me interesa.&lt;wait&gt;</Entry>
-  <Entry Index="3830">En principio, aprecio todas las cosas bellas... ¿Crees que
-me queda bien?&lt;wait&gt;</Entry>
-  <Entry Index="3831">No me interesan las cosas así, pero ya que es un regalo
-tuyo, lo aceptaré.&lt;wait&gt;</Entry>
-  <Entry Index="3832">Mmm. Qué aroma tan agradable.
-Tienes un gusto sorprendentemente refinado.&lt;wait&gt;</Entry>
-  <Entry Index="3833">¿&lt;playername&gt;? ¿Qué? ¿Una flor preservada?
-No, me lo puedo imaginar.&lt;wait&gt;&lt;page&gt;
-No podemos hablar en privado aquí.
-Vayamos a tu casa.&lt;wait&gt;</Entry>
-  <Entry Index="3834">Me he enterado de que este es el objeto que se presenta
-al confesar un interés romántico.&lt;wait&gt;&lt;page&gt;
-Vaya. Si me lo presentas a mí, lo siento. No estoy
-interesado.&lt;wait&gt;</Entry>
-  <Entry Index="3835">¡Oh...! ¡Eso es...!&lt;wait&gt;&lt;page&gt;
-Vayamos a un sitio en el que podamos hablar en privado.
-Tu casa parece un buen lugar.&lt;wait&gt;</Entry>
-  <Entry Index="3836">Creo que es demasiado pronto para nosotros. No tenemos
-prisa. Tomémonos nuestro tiempo.&lt;wait&gt;</Entry>
-  <Entry Index="3837">Me gustaría visitar alguna vez el Valle Olvidado. ¿Te
-suena haber oído hablar de él?&lt;wait&gt;</Entry>
-  <Entry Index="3838">Gracias. Me gustan los dulces.&lt;wait&gt;</Entry>
-  <Entry Index="3839">Gracias. Me gustan los dulces.&lt;wait&gt;&lt;page&gt;
-¿Mmm? ¿Me lo regalas porque te regalé algo el pasado
-Día Blanco? Vaya. Debo decir que no tenía ninguna otra
-intención cuando te lo di.&lt;wait&gt;</Entry>
+  <Entry Index="3826">O que é isso? Não preciso.
+Tire daqui, por favor.&lt;wait&gt;</Entry>
+  <Entry Index="3827">Nossa. Obrigado. Agora que parei para pensar sobre,
+hoje é meu aniversário, certo? Eu tinha
+esquecido completamente.&lt;wait&gt;</Entry>
+  <Entry Index="3828">Sim. Uma gracinha.&lt;wait&gt;</Entry>
+  <Entry Index="3829">Não estou interessado.&lt;wait&gt;</Entry>
+  <Entry Index="3830">A princípio, aprecio todas as coisas bonitas...
+Você acha que combina comigo?&lt;wait&gt;</Entry>
+  <Entry Index="3831">Não estou interessado em coisas assim, mas como é
+um presente seu, eu aceito.&lt;wait&gt;</Entry>
+  <Entry Index="3832">Hmm. Que cheiro bom.
+Você tem um gosto surpreendentemente refinado.&lt;wait&gt;</Entry>
+  <Entry Index="3833">&lt;playername&gt;? O que? Uma flor preservada?
+Não, posso imaginar.&lt;wait&gt;&lt;page&gt;
+Não teremos privacidade aqui.
+Vamos para sua casa.&lt;wait&gt;</Entry>
+  <Entry Index="3834">Ouvi dizer que este é o item entregado ao
+confessar um interesse romântico.&lt;wait&gt;&lt;page&gt;
+Nossa. Você quer entregá-la para mim, sinto muito.
+Não estou interessado.&lt;wait&gt;</Entry>
+  <Entry Index="3835">Ah...! Isso é...!&lt;wait&gt;&lt;page&gt;
+Vamos para algum lugar onde possamos conversar
+em particular. Sua casa parece
+um bom lugar.&lt;wait&gt;</Entry>
+  <Entry Index="3836">Acho que é muito cedo para nós. Sem pressa.
+Vamos com calma.&lt;wait&gt;</Entry>
+  <Entry Index="3837">Gostaria de visitar o Vale Esquecido algum dia.
+Você já ouviu falar?&lt;wait&gt;</Entry>
+  <Entry Index="3838">Obrigado. Eu gosto de doces.&lt;wait&gt;</Entry>
+  <Entry Index="3839">Obrigado. Eu gosto de doces.&lt;wait&gt;&lt;page&gt;
+Hum? Está me dando porque eu lhe dei algo no
+último Dia Branco? Nossa. Preciso dizer que não
+tinha outras intenções quando entreguei a você.&lt;wait&gt;</Entry>
   <Entry Index="3840">Obrigado. Eu gosto de doces.&lt;wait&gt;&lt;page&gt;
 Hum? Você está me dando porque eu te dei algo
 no último Dia Branco? Oh. Eu tinha me esquecido
