@@ -8847,56 +8847,59 @@ nada? Gracias. ∀&lt;wait&gt;</Entry>
 Ahora mismo estoy ocupado.&lt;wait&gt;</Entry>
   <Entry Index="3793">Aunque no esté haciendo nada físicamente, te aseguro
 que mi mente está muy ocupada concibiendo nuevas ideas.&lt;wait&gt;</Entry>
-  <Entry Index="3794">Siéntate y obsérvame.&lt;wait&gt;&lt;page&gt;
-Notas algo, ¿verdad?&lt;wait&gt;</Entry>
-  <Entry Index="3795">Ver un objeto no es simplemente observar su fachada. Es
-ser testigo de su verdad con tu mente.&lt;wait&gt;</Entry>
-  <Entry Index="3796">¿Disfrutas hablando conmigo?&lt;wait&gt;&lt;page&gt;
-La mayoría de personas evita hablar conmigo todo lo
-posible.&lt;wait&gt;</Entry>
-  <Entry Index="3797">Expresarme con palabras no es mi fuerte. Si quieres
-conocerme, te sugiero que observes mi arte.&lt;wait&gt;</Entry>
-  <Entry Index="3798">No soy el mejor en charlas banales, pero siéntete como si
-estuvieras en tu propia casa.&lt;wait&gt;</Entry>
-  <Entry Index="3799">Es raro, &lt;playername&gt;, pero cuando estás aquí
-conmigo, me siento como si mi imaginación tomase vuelo
-hacia alturas desconocidas.&lt;wait&gt; </Entry>
-  <Entry Index="3800">Oh. &lt;playername&gt;. Si me permites decir algo
-bastante directo...&lt;wait&gt;&lt;page&gt;
-Tienes un rostro bastante atractivo. Es una recreación
-estéticamente fiel de tu belleza interior.&lt;wait&gt;</Entry>
-  <Entry Index="3801">Silencio, por favor. Me gustaría observar tu rostro con
-mayor detalle.&lt;wait&gt;&lt;page&gt;
-El cosquilleo de la inspiración se asoma a mi mente.&lt;wait&gt;</Entry>
-  <Entry Index="3802">Cuando ves un objeto con tus ojos, al principio no es más
-que un conjunto de formas y líneas.&lt;wait&gt;&lt;page&gt;
-Conforme vas más allá de esa fachada y descubres su
-verdadera forma interior, tu camino para expresar dicha
-forma se vuelve claro.&lt;wait&gt;</Entry>
-  <Entry Index="3803">"Una imagen vale más que mil palabras". Para entender
-esa oración por completo, sigue haciendo falta utilizar la
-lengua y los ojos.&lt;wait&gt;&lt;page&gt;
-Observa la obra. Siéntela.
-Siéntela con tu cuerpo y tu alma.&lt;wait&gt;</Entry>
-  <Entry Index="3804">Casi...&lt;wait&gt;</Entry>
-  <Entry Index="3805">Incluso estando casados, creo que deberíamos seguir con
-nuestros asuntos libremente, y ayudarnos siempre que lo
-necesitemos.&lt;wait&gt;</Entry>
-  <Entry Index="3806">Dicen que te has casado.
-¿Va todo bien?&lt;wait&gt;</Entry>
-  <Entry Index="3807">Yo estoy igual que siempre.&lt;wait&gt;</Entry>
-  <Entry Index="3808">Oh. &lt;playername&gt;. ¿Qué tal la vida de &lt;gender&gt;("casado","casada")?&lt;wait&gt;</Entry>
-  <Entry Index="3809">Puede que tenga que irme para inspirarme.&lt;wait&gt;</Entry>
-  <Entry Index="3810">Dicen que has sido &lt;gender&gt;("padre","madre").
-Tiene que ser mucho trabajo, la verdad.&lt;wait&gt;</Entry>
-  <Entry Index="3811">Crear y cuidar de una familia son ideas muy alejadas de
-mi escaso talento artístico.&lt;wait&gt;</Entry>
-  <Entry Index="3812">Tienes buena cara hoy. Supongo que es cierto lo que la
-gente dice, que la &lt;gender&gt;("paternidad","maternidad") te cambia.&lt;wait&gt;</Entry>
-  <Entry Index="3813">Los críos son genios. Ven las cosas como son y se pueden
-expresar con una claridad envidiable.&lt;wait&gt;</Entry>
-  <Entry Index="3814">Hola.&lt;wait&gt;</Entry>
-  <Entry Index="3815">¿Qué pasa?&lt;wait&gt;</Entry>
+  <Entry Index="3794">sente-se e observe-me.&lt;wait&gt;&lt;page&gt;
+Percebeu algo, certo?&lt;wait&gt;</Entry>
+  <Entry Index="3795">Ver um objeto não é simplesmente olhar para sua
+fachada. Está testemunhando sua verdade
+com sua mente.&lt;wait&gt;</Entry>
+  <Entry Index="3796">Você gosta de conversar comigo?&lt;wait&gt;&lt;page&gt;
+A maioria das pessoas evita ao máximo
+falar comigo.&lt;wait&gt;</Entry>
+  <Entry Index="3797">Expressar-me com palavras não é o meu forte. Se você
+quiser me conhecer, sugiro que dê uma olhada
+na minha arte.&lt;wait&gt;</Entry>
+  <Entry Index="3798">Não sou o melhor em conversa fiada,
+mas sinta-se em casa.&lt;wait&gt;</Entry>
+  <Entry Index="3799">É estranho, &lt;playername&gt;, mas quando você está
+aqui comigo, sinto que minha imaginação voa
+para alturas desconhecidas.&lt;wait&gt; </Entry>
+  <Entry Index="3800">Oh. &lt;playername&gt;. Se me permite dizer
+algo bem direto...&lt;wait&gt;&lt;page&gt;
+Você tem um rosto bastante atraente. É uma recriação
+esteticamente fiel da sua beleza interior.&lt;wait&gt;</Entry>
+  <Entry Index="3801">Silêncio, por favor. Gostaria de observar seu
+rosto com mais detalhes.&lt;wait&gt;&lt;page&gt;
+A inspiração vibra em minha mente.&lt;wait&gt;</Entry>
+  <Entry Index="3802">Quando você vê um objeto com seus olhos, a princípio
+ele não passa de uma coleção de formas e linhas.&lt;wait&gt;&lt;page&gt;
+À medida que você vai além dessa fachada e descobre
+sua verdadeira forma interna, seu caminho para
+expressar essa forma se torna claro.&lt;wait&gt;</Entry>
+  <Entry Index="3803">"Uma imagem vale mais que mil palavras." Para entender
+completamente essa frase, você ainda precisa
+usar a língua e os olhos.&lt;wait&gt;&lt;page&gt;
+Observe a obra. sinta.
+Sinta-a com seu corpo e alma.&lt;wait&gt;</Entry>
+  <Entry Index="3804">Quase...&lt;wait&gt;</Entry>
+  <Entry Index="3805">Mesmo se formos casados, acho que devemos fazer
+nossos negócios livremente e ajudar um ao outro
+sempre que precisarmos.&lt;wait&gt;</Entry>
+  <Entry Index="3806">Dizem que você se casou.
+Está tudo bem?&lt;wait&gt;</Entry>
+  <Entry Index="3807">Sou o mesmo de sempre.&lt;wait&gt;</Entry>
+  <Entry Index="3808">Oh. &lt;playername&gt;. Como está a vida de &lt;gender&gt;("casado","casada")?&lt;wait&gt;</Entry>
+  <Entry Index="3809">Talvez eu precise buscar inspiração.&lt;wait&gt;</Entry>
+  <Entry Index="3810">Dizem que você virou &lt;gender&gt;("pai","mãe").
+Deve dar muito trabalho, com certeza.&lt;wait&gt;</Entry>
+  <Entry Index="3811">Criar e cuidar de uma família são ideias muito
+distantes do meu escasso talento artístico.&lt;wait&gt;</Entry>
+  <Entry Index="3812">Você parece bem hoje. Acho que é verdade o que
+as pessoas dizem, que a &lt;gender&gt;("paternidade","maternidade") muda você.&lt;wait&gt;</Entry>
+  <Entry Index="3813">As crianças são geniais. Elas vêem as coisas
+como elas são e podem se expressar com
+uma clareza invejável.&lt;wait&gt;</Entry>
+  <Entry Index="3814">Olá.&lt;wait&gt;</Entry>
+  <Entry Index="3815">Tudo bem?&lt;wait&gt;</Entry>
   <Entry Index="3816">Ah... &lt;playername&gt;, certo? O que você precisa de mim?&lt;wait&gt;</Entry>
   <Entry Index="3817">De vez em quando eu ando aqui procurando inspiração
 e materiais&lt;wait&gt;</Entry>
