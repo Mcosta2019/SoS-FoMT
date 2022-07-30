@@ -8786,58 +8786,62 @@ esplendoroso.&lt;wait&gt;</Entry>
 esplendoroso.&lt;wait&gt;</Entry>
   <Entry Index="3772">Gracias. ∀&lt;wait&gt;</Entry>
   <Entry Index="3773">Gracias. ∀&lt;wait&gt;</Entry>
-  <Entry Index="3774">¿Es para mí? Bueno, es un regalo de tu parte,
-&lt;nickname&gt;. Y cuando se regala algo, lo que
-importa es la intención.&lt;wait&gt;</Entry>
-  <Entry Index="3775">Ojalá no me hubieses puesto en esta situación,
-&lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
-Si insistes, supongo que tendré lo aceptaré. Pero no lo
-vuelvas a hacer, por favor.&lt;wait&gt;</Entry>
-  <Entry Index="3776">¡Por las estrellas del cielo y la tierra que pisamos! ¡Te
-has acordado de mi cumpleaños, &lt;nickname&gt;!
-Vaya, gracias.&lt;wait&gt;</Entry>
-  <Entry Index="3777">¡Por las estrellas del cielo y la tierra que pisamos! ¡Te
-has acordado de mi cumpleaños, &lt;nickname&gt;!
-Vaya, gracias.&lt;wait&gt;</Entry>
-  <Entry Index="3778">¡Anda! Qué carita más adorable.
-Me recuerda a ti, &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="3779">Soy consciente de su papel en el ciclo de la madre
-naturaleza... pero no me gustan nada de nada. Lo siento.&lt;wait&gt;</Entry>
-  <Entry Index="3780">No suelo arreglarme con bisutería, pero como me lo
-regalas
-tú, &lt;nickname&gt;... Gracias.&lt;wait&gt;</Entry>
-  <Entry Index="3781">No necesito algo así, pero como me lo has regalado tú, lo
-cuidaré bien. ∀&lt;wait&gt;</Entry>
-  <Entry Index="3782">No necesito algo así, pero como me lo has regalado tú, lo
-cuidaré bien. ∀&lt;wait&gt;</Entry>
-  <Entry Index="3783">¿Qué? ¿Un regalo de cumpleaños para mí?
-¡Te has acordado! ∀&lt;wait&gt;&lt;page&gt;
-No diría que yo misma lo escogería, pero nunca podría
-rechazar nada que me regalases. Gracias. ∀&lt;wait&gt;</Entry>
-  <Entry Index="3784">¿Qué? ¿Un regalo de cumpleaños para mí?
-¡Te has acordado! ∀&lt;wait&gt;&lt;page&gt;
-No diría que yo misma lo escogería, pero nunca podría
-rechazar nada que me regalases. Gracias. ∀&lt;wait&gt;</Entry>
-  <Entry Index="3785">No necesito nada como esto... Al menos no ahora. Puede
-que me plantee probarlo en el futuro.&lt;wait&gt;</Entry>
-  <Entry Index="3786">Ah, es verdad. Hoy es el Día Blanco, ¿no? Es adorable que
-me des esto hasta cuando estamos &lt;gender&gt;("casados","casadas"). ∀&lt;wait&gt;</Entry>
-  <Entry Index="3787">Ah, es verdad. Hoy es el Día Blanco, ¿no? Es adorable que
-me des esto hasta cuando estamos &lt;gender&gt;("casados","casadas"). ∀&lt;wait&gt;</Entry>
-  <Entry Index="3788">¡Ah! Hoy es el Día de San Valentín, ¿verdad?&lt;wait&gt;&lt;page&gt;
-Debería haber preparado bombones para ti también.
-¿Seguro que te parece bien que no te haya regalado
-nada? Gracias. ∀&lt;wait&gt;</Entry>
-  <Entry Index="3789">¡Ah! Hoy es el Día de San Valentín, ¿verdad?&lt;wait&gt;&lt;page&gt;
-Debería haber preparado bombones para ti también.
-¿Seguro que te parece bien que no te haya regalado
-nada? Gracias. ∀&lt;wait&gt;</Entry>
-  <Entry Index="3790">¿Qué necesitas?&lt;wait&gt;</Entry>
-  <Entry Index="3791">Si no necesitas nada de mí, vete.&lt;wait&gt;</Entry>
+  <Entry Index="3774">É para mim? Bem, é um presente seu,
+&lt;nickname&gt;. E quando algo é dado, o que
+o que importa é a intenção.&lt;wait&gt;</Entry>
+  <Entry Index="3775">Gostaria que você não tivesse me colocado
+nessa situação, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
+Se insiste, acho que terei de aceitar.
+Mas não faça isso de novo, por favor.&lt;wait&gt;</Entry>
+  <Entry Index="3776">Pelas estrelas no céu e a terra que caminhamos!
+Você se lembrou do meu aniversário, &lt;nickname&gt;!
+Nossa, obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="3777">Pelas estrelas no céu e a terra que caminhamos!
+Você se lembrou do meu aniversário, &lt;nickname&gt;!
+Nossa, obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="3778">Vamos! Que rostinho adorável.
+Me lembra você, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="3779">Estou ciente do seu papel no ciclo da mãe natureza...
+mas não gosto nada disso. Desculpe.&lt;wait&gt;</Entry>
+  <Entry Index="3780">Eu não costumo usar joias, mas já que você me deu,
+&lt;apelido&gt;... Obrigado. &lt;nickname&gt;... Gracias.&lt;wait&gt;</Entry>
+  <Entry Index="3781">Não preciso de algo assim, mas já que você me deu,
+vou cuidar bem. ∀&lt;wait&gt;</Entry>
+  <Entry Index="3782">Não preciso de algo assim, mas já que você me deu,
+vou cuidar bem. ∀&lt;wait&gt;</Entry>
+  <Entry Index="3783">O quê? Um presente de aniversário para mim?
+Você se lembrou! ∀&lt;wait&gt;&lt;page&gt;
+Eu não diria que é algo que eu mesma escolheria,
+mas jamais recusaria qualquer coisa que você me
+desse. Obrigado. ∀&lt;wait&gt;</Entry>
+  <Entry Index="3784">O quê? Um presente de aniversário para mim?
+Você se lembrou! ∀&lt;wait&gt;&lt;page&gt;
+Eu não diria que é algo que eu mesma escolheria,
+mas jamais recusaria qualquer coisa que você me
+desse. Obrigado. ∀&lt;wait&gt;</Entry>
+  <Entry Index="3785">Não preciso de nada assim... Pelo menos
+não agora. Talvez no futuro.&lt;wait&gt;</Entry>
+  <Entry Index="3786">Ah, isso mesmo. Hoje é Dia Branco, certo?
+É adorável que você me dê isso mesmo
+quando somos &lt;gender&gt;("casados","casadas"). ∀&lt;wait&gt;</Entry>
+  <Entry Index="3787">Ah, isso mesmo. Hoje é Dia Branco, certo?
+É adorável que você me dê isso mesmo
+quando somos &lt;gender&gt;("casados","casadas"). ∀&lt;wait&gt;</Entry>
+  <Entry Index="3788">Ah! Hoje é Dia dos Namorados, certo?&lt;wait&gt;&lt;page&gt;
+Eu deveria ter preparado chocolates para você
+também. Tem certeza de que está tudo bem eu
+não te dar nada? Obrigado. ∀&lt;wait&gt;</Entry>
+  <Entry Index="3789">Ah! Hoje é Dia dos Namorados, certo?&lt;wait&gt;&lt;page&gt;
+Eu deveria ter preparado chocolates para você
+também. Tem certeza de que está tudo bem eu
+não te dar nada? Obrigado. ∀&lt;wait&gt;</Entry>
+  <Entry Index="3790">Do que você precisa?&lt;wait&gt;</Entry>
+  <Entry Index="3791">Se não precisa de nada, vá embora.&lt;wait&gt;</Entry>
   <Entry Index="3792">Oh. &lt;playername&gt;.
-Ahora mismo estoy ocupado.&lt;wait&gt;</Entry>
-  <Entry Index="3793">Aunque no esté haciendo nada físicamente, te aseguro
-que mi mente está muy ocupada concibiendo nuevas ideas.&lt;wait&gt;</Entry>
+Estou ocupado agora.&lt;wait&gt;</Entry>
+  <Entry Index="3793">Mesmo que eu não esteja fazendo nada fisicamente,
+garanto que minha mente está ocupada
+com novas ideias.&lt;wait&gt;</Entry>
   <Entry Index="3794">sente-se e observe-me.&lt;wait&gt;&lt;page&gt;
 Percebeu algo, certo?&lt;wait&gt;</Entry>
   <Entry Index="3795">Ver um objeto não é simplesmente olhar para sua
