@@ -464,52 +464,52 @@ o tempo ajude...&lt;wait&gt;</Entry>
 Eu me pergunto quem vai ganhar!&lt;wait&gt;</Entry>
   <Entry Index="200">Mal posso esperar para saber quem vai participar do Festival
 de Música esse ano!&lt;wait&gt;</Entry>
-  <Entry Index="201">¡Si quieres ganar el Festival de la Suavidad, debes cuidar
-de tus peluditos para triunfar! Aunque supongo que eso se
-aplica a todos los animales, ¿no?&lt;wait&gt;</Entry>
-  <Entry Index="202">¿Eh? Creo que no nos conocemos todavía.
-Bueno, ¡hola! ¡Soy Popuri! ¿Cómo te llamas?&lt;wait&gt;&lt;page&gt;
-Oh, ¿&lt;playername&gt;, eh? Es un placer conocerte.&lt;wait&gt;</Entry>
-  <Entry Index="203">Oh, ¡guau! ¿Es un regalo de cumpleaños para mí? ¡Guau!
-¡Muchas gracias, &lt;nickname&gt;! ∀&lt;wait&gt;</Entry>
-  <Entry Index="204">Oh, ¡guau! ¿Esto es para mí? ¿Sabías que hoy era mi
-cumpleaños?
-¡Muchas gracias! ¡Eres de lo mejor que hay! ∀&lt;wait&gt;</Entry>
-  <Entry Index="205">¿Quééé? ¿E-esto es mi regalo de cumpleaños? ¡Guau,
-nunca pensé que alguien me regalaría algo tan bonito!&lt;wait&gt;&lt;page&gt;
-¡Muchas gracias! Lo cuidaré muy bien.&lt;wait&gt;</Entry>
-  <Entry Index="206">Oh, ¡guau! ¡Gracias! ¿Sabías que hoy era mi cumpleaños?
-Me encanta poder celebrarlo en verano. ∀&lt;wait&gt;</Entry>
-  <Entry Index="207">¿Eh? ¿Es mi regalo de cumpleaños? ¿De verdad?&lt;wait&gt;&lt;page&gt;
-¡Guauuuu! ¡Seguro que mamá se llevará una sorpresa
-cuando se lo enseñe!&lt;wait&gt;</Entry>
-  <Entry Index="208">¡Oh! ¡Gracias, &lt;nickname&gt;! Me siento muy
-afortunada de tener a una mujer como tú a mi lado. ∀&lt;wait&gt;</Entry>
-  <Entry Index="209">¡Oh! ¡Gracias, &lt;nickname&gt;! Me siento muy
-afortunada de tener a un marido como tú a mi lado. ∀&lt;wait&gt;</Entry>
-  <Entry Index="210">¡Oooh! ¡Oooh! ¡Me encanta!
-¡Un millón de gracias! ∀&lt;wait&gt;</Entry>
-  <Entry Index="211">¡Oooh! ¡Gracias, &lt;nickname&gt;! ∀
-¡Me encanta!&lt;wait&gt;</Entry>
-  <Entry Index="212">¡Oooh! ¡Gracias, &lt;nickname&gt;! ∀
-¡Me encanta!&lt;wait&gt;</Entry>
-  <Entry Index="213">¡Guau, gracias! ¡Es maravilloso!&lt;wait&gt;</Entry>
-  <Entry Index="214">¡Graaaciaaas, &lt;nickname&gt;! ♪
-Tú sí que sabes cómo hacer sonreír a una chica.&lt;wait&gt;</Entry>
-  <Entry Index="215">¡Graaaciaaas, &lt;nickname&gt;! ♪
-Tú sí que sabes cómo hacer sonreír a una chica.&lt;wait&gt;</Entry>
-  <Entry Index="216">¡Oh, gracias! &lt;wait&gt;</Entry>
-  <Entry Index="217">¡Gracias, &lt;nickname&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="218">¡Gracias!&lt;wait&gt;</Entry>
-  <Entry Index="219">¿Eh? ¿Para mí? ¿No sabes que odio esta clase de cosas?
-Puedes comértelo para cenar, &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="220">¡Puaj! ¡No me gusta!&lt;wait&gt;</Entry>
-  <Entry Index="221">¡Puaj! ¡&lt;nickname&gt;, vaya &lt;gender&gt;("tontorrón","tontorrona") ! ¿Por qué
-me regalas algo que odio? ¡Cógelo y tíralo!&lt;wait&gt;</Entry>
-  <Entry Index="222">¡Puaj, qué asco! ¡No lo quiero!&lt;wait&gt;</Entry>
-  <Entry Index="223">¡Precioooosoooo! Me he pasado la vida jugando con las
-gallinas, por eso me gustan tanto los animales.&lt;wait&gt;</Entry>
-  <Entry Index="224">¡Bieen! ¡Es una monada! ∀ ∀ ∀&lt;wait&gt;</Entry>
+  <Entry Index="201">Se você quer ganhar o Festival de Música, deve cuidar
+de seus animais para o sucesso! Embora eu suponha que
+isso vale para todos os animais, não?&lt;wait&gt;</Entry>
+  <Entry Index="202">Hmm? Acho que ainda não nos conhecemos.
+Oi! Eu sou a Popuri! Qual é o seu nome?&lt;wait&gt;&lt;page&gt;
+Ahh, ¿&lt;playername&gt;, Hã? É um prazer te conhecer.&lt;wait&gt;</Entry>
+  <Entry Index="203">Ohh, wow! Você tem um presente de aniversário para mim? Eee!
+Muito obrigado, &lt;nickname&gt;! ∀&lt;wait&gt;</Entry>
+  <Entry Index="204">Ohh, wow! Isso é para mim? Você sabia que hoje é
+meu aniversário também?
+Muito obrigado! Você é o melhor! ∀&lt;wait&gt;</Entry>
+  <Entry Index="205">Oooo que? I-isso é realmente meu presente de aniversário? wooow,
+Nunca pensei que conseguiria algo TÃO legal!&lt;wait&gt;&lt;page&gt;
+Muito obrigado! Eu vou cuidar bem disso.&lt;wait&gt;</Entry>
+  <Entry Index="206">Ohh, wow! Obrigado! Você sabia que hoje é meu aniversário?
+Estou tão feliz por poder celebrá-lo no verão. ∀&lt;wait&gt;</Entry>
+  <Entry Index="207">Hã? Este é o meu presente de aniversário? Sério?&lt;wait&gt;&lt;page&gt;
+Nossa! Aposto que mamãe ficará super surpresa quando
+eu mostrar a ela!&lt;wait&gt;</Entry>
+  <Entry Index="208">Awww! Obrigado, &lt;nickname&gt;! Me sinto muito
+sortuda por ter uma esposa como você. ∀&lt;wait&gt;</Entry>
+  <Entry Index="209">Awww! Obrigado, &lt;nickname&gt;! Me sinto muito
+sortuda por ter um esposo como você. ∀&lt;wait&gt;</Entry>
+  <Entry Index="210">Ah! Oh! Eu amo muito isso!
+Muitíssimo obrigado! ∀&lt;wait&gt;</Entry>
+  <Entry Index="211">Ahh! Obrigado, &lt;nickname&gt;! ∀
+Eu amo muito isso!&lt;wait&gt;</Entry>
+  <Entry Index="212">Ahh! Obrigado, &lt;nickname&gt;! ∀
+Eu amo muito isso!&lt;wait&gt;</Entry>
+  <Entry Index="213">Nossa, obrigado! Eu super gosto!&lt;wait&gt;</Entry>
+  <Entry Index="214">Obrigadaaaa, &lt;nickname&gt;! ♪
+Você sabe como fazer uma garota sorrir.&lt;wait&gt;</Entry>
+  <Entry Index="215">Obrigadaaaa, &lt;nickname&gt;! ♪
+Você sabe como fazer uma garota sorrir.&lt;wait&gt;</Entry>
+  <Entry Index="216">Ah, obrigado! &lt;wait&gt;</Entry>
+  <Entry Index="217">Obrigado, &lt;nickname&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="218">Obrigado!&lt;wait&gt;</Entry>
+  <Entry Index="219">Que? Para mím? Eu pensei que você sabia que eu 
+odiava isso.&lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="220">Eca! Eu odeio isso!&lt;wait&gt;</Entry>
+  <Entry Index="221">Ecaaa! &lt;nickname&gt;, seu grande idiota! por que
+você tenta me dar algo que eu odeio? Leve de volta e jogue fora!&lt;wait&gt;</Entry>
+  <Entry Index="222">Eca, seu grosso! Eu não quero isso!&lt;wait&gt;</Entry>
+  <Entry Index="223">Uau! Eu brinquei com galinhas minha vida
+inteira, então eu gosto de todos os animais.&lt;wait&gt;</Entry>
+  <Entry Index="224">Eee! É muuuuito LINDO! ∀ ∀ ∀&lt;wait&gt;</Entry>
   <Entry Index="225">¡Ah! ¡Noo! ¡Pero cómo se te ocurre, &lt;gender&gt;("bobo","boba")!
 ¡Quítame esa cosa de encima!&lt;wait&gt;</Entry>
   <Entry Index="226">¡Aaah! ¡Qué miedo!&lt;wait&gt;</Entry>
