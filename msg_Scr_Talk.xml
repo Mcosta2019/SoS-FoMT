@@ -401,117 +401,115 @@ mas eu não estou surpreso, vendo como as mulheres parecem
 bajular em cima dele. Essa é outra coisa que não
 gosto nele.&lt;wait&gt;</Entry>
   <Entry Index="170">Ei, como vai? Veio fazer uma visita?&lt;wait&gt;</Entry>
-  <Entry Index="171">Me relaxa muito passar o tempo no meu antigo quarto.
-Cada vez que visito minha antiga casa me dá uma calorosa
-nostalgia.&lt;wait&gt;</Entry>
+  <Entry Index="171">Cara, é muito relaxante passar o tempo no meu antigo quarto.
+Cada vez que visito meu antigo quarto me dá uma calorosa sensação de
+nostalgia e felicidade.&lt;wait&gt;</Entry>
   <Entry Index="172">Ei. O tempo está péssimo hoje, não está?&lt;wait&gt;</Entry>
-  <Entry Index="173">em dias como este, Eu sinto que até as galinhas me pedem para
-tirar o dia de folga.&lt;wait&gt;&lt;page&gt;
-Elas ficam agachadas em seu galinheiro, descansando
-tranquilamente. Nenhuma delas tentam escapar.&lt;wait&gt;</Entry>
-  <Entry Index="174">Olá. O que te traz essa hora?&lt;wait&gt;</Entry>
-  <Entry Index="175">Você não acha que deveria parar por hoje e ir para casa?&lt;wait&gt;&lt;page&gt;
-Você está sozinho cuidando do trabalho de
-uma fazenda inteira. Você deve descansar quando tiver
-chance.&lt;wait&gt;</Entry>
-  <Entry Index="176">Ah, Olá, &lt;playername&gt;. Como vai você? Eu? Não poderia
+  <Entry Index="173">Em dias como este, Eu sempre sinto que até as galinhas me diriam para
+tirar o dia de folga se eles pudessem falar.&lt;wait&gt;&lt;page&gt;
+Quero dizer, Elas estão todas agachadas em seu galinheiro, silenciosamente
+em repouso. Ninguém está tentando escapar e fugir.&lt;wait&gt;</Entry>
+  <Entry Index="174">Ei. O que te traz para fora essa hora?&lt;wait&gt;</Entry>
+  <Entry Index="175">Tem certeza de que não deveria encerrar o dia e ir para casa?&lt;wait&gt;&lt;page&gt;
+Quero dizer, Você ESTÁ administrando aquela fazenda sozinho.
+Você precisa descansar um pouco quando tiver uma chance.&lt;wait&gt;</Entry>
+  <Entry Index="176">Oi, &lt;playername&gt;. Como vai? Eu? Não poderia
 estar melhor.&lt;wait&gt;</Entry>
   <Entry Index="177">É bom ter uma mudança de rotina de tempos em tempos. Pois se
 você apenas se concentrar no trabalho, você vai acabar se esgotando.&lt;wait&gt;</Entry>
-  <Entry Index="178">Ah, Olá, &lt;playername&gt;. Como vai você? Eu? Não poderia
+  <Entry Index="178">Oi, &lt;playername&gt;. Como vai? Eu? Não poderia
 estar melhor.&lt;wait&gt;</Entry>
-  <Entry Index="179">O bazar está fechado às terças-feiras, assim eu não tenho que
-sair correndo como galinha sem... he, he, piada ruim.&lt;wait&gt;</Entry>
-  <Entry Index="180">Ah, Olá, &lt;playername&gt;. Você terminou com suas
-tarefas diárias? Que tal sairmos para beber?&lt;wait&gt;</Entry>
-  <Entry Index="181">É muito difícil encontrar um tempo para sair
-tomar uma bebida com minha esposa.&lt;wait&gt;</Entry>
-  <Entry Index="182">É muito difícil encontrar um tempo para sair
-tomar uma bebida com meu marido.&lt;wait&gt;</Entry>
-  <Entry Index="183">Ah, Olá, &lt;playername&gt;. Você terminou com suas
-tarefas diárias?&lt;wait&gt;</Entry>
+  <Entry Index="179">O Mercado está fechado às terças-feiras, assim eu não tenho que
+sair correndo como uma galinha sua... he, he, piada ruim.&lt;wait&gt;</Entry>
+  <Entry Index="180">Olá, &lt;playername&gt;. Você terminou com suas
+tarefas de hoje também? O que acha de nós sairmos para beber juntos?&lt;wait&gt;</Entry>
+  <Entry Index="181">Eu tenho que dizer, é muito difícil competir quem bebe mais em uma noite
+com a minha esposa.&lt;wait&gt;</Entry>
+  <Entry Index="182">u tenho que dizer, é muito difícil competir quem bebe mais em uma noite
+com a minha esposo.&lt;wait&gt;</Entry>
+  <Entry Index="183">Olá, &lt;playername&gt;. Você terminou com suas
+tarefas de hoje também?&lt;wait&gt;</Entry>
   <Entry Index="184">Aaah. ♪ Não há nada melhor do que tomar algo refrescante
-depois de um dia duro de trabalho.&lt;wait&gt;</Entry>
-  <Entry Index="185">Hum? Ah, Olá, &lt;nickname&gt;. Você veio para
-modificar suas ferramentas? Eu também.&lt;wait&gt;</Entry>
-  <Entry Index="186">São verdadeiros profissionais. Certifique-se de dar-lhes
-obrigado pelo bom trabalho que voce faz, ok? Se o
-merecer.&lt;wait&gt;</Entry>
-  <Entry Index="187">Todas as terças-feiras vou na ferraria e pergunto ao
-Sr. Saibara para dar uma olhada nas minhas ferramentas.&lt;wait&gt;</Entry>
-  <Entry Index="188">Você tem muitas ferramentas na fazenda, verdade,
-&lt;playername&gt;? O Sr. Saibara também faz
-manutenção em suas ferramentas?&lt;wait&gt;</Entry>
-  <Entry Index="189">Você tem muitas ferramentas na fazenda, verdade,
-&lt;playername&gt;? O Sr. Saibara também faz
-manutenção em suas ferramentas?&lt;wait&gt;</Entry>
-  <Entry Index="190">Agora mesmo é a Corrida de Primavera. Todo ano eu fico
-ancioso para que chegue logo!&lt;wait&gt;</Entry>
+depois de um longo dia de trabalho.&lt;wait&gt;</Entry>
+  <Entry Index="185">Hm? Olá, &lt;nickname&gt;. Você veio para ver
+se ficou pronta suas ferramentas? Eu também.&lt;wait&gt;</Entry>
+  <Entry Index="186">Eles fazem um trabalho muito bom aqui. Certifique-se de lhe dar
+obrigado pelo trabalho bem feito, ok? Eles merecem
+isso.&lt;wait&gt;</Entry>
+  <Entry Index="187">Todas as terças-feiras, Eu vou na ferraria e peço para o
+Sr. Saibara atualizar todas minhas ferramentas.&lt;wait&gt;</Entry>
+  <Entry Index="188">Você usa muitas ferramentas na sua fazenda, certo,
+&lt;playername&gt;? O Sr. Saibara faz manutenção
+neles para você também?&lt;wait&gt;</Entry>
+  <Entry Index="189">Você usa muitas ferramentas na sua fazenda, certo,
+&lt;playername&gt;? O Sr. Saibara faz manuntenção
+em suas ferramentas também?&lt;wait&gt;</Entry>
+  <Entry Index="190">A Corrida de Primavera está chegando. Estou ancioso por isso
+o ano todo!&lt;wait&gt;</Entry>
   <Entry Index="191">Eu me pergunto quem vai ganhar a Corrida de Primavera
-amanhã... estou ansioso para descobrir.&lt;wait&gt;</Entry>
-  <Entry Index="192">Ouça! Você vai participar dos Duelos de Galinhas deste
+amanhã... Eu mal posso esperar para descobrir.&lt;wait&gt;</Entry>
+  <Entry Index="192">Ei! Você vai participar dos Duelos de Galinhas desse
 ano?&lt;wait&gt;</Entry>
-  <Entry Index="193">Se você participar dos Duelos de Galinhas, acredite em mim quando lhe
-digo que vou fazer mais bagunça te animando do que um galo
-cacarejando de manhã!&lt;wait&gt;</Entry>
-  <Entry Index="194">A propósito... Você vai participar do Festival da Vaca?&lt;wait&gt;</Entry>
+  <Entry Index="193">Se você for participar dos Duelos de Galinhas, você pode apostar que
+eu vou torcer mais alto que um galo pela manhã!&lt;wait&gt;</Entry>
+  <Entry Index="194">A propósito... Você vai participar do Festival de Vacas?&lt;wait&gt;</Entry>
   <Entry Index="195">Uma vaca criada com carinho e amor certamente
 obterá uma grande pontuação!&lt;wait&gt;</Entry>
-  <Entry Index="196">Ah, Mal posso esperar para ver os fogos de artifício amanhã.
-Quem não gosta de uns bons fogos de artifício?&lt;wait&gt;</Entry>
-  <Entry Index="197">Amanhã é noite de luar. Esperamos que
-o clima acompanhe...&lt;wait&gt;</Entry>
-  <Entry Index="198">Você vai participar da Corrida de outono?&lt;wait&gt;</Entry>
-  <Entry Index="199">A Corrida de outono já é amanhã...
+  <Entry Index="196">Ahh, Mal posso esperar para ver os fogos de artifício amanhã.
+Quem não gosta de um bom show de fogos de artifício?&lt;wait&gt;</Entry>
+  <Entry Index="197">A noite de luar é amanha. Vamos esperar que
+o tempo ajude...&lt;wait&gt;</Entry>
+  <Entry Index="198">Você vai participar da Corrida de Outono?&lt;wait&gt;</Entry>
+  <Entry Index="199">A Corrida de Outono já é amanhã, Huh...
 Eu me pergunto quem vai ganhar!&lt;wait&gt;</Entry>
   <Entry Index="200">Mal posso esperar para saber quem vai participar do Festival
-de Suavidade este ano!&lt;wait&gt;</Entry>
-  <Entry Index="201">¡Si quieres ganar el Festival de la Suavidad, debes cuidar
-de tus peluditos para triunfar! Aunque supongo que eso se
-aplica a todos los animales, ¿no?&lt;wait&gt;</Entry>
-  <Entry Index="202">¿Eh? Creo que no nos conocemos todavía.
-Bueno, ¡hola! ¡Soy Popuri! ¿Cómo te llamas?&lt;wait&gt;&lt;page&gt;
-Oh, ¿&lt;playername&gt;, eh? Es un placer conocerte.&lt;wait&gt;</Entry>
-  <Entry Index="203">Oh, ¡guau! ¿Es un regalo de cumpleaños para mí? ¡Guau!
-¡Muchas gracias, &lt;nickname&gt;! ∀&lt;wait&gt;</Entry>
-  <Entry Index="204">Oh, ¡guau! ¿Esto es para mí? ¿Sabías que hoy era mi
-cumpleaños?
-¡Muchas gracias! ¡Eres de lo mejor que hay! ∀&lt;wait&gt;</Entry>
-  <Entry Index="205">¿Quééé? ¿E-esto es mi regalo de cumpleaños? ¡Guau,
-nunca pensé que alguien me regalaría algo tan bonito!&lt;wait&gt;&lt;page&gt;
-¡Muchas gracias! Lo cuidaré muy bien.&lt;wait&gt;</Entry>
-  <Entry Index="206">Oh, ¡guau! ¡Gracias! ¿Sabías que hoy era mi cumpleaños?
-Me encanta poder celebrarlo en verano. ∀&lt;wait&gt;</Entry>
-  <Entry Index="207">¿Eh? ¿Es mi regalo de cumpleaños? ¿De verdad?&lt;wait&gt;&lt;page&gt;
-¡Guauuuu! ¡Seguro que mamá se llevará una sorpresa
-cuando se lo enseñe!&lt;wait&gt;</Entry>
-  <Entry Index="208">¡Oh! ¡Gracias, &lt;nickname&gt;! Me siento muy
-afortunada de tener a una mujer como tú a mi lado. ∀&lt;wait&gt;</Entry>
-  <Entry Index="209">¡Oh! ¡Gracias, &lt;nickname&gt;! Me siento muy
-afortunada de tener a un marido como tú a mi lado. ∀&lt;wait&gt;</Entry>
-  <Entry Index="210">¡Oooh! ¡Oooh! ¡Me encanta!
-¡Un millón de gracias! ∀&lt;wait&gt;</Entry>
-  <Entry Index="211">¡Oooh! ¡Gracias, &lt;nickname&gt;! ∀
-¡Me encanta!&lt;wait&gt;</Entry>
-  <Entry Index="212">¡Oooh! ¡Gracias, &lt;nickname&gt;! ∀
-¡Me encanta!&lt;wait&gt;</Entry>
-  <Entry Index="213">¡Guau, gracias! ¡Es maravilloso!&lt;wait&gt;</Entry>
-  <Entry Index="214">¡Graaaciaaas, &lt;nickname&gt;! ♪
-Tú sí que sabes cómo hacer sonreír a una chica.&lt;wait&gt;</Entry>
-  <Entry Index="215">¡Graaaciaaas, &lt;nickname&gt;! ♪
-Tú sí que sabes cómo hacer sonreír a una chica.&lt;wait&gt;</Entry>
-  <Entry Index="216">¡Oh, gracias! &lt;wait&gt;</Entry>
-  <Entry Index="217">¡Gracias, &lt;nickname&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="218">¡Gracias!&lt;wait&gt;</Entry>
-  <Entry Index="219">¿Eh? ¿Para mí? ¿No sabes que odio esta clase de cosas?
-Puedes comértelo para cenar, &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="220">¡Puaj! ¡No me gusta!&lt;wait&gt;</Entry>
-  <Entry Index="221">¡Puaj! ¡&lt;nickname&gt;, vaya &lt;gender&gt;("tontorrón","tontorrona") ! ¿Por qué
-me regalas algo que odio? ¡Cógelo y tíralo!&lt;wait&gt;</Entry>
-  <Entry Index="222">¡Puaj, qué asco! ¡No lo quiero!&lt;wait&gt;</Entry>
-  <Entry Index="223">¡Precioooosoooo! Me he pasado la vida jugando con las
-gallinas, por eso me gustan tanto los animales.&lt;wait&gt;</Entry>
-  <Entry Index="224">¡Bieen! ¡Es una monada! ∀ ∀ ∀&lt;wait&gt;</Entry>
+de Música esse ano!&lt;wait&gt;</Entry>
+  <Entry Index="201">Se você quer ganhar o Festival de Música, deve cuidar
+de seus animais para o sucesso! Embora eu suponha que
+isso vale para todos os animais, não?&lt;wait&gt;</Entry>
+  <Entry Index="202">Hmm? Acho que ainda não nos conhecemos.
+Oi! Eu sou a Popuri! Qual é o seu nome?&lt;wait&gt;&lt;page&gt;
+Ahh, ¿&lt;playername&gt;, Hã? É um prazer te conhecer.&lt;wait&gt;</Entry>
+  <Entry Index="203">Ohh, wow! Você tem um presente de aniversário para mim? Eee!
+Muito obrigado, &lt;nickname&gt;! ∀&lt;wait&gt;</Entry>
+  <Entry Index="204">Ohh, wow! Isso é para mim? Você sabia que hoje é
+meu aniversário também?
+Muito obrigado! Você é o melhor! ∀&lt;wait&gt;</Entry>
+  <Entry Index="205">Oooo que? I-isso é realmente meu presente de aniversário? wooow,
+Nunca pensei que conseguiria algo TÃO legal!&lt;wait&gt;&lt;page&gt;
+Muito obrigado! Eu vou cuidar bem disso.&lt;wait&gt;</Entry>
+  <Entry Index="206">Ohh, wow! Obrigado! Você sabia que hoje é meu aniversário?
+Estou tão feliz por poder celebrá-lo no verão. ∀&lt;wait&gt;</Entry>
+  <Entry Index="207">Hã? Este é o meu presente de aniversário? Sério?&lt;wait&gt;&lt;page&gt;
+Nossa! Aposto que mamãe ficará super surpresa quando
+eu mostrar a ela!&lt;wait&gt;</Entry>
+  <Entry Index="208">Awww! Obrigado, &lt;nickname&gt;! Me sinto muito
+sortuda por ter uma esposa como você. ∀&lt;wait&gt;</Entry>
+  <Entry Index="209">Awww! Obrigado, &lt;nickname&gt;! Me sinto muito
+sortuda por ter um esposo como você. ∀&lt;wait&gt;</Entry>
+  <Entry Index="210">Ah! Oh! Eu amo muito isso!
+Muitíssimo obrigado! ∀&lt;wait&gt;</Entry>
+  <Entry Index="211">Ahh! Obrigado, &lt;nickname&gt;! ∀
+Eu amo muito isso!&lt;wait&gt;</Entry>
+  <Entry Index="212">Ahh! Obrigado, &lt;nickname&gt;! ∀
+Eu amo muito isso!&lt;wait&gt;</Entry>
+  <Entry Index="213">Nossa, obrigado! Eu super gosto!&lt;wait&gt;</Entry>
+  <Entry Index="214">Obrigadaaaa, &lt;nickname&gt;! ♪
+Você sabe como fazer uma garota sorrir.&lt;wait&gt;</Entry>
+  <Entry Index="215">Obrigadaaaa, &lt;nickname&gt;! ♪
+Você sabe como fazer uma garota sorrir.&lt;wait&gt;</Entry>
+  <Entry Index="216">Ah, obrigado! &lt;wait&gt;</Entry>
+  <Entry Index="217">Obrigado, &lt;nickname&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="218">Obrigado!&lt;wait&gt;</Entry>
+  <Entry Index="219">Que? Para mím? Eu pensei que você sabia que eu 
+odiava isso.&lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="220">Eca! Eu odeio isso!&lt;wait&gt;</Entry>
+  <Entry Index="221">Ecaaa! &lt;nickname&gt;, seu grande idiota! por que
+você tenta me dar algo que eu odeio? Leve de volta e jogue fora!&lt;wait&gt;</Entry>
+  <Entry Index="222">Eca, seu grosso! Eu não quero isso!&lt;wait&gt;</Entry>
+  <Entry Index="223">Uau! Eu brinquei com galinhas minha vida
+inteira, então eu gosto de todos os animais.&lt;wait&gt;</Entry>
+  <Entry Index="224">Eee! É muuuuito LINDO! ∀ ∀ ∀&lt;wait&gt;</Entry>
   <Entry Index="225">¡Ah! ¡Noo! ¡Pero cómo se te ocurre, &lt;gender&gt;("bobo","boba")!
 ¡Quítame esa cosa de encima!&lt;wait&gt;</Entry>
   <Entry Index="226">¡Aaah! ¡Qué miedo!&lt;wait&gt;</Entry>
