@@ -8746,55 +8746,56 @@ estrellas.&lt;wait&gt;</Entry>
 ¿Has dormido bien?&lt;wait&gt;</Entry>
   <Entry Index="3750">Despertarme junto a ti cada mañana me transmite
 mucha energía, &lt;nickname&gt;. ∀&lt;wait&gt;</Entry>
-  <Entry Index="3751">Despertarme junto a ti cada mañana me transmite
-mucha energía, &lt;nickname&gt;. ∀&lt;wait&gt;</Entry>
-  <Entry Index="3752">¿Te aseguras de descansar cuando te sientes &lt;gender&gt;("agotado","agotada")?
-Trabajar más de la cuenta desequilibrará el ritmo
-natural de tu cuerpo.&lt;wait&gt;</Entry>
-  <Entry Index="3753">Vivir de la tierra, cosechar de primera mano sus
-obsequios, bailar con el ritmo de la naturaleza... ¿No te
-hace sentirte &lt;gender&gt;("vivo","viva") de verdad?&lt;wait&gt;</Entry>
-  <Entry Index="3754">El sol ha ido a dormir, y creo que deberíamos hacer lo
-mismo. ∀&lt;wait&gt;</Entry>
-  <Entry Index="3755">El sol ha ido a dormir, y creo que deberíamos hacer lo
-mismo. ∀&lt;wait&gt;</Entry>
-  <Entry Index="3756">La paz y la tranquilidad de la que disfrutamos aquí hace
-que sea fácil tener un sueño profundo y reconstituyente.&lt;wait&gt;</Entry>
-  <Entry Index="3757">La brisa marina parece el aliento de la madre naturaleza
-haciéndonos cosquillas en las mejillas, ¿no crees?&lt;wait&gt;</Entry>
-  <Entry Index="3758">Cuando encuentro vidrio de mar en mis paseos por la
-playa lo interpreto como un buen presagio. Su energía
-natural me sirve para intensificar la mía.&lt;wait&gt;</Entry>
-  <Entry Index="3759">¿Mmm? ¿Adónde vas, &lt;nickname&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="3760">Seguro que el trabajo en la granja cansa mucho.
-Te recomiendo que te des un paseo de vez en cuando para
-relajarte y recargar las pilas.&lt;wait&gt;</Entry>
-  <Entry Index="3761">Incluso ahora que nos hemos casado no haces nada para
-controlarme. Esta es una de las razones por las que te
-quiero, &lt;nickname&gt;. ∀&lt;wait&gt;</Entry>
-  <Entry Index="3762">Incluso ahora que nos hemos casado no haces nada para
-controlarme. Esta es una de las razones por las que te
-quiero, &lt;nickname&gt;. ∀&lt;wait&gt;</Entry>
-  <Entry Index="3763">Amamos y respetamos los estilos de vida &lt;gender&gt;("del otro","de la otra")
-tanto como admiramos los nuestros. Es algo fundamental.&lt;wait&gt; </Entry>
-  <Entry Index="3764">No me importaría tener una cita contigo algún día,
+  <Entry Index="3751">Acordar ao seu lado todas as manhãs me dá
+muita energia, &lt;nickname&gt;. ∀&lt;wait&gt;</Entry>
+  <Entry Index="3752">Você descansa quando está &lt;gender&gt;("esgotado","esgotada")?
+Trabalhar mais do que o necessário desequilibrará
+o ritmo natural do seu corpo.&lt;wait&gt;</Entry>
+  <Entry Index="3753">Vivendo da terra, colhendo seus presentes em
+primeira mão, dançando ao ritmo da natureza...
+Não faz você se sentir realmente &lt;gender&gt;("vivo","viva") de verdad?&lt;wait&gt;</Entry>
+  <Entry Index="3754">O sol foi dormir, e acho que devemos
+fazer o mesmo. ∀&lt;wait&gt;</Entry>
+  <Entry Index="3755">O sol foi dormir, e acho que devemos
+fazer o mesmo. ∀&lt;wait&gt;</Entry>
+  <Entry Index="3756">A paz e a tranquilidade que desfrutamos aqui
+facilitam o sono profundo e restaurador.&lt;wait&gt;</Entry>
+  <Entry Index="3757">A brisa do mar parece o sopro da mãe natureza fazendo
+cócegas em nossas bochechas, você não acha?&lt;wait&gt;</Entry>
+  <Entry Index="3758">Quando encontro vidro marinho em minhas caminhadas
+na praia, interpreto isso como um bom presságio.
+Sua energia natural serve para intensificar a minha&lt;wait&gt;</Entry>
+  <Entry Index="3759">Hmm? Aonde você vai, &lt;nickname&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="3760">Tenho certeza de que trabalhar na fazenda é muito cansativo.
+Eu recomendo que você dê um passeio de vez em
+quando para relaxar e recarregar as baterias.&lt;wait&gt;</Entry>
+  <Entry Index="3761">Mesmo agora que estamos casados, você não faz
+nada para me controlar. Esta é uma das razões
+pelas quais eu te amo, &lt;nickname&gt;. ∀&lt;wait&gt;</Entry>
+  <Entry Index="3762">Mesmo agora que estamos casados, você não faz
+nada para me controlar. Esta é uma das razões
+pelas quais eu te amo, &lt;nickname&gt;. ∀&lt;wait&gt;</Entry>
+  <Entry Index="3763">Amamos e respeitamos os estilos de vida &lt;gender&gt;("do outro","da outra")
+tanto quanto admiramos os nossos. É fundamental.&lt;wait&gt; </Entry>
+  <Entry Index="3764">Eu não me importaria de sair com você um dia,
 &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="3765">Ven a casa pronto. ∀ Ya no estás &lt;gender&gt;("solo","sola").&lt;wait&gt;.</Entry>
-  <Entry Index="3766">Ven a casa pronto. ∀ Ya no estás &lt;gender&gt;("solo","sola").&lt;wait&gt;.</Entry>
-  <Entry Index="3767">¡Gracias, &lt;nickname&gt;!
-Sabía que me casé contigo por un buen motivo.&lt;wait&gt;</Entry>
-  <Entry Index="3768">&lt;nickname&gt;, ¡gracias! ∀ Qué regalo más bonito. Las
-estrellas deben de haberse alineado para darme suerte
-hoy.&lt;wait&gt;</Entry>
-  <Entry Index="3769">&lt;nickname&gt;, ¡gracias! ∀ Qué regalo más bonito. Las
-estrellas deben de haberse alineado para darme suerte
-hoy.&lt;wait&gt;</Entry>
-  <Entry Index="3770">Oh, ¿es para mí? Gracias, &lt;nickname&gt;. ∀ Es
-esplendoroso.&lt;wait&gt;</Entry>
-  <Entry Index="3771">Oh, ¿es para mí? Gracias, &lt;nickname&gt;. ∀ Es
-esplendoroso.&lt;wait&gt;</Entry>
-  <Entry Index="3772">Gracias. ∀&lt;wait&gt;</Entry>
-  <Entry Index="3773">Gracias. ∀&lt;wait&gt;</Entry>
+  <Entry Index="3765">Volte para casa logo. ∀ Você não está mais &lt;gender&gt;("sozinho","sozinha").&lt;wait&gt;.</Entry>
+  <Entry Index="3766">Volte para casa logo. ∀ Você não está mais &lt;gender&gt;("sozinho","sozinha").&lt;wait&gt;.</Entry>
+  <Entry Index="3767">Obrigdo, &lt;nickname&gt;!
+Eu sabia que tinha me casado com você
+por um bom motivo.&lt;wait&gt;</Entry>
+  <Entry Index="3768">&lt;nickname&gt;, obrigado! ∀ Que presente lindo.
+As estrelas devem ter se alinhado para
+dar sorte hoje.&lt;wait&gt;</Entry>
+  <Entry Index="3769">&lt;nickname&gt;, obrigado! ∀ Que presente lindo.
+As estrelas devem ter se alinhado para
+dar sorte hoje.&lt;wait&gt;</Entry>
+  <Entry Index="3770">Oh, é para mim? Obrigado, &lt;nickname&gt;. ∀
+É esplêndido..&lt;wait&gt;</Entry>
+  <Entry Index="3771">Oh, é para mim? Obrigado, &lt;nickname&gt;. ∀
+É esplêndido..&lt;wait&gt;</Entry>
+  <Entry Index="3772">Obrigado. ∀&lt;wait&gt;</Entry>
+  <Entry Index="3773">Obrigado. ∀&lt;wait&gt;</Entry>
   <Entry Index="3774">É para mim? Bem, é um presente seu,
 &lt;nickname&gt;. E quando algo é dado, o que
 o que importa é a intenção.&lt;wait&gt;</Entry>
