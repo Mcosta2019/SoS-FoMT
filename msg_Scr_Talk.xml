@@ -572,57 +572,57 @@ casa bem rápido? Por favor?.&lt;wait&gt;</Entry>
   <Entry Index="249">Caramba! Você me assustou. Você sabe que deveria
 só oferecer isso a alguém que você REALMENTE quer se
 casar.&lt;wait&gt;</Entry>
-  <Entry Index="250">I-isso é uma pena azul? Hum... acho que é um pouco cedo demais
+  <Entry Index="250">I-isso é uma pena azul? Hum... Acho que é um pouco cedo demais
 para nós.&lt;wait&gt;</Entry>
-  <Entry Index="251">¡Oh! &lt;playername&gt;, adivina qué. ¡Mañana es la Noche
-Estrellada!&lt;wait&gt;&lt;page&gt;
-¡Puedes venir a celebrarlo conmigo y mi familia si quieres!
-¡Te invitamos!&lt;wait&gt;</Entry>
-  <Entry Index="252">¡Bieeeen! Voy a preparar un montón de comida deliciosa
-para todos. ¡No se te ocurra picar nada antes, no sea que
-pierdas el apetito!&lt;wait&gt;</Entry>
-  <Entry Index="253">Oh. Supongo que estás hasta arriba de trabajo,
-&lt;playername&gt;. Si no puedes venir, no pasa nada.&lt;wait&gt;</Entry>
-  <Entry Index="254">Mañana es la Noche Estrellada y vamos a dar una fiesta.&lt;wait&gt;&lt;page&gt;
-¿Y sabes qué? ¡Anna me está enseñando una nueva receta
-de tarta! Tú solo espera y verás, va a ser genial. ∀&lt;wait&gt;</Entry>
-  <Entry Index="255">¡Ji, ji, ji! Sabía que algo raro pasaba. Me alegro de no
-estar enferma o algo.&lt;wait&gt;</Entry>
-  <Entry Index="256">No te preocupes, estoy bien. Lo único que me parece raro
-es que tengo hambre todo el tiempo.&lt;wait&gt;</Entry>
-  <Entry Index="257">Buenos días. ∀&lt;wait&gt;&lt;page&gt;
-Estaba tan preocupada por no estar acostada en la
-posición correcta para el bebé, que no pude pegar ojo.&lt;wait&gt;</Entry>
-  <Entry Index="258">Buenos días. ∀&lt;wait&gt;&lt;page&gt;
-Estaba tan preocupada por no estar acostada en la
-posición correcta para el bebé, que no pude pegar ojo.&lt;wait&gt;</Entry>
-  <Entry Index="259">Qué sentimiento tan raro. ¿Es posible ser tan feliz que no
-eres capaz de dormirte? Supongo que sí.&lt;wait&gt;</Entry>
-  <Entry Index="260">Fui a la clínica y me dijeron que el bebé se está
-desarrollando sin problemas. Qué ganas tengo de que
-nazca.&lt;wait&gt;</Entry>
-  <Entry Index="261">Pero, eh...
-Tengo que confesarte que estoy algo asustada.&lt;wait&gt;&lt;page&gt;
-Mamá dice que duele mucho dar a luz.&lt;wait&gt;</Entry>
-  <Entry Index="262">Mmm...&lt;wait&gt;</Entry>
-  <Entry Index="263">¡&lt;nickname&gt;! Adivina qué. ¡Mañana! ¡El bebé va a
-nacer mañana!&lt;wait&gt;&lt;page&gt;
-¡He ido hoy a la clínica y Elly me lo ha dicho!&lt;wait&gt;</Entry>
-  <Entry Index="264">¡Ji, ji, ji! Oh, ¿no es la cosa más bonita que hay en el mundo?&lt;wait&gt;</Entry>
-  <Entry Index="265">&lt;childname&gt; es una preciosidad, ¿eh?&lt;wait&gt;</Entry>
-  <Entry Index="266">¡Ji, ji, ji! ¡Mira qué bebé tan adorable! ¡Cuanto más crecen,
-más guapos son!&lt;wait&gt;</Entry>
-  <Entry Index="267">Seguro que &lt;childname&gt; se parece a ti cuando eras
-un bebé, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
-¡Sois como dos gotas de agua!&lt;wait&gt;</Entry>
-  <Entry Index="268">¡Guau! ¡Ay, madre mía! ¡Acaba de decir sus primeras
-palabras! ¡Qué encanto! ∀&lt;wait&gt;</Entry>
-  <Entry Index="269">¡Haría cualquier cosa por &lt;childname&gt;! ¡Y sería la
-primera vez que me siento así por alguien! ¿No te ocurre
-lo mismo, &lt;nickname&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="270">¡Guau! ¡&lt;childname&gt;, qué bien! ∀ ¡Ya sabes ponerte
-de pie y andar! ¿Dónde está el pequeño cerebrito de
-mamá? ¿Eh? ♪&lt;wait&gt;&lt;page&gt;
+  <Entry Index="251">Oh! &lt;playername&gt;, adivinhem. A noite das Estrelas
+será amanhã!&lt;wait&gt;&lt;page&gt;
+Bem, você pode vir comemorar comigo e minha família,
+Se você quiser! Você está convidado!&lt;wait&gt;</Entry>
+  <Entry Index="252">Opaaa! Eu vou preparar um monte de comida deliciosa
+para todos nós. Nem pense em lanchar antes de comer senão
+vai perder o apetite!&lt;wait&gt;</Entry>
+  <Entry Index="253">Oh. Eu acho que você provavelmente está muito ocupado,
+&lt;playername&gt;. Se você não puder vir, tudo bem.&lt;wait&gt;</Entry>
+  <Entry Index="254">A Noite das Estrelas é amanhã, então vamos fazer uma festa.&lt;wait&gt;&lt;page&gt;
+E sabe de uma coisa? Anna está me ensinando uma nova receita de um bolo 
+gostoso! Vai ser incrível, é só esperar. ∀&lt;wait&gt;</Entry>
+  <Entry Index="255">Eei eei. Eu sabia que algo estranho estava acontecendo.. Estou feliz por não
+estar doente nem nada.&lt;wait&gt;</Entry>
+  <Entry Index="256">Não se preocupe, estou bem. A única coisa que parece meio
+estranho é como estou com fome o tempo todo.&lt;wait&gt;</Entry>
+  <Entry Index="257">Bom dia. ∀&lt;wait&gt;&lt;page&gt;
+Eu estava tão preocupado que eu não estava deitado na
+posição certa para o bebê, eu não conseguia dormir nem um pouco.&lt;wait&gt;</Entry>
+  <Entry Index="258">Bom dia. ∀&lt;wait&gt;&lt;page&gt;
+Eu estava tão preocupado que eu não estava deitado na
+posição certa para o bebê, eu não conseguia dormir nem um pouco.&lt;wait&gt;</Entry>
+  <Entry Index="259">Foi tão estranho. É possível ser feliz demais para dormir?
+Acho que sim, hein?&lt;wait&gt;</Entry>
+  <Entry Index="260"Fui à clínica e disseram que o bebê está
+crescendo bem. Não vejo a hora deles
+nascerem..&lt;wait&gt;</Entry>
+  <Entry Index="261">Mas, Um...
+Tenho que admitir, estou um pouco asustada.&lt;wait&gt;&lt;page&gt;
+Mamãe me disse que realmente dói muito quando um bebê está nascendo.&lt;wait&gt;</Entry>
+  <Entry Index="262">Hmm...&lt;wait&gt;</Entry>
+  <Entry Index="263">¡&lt;nickname&gt;! Adivinhe, adivinhou? É amanhã!
+O bebê vai nascer AMANHÃ!!&lt;wait&gt;&lt;page&gt;
+Fui hoje à Clínica e a Elly disse-me!&lt;wait&gt;</Entry>
+  <Entry Index="264">Ahhh!, Veja se não é coisa mais fofa?&lt;wait&gt;</Entry>
+  <Entry Index="265">&lt;childname&gt; é tão fofo quanto fofo pode ser, hein?&lt;wait&gt;</Entry>
+  <Entry Index="266">¡Ji, ji, ji! Esse é o meu precioso bebê! Quanto mais crescem,
+mais fofos eles ficam!&lt;wait&gt;</Entry>
+  <Entry Index="267">Aposto que &lt;childname&gt; parece exatamente como você
+quando era um bebê, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
+Quero dizer, vocês dois já são tão parecidos!&lt;wait&gt;</Entry>
+  <Entry Index="268">Eee! Oh meu Deus, acabei de ouvir suas primeiras palavras!
+Isso é tão fofo! ∀&lt;wait&gt;</Entry>
+  <Entry Index="269">Eu faria qualquer coisa pelo(a) &lt;childname&gt;! E seria a
+primeira vez que me sinto assim por alguém! não acontece com você
+o mesmo, não? &lt;nickname&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="270">Woow! ¡&lt;childname&gt;, isso é tão incrível! ∀ Quero dizer,
+levantando e andando já? Quem é meu pequeno gênio?
+Huh? ♪&lt;wait&gt;&lt;page&gt;
 ¿No te sientes &lt;gender&gt;("orgulloso","orgullosa"), &lt;nickname&gt;?&lt;wait&gt;</Entry>
   <Entry Index="271">Seguro que cuando &lt;childname&gt; crezca, querrá
 ocuparse de la granja de su mamá.&lt;wait&gt;&lt;page&gt;
