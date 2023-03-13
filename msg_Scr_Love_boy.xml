@@ -663,7 +663,7 @@ Eu gosto muito.&lt;wait&gt;</Entry>
   <Entry Index="309">Hoje, o Sr. Carter pode ser papai e a Popuri
 pode ser a mamãe.&lt;wait&gt;</Entry>
   <Entry Index="310">Então eu serei a mamãe? Ok!&lt;wait&gt;</Entry>
-  <Entry Index="311"Uh, desculpe, mas tenho alguns negócios para resolver.
+  <Entry Index="311">Uh, desculpe, mas tenho alguns negócios para resolver.
 Não tenho tempo para brincar.&lt;wait&gt;</Entry>
   <Entry Index="312">Oooh! E quem vai ser o papai?&lt;wait&gt;&lt;page&gt;
 Não quero brincar de casinha se ninguém for o papai!&lt;wait&gt;</Entry>
@@ -1075,7 +1075,7 @@ Você gosta de limpeza, &lt;playername&gt;?&lt;wait&gt;</Entry>
   <Entry Index="500">Gosto de sujeira.</Entry>
   <Entry Index="501">Já imaginava que você era &lt;gender&gt;("organizado","organizada"). Somos farinha
 do mesmo saco, não?&lt;wait&gt;</Entry>
-  <Entry Index="502"Meu pai odeia limpar, então eu tenho que arrumar toooda
+  <Entry Index="502">Meu pai odeia limpar, então eu tenho que arrumar toooda
 a área comercial e os quartos sozinha.&lt;wait&gt;&lt;page&gt;
 Eu gosto, então não é um grande problema.
 Mas eu adoraria que ele guardasse melhor as coisas.
@@ -1148,7 +1148,7 @@ a única coisa que aconteceu foi que ela comeu demais.&lt;wait&gt;</Entry>
   <Entry Index="542">Você viu como Dudley estava preocupado, Ran?
 Você tem que ter cuidado com o que come.&lt;wait&gt;</Entry>
   <Entry Index="543">>Sim, ok. Serei cuidadosa.&lt;wait&gt;</Entry>
-  <Entry Index="544"Ah... As coisas finalmente se acalmaram.
+  <Entry Index="544">Ah... As coisas finalmente se acalmaram.
 Papai me deu um grande bronca.&lt;wait&gt;</Entry>
   <Entry Index="545">Eu também devo pedir desculpas a você, &lt;playername&gt;,
 por causar tantos problemas.
@@ -1176,7 +1176,7 @@ meus tesouros mais preciosos, fique com isso, &lt;playername&gt;.&lt;wait&gt;</E
 &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="557">Ah, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda").&lt;wait&gt;</Entry>
   <Entry Index="558">Bem a tempo. Preciso falar com você.&lt;wait&gt;</Entry>
-  <Entry Index="559"É sobre Ran. Ela já passou por muita coisa na vida.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="559">É sobre Ran. Ela já passou por muita coisa na vida.&lt;wait&gt;&lt;page&gt;
 Depois que a mãe dela morreu, eu a criei sozinho.
 Isso pode soar impressionante vendo de fora,
 mas...&lt;wait&gt;&lt;page&gt;
@@ -1434,7 +1434,7 @@ você não acha?&lt;wait&gt;&lt;page&gt;
 Ah, tive uma idéia. vou te dar este livro
 &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
 Você quer lê-lo? Só se você achar interessante, é claro.&lt;wait&gt;</Entry>
-  <Entry Index="678"Tudo bem se você aceitar. Eu já terminei de ler.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="678">Tudo bem se você aceitar. Eu já terminei de ler.&lt;wait&gt;&lt;page&gt;
 Além de que, gostaria de compartilhar o que sinto agora
 com você, se possível.&lt;wait&gt;&lt;page&gt;
 Se você pode se emocionar tanto com um livro, acho
