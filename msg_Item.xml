@@ -538,7 +538,7 @@ da montanha. Excelente!</Entry>
   <Entry Index="331">Suco feito com uvas coletadas dos
 vinhedos e da montanha.</Entry>
   <Entry Index="332">Bolinho de Arroz</Entry>
-  <Entry Index="333">Pode ser comido ousado como
+  <Entry Index="333">Pode ser comido ou usado como
 ingrediente em pratos de arroz.</Entry>
   <Entry Index="334">Pão</Entry>
   <Entry Index="335">Pode ser comido ou usado como
@@ -547,13 +547,13 @@ ingrediente para cozinhar.</Entry>
   <Entry Index="337">Pode ser bebido, mas normalmente se
 usa como ingrediente para cozinhar.</Entry>
   <Entry Index="338">Farinha de Trigo</Entry>
-  <Entry Index="339">Pode ser comida, mas normalmente se
+  <Entry Index="339">Pode ser comido, mas normalmente se
 usa como ingrediente para cozinhar.</Entry>
   <Entry Index="340">Curry em Pó</Entry>
   <Entry Index="341">Pode ser comido, mas normalmente se
 usa como ingrediente para cozinhar.</Entry>
   <Entry Index="342">Farinha Dango</Entry>
-  <Entry Index="343">Pode ser comifo, mas normalmente se
+  <Entry Index="343">Pode ser comido, mas normalmente se
 usa como ingrediente para cozinhar.</Entry>
   <Entry Index="344">Chocolate</Entry>
   <Entry Index="345">Pode ser comido ou usado como
@@ -578,7 +578,7 @@ usa como ingrediente para cozinhar.</Entry>
 silvestres e água da fonte.</Entry>
   <Entry Index="358">Salada</Entry>
   <Entry Index="359">Um prato feito com verduras frescas. Pode ser
-comida, mas não pode ser enviada.</Entry>
+comida, mas não pode ser enviado.</Entry>
   <Entry Index="360">Arroz com Curry</Entry>
   <Entry Index="361">[Bolinho de Arroz]
 Um prato de arroz banhado em molho curry. Pode
@@ -587,7 +587,7 @@ ser comido, mas não pode ser enviado.</Entry>
   <Entry Index="363">Um prato abundante de verduras fervidas. Pode
 ser comido, mas não pode ser enviado.</Entry>
   <Entry Index="364">Sopa de Missô</Entry>
-  <Entry Index="365">Um prato ligeiro fato com miso. Pode ser
+  <Entry Index="365">Um prato ligeiro feito com miso. Pode ser
 comido, mas não pode ser enviado.</Entry>
   <Entry Index="366">Fritado de Verduras</Entry>
   <Entry Index="367">Um prato de verduras frescas picadas em uma
@@ -622,7 +622,7 @@ Pode ser bebido, mas não enviado.</Entry>
   <Entry Index="380">Batida de Frutas</Entry>
   <Entry Index="381">[Bebida]
 Uma mistura de suco de frutas e leite. Pode
-ser bebida , mas não pode ser enviada.</Entry>
+ser bebida, mas não pode ser enviada.</Entry>
   <Entry Index="382"></Entry>
   <Entry Index="383"></Entry>
   <Entry Index="384">Batida Mista</Entry>
