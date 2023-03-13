@@ -706,54 +706,53 @@ trabalhando muito duro hoje! Você acha que estou indo bem?
 Ei? Ei uh?&lt;wait&gt;</Entry>
   <Entry Index="310">Desde que você veio, &lt;nickname&gt;, vou tentar fazer
 meu trabalho ainda melhor!&lt;wait&gt;</Entry>
-  <Entry Index="311">¿Eh? Ah, hola, &lt;playername&gt;.
-Lo siento, pero hoy está cerrado.&lt;wait&gt;</Entry>
-  <Entry Index="312">¿Mmm? ¿Yo? Oh, no, no. No puedo. Como me aleje
-demasiado de la caja registradora, mamá me mata.&lt;wait&gt;</Entry>
-  <Entry Index="313">Vaya, está lloviendo. No suele llover mucho en la ciudad en
-la que vivo ahora con mi familia.&lt;wait&gt;</Entry>
-  <Entry Index="314">En fin. Supongo que el tiempo ha decidido que debo
-tomarme un descanso por hoy. Ahora que lo pienso, creo
-que Kai también ha cerrado hoy.&lt;wait&gt;</Entry>
-  <Entry Index="315">Ah, hola, &lt;playername&gt;. ¿Qué tal te ha ido?&lt;wait&gt;</Entry>
-  <Entry Index="316">Solamente vengo de visita durante las vacaciones de
-verano. Cada vez que vuelvo a la ciudad y me reencuentro
-con todo el mundo, me invade la nostalgia.&lt;wait&gt;</Entry>
-  <Entry Index="317">Ah, hola, &lt;playername&gt;. Supongo que, como siempre,
-tendrás muchas cosas que hacer en la granja, ¿eh?&lt;wait&gt;</Entry>
-  <Entry Index="318">Ahora que Kai y yo estamos juntos, estoy viviendo un
-verano eterno.&lt;wait&gt;&lt;page&gt;
-¿Me notas más morena que antes?&lt;wait&gt;</Entry>
-  <Entry Index="319">¡Hola, &lt;playername&gt;! ¿Cómo estás?&lt;wait&gt;</Entry>
-  <Entry Index="320">Algunas veces echo de menos estar aquí en primavera y
-otoño. Incluso echo de menos el invierno.&lt;wait&gt;&lt;page&gt;
-Pero no puedo dejar solo a Kai. Si lo hiciera, no tardaría
-mucho en empezar a hablar con otras chicas.&lt;wait&gt;</Entry>
-  <Entry Index="321">¡Hola, &lt;playername&gt;! ¿Cómo va la granja?
-¿Sigue siendo como la recuerdo?&lt;wait&gt;</Entry>
-  <Entry Index="322">Qué suerte tienes, &lt;playername&gt;. Puedes jugar con
-los animales y cuidarlos todo el día.&lt;wait&gt;&lt;page&gt;
-A veces, echo mucho de menos jugar con las gallinas...&lt;wait&gt;</Entry>
-  <Entry Index="323">Ah, hola, &lt;playername&gt;. ¿Trabajando duro?&lt;wait&gt;</Entry>
-  <Entry Index="324">Siempre quise viajar por el mundo, pero ahora que lo he
-recorrido de punta a punta, creo que esta ciudad me
-gusta mucho más que antes.&lt;wait&gt;</Entry>
-  <Entry Index="325">&lt;playername&gt;, te veo más mayor cada año que vengo
-a visitarte.&lt;wait&gt;&lt;page&gt;
-Supongo que es algo bastante obvio, ¿no? Bah, Popuri.&lt;wait&gt;</Entry>
-  <Entry Index="326">Kai es muy tonto. No hago más que decirle que podemos
-quedarnos en casa de mi familia cuando venimos de visita...&lt;wait&gt;&lt;page&gt;
-Pero siempre insiste en quedarse en la pensión. Me
-pregunto por qué.&lt;wait&gt;</Entry>
-  <Entry Index="327">Ah, hola, &lt;playername&gt;. A veces pienso que es un poco
-triste que solo pueda venir de visita en verano.&lt;wait&gt;</Entry>
-  <Entry Index="328">Cada vez que vengo de visita, no puedo evitar pensar que,
-esta vez, papá estará en casa...&lt;wait&gt;&lt;page&gt;
-Pero supongo que este año tampoco toca.&lt;wait&gt;</Entry>
-  <Entry Index="329">Karen es una persona muy trabajadora, en la que se
-puede confiar. Me ayuda muchísimo.&lt;wait&gt;</Entry>
-  <Entry Index="330">Cuando está con ella, Rick saca su lado más agradable y
-cariñoso. ¡Es muy diferente a cuando está conmigo!&lt;wait&gt;</Entry>
+  <Entry Index="311">Huh? Oh, Olá, &lt;playername&gt;.
+Desculpe, mas estamos fechados hoje..&lt;wait&gt;</Entry>
+  <Entry Index="312">Hum? Meu? Não, não. Não posso. Mamãe não me
+deixa entrar cinco pés do registro.&lt;wait&gt;</Entry>
+  <Entry Index="313">Awww, está chovendo. Não chove muito na cidade onde
+minha família e eu moramos agora.&lt;wait&gt;</Entry>
+  <Entry Index="314">Ah bem. Acho que o tempo decidiu que eu deveria
+relaxar hoje. Pensando bem, acho 
+que o Kai também fechou a loja.&lt;wait&gt;</Entry>
+  <Entry Index="315">Oh, Olá, &lt;playername&gt;. Como você tem estado?&lt;wait&gt;</Entry>
+  <Entry Index="316">Eu só visito durante o verão agora, então voltando para a cidade
+e ver todo mundo fica super nostálgico.&lt;wait&gt;</Entry>
+  <Entry Index="317">Oh, Olá, &lt;playername&gt;. Eu acho que você tem muito o que fazer em
+sua fazenda como sempre, né?&lt;wait&gt;</Entry>
+  <Entry Index="318">Agora que Kai e eu estamos juntos, estou vivendo em um
+verão interminável.&lt;wait&gt;&lt;page&gt;
+Pareço mais bronzeado do que antes?&lt;wait&gt;</Entry>
+  <Entry Index="319">Oi!, &lt;playername&gt;! Como vai??&lt;wait&gt;</Entry>
+  <Entry Index="320">Às vezes sinto falta de estar aqui na primavera e no 
+outono. Eu até sinto falta do inverno às vezes.&lt;wait&gt;&lt;page&gt;
+Mas não posso deixar Kai sozinho. Se eu fizesse, tenho certeza que
+ele começaria conversando com outras garotas rapidamente.&lt;wait&gt;</Entry>
+  <Entry Index="321">Oi!, &lt;playername&gt;! Como está a fazenda?
+Ainda é como eu me lembro?&lt;wait&gt;</Entry>
+  <Entry Index="322">Você é sortudo,, &lt;playername&gt;. Você começa a jogar com os
+animais que você cuida o tempo todo.&lt;wait&gt;&lt;page&gt;
+Às vezes, eu realmente sinto falta de brincar com nossas galinhas...&lt;wait&gt;</Entry>
+  <Entry Index="323">Oh, Olá, &lt;playername&gt;. Trabalhando duro hoje?&lt;wait&gt;</Entry>
+  <Entry Index="324">Eu sempre quis viajar pelo mundo, mas agora que eu tenho,
+andando de ponta a ponta, Acho que gosto desta cidade 
+ainda mais do que costumava.&lt;wait&gt;</Entry>
+  <Entry Index="325">&lt;playername&gt;, você parece cada vez mais crescido
+a cada ano que venho lhe visitar.&lt;wait&gt;&lt;page&gt;
+Acho que é uma coisa meio óbvia de se dizer, né? Duh, Popuri.&lt;wait&gt;</Entry>
+  <Entry Index="326">Kai é tão bobo. Eu continuo dizendo a ele que podemos
+ficar na casa da minha família quando vier nos visitar...&lt;wait&gt;&lt;page&gt;
+Mas ele sempre insiste em ficar na pousada. Eu
+quero saber o porque..&lt;wait&gt;</Entry>
+  <Entry Index="327">Oh, Oi, &lt;playername&gt;. Sabe, quando penso nisso,
+é um pouco triste que eu só possa visitar aqui no verão.&lt;wait&gt;</Entry>
+  <Entry Index="328">Sempre que volto para visitar,, Eu não posso deixar de me perguntar se
+desta vez, papai terá voltado para casa...&lt;wait&gt;&lt;page&gt;
+Mas acho que não era para acontecer este ano também.&lt;wait&gt;</Entry>
+  <Entry Index="329">Karen é uma pessoa muito trabalhadora, em quem você
+pode confiar. Ela me ajuda muito.&lt;wait&gt;</Entry>
+  <Entry Index="330">Sempre que está com Karen, Rick é super legal e
+ doce. Isso é muuuito diferente do que ele é comigo!&lt;wait&gt;</Entry>
   <Entry Index="331">Ah, hola, &lt;playername&gt;. ¿Cómo lo lleva
 &lt;childname&gt;? Espero que bien.&lt;wait&gt;</Entry>
   <Entry Index="332">Esto... eh, ¿podría pedirte un favor? ¿Podrías decirle a
