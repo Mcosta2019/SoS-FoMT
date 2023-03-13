@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Entries Count="233">
+  <Entry Index="0">Devo explicar as regras para você?</Entry>
+  <Entry Index="1">Sim</Entry>
+  <Entry Index="2">Não</Entry>
+  <Entry Index="3">Você entendeu?</Entry>
+  <Entry Index="4">Entendi.</Entry>
+  <Entry Index="5">Não, me explique de novo.</Entry>
+  <Entry Index="6">Então vamos lá!&lt;wait&gt;</Entry>
+  <Entry Index="7"></Entry>
+  <Entry Index="8"></Entry>
+  <Entry Index="9">%d</Entry>
+  <Entry Index="10">Objetivo</Entry>
+  <Entry Index="11">%d pontos</Entry>
+  <Entry Index="12">Resultados</Entry>
+  <Entry Index="13">Total regado</Entry>
+  <Entry Index="14">Bônus</Entry>
+  <Entry Index="15">Gafes</Entry>
+  <Entry Index="16">Total colhido</Entry>
+  <Entry Index="17">Total alimentado</Entry>
+  <Entry Index="18">Total</Entry>
+  <Entry Index="19"></Entry>
+  <Entry Index="20"></Entry>
+  <Entry Index="21"></Entry>
+  <Entry Index="22"></Entry>
+  <Entry Index="23"></Entry>
+  <Entry Index="24"></Entry>
+  <Entry Index="25"></Entry>
+  <Entry Index="26"></Entry>
+  <Entry Index="27"></Entry>
+  <Entry Index="28"></Entry>
+  <Entry Index="29"></Entry>
+  <Entry Index="30"></Entry>
+  <Entry Index="31">Deixe-me explicar como jogar o minijogo Alimentar
+os animais!&lt;wait&gt;</Entry>
+  <Entry Index="32"></Entry>
+  <Entry Index="33"></Entry>
+  <Entry Index="34"></Entry>
+  <Entry Index="35"></Entry>
+  <Entry Index="36">Deixe-me explicar como jogar o minijogo da Colher
+a Plantação!&lt;wait&gt;</Entry>
+  <Entry Index="37"></Entry>
+  <Entry Index="38"></Entry>
+  <Entry Index="39"></Entry>
+  <Entry Index="40"></Entry>
+  <Entry Index="41"></Entry>
+  <Entry Index="42"></Entry>
+  <Entry Index="43"></Entry>
+  <Entry Index="44"></Entry>
+  <Entry Index="45"></Entry>
+  <Entry Index="46">As semifinais estão prestes a começar.</Entry>
+  <Entry Index="47">Chegou a hora do terceiro confronto. Com isso
+será decidido a galinha que levará a coroa. 
+Dê o seu melhor!&lt;wait&gt;</Entry>
+  <Entry Index="48">Primeiro confronto! Preparados... Pronto...&lt;wait&gt;</Entry>
+  <Entry Index="49">Confronto da semifinal! Preparados... Pronto...&lt;wait&gt;</Entry>
+  <Entry Index="50">O Confronto Final! Preparados... Pronto...&lt;wait&gt;</Entry>
+  <Entry Index="51">É o bastante!&lt;wait&gt;</Entry>
+  <Entry Index="52">É o bastante!&lt;wait&gt;</Entry>
+  <Entry Index="53">Vou explicar como funcion o Cluck-Cluck Clash.&lt;wait&gt;</Entry>
+  <Entry Index="54"></Entry>
+  <Entry Index="55"></Entry>
+  <Entry Index="56"></Entry>
+  <Entry Index="57"></Entry>
+  <Entry Index="58">Feno</Entry>
+  <Entry Index="59">Lau</Entry>
+  <Entry Index="60">Bicos</Entry>
+  <Entry Index="61">Feliz</Entry>
+  <Entry Index="62">Turulete</Entry>
+  <Entry Index="63">Gengibre</Entry>
+  <Entry Index="64">Cornelius</Entry>
+  <Entry Index="65">Vika</Entry>
+  <Entry Index="66">Téca</Entry>
+  <Entry Index="67">Gali</Entry>
+  <Entry Index="68">Atrasada</Entry>
+  <Entry Index="69">Hora</Entry>
+  <Entry Index="70">Matilda</Entry>
+  <Entry Index="71">Espiga</Entry>
+  <Entry Index="72">Franqa</Entry>
+  <Entry Index="73">Cauda</Entry>
+  <Entry Index="74">Penas</Entry>
+  <Entry Index="75">Pequena</Entry>
+  <Entry Index="76">Desajeitada</Entry>
+  <Entry Index="77">Caldo</Entry>
+  <Entry Index="78">Devo explicar as regras para você?&lt;wait&gt;</Entry>
+  <Entry Index="79">Não, eu já sei.</Entry>
+  <Entry Index="80">Espere, explique novamente.</Entry>
+  <Entry Index="81">&lt;string0&gt; ganha!&lt;wait&gt;</Entry>
+  <Entry Index="82">Entendeu?&lt;wait&gt;</Entry>
+  <Entry Index="83">Tudo pronto!</Entry>
+  <Entry Index="84">Primeiro confronto</Entry>
+  <Entry Index="85">Confronto da semifinal</Entry>
+  <Entry Index="86">Confronto final</Entry>
+  <Entry Index="87">Anjo</Entry>
+  <Entry Index="88">César</Entry>
+  <Entry Index="89">Pimenta</Entry>
+  <Entry Index="90">Míssil</Entry>
+  <Entry Index="91">Koro</Entry>
+  <Entry Index="92">Sif</Entry>
+  <Entry Index="93">Sora</Entry>
+  <Entry Index="94">KK</Entry>
+  <Entry Index="95">Ossos</Entry>
+  <Entry Index="96">Bababos</Entry>
+  <Entry Index="97">Churras</Entry>
+  <Entry Index="98">Balto</Entry>
+  <Entry Index="99">Peleón</Entry>
+  <Entry Index="100">Canela</Entry>
+  <Entry Index="101">Chacho</Entry>
+  <Entry Index="102">Cascos</Entry>
+  <Entry Index="103">Dante</Entry>
+  <Entry Index="04">Eles pularão</Entry>
+  <Entry Index="105">Imperador</Entry>
+  <Entry Index="106">Hayate</Entry>
+  <Entry Index="107">Concluído</Entry>
+  <Entry Index="108">Lafu</Entry>
+  <Entry Index="109">Fluff</Entry>
+  <Entry Index="110">Cão de Caça</Entry>
+  <Entry Index="111">Sorte</Entry>
+  <Entry Index="112">Sombra</Entry>
+  <Entry Index="113">Mordidas</Entry>
+  <Entry Index="114">Gaspar</Entry>
+  <Entry Index="115">Sirius</Entry>
+  <Entry Index="116">Menino</Entry>
+  <Entry Index="117">Pontuações altas dos Festivais Frisbee</Entry>
+  <Entry Index="118">%d</Entry>
+  <Entry Index="119">Devo explicar as regras para você?</Entry>
+  <Entry Index="120"></Entry>
+  <Entry Index="121"></Entry>
+  <Entry Index="122"></Entry>
+  <Entry Index="123"></Entry>
+  <Entry Index="124"></Entry>
+  <Entry Index="125">Quer que eu explique novamente?</Entry>
+  <Entry Index="126">Faça o segundo srremesso.&lt;wait&gt;</Entry>
+  <Entry Index="127">O festival terminou.&lt;wait&gt;</Entry>
+  <Entry Index="128">Deseja tentar novamente?&lt;wait&gt;</Entry>
+  <Entry Index="129">Parece que não quer jogar Frisbee novamente.&lt;wait&gt;</Entry>
+  <Entry Index="130">Você encontrou: &lt;low&gt;&lt;string0&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="131">Nada encontrado.&lt;wait&gt;</Entry>
+  <Entry Index="132">Não vejo</Entry>
+  <Entry Index="133">Visualizar</Entry>
+  <Entry Index="134">Distância</Entry>
+  <Entry Index="135">Registro</Entry>
+  <Entry Index="136">Angus</Entry>
+  <Entry Index="137">Cani</Entry>
+  <Entry Index="138">Rápido</Entry>
+  <Entry Index="139">Bolo</Entry>
+  <Entry Index="140">Rena</Entry>
+  <Entry Index="141">Aarão</Entry>
+  <Entry Index="142">Izzy</Entry>
+  <Entry Index="143">Capitão</Entry>
+  <Entry Index="144">Beber</Entry>
+  <Entry Index="145">Hudson</Entry>
+  <Entry Index="146">Pônei</Entry>
+  <Entry Index="147">Máx.</Entry>
+  <Entry Index="148">Campeão</Entry>
+  <Entry Index="149">Maria Lou</Entry>
+  <Entry Index="150">Primrose</Entry>
+  <Entry Index="151">Trovão</Entry>
+  <Entry Index="152">Sleipner</Entry>
+  <Entry Index="153">Arion</Entry>
+  <Entry Index="154">Cinza</Entry>
+  <Entry Index="155">Pés de fogo</Entry>
+  <Entry Index="156">Faturar</Entry>
+  <Entry Index="157">Choco</Entry>
+  <Entry Index="158">Analisar</Entry>
+  <Entry Index="159">Coz</Entry>
+  <Entry Index="160">Philip</Entry>
+  <Entry Index="161">Colton</Entry>
+  <Entry Index="162">Julian</Entry>
+  <Entry Index="163">Balé</Entry>
+  <Entry Index="164">Orvalho</Entry>
+  <Entry Index="165">Trojan</Entry>
+  <Entry Index="166">Estrela de Prata</Entry>
+  <Entry Index="167">Marrom</Entry>
+  <Entry Index="168">Jacques</Entry>
+  <Entry Index="169">Corcel Negro</Entry>
+  <Entry Index="170">Bruto</Entry>
+  <Entry Index="171">Dani</Entry>
+  <Entry Index="172">Chamas</Entry>
+  <Entry Index="173">Bull</Entry>
+  <Entry Index="174">Baxter</Entry>
+  <Entry Index="175">Chuva</Entry>
+  <Entry Index="176">Você não vai comprar nada?</Entry>
+  <Entry Index="177">Volte em breve.&lt;wait&gt;</Entry>
+  <Entry Index="178">Não tenha pressa.&lt;wait&gt;</Entry>
+  <Entry Index="179">Tudo bem para você?</Entry>
+  <Entry Index="180">Sim, muito bom. Que a Deusa da Colheita esteja ao seu lado.&lt;wait&gt;</Entry>
+  <Entry Index="181">Sim, muito bom. Dê o seu melhor.&lt;wait&gt;</Entry>
+  <Entry Index="182">Você mudou de ideia?&lt;wait&gt;</Entry>
+  <Entry Index="183">Você precisa de instruções?</Entry>
+  <Entry Index="184">&lt;page&gt;
+Vamos explicar a corrida!&lt;wait&gt;
+Pressione o botão Confirmar quando quiser que
+o cavalo acelere!&lt;wait&gt;
+Mas lembre-se de que acelerar fará seu cavalo
+consumir resistência!&lt;wait&gt;</Entry>
+  <Entry Index="185">&lt;page&gt;
+Quando o balão do seu cavalo está verde,
+significa que ele tem resistência de sobra!&lt;wait&gt;</Entry>
+  <Entry Index="186"></Entry>
+  <Entry Index="187"></Entry>
+  <Entry Index="188">&lt;page&gt;
+Se você não pressionar Confirmar, a resistência
+do seu cavalo irá se recuperar gradualmente.&lt;wait&gt;
+Fique de olho no balão do seu cavalo enquanto
+você coordena quando pressionar o botão para
+aproveitá-lo ao máximo!&lt;wait&gt;</Entry>
+  <Entry Index="189">Ouça a explicação novamente.</Entry>
+  <Entry Index="190">Ok, vamos começar.&lt;wait&gt;</Entry>
+  <Entry Index="191">N.º 1 &lt;string1&gt;
+N.º 2 &lt;string2&gt;&lt;esperar&gt;&lt;página&gt;
+N.º 3 &lt;string3&gt;
+N.º 4 &lt;string4&gt;&lt;wait&gt;&lt;page&gt;
+A corrida começará em instantes.&lt;wait&gt;&lt;page&gt;
+Pronto...&lt;wait&gt;</Entry>
+  <Entry Index="192">O resultado da corrida:
+1ª posição: &lt;string1&gt;
+2ª posição: &lt;string2&gt;&lt;wait&gt;&lt;page&gt;
+3ª posição: &lt;string3&gt;
+4ª posição: &lt;string4&gt;&lt;wait&gt;&lt;page&gt;
+Os resultados foram definidos.&lt;wait&gt;</Entry>
+  <Entry Index="193">Os participantes da corrida #&lt;string1&gt;
+são os seguintes.&lt;wait&gt;</Entry>
+  <Entry Index="194">Se você quiser trocar as medalhas por prêmios, venha
+falar comigo no balcão.&lt;wait&gt;&lt;page&gt;
+As medalhas só podem ser trocadas por prêmios
+durante o Dérbi, não se esqueça.&lt;wait&gt;</Entry>
+  <Entry Index="195">Bilhetes do cavalo</Entry>
+  <Entry Index="196"></Entry>
+  <Entry Index="197">Medalhas conquistadas</Entry>
+  <Entry Index="198"></Entry>
+  <Entry Index="199">Selecione o cavalo para o qual deseja comprar bilhetes.</Entry>
+  <Entry Index="200"></Entry>
+  <Entry Index="201"></Entry>
+  <Entry Index="202"></Entry>
+  <Entry Index="203"></Entry>
+  <Entry Index="204"></Entry>
+  <Entry Index="205"></Entry>
+  <Entry Index="206"></Entry>
+  <Entry Index="207">Corrida #%d</Entry>
+  <Entry Index="208">%dx</Entry>
+  <Entry Index="209">%d medalhas</Entry>
+  <Entry Index="210">Prêmios</Entry>
+  <Entry Index="211">Suas Medalhas</Entry>
+  <Entry Index="212"></Entry>
+  <Entry Index="213">Não deseja trocar nada?</Entry>
+  <Entry Index="214">Volte em breve.&lt;wait&gt;</Entry>
+  <Entry Index="215">Não tenha pressa.
+&lt;wait&gt;</Entry>
+  <Entry Index="216">Você concorda com &lt;low&gt;&lt;string1&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="217">Você mudou de ideia?&lt;wait&gt;</Entry>
+  <Entry Index="218">Você não tem medalhas suficientes.&lt;wait&gt;</Entry>
+  <Entry Index="219">Deseja trocar por este prêmio?</Entry>
+  <Entry Index="220">Trocar</Entry>
+  <Entry Index="221">Melhor não</Entry>
+  <Entry Index="222">Que bom!</Entry>
+  <Entry Index="223">Que pena!</Entry>
+  <Entry Index="224">Foi um sucesso!</Entry>
+  <Entry Index="225">Que fracasso...</Entry>
+  <Entry Index="226">INICIAR</Entry>
+  <Entry Index="227">PAUSA</Entry>
+  <Entry Index="228">META</Entry>
+  <Entry Index="229">-</Entry>
+  <Entry Index="230">-</Entry>
+  <Entry Index="231">-</Entry>
+  <Entry Index="232">-</Entry>
+</Entries>

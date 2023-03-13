@@ -1,0 +1,2681 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entries Count="1269">
+  <Entry Index="0">2020/01/01</Entry>
+  <Entry Index="1">Da praça</Entry>
+  <Entry Index="2">Do topo da montanha</Entry>
+  <Entry Index="3">Da praia</Entry>
+  <Entry Index="4">De outras áreas</Entry>
+  <Entry Index="5">Voltar</Entry>
+  <Entry Index="6">Sair</Entry>
+  <Entry Index="7">Muito bem! É hora de desfrutar desse banquete de mochis!&lt;wait&gt;</Entry>
+  <Entry Index="8">Meu Deus! Você estava cozinhando mochis! 
+Sobraram um montão.&lt;wait&gt;&lt;page&gt;
+Tem alguns para você levar para casa. Entregue para
+as pessoas que não puderam vir hoje.&lt;wait&gt;</Entry>
+  <Entry Index="9">&lt;playername&gt;, vejo que sua mochila está cheia.
+Se não estivesse...&lt;wait&gt;</Entry>
+  <Entry Index="10">Os mochis estão deliciosos! Ufa. Ora, não posso comer
+mais.&lt;wait&gt;</Entry>
+  <Entry Index="11">Que gostosos estão os mochis! Mas... acho que comi
+demais. Agh...&lt;wait&gt;</Entry>
+  <Entry Index="12">Os mochis estavam muito bons! E tenho de sobra para
+levar para casa. Que grande dia.&lt;wait&gt;</Entry>
+  <Entry Index="13">Olá. Também venho comer? Depois de tudo, é o
+único festival do ano dedicado aos mochis.
+Temos que aproveitar!&lt;wait&gt;</Entry>
+  <Entry Index="14">Os mochis recém feitos são uma delícia. Uma mordida
+e vai quer comer para sempre.&lt;wait&gt;</Entry>
+  <Entry Index="15">Sim, mochis! Adoro os mochis recém feitos!&lt;wait&gt;</Entry>
+  <Entry Index="16">Olá, &lt;playername&gt;. Também veio
+comer mochis?&lt;wait&gt;&lt;page&gt;
+São minha perdição. Não tem problema comer um pouco
+a mais... É só um dia.&lt;wait&gt;</Entry>
+  <Entry Index="17">Há muito tempo que não como mochis. Tenho que
+levar alguns para a vovó.&lt;wait&gt;</Entry>
+  <Entry Index="18">Os mochis recém feitos têm uma textura muito pegajosa.&lt;wait&gt;</Entry>
+  <Entry Index="19">É difícil se controlar quando tem tantos mochis para
+comer ao seu alcance.&lt;wait&gt;</Entry>
+  <Entry Index="20">Boa tarde, &lt;playername&gt;. Você também gosta
+você gosta de mochi?
+Eu os amo. Mas eu sei que se eu me empanturrar,
+vou me arrepender depois.
+Só por hoje, quero comer até não poder mais.&lt;wait&gt;</Entry>
+  <Entry Index="21">Os mochis são meu vício. Confesso que me deixam louco.&lt;wait&gt;</Entry>
+  <Entry Index="22">Este é um de meus festivais favoritos do ano,
+quando nos reunimos todos para fazer mochis.
+Não perco nunca.&lt;wait&gt;</Entry>
+  <Entry Index="23">Faz séculos que não como um mochi. Ali em cima, na
+montanha, não temos.&lt;wait&gt;</Entry>
+  <Entry Index="24">Ceeeerto! Mochis, mochis! ?&lt;wait&gt;</Entry>
+  <Entry Index="25">Paf... Paf... Paf... Paf...
+Paf... Paf... Paf... Paf...
+Paf... Paf... Paf... Paf...&lt;wait&gt;&lt;page&gt;
+Ceeeerto! Este mochi já está terminado!&lt;wait&gt;</Entry>
+  <Entry Index="26">Olá, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Amanhã celebraremos o Dérbi de Primavera às 10:00
+da manhã na praça.&lt;wait&gt;&lt;page&gt;
+Se tiver cavalos em sua fazenda, seria bom se você
+se registrasse e patrocinasse o festival..&lt;wait&gt;</Entry>
+  <Entry Index="27">Olá, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Amanhã celebraremos o Dérbi de Primavera às 10:00
+da manhã na praça.&lt;wait&gt;&lt;page&gt;
+Se tiver cavalos em sua fazenda, seria bom se você
+se registrasse e patrocinasse o festival.&lt;wait&gt;</Entry>
+  <Entry Index="28">Olá, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Amanhã celebraremos o Dérbi de Primavera às 10:00
+da manhã na praça.&lt;wait&gt;&lt;page&gt;
+Gostarias de participar com o cavalo
+que tem em sua fazenda?&lt;wait&gt;</Entry>
+  <Entry Index="29">Claro!</Entry>
+  <Entry Index="30">Acho que vou passar.</Entry>
+  <Entry Index="31">Oh, maravilhoso! Fico feliz de que possamos
+contar contigo.&lt;wait&gt;&lt;page&gt;
+Eu me encarregarei de &lt;myhorsename&gt;.&lt;wait&gt;&lt;page&gt;
+Amanhã o Dérbi de Primavera começa às 10:00,
+então não se atrase!&lt;wait&gt;</Entry>
+  <Entry Index="32">Oh, que pena... Mas, embora não participe, há outras
+formas de desfrutar o festival. Pode comprar bilhetes
+e ganhar prêmios!&lt;wait&gt;&lt;page&gt;
+Venha amanhã. Terá movimento a partir das 10:00.
+Espero ver você!&lt;wait&gt;</Entry>
+  <Entry Index="33">Sei que fico muito empolgado com as corridas de cavalos,
+mas é que não posso o evitar. São muito emocionantes!&lt;wait&gt;</Entry>
+  <Entry Index="34">Você vai participar da corrida, né? Boa sorte!
+Estarei torcendo por você, então brilhe.&lt;wait&gt;</Entry>
+  <Entry Index="35">Você comprou um bilhete? Eu deixei uma fortuna!&lt;wait&gt;</Entry>
+  <Entry Index="36">Mal posso esperar para ver você correr. Boa sorte!&lt;wait&gt;</Entry>
+  <Entry Index="37">Gray queria vir, mas quando seu avô descobriu, ele
+o impediu.&lt;wait&gt;</Entry>
+  <Entry Index="38">Ei, hoje você vai estar nac corrida, certo?
+Boa sorte.&lt;wait&gt;</Entry>
+  <Entry Index="39">Não me vejo montando um cavalo. Tem que ter coragem
+para participar dessas corridas.&lt;wait&gt;</Entry>
+  <Entry Index="40">Tente não se machucar, certo?&lt;wait&gt;</Entry>
+  <Entry Index="41">Tenho bom olho para a escolha. Sempre aposto no
+cavalo vencedor. Que sorte a minha! ?&lt;wait&gt;</Entry>
+  <Entry Index="42">Espero muito de você, então vá em frente!&lt;wait&gt;</Entry>
+  <Entry Index="43">Fico feliz que hoje seja um dia ensolarado. E há
+uma brisa maravilhosa soprando!&lt;wait&gt;</Entry>
+  <Entry Index="44">Chegou a sua hora! Tem que dar tudo sí!&lt;wait&gt;</Entry>
+  <Entry Index="45">Toda vez que esse dia se aproxima, fico tão empolgado
+que não consigo dormir.&lt;wait&gt;</Entry>
+  <Entry Index="46">Se vai competir, tente ficar em primeiro lugar!&lt;wait&gt;</Entry>
+  <Entry Index="47">Sabia que os cavalos do Rancho Yodel também
+participam na corrida? Mas são montandos por
+outros competidores.&lt;wait&gt;&lt;page&gt;
+Esse ano parece que muita gente apareceu. Dizem que
+o velho Mugi também costumava participar!&lt;wait&gt;</Entry>
+  <Entry Index="48">Porve o seu valor! Mas não se machuque!&lt;wait&gt;</Entry>
+  <Entry Index="49">Aqui pode comprar bilhetes e trocar
+medalhas por prêmios.&lt;wait&gt;&lt;page&gt;
+Quando quizer começar a corrida, fale comigo.&lt;wait&gt;</Entry>
+  <Entry Index="50">Os participantes também podem comprar bilhetes.
+Costumam apostar em sim mesmos. Ho ho ho.&lt;wait&gt;</Entry>
+  <Entry Index="51">Lembrou-se de comprar os bilhetes? Se estiver
+interessado, o prefeito os vende.&lt;wait&gt;</Entry>
+  <Entry Index="52">Apostei em você, então é melhor você ganhar!&lt;wait&gt;</Entry>
+  <Entry Index="53">Sou péssimo em jogos de azar. Acho que olhar para o
+aspecto físico não vale a pena. Mas eu não consigo
+encontrar outra maneira de distinguir um vencedor...
+É uma festa, você deveria se divertir,
+mas é tão frustrante!&lt;wait&gt;</Entry>
+  <Entry Index="54">Ah, &lt;playername&gt;! Você vai participar
+da corrida, certo?
+apostei em você, é claro. Se esforce bastante.
+Se alguém que eu conhecesse participasse das corridas,
+não teria problemas para saber em quem apostar.
+Ah, mas não apostei em você só por esse motivo. Confio
+em suas habilidades.&lt;wait&gt;</Entry>
+  <Entry Index="55">As corridas são uma oportunidade para ver os cavalos
+que foram criados na região. É outra das razões
+pela qual gosto desse festival.&lt;wait&gt;</Entry>
+  <Entry Index="56">Parece que é a sua vez. Boa sorte.
+Estarei torcendo por você.&lt;wait&gt;</Entry>
+  <Entry Index="57">Os cavalos são animais formidáveis. Eu adimiro
+o quão afoito eles correm para a vitória.&lt;wait&gt;</Entry>
+  <Entry Index="58">Ouvi dizer que vai participar da corrida. Acredite em você
+e em tudo o que fez para chegar até aqui.&lt;wait&gt;&lt;page&gt;
+Que seu cavalo e você sejam um na corrida.
+A vitória virá mais tarde.&lt;wait&gt;</Entry>
+  <Entry Index="59">Há muitos de cavalos por aqui.&lt;wait&gt;</Entry>
+  <Entry Index="60">&lt;myhorsename&gt; vai participar, certo?&lt;wait&gt;</Entry>
+  <Entry Index="61">Passo o ano inteiro esperando ansioso
+para esse dia chegar.&lt;wait&gt;</Entry>
+  <Entry Index="62">Uau, correrá na próxima corrida? Vai com calma.
+Essa é a chave para a vitória.&lt;wait&gt;</Entry>
+  <Entry Index="63">As corridas terminaram oficialmente e todos
+foram para casa. foi em um ótimo dia.&lt;wait&gt;&lt;page&gt;
+Eu vou ficar mais um pouco para limpar, então se você
+quiser trocar medalhas por prêmios, é só me dizer.&lt;wait&gt;</Entry>
+  <Entry Index="64">Quer trocar medalhas por prêmios?&lt;wait&gt;</Entry>
+  <Entry Index="65">Trocar medalhas</Entry>
+  <Entry Index="66">Outra hora</Entry>
+  <Entry Index="67">Veio para trocar medalhas?&lt;wait&gt;</Entry>
+  <Entry Index="68">Temo que não posso te dar nenhum prêmio se tiver
+com as mãos cheias.&lt;wait&gt;</Entry>
+  <Entry Index="69">Termimou?&lt;wait&gt;</Entry>
+  <Entry Index="70">Uau, que corrida! Parabéns, &lt;playername&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="71">Olá, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Amanhã celebraremos o Concurso Gastronômico às
+10:00 da manhã na praça.&lt;wait&gt;&lt;page&gt;
+Poderá participar se trouxer algumas de suas criações.
+Espero te ver!&lt;wait&gt;</Entry>
+  <Entry Index="72">Mamãe, não precisa levar isso tão sério. Não exagere,ok?&lt;wait&gt;</Entry>
+  <Entry Index="73">Que prato eu preparo? Hmm...&lt;wait&gt;</Entry>
+  <Entry Index="74">Ei, &lt;playername&gt;. Vai cozinhar algo para
+o concurso?&lt;wait&gt;&lt;page&gt;
+Espero que seja algo que valha a pena.&lt;wait&gt;&lt;page&gt;
+Afinal, temos a Bon Vivant como juiz.
+Qualquer coisa não vale o seu paladar requintado!&lt;wait&gt;</Entry>
+  <Entry Index="75">vim porque disseram que a Lillia ia participar.&lt;wait&gt;&lt;page&gt;
+Se houver alguma emergência,
+estarei por aqui.&lt;wait&gt;</Entry>
+  <Entry Index="76">O tema do concurso será algo
+incomum desta vez: "&lt;string0&gt;".&lt;wait&gt;&lt;page&gt;
+Não me parece delicioso.
+Foi cometido um erro.
+Você deveria denunciar isso.</Entry>
+  <Entry Index="77">O tema do concurso é: "suco". Espero que todos
+espremam sabores excelentes hoje.&lt;wait&gt;</Entry>
+  <Entry Index="78">O tema do concurso é: "lanches". Quero que façam doces
+que encontrem a criança que temos dentro de nós!&lt;wait&gt;</Entry>
+  <Entry Index="79">O tema do concurso é: "pão". Espero que todos estejam
+a altura.&lt;wait&gt;</Entry>
+  <Entry Index="80">O tema do concurso é: "udon". Espero muitas tijelas
+transbordando de macarrão super logo!&lt;wait&gt;</Entry>
+  <Entry Index="81">O tema do concurso é: "arroz". Quero variedade, de modo
+que não me importo se irão fervem, fritar ou cozinhar no
+vapor! Sejam criativos para alcançar vitória!&lt;wait&gt;</Entry>
+  <Entry Index="82">Mmmm... O que eu faço, o que eu faço?&lt;wait&gt;</Entry>
+  <Entry Index="83">Não tenho nem ideia de qual será o tema desta vez.&lt;wait&gt;&lt;page&gt;
+Karen vai participar de todas maneira...&lt;wait&gt;</Entry>
+  <Entry Index="84">Ganharei o primeiro lugar e monstrarei a todos o bom
+eu sou em cozinhar. A reputação de minha estalagem está
+em jogo!&lt;wait&gt;</Entry>
+  <Entry Index="85">Hoje prentendo me exibir.&lt;wait&gt;</Entry>
+  <Entry Index="86">O concurso de hoje vai ser um prazer para os sentidos!
+Mal posso esperar para ver quais pratos
+serão apresentados.&lt;wait&gt;</Entry>
+  <Entry Index="87">Vamos lá, você também vai participar? O que vai preparar?
+Posso cozinhar qualquer coisa, mas para obter os melhores
+sabores, deve ser cozinhado com cuidado.
+Não acha?&lt;wait&gt;</Entry>
+  <Entry Index="88">Adoro esse festival. Quando as pessaos se jogam 
+na cozinha, os resultados são incríveis.&lt;wait&gt;</Entry>
+  <Entry Index="89">Que expectativa! Quando chega esta época do ano, fico tão
+empolgado, que a espera parece eterna.&lt;wait&gt;</Entry>
+  <Entry Index="90">Espero que mamãe esteja bem...
+Estava tão ana que não consegui impedi-la.&lt;wait&gt;</Entry>
+  <Entry Index="91">Meu Deus! Com tanta gente reunida, esse festival
+promete ser emocionante. Vamos nos divertir!&lt;wait&gt;</Entry>
+  <Entry Index="92">A comida de Lillia é espetacular. Nunca tinha provado
+nada tão delicioso! Essa mulher é uma joia!&lt;wait&gt;</Entry>
+  <Entry Index="93">O melhor seria preparar algo que tivesse em conta os
+alimentos saudáveis. Mas isso é difícil de conseguir com
+um só prato.&lt;wait&gt;</Entry>
+  <Entry Index="94">A cozinha levanta paixões entre os habitantes desta
+cidade! A expectativa está mastigando o hambiente!&lt;wait&gt;</Entry>
+  <Entry Index="95">Ai, ainda tenho um longo caminho a percorrer
+quando se trata de cozinhar...&lt;wait&gt;</Entry>
+  <Entry Index="96">Tentei ensinar algumas receitas a Karen,
+mas ela não tem mão, coitadinha.&lt;wait&gt;&lt;page&gt;
+Eu me pergunto por que ela está tão determinada em
+participar do Concurso Gastronômico.&lt;wait&gt;</Entry>
+  <Entry Index="97">Com os entradas que se apresentaram neste ano, vou ter
+que colocar toda a carne na grelha.&lt;wait&gt;</Entry>
+  <Entry Index="98">A maioria dos pratos que preparo costumam ser
+muito básicos.&lt;wait&gt;</Entry>
+  <Entry Index="99">&lt;playername&gt;, você trouxe algum prato?&lt;wait&gt;</Entry>
+  <Entry Index="100">Sim</Entry>
+  <Entry Index="101">Não</Entry>
+  <Entry Index="102">Parece que não trouxe um prato para esse ano.
+Que pena.&lt;wait&gt;</Entry>
+  <Entry Index="103">Certo, entãoo coloque seu trabalho sobre a mesa.
+Bon Vivant decidirá quem preparou o prato mais delicioso.&lt;wait&gt;&lt;page&gt;
+Quer que escutemos o veredito agora?&lt;wait&gt;</Entry>
+  <Entry Index="104">Sim</Entry>
+  <Entry Index="105">Não</Entry>
+  <Entry Index="106">Perfeito. Bon Vivant está prestes a começar.&lt;wait&gt;</Entry>
+  <Entry Index="107">Uh? Venha falar comigo quando quiser começar.&lt;wait&gt;</Entry>
+  <Entry Index="108">Bem, sente-se e aproveite o show. Tudo pronto para
+o inicio do concurso?&lt;wait&gt;</Entry>
+  <Entry Index="109">Tudo pronto para inicio do concurso?&lt;wait&gt;</Entry>
+  <Entry Index="110">Mmmm. Receio que não podemos dar inicio ao
+concurso se tiver algo nas mãos. Poderia guardar,
+faz favor?&lt;wait&gt;</Entry>
+  <Entry Index="111">Quando cozinho, tento obter aqueles sabores caseiros
+que aprendi com a minha mãe.
+cozinhei esses pratos milhares de vezes, então estou
+bastante confiante que o resultado será bom.&lt;wait&gt;</Entry>
+  <Entry Index="112">Muitas pessoas trazem comida para o festival, mas a cada
+um tem seu estilo pessoal.
+É fácil saber quem fez a cada prato.&lt;wait&gt;</Entry>
+  <Entry Index="113">Todos os dias tenho que comer minha comida horrível,
+então você não sabe o quanto eu queria que chegasse
+esse festival.&lt;wait&gt;</Entry>
+  <Entry Index="114">Esta tela deve mostrar o veredito e os
+pratos.&lt;wait&gt;&lt;page&gt;
+Mas agora não funciona.
+Desculpe pelo incoveniente.&lt;wait&gt;</Entry>
+  <Entry Index="115">A fase de avaliação do Concurso Gastronômico
+está prestes a começar!&lt;wait&gt;&lt;page&gt;
+Subam quando ouvir seu nome.&lt;wait&gt;</Entry>
+  <Entry Index="116">Bem, o primeiro é... Dudley!&lt;wait&gt;</Entry>
+  <Entry Index="117">Você uma variedade de ingredientes e dissolveu-os com
+perfeição. Absolutamente delicioso!&lt;wait&gt;</Entry>
+  <Entry Index="118">Uma textura delicada em perfeita harmonia
+com a calda de caramelo.&lt;wait&gt;&lt;page&gt;
+Um prato suntuoso e requintado.&lt;wait&gt;</Entry>
+  <Entry Index="119">O pão recém-assado e curry picante abrem seu
+apetite.
+Mmmmm! Glorioso!&lt;wait&gt;</Entry>
+  <Entry Index="120">Quanto mais desse udon eu como, mais vital eu me sinto!
+Que delícia!&lt;wait&gt;</Entry>
+  <Entry Index="121">Não se deixe enganar pela simplicidade do arroz frito,
+esse prato tem muita complexidade.&lt;wait&gt;&lt;page&gt;
+Não é fácil alcançar esse nível de perfeição. Uma conquista
+muito bem sucedida.&lt;wait&gt;</Entry>
+  <Entry Index="122">A próxima é Ran!&lt;wait&gt;</Entry>
+  <Entry Index="123">Mmmm. O leite suaviza o sabor em geral,
+mas é muito agradável.&lt;wait&gt;&lt;page&gt;
+É um bom prato.&lt;wait&gt;</Entry>
+  <Entry Index="124">Sim... Apenas a quantidade certa de doçura.&lt;wait&gt;&lt;page&gt;
+Irá encantar os comensais de todas as idades.
+É uma iguaria.&lt;wait&gt;</Entry>
+  <Entry Index="125">Os sabores dos ingredientes combinam muito bem
+entre si.
+E tem a quantidade certa de doçura.&lt;wait&gt;</Entry>
+  <Entry Index="126">Você conseguiui realçar o sabor do udon e da tempura.
+Está delicioso.&lt;wait&gt;</Entry>
+  <Entry Index="127">Mmmm, sim. Muito bem. Ovos e arroz são uma boa
+combinação.
+Às crianças vão adorar.&lt;wait&gt;</Entry>
+  <Entry Index="128">A próxima é Lillia!&lt;wait&gt;</Entry>
+  <Entry Index="129">Um sabor muito fresco e frutado que se espalha por todo
+o paladar. Muito bem.&lt;wait&gt;</Entry>
+  <Entry Index="130">Está fofo e tem um sabor delicioso.&lt;wait&gt;</Entry>
+  <Entry Index="131">O sabor agridoce do pão e das uvas mistura-se
+perfeitamente na boca.&lt;wait&gt;&lt;page&gt;
+Uma delícia.&lt;wait&gt;</Entry>
+  <Entry Index="132">O sabor do curry e a forma com que o macarrão desliza
+pela garganta são simplesmente maravilhosos.&lt;wait&gt;&lt;page&gt;
+Eles derretem na boca.&lt;wait&gt;</Entry>
+  <Entry Index="133">A combinação das especiarias proporcionam uma grande
+riqueza de sabores. Estou impressionado. É muito saboroso.&lt;wait&gt;</Entry>
+  <Entry Index="134">A próxima é Manna!&lt;wait&gt;</Entry>
+  <Entry Index="135">Você preparou um suco de vegetais muito saboroso, com
+uma boa combinação de ingredientes. Maravilhoso.&lt;wait&gt;</Entry>
+  <Entry Index="136">Este prato tem o toque certo de doçura. A textura
+também é muito suave. É um prato de qualidade.&lt;wait&gt;</Entry>
+  <Entry Index="137">Excelente equilíbrio agridoce conseguido graças à
+laranja. Vai muito bem com o pão.&lt;wait&gt;</Entry>
+  <Entry Index="138">Mmmm. Um sabor singelo que esconde uma profundidade
+surpreendente. Está delicioso.&lt;wait&gt;</Entry>
+  <Entry Index="139">A textura do bambú e o temepro do arroz se complementam
+muito bem. Uma proposta interessante.&lt;wait&gt;</Entry>
+  <Entry Index="140">A última é a Karen!&lt;wait&gt;</Entry>
+  <Entry Index="141">A próxima é a Karen!&lt;wait&gt;</Entry>
+  <Entry Index="142">Q-que...? O que é isso? Não... não tenho palavras para
+descrever o que estou saboreando...&lt;wait&gt;</Entry>
+  <Entry Index="143">É... algum tipo de piada? Eu evito comentar.&lt;wait&gt;</Entry>
+  <Entry Index="144">Mmmm... Não encontro as palavras para expressar esse
+sabor.&lt;wait&gt;</Entry>
+  <Entry Index="145">Não tem corpo, Então sinto que não comi nada.
+Boa... tentativa.&lt;wait&gt;</Entry>
+  <Entry Index="146">É... um bolinho de arroz?. Um bolinho de arroz comum.
+É comestível.&lt;wait&gt;</Entry>
+  <Entry Index="147">Bon Vivant experimentou todos os pratos
+dos concorrentes.&lt;wait&gt;&lt;page&gt;
+Agora ele escolherá o vencedor, então,então
+vamos aguardar um momento.&lt;wait&gt;</Entry>
+  <Entry Index="148">O último participante é &lt;playername&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="149">Isso... isso é...&lt;wait&gt;</Entry>
+  <Entry Index="150">O sabor é... extraordinário. Absolutamente
+extraordinário!&lt;wait&gt;&lt;page&gt;
+Nem sequer um profissional poderia alcançar tal sabor. Que
+surpresa agradável!&lt;wait&gt;</Entry>
+  <Entry Index="151">Delicioso!&lt;wait&gt;&lt;page&gt;
+Já pensou em virar um chef? Não me lembro da
+última vez que provei algo tão bom.&lt;wait&gt;</Entry>
+  <Entry Index="152">Mmmm, sim. Uma boa refeição caseira. Está muito boa.&lt;wait&gt;</Entry>
+  <Entry Index="153">Mmmm... Sinto que falta algo.&lt;wait&gt;</Entry>
+  <Entry Index="154">Não vou fazer nenhum comentário. Ups...&lt;wait&gt;</Entry>
+  <Entry Index="155">Este prato não corresponde ao tema. Descalificado!&lt;wait&gt;</Entry>
+  <Entry Index="156">Agora anunciaremos ao vencedor. Por favor, subam quando
+eu chamar você. E o vencedor é...&lt;wait&gt;</Entry>
+  <Entry Index="157">&lt;playername&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="158">Dudley!&lt;wait&gt;</Entry>
+  <Entry Index="159">Ran!&lt;wait&gt;</Entry>
+  <Entry Index="160">Lillia!&lt;wait&gt;</Entry>
+  <Entry Index="161">Manna!&lt;wait&gt;</Entry>
+  <Entry Index="162">Estava delicioso. Meu estômago agradece muito.&lt;wait&gt;</Entry>
+  <Entry Index="163">foi muito divertido! Mas é hora de voltar ao trabalho.&lt;wait&gt;</Entry>
+  <Entry Index="164">Ei. Desculpe incomodá-lo tão cedo, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Amanhã é o Festival Frisbee, então vima qui convidar
+você e o seu mascote. Você quer particiar?&lt;wait&gt;</Entry>
+  <Entry Index="165">Vamos celebrar o Festival Frisbee com nossos
+mascotes. Quer participar?&lt;wait&gt;</Entry>
+  <Entry Index="166">Uh? Seu mascote ainda é muito jovem? Que pena.
+Então você não pode participar.&lt;wait&gt;&lt;page&gt;
+Mesmo que você não participe, pode vir assitir se não
+tiver nada para fazer.&lt;wait&gt;&lt;page&gt;
+O Festival Frisbee será amanhã na praia às 10:00 da
+manhã. Espero vê-lo por lá!&lt;wait&gt;</Entry>
+  <Entry Index="167">Muito bem! Eu cuidarei deles.&lt;wait&gt;&lt;page&gt;
+Não se preocupe. Estão em boas mãos.&lt;wait&gt;</Entry>
+  <Entry Index="168">Eh... Que pena. Bom, venha conferir se tiver tempo.&lt;wait&gt;&lt;page&gt;
+O Festival Frisbee será amanhã na praia às 10:00 da
+manhã. Espero vê-lo por lá.&lt;wait&gt;</Entry>
+  <Entry Index="169">He he! Que bichinhos lindos!&lt;wait&gt;</Entry>
+  <Entry Index="170">Você vai participar, certo? Boa sorte!&lt;wait&gt;</Entry>
+  <Entry Index="171">Os mascotes são muito inteligentes. Não me importaria
+ter um em casa.&lt;wait&gt;</Entry>
+  <Entry Index="172">Você vai participar?
+Uau. Boa sorte.&lt;wait&gt;</Entry>
+  <Entry Index="173">Alguns animais são bastante inteligentes,
+especialmente os mascotes. Se treiná-los, eles poderão
+fazer um montão de coisas.&lt;wait&gt;&lt;page&gt;
+Mmmm. Estou pensando em ter um mascote.&lt;wait&gt;</Entry>
+  <Entry Index="174">Você vai participar, certo? Mostre-nos seus melhores
+truques!&lt;wait&gt;</Entry>
+  <Entry Index="175">Sempre gostei desse festival. É muito
+divertido ver como os mascotes perseguem o disco
+com toda a sua energia.&lt;wait&gt;</Entry>
+  <Entry Index="176">Oh, você vai participar? Maravilhoso.
+Eu estarei o apoiando. Boa sorte.&lt;wait&gt;</Entry>
+  <Entry Index="177">Eu estava me perguntando por que havia tanto
+barulho do lado de fora do café. Um Festival Frisbee, eh?&lt;wait&gt;&lt;page&gt;
+Então, o mascotes vão competir por pegar
+um disco. Genial!&lt;wait&gt;</Entry>
+  <Entry Index="178">Oh, você também está participando? Estarei observando.
+Tem que deixar o cursor bem alto!&lt;wait&gt;</Entry>
+  <Entry Index="179">Desde que começamos a celebrar esse festival,
+tornou-se em um dos meus momentos
+mais esperados do ano.&lt;wait&gt;&lt;page&gt;
+Conheço a todos as mascotes que irão participar.&lt;wait&gt;&lt;page&gt;
+Afinal, meu trabalho como transportador me levou
+a muitas casas. Ficarei feliz por quem ganhar.&lt;wait&gt;</Entry>
+  <Entry Index="180">Vá para o primeiro lugar! Este é a seu!&lt;wait&gt;</Entry>
+  <Entry Index="181">Todo pronto para dar tudo de si no Festival Frisbee?&lt;wait&gt;</Entry>
+  <Entry Index="182">Vá em frente!</Entry>
+  <Entry Index="183">Aguarde um momento.</Entry>
+  <Entry Index="184">Muito bem! Que comece o show!&lt;wait&gt;</Entry>
+  <Entry Index="185">Certo. Quando estiver tudo pronto, me avise.&lt;wait&gt;</Entry>
+  <Entry Index="186">O Festival Frisbee foi um grande sucesso.</Entry>
+  <Entry Index="187">O Festival Frisbee terminou.&lt;wait&gt;&lt;page&gt;
+Os organizadores do concurso se encarregarão de levar
+para casa os mascotes inscritos, então
+os donos podem ir embora.&lt;wait&gt;&lt;page&gt;
+Repito, o Festival Frisbee terminou.&lt;wait&gt;</Entry>
+  <Entry Index="188">Ooooh. Você estava tão perto.
+Espero que ganhe no ano que vem!&lt;wait&gt;</Entry>
+  <Entry Index="189">Uau! Incrível! você ganhou! ?&lt;wait&gt;</Entry>
+  <Entry Index="190">Que mascotes adoráveis! ∀ Eu também quero um!&lt;wait&gt;</Entry>
+  <Entry Index="191">Você chegou bem perto. Mas o importante é
+participar, isso é o que eu acho.&lt;wait&gt;</Entry>
+  <Entry Index="192">Parabéns! Não esperava menos de alguém que trabalha
+em uma fazenda. Você tem jeito com animais.&lt;wait&gt;</Entry>
+  <Entry Index="193">Os animais são muito inteligentes. Está ficando cada vez
+mais claro.&lt;wait&gt;</Entry>
+  <Entry Index="194">Uma pena. Tenho certeza que no ano que vem vai conseguir
+se trabalhar duro. Não deixe que isso te afete.&lt;wait&gt;</Entry>
+  <Entry Index="195">Meu Deus! Que vitória. Estou tão feliz como se eu
+mesma tivesse ganahdo.&lt;wait&gt;</Entry>
+  <Entry Index="196">Após ver esse festival, estou muito impressionada com
+a habilidade de todos os animais. Talvez deveríamos
+considerar seriamente ter um mascote...&lt;wait&gt;</Entry>
+  <Entry Index="197">Oh, não! Uma pena. &lt;mydogname&gt; você foi muito bem.&lt;wait&gt;</Entry>
+  <Entry Index="198">Parabéns, &lt;playername&gt;! Tinha a
+sensação de que você ganharia.&lt;wait&gt;</Entry>
+  <Entry Index="199">Foi emocionante até o final. Eventos como esse
+são onde o espírito da nossa comunidade é mais forte.&lt;wait&gt;</Entry>
+  <Entry Index="200">Uma pena, uh? Mas não deixe isso te afetar. No ano que
+vem você terá outra chance.&lt;wait&gt;</Entry>
+  <Entry Index="201">Após vê-lo em ação, você mereceu. Parabéns
+por sua vitória!&lt;wait&gt;</Entry>
+  <Entry Index="202">você viu isso? Impressionante, certo? Os mascotes
+podem fazer todos tipos de truques.&lt;wait&gt;</Entry>
+  <Entry Index="203">Bom, não desanime. Tente novamente no ano que vem.
+Estarei torcendo por você.&lt;wait&gt;</Entry>
+  <Entry Index="204">Bom trabalho! Você treinou muito, não foi?&lt;wait&gt;&lt;page&gt;
+Inscreva-se novamente no ano que vem e continue
+a série de vitórias.&lt;wait&gt;</Entry>
+  <Entry Index="205">Este ano bombou de novo. Deveria increver-se
+no ano que vem. Vou torcer por você.&lt;wait&gt;</Entry>
+  <Entry Index="206">Atenção! Já temos vencedor para o Festival Frisbee
+desse ano! &lt;playername&gt;!&lt;wait&gt;&lt;page&gt;
+Foi uma vitória absoluta! Bom trabalho!&lt;wait&gt;</Entry>
+  <Entry Index="207">Ah, &lt;nickname&gt;. Aguarde um momento.&lt;wait&gt;</Entry>
+  <Entry Index="208">Bom dia, &lt;playername&gt;. Amanhã será o
+Cluck-Cluck Clash na praça. A galinha mais forte vencerá.&lt;wait&gt;&lt;page&gt;
+Eu queria que você participasse, mas parece que não 
+tem nenhuma. Então, se você não pintar...&lt;wait&gt;</Entry>
+  <Entry Index="209">Bom dia, &lt;playername&gt;. Amanhã será o
+Cluck-Cluck Clash na praça. A galinha mais forte vencerá.&lt;wait&gt;&lt;page&gt;
+Eu queria que você participasse, mas parece que não 
+tem de nenhuma. Então, se você não pintar...&lt;wait&gt;</Entry>
+  <Entry Index="210">Bom dia, &lt;nickname&gt;. Amanhã serão os Duelos
+de Galinhas na praça. A galinha mais forte vencerá.&lt;wait&gt;&lt;page&gt;
+Eu queria que você participasse, mas parece que não 
+tem de nenhuma.Então, se você não pintar...&lt;wait&gt;</Entry>
+  <Entry Index="211">Bom dia, &lt;playername&gt;. Amanhã será o
+Cluck-Cluck Clash na praça. A galinha mais forte vencerá.&lt;wait&gt;&lt;page&gt;
+Eu também gostaria de participar, mas galinhas pequenas
+não se permitidas.&lt;wait&gt;</Entry>
+  <Entry Index="212">Bom dia, &lt;playername&gt;. Amanhã será o
+Cluck-Cluck Clash na praça. A galinha mais forte vencerá.&lt;wait&gt;&lt;page&gt;
+Eu também gostaria de participar, mas galinhas pequenas
+não se permitidas.&lt;wait&gt;</Entry>
+  <Entry Index="213">Bom dia, &lt;nickname&gt;. Amanhã será o
+o Cluck-Cluck Clash na praça. A galinha mais forte vencerá.&lt;wait&gt;&lt;page&gt;
+Eu também gostaria de participar, mas galinhas pequenas
+não se permitidas.&lt;wait&gt;</Entry>
+  <Entry Index="214">Bom dia, &lt;playername&gt;. Amanhã será o
+Cluck-Cluck Clash na praça. A galinha mais forte vencerá.&lt;wait&gt;&lt;page&gt;
+Você vai participar?&lt;wait&gt;</Entry>
+  <Entry Index="215">Bom dia, &lt;playername&gt;. Amanhã será o
+Cluck-Cluck Clash na praça. A galinha mais forte vencerá.&lt;wait&gt;&lt;page&gt;
+Você vai participar?&lt;wait&gt;</Entry>
+  <Entry Index="216">Bom dia, &lt;nickname&gt;. Amanhã será o
+Cluck-Cluck Clash na praça. A galinha mais forte vencerá.&lt;wait&gt;&lt;page&gt;
+Você vai participar?&lt;wait&gt;</Entry>
+  <Entry Index="217">Ok. Qual das suas galinhas você enviará a batalha?&lt;wait&gt;</Entry>
+  <Entry Index="218">Olá. Amanhã será o Cluck-Cluck Clash na praça.
+A galinha mais forte vencerá.&lt;wait&gt;&lt;page&gt;
+Eu queria que você participasse, mas parece
+que não tem nenhuma galinha adequada.&lt;wait&gt;</Entry>
+  <Entry Index="219">Olá. Amanhã seráo Cluck-Cluck Clash na praça.
+A galinha mais forte vencerá.&lt;wait&gt;&lt;page&gt;
+Eu queria que você participasse, mas parece
+que não tem nenhuma galinha adequada.&lt;wait&gt;</Entry>
+  <Entry Index="220">Embora nada te impeça de vir à praça e torcer
+por outras galinhas. Prometo que irá se divertir.&lt;wait&gt;</Entry>
+  <Entry Index="221">ótimo! Então eu levarei 
+a &lt;string0&gt;.
+Cuidarei dela até o final do festival.&lt;wait&gt;&lt;page&gt;
+O Cluck-Cluck Clash será amanhã pela manhã às
+10:00. Você não pode perder!&lt;wait&gt;</Entry>
+  <Entry Index="222">Se você acha que vai ganhar, talvez seja uma boa
+ideia arrumar espaço na sua mochila&lt;wait&gt;&lt;page&gt;
+Não poderemos lhe dar o prêmio se sua mochila estiver cheia
+e claramente não é algo que você quer que aconteça.&lt;wait&gt;&lt;page&gt;
+Dito isso, vamos começar com o Cluck-Cluck Clash?&lt;wait&gt;</Entry>
+  <Entry Index="223">Deixe as penas voarem!</Entry>
+  <Entry Index="224">Ainda não.</Entry>
+  <Entry Index="225">Receio que não pode usar nada para ajudar a sua
+galinha. Guarde tudo o que você tem nas mãos.&lt;wait&gt;</Entry>
+  <Entry Index="226">Muito bem! Soltem as galinhas!&lt;wait&gt;</Entry>
+  <Entry Index="227">Certo. Quando tudo estiver pornto, avise-me e começaremos.&lt;wait&gt;</Entry>
+  <Entry Index="228">Oh, você vai participar? Genial! Esta celebração é muito
+divertida!&lt;wait&gt;</Entry>
+  <Entry Index="229">Ah, como as galinhas são fofas!&lt;wait&gt;</Entry>
+  <Entry Index="230">Todos os anos espero ansiosamente para esse dia chegar.&lt;wait&gt;</Entry>
+  <Entry Index="231">Se você vai participar, não seja arrogante
+ou acabará depenado!&lt;wait&gt;&lt;page&gt;
+Ha ha. Esperei o ano todo para usar
+esse jogo de palavras.&lt;wait&gt;</Entry>
+  <Entry Index="232">Voua assistir daqui.&lt;wait&gt;</Entry>
+  <Entry Index="233">Olá, &lt;playername&gt;. Boa sorte lá fora. Espero que sua
+galinha prevaleça como a líder do galinheiro.&lt;wait&gt;</Entry>
+  <Entry Index="234">Ora, se não é &lt;playername&gt;. O Cluck-Cluck Clash
+é um torneio justo. Levamos isso muito a sério.&lt;wait&gt;</Entry>
+  <Entry Index="235">Te desejo sorte na batalha que vem pela frente.&lt;wait&gt;</Entry>
+  <Entry Index="236">Não acha que poderíamos aprender algo do valor destas
+galinhas em combate? Que aves nobres.&lt;wait&gt;</Entry>
+  <Entry Index="237">Vou ver essas galinhas. Assista e aprenda.&lt;wait&gt;</Entry>
+  <Entry Index="238">Você quer ver lutas de dinossauros? Bem, são galinhas,
+mas são primos de primeiro grau, certo?&lt;wait&gt;</Entry>
+  <Entry Index="239">As galinhas de sua fazenda são fortes, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="240">A batalha de aves desse ano teve
+vários bons momentos.&lt;wait&gt;</Entry>
+  <Entry Index="241">Ei, &lt;string0&gt; é muito forte.&lt;wait&gt;</Entry>
+  <Entry Index="242">Uma pena. Este torneio não é lugar para galochas.&lt;wait&gt;</Entry>
+  <Entry Index="243">Foi muito divertido. As galinhas são adoráveis! ?&lt;wait&gt;</Entry>
+  <Entry Index="244">Uauuu! Ótimo pra você. Pode se que  próxima coisa que faça
+seja pôr ovos de ouro.&lt;wait&gt;</Entry>
+  <Entry Index="245">Oh, você estava tão perto, uh? Em situações assim, não há
+muito que possa fazer. Anime-se!&lt;wait&gt;</Entry>
+  <Entry Index="246">Então no final, venceu essa galinha.
+Como eu imaginava.&lt;wait&gt;</Entry>
+  <Entry Index="247">Eu sabia!&lt;wait&gt;&lt;page&gt;
+Eu sabia que sua galinha chegaria longe. Como eu sabia?
+Porque põe ovos deliciosos, claro!&lt;wait&gt;</Entry>
+  <Entry Index="248">Umm. Não se sentiu bem? Aquela era a galinha mais
+poderosa da fazenda?&lt;wait&gt;</Entry>
+  <Entry Index="249">Que concurso divertido. Inspirador, no mínimo.
+Deveria ter participado, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="250">Muito bem! Espero que traga a &lt;string0&gt;
+novamente no ano que vem.&lt;wait&gt;</Entry>
+  <Entry Index="251">O festival desse ano foi impressionante. Não há nada
+como colocar galinhas umas contra as outras em uma
+luta pela glória.&lt;wait&gt;</Entry>
+  <Entry Index="252">Ufa. Fico cansado de olhar para elas.&lt;wait&gt;</Entry>
+  <Entry Index="253">Olá! Você foi muito bem! Tenho certeza que está orgulhoso
+de ter uma galinha tão forte.&lt;wait&gt;</Entry>
+  <Entry Index="254">Que pena... Talvez ela teria ido melhor se você tivesse
+prestado um pouco mais de atenção.&lt;wait&gt;</Entry>
+  <Entry Index="255">As penas voavam, os bicos era assustadores, nunca
+ouvi tal barulho!
+Fazia tempo que não me diviertia tanto.&lt;wait&gt;</Entry>
+  <Entry Index="256">Você pode se orgulhar da galinha que criou.&lt;wait&gt;</Entry>
+  <Entry Index="257">Mmm, você fez o seu melhor.&lt;wait&gt;</Entry>
+  <Entry Index="258">Mmmm... Este fesrival é o melhor! Quiquiriquí! He he he!&lt;wait&gt;</Entry>
+  <Entry Index="259">Essas galinhas perderam as penas. Foi um
+show em tanto.&lt;wait&gt;</Entry>
+  <Entry Index="260">Sua galinha está bem?&lt;wait&gt;</Entry>
+  <Entry Index="261">O Cluck-Cluck Clash terminou.&lt;wait&gt;&lt;page&gt;
+Os organizadores levarão às galinhas inscritas para
+suas respectivas casas, os prprietários podem ir.&lt;wait&gt;&lt;page&gt;
+Repito, o Cluck-Cluck Clash terminou.&lt;wait&gt;</Entry>
+  <Entry Index="262">Parabéns pela vitória!&lt;wait&gt;&lt;page&gt;
+Foi impressionante. Poucas pessoas conseguem criar
+galinhas tão fortes.&lt;wait&gt;&lt;page&gt;
+foi uma grande luta.&lt;wait&gt;</Entry>
+  <Entry Index="263">Bom dia, &lt;playername&gt;. Amanhã será o Festival Moo-Moo.&lt;wait&gt;&lt;page&gt;
+Qualquer vaca adulta pode participar desde que não esteja
+gestante.&lt;wait&gt;&lt;page&gt;
+Espero que &lt;myfarmname&gt; possa participar no ano
+que vem, mas pode aparecer para assistir se quiser.&lt;wait&gt;&lt;page&gt;
+Começará às 10:00 da manhã na Praça Rosa.
+Espero você lá amanhã, &lt;playername&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="264">Bom dia, &lt;playername&gt;. Amanhã será o Festival Moo-Moo.&lt;wait&gt;&lt;page&gt;
+Qualquer vaca adulta pode participar desde que não esteja
+gestante.&lt;wait&gt;&lt;page&gt;
+Espero que no ano que vem, os animais da &lt;myfarmname&gt;
+tenham idade suficiente para participar,
+mas pode vir para assistir.&lt;wait&gt;&lt;page&gt;
+Começará às 10:00 da manhã na Praça Rosa.
+Espero você lá amanhã, &lt;playername&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="265">Bom dia, &lt;playername&gt;. O Festival Moo-Moo é
+amanhã na Praça Rosa. Emocionante, não é?&lt;wait&gt;&lt;page&gt;
+O que você acha da ideia de partipar com
+uma vaca adulta da &lt;myfarmname&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="266">Participar</Entry>
+  <Entry Index="267">Não participar</Entry>
+  <Entry Index="268">Então, qual vaca vai participar?&lt;wait&gt;&lt;page&gt;
+Qualquer uma que produza leite está bem, mas não permitidas
+vacas gestantes ou doentes.&lt;wait&gt;</Entry>
+  <Entry Index="269">Uma pena. Ter uma vaca de sua fazenda tornaria
+tudo bem mais emocionante.&lt;wait&gt;</Entry>
+  <Entry Index="270">Amanhã celebraremos o Festival Moo-Moo na praça.
+Venha ver se quiser.&lt;wait&gt;&lt;page&gt;
+Qualquer vaca adulta pode participar desde que não esteja
+gestante ou doente, mas...&lt;wait&gt;&lt;page&gt;
+vejo que não tem nenhuma.&lt;wait&gt;&lt;page&gt;
+Bem, nós falamos depois, &lt;playername&gt;. Espero você
+lá manhã.&lt;wait&gt;</Entry>
+  <Entry Index="271">Certo. Vou levar &lt;string0&gt; comigo.&lt;wait&gt;</Entry>
+  <Entry Index="272">Estas vacas são muito boas. Além de bonitas.&lt;wait&gt;</Entry>
+  <Entry Index="273">Você vai participar com alguma das suas vacas,
+&lt;playername&gt;? Boa sorte! Espero que ganhe.&lt;wait&gt;</Entry>
+  <Entry Index="274">Você vai participar com alguma das suas vacas,
+&lt;playername&gt;? Boa sorte! Espero que ganhe.&lt;wait&gt;</Entry>
+  <Entry Index="275">Uma das suas vacas vai participar, certo,
+&lt;nickname&gt;? Tenho certeza que vencerá! Vou torcer por você
+daqui!&lt;wait&gt;</Entry>
+  <Entry Index="276">Finalmente meu estômago começou a tolerar bem o leite.
+Eu costumava odiar, mas agora o gosto é ótimo para mim&lt;wait&gt;</Entry>
+  <Entry Index="277">Espero que ganhe!&lt;wait&gt;</Entry>
+  <Entry Index="278">Sua vaca tem que ganhar, &lt;nickname&gt;.
+Boa sorte!&lt;wait&gt;</Entry>
+  <Entry Index="279">Olá, &lt;nickname&gt;. Deveria beber um copo de leite
+todos os dias. É bom para sua saúde.&lt;wait&gt;</Entry>
+  <Entry Index="280">E aí, &lt;playername&gt;? Deveria beber um copo de leite
+todos os dias. É bom para sua saúde.&lt;wait&gt;</Entry>
+  <Entry Index="281">Sua vaca também vai participar? Acha vai ganhar?&lt;wait&gt;</Entry>
+  <Entry Index="282">Sua vaca vai participar também, certo, &lt;nickname&gt;?
+Estarei torcendo por você.&lt;wait&gt;</Entry>
+  <Entry Index="283">Sim, sim. Boa menina. Ha ha ha, amo a natureza.&lt;wait&gt;</Entry>
+  <Entry Index="284">Sua vaca parece formidável, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="285">Sua vaca parece formidável, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="286">É maravilhoso ser criado rodeado de animais desde novo.&lt;wait&gt;&lt;page&gt;
+Há crianças que nunca tocaram em gato ou cachorro
+porque seus pais não suportam mascotes.&lt;wait&gt;</Entry>
+  <Entry Index="287">Eu estarei apoiando você. Boa sorte.&lt;wait&gt;</Entry>
+  <Entry Index="288">Estarei torcendo por você, &lt;nickname&gt;. Boa sorte.&lt;wait&gt;</Entry>
+  <Entry Index="289">Mmmm. Elas parecem muito saudáveis e robustas.
+Qual acha você que é a melhor vaca?&lt;wait&gt;</Entry>
+  <Entry Index="290">Estou feliz por você estar participando. Mal posso
+esperar para ver sua vaca em ação.&lt;wait&gt;</Entry>
+  <Entry Index="291">Hee hee, elas são muito bonitas. Adoro o olhar distante
+que elas possuem enquanto comem.&lt;wait&gt;</Entry>
+  <Entry Index="292">Sua vaca se sairá bem. Tenho certeza que ganhará.&lt;wait&gt;</Entry>
+  <Entry Index="293">Uau, são enormes! Se uma me atropelasse, me esmagaria
+como uma panqueca?&lt;wait&gt;</Entry>
+  <Entry Index="294">Sua vaca parece muito forte.&lt;wait&gt;</Entry>
+  <Entry Index="295">Sua vaca parece muito forte.&lt;wait&gt;</Entry>
+  <Entry Index="296">As vacas são tratadas muito diferente dependendo
+do país em que vivem.&lt;wait&gt;&lt;page&gt;
+Mas são animais que trabalham duro e produzem leite,
+então costumam ser muito valorizadas.&lt;wait&gt;</Entry>
+  <Entry Index="297">Está cuidando bem da sua vaca?&lt;wait&gt;&lt;page&gt;
+Se não a cobrir com amor, ela não dará o seu melhor.&lt;wait&gt;</Entry>
+  <Entry Index="298">As vacas do nosso rancho não participarão.&lt;wait&gt;&lt;page&gt;
+Quando perguntei ao avô o por que, ele mencionou algo
+sobre a imparcialidade.&lt;wait&gt;</Entry>
+  <Entry Index="299">Uma das suas vacas vai participar, certo?
+Vou torcer por você!&lt;wait&gt;</Entry>
+  <Entry Index="300">Uma de suas vacas vai participar, certo?
+Vou torcer por você!&lt;wait&gt;</Entry>
+  <Entry Index="301">Vacas, uh? Me aproximei porque pensei que poderiam ser
+uma fonte de inspiração.&lt;wait&gt;&lt;page&gt;
+E não me estava errado. Sua aparencia robusta, a aspereza
+de sua pele, sua coloração manchada, esses olhos vazios...
+São fascinantes!&lt;wait&gt;</Entry>
+  <Entry Index="302">Acho que esttá na hora de coroarmos à vaca vencedora. 
+Ah, antes de mais nada, um conselho: 
+certifique-se de ter algum espaço em sua mochila! &lt;wait&gt;&lt;page&gt;
+Afinal, se sua mochila estiver cheia e sua vaca for
+a vencedora, não poderemos lhe dar o troféu.&lt;wait&gt;&lt;page&gt;
+Todo pronto?&lt;wait&gt;</Entry>
+  <Entry Index="303">Que comece o veredicto.</Entry>
+  <Entry Index="304">Prossiga.&lt;wait&gt;</Entry>
+  <Entry Index="305">Venha falar comigo quando quiser começar.&lt;wait&gt;</Entry>
+  <Entry Index="306">O Festival Moo-Moo terminou.&lt;wait&gt;&lt;page&gt;
+Os organizadores levarão às vacas inscritas as suas
+respectivas casas, para que os donos possam ir.&lt;wait&gt;&lt;page&gt;
+Repito, o Festival Moo-Moo terminou.&lt;wait&gt;</Entry>
+  <Entry Index="307">Eu sabia que aquela vaca ia ganhar.
+Você podia ver nos olhos dela.&lt;wait&gt;</Entry>
+  <Entry Index="308">Sua vaca tinha uma aparência diferente. Eu tinha um
+palpite de que venceria.&lt;wait&gt;</Entry>
+  <Entry Index="309">Não se pode ganhar todas. Tente novamente
+no anor que vem.&lt;wait&gt;</Entry>
+  <Entry Index="310">Elas são adoráveis!♪&lt;wait&gt;</Entry>
+  <Entry Index="311">Parabéns! ♪ Eu sabia que você ia ganhar.&lt;wait&gt;&lt;page&gt;
+Como eu sabia? Tinha um palpite.&lt;wait&gt;</Entry>
+  <Entry Index="312">Oh, sinto muito. &lt;string0&gt; foi
+ muito bem.&lt;wait&gt;</Entry>
+  <Entry Index="313">Se uma vaca pisar em você, não tente forçar seu pé
+para longe. Poderia quebrar um osso.&lt;wait&gt;</Entry>
+  <Entry Index="314">O leite de &lt;string0&gt; tem um
+montão de nutrientes. Me deixaria provar de vez em quando?&lt;wait&gt;</Entry>
+  <Entry Index="315">Que chatice. Mas a pelagem de &lt;string0&gt;
+é linda, tenho certeza que ganhará no ano que vem.&lt;wait&gt;</Entry>
+  <Entry Index="316">Ha ha ha ha! Ela lambeu meu rosto.
+Agora está toda pegajosa.&lt;wait&gt;</Entry>
+  <Entry Index="317">Foi um grande feito competir com as outras vacas.&lt;wait&gt;</Entry>
+  <Entry Index="318">O importante é participar, então não desanime.&lt;wait&gt;</Entry>
+  <Entry Index="319">Ela pareceia tão feliz quando eu a escovava...
+isso me deixou feliz também. eu me diverti muito hoje.&lt;wait&gt;</Entry>
+  <Entry Index="320">Parabéns! &lt;myfarmname&gt; é uma fábrica de vencedores.&lt;wait&gt;</Entry>
+  <Entry Index="321">Todas as vacas que se reuniram aqui hoje são incríveis.
+Acho que você fez um bom trabalho.&lt;wait&gt;</Entry>
+  <Entry Index="322">Hoje assistimos a uma grande exibição. foi
+uma boa oportunidade para ver a outras vacas, não acha?&lt;wait&gt;</Entry>
+  <Entry Index="323">Parabéns pela vitória! Tenho orgulhoso de ser
+membro desta cidade.&lt;wait&gt;</Entry>
+  <Entry Index="324">Não se preocupe, &lt;playername&gt;. Você chegou bem perto
+da vitória. Não desanime em participar
+novamente no ano que vem.&lt;wait&gt;</Entry>
+  <Entry Index="325">Agh. Yu, aquele pestinha... Não para de causar problemas
+a onde quer que vá.&lt;wait&gt;</Entry>
+  <Entry Index="326">Parabéns. Todo o amor e a atenção que você deu
+a ela foram refletidos.&lt;wait&gt;</Entry>
+  <Entry Index="327">Opa, você não ganhou dessa vez. Se você der amorr
+e atenção a elas todos os dias, tenho certeza que no ano
+que vem será melhor para você.&lt;wait&gt;</Entry>
+  <Entry Index="328">Tentei montar uma vaca, mas a Elly
+ficou brava comigo.&lt;wait&gt;&lt;page&gt;
+Só queria falar com ela...&lt;wait&gt;</Entry>
+  <Entry Index="329">Uau! Você veceu! Parabéns! Deixa eu montar na
+vaca vencedora de vez em quando!&lt;wait&gt;</Entry>
+  <Entry Index="330">Uau! você ganhou! Parabéns! Deixa eu montar na
+vaca vencedora algum dia!&lt;wait&gt;</Entry>
+  <Entry Index="331">Nossa, sua vaca perdeu. Não tem problema. Tenho certeza
+de que você terá sucesso no ano que vem.&lt;wait&gt;</Entry>
+  <Entry Index="332">Nossa, sua vaca perdeu. Não tem problema. Tenho certeza
+de que você terá sucesso no ano que vem.&lt;wait&gt;</Entry>
+  <Entry Index="333">Meu sonho é dormir deitado em uma vaca.
+Com um chapél de palha cobrindo o meu rosto, é claro.
+Ah, doce felicidade bovina.&lt;wait&gt;</Entry>
+  <Entry Index="334">Vejo que venceu. Parabéns! Eu elogio seus esforços.&lt;wait&gt;</Entry>
+  <Entry Index="335">Que azar! Rezei pela sua vitória, mas...&lt;wait&gt;</Entry>
+  <Entry Index="336">As vacas são preciosas.&lt;wait&gt;</Entry>
+  <Entry Index="337">Uau! Bom trabalho! Estou muito feliz por você.&lt;wait&gt;</Entry>
+  <Entry Index="338">Uau! Bom trabalho! Estou muito feliz por você.&lt;wait&gt;</Entry>
+  <Entry Index="339">Nossa... Para mim, sua vaca foi a melhor.&lt;wait&gt;</Entry>
+  <Entry Index="340">Nossa... Para mim, sua vaca foi a melhor.&lt;wait&gt;</Entry>
+  <Entry Index="341">Nesse ano apresentaram-se vacas muito boas.
+De tirar o chapél.&lt;wait&gt;</Entry>
+  <Entry Index="342">Não deixe de cuidar de seus animais como se fossem reis.&lt;wait&gt;</Entry>
+  <Entry Index="343">Mmmm. Decepcionante, realmente.&lt;wait&gt;</Entry>
+  <Entry Index="344">As manchas das vacas têm padrões fascinantes.&lt;wait&gt;</Entry>
+  <Entry Index="345">Você venceu? Parabéns. Não sei em que critérios se basearam,
+mas pessoalmente acho que sua vaca é uma
+espécime maravilhosa.&lt;wait&gt;</Entry>
+  <Entry Index="346">Você perdeu? Deve de ser frustrante.&lt;wait&gt;</Entry>
+  <Entry Index="347">E o vencedor é...
+&lt;myfarmname&gt; com sua &lt;string0&gt;!&lt;wait&gt;&lt;page&gt;
+Sua pelagem é a mais brilhante, e é uma vaca muito
+carinhosa. Muito bem!&lt;wait&gt;</Entry>
+  <Entry Index="348">Uau, os fogos de artifício desse ano foram
+ótimos. Gostei muito das formas que 
+criaram e também da explosão.&lt;wait&gt;</Entry>
+  <Entry Index="349">Cara, os fogos de artifício são tão legais! Sou um cara
+positivo sozinho, mas esses fogos de artifício me
+deixaram com um humor ainda melhor!&lt;wait&gt;</Entry>
+  <Entry Index="350">O estrondo dos fogos de artifício é tão forte que
+faz meu peito vibrar.&lt;wait&gt;</Entry>
+  <Entry Index="351">Uau...&lt;wait&gt;</Entry>
+  <Entry Index="352">Os fogos de artifício vêm em tubos muito pequenos,
+mas quando disparados e explodidos criam formas
+enormes e coloridas.&lt;wait&gt;&lt;page&gt;
+Eu me pergunto como eles funcionam.&lt;wait&gt;</Entry>
+  <Entry Index="353">Não é maravilhoso poder desligar a mente e
+desfrutar do espetáculo dos fogos de artifício no
+céu noturno?&lt;wait&gt;&lt;page&gt;
+É um luxo poder contemplar uma vista tão bonita.&lt;wait&gt;</Entry>
+  <Entry Index="354">Ah...! Flores Brilhantes de luz decorando o céu de ponta
+a ponta... Os pirotécnicos criaram uma verdadeira obra
+de arte.&lt;wait&gt;</Entry>
+  <Entry Index="355">Eu adoro quando eles explodem e então... bum! Aparece a
+forma. Eles desaparecem tão rápido que você não
+consegue nem piscar.&lt;wait&gt;</Entry>
+  <Entry Index="356">Eu me pergunto como os fogos de artifício podem
+esconder tantas cores diferentes dentro desses tubos
+tão pequenos.&lt;wait&gt;&lt;page&gt;
+E por que a forma que desenham é sempre a mesma,
+não importa de onde você olhe?&lt;wait&gt;</Entry>
+  <Entry Index="357">Uma vez por ano, o céu escuro fica cheio de
+luz e som.&lt;wait&gt;&lt;page&gt;
+O que as criaturas marinha pensarão disso?&lt;wait&gt;</Entry>
+  <Entry Index="358">Na cidade que eu morava antes, eles sempre encontravam
+uma oportunidade para lançar fogos de artifício.&lt;wait&gt;&lt;page&gt;
+Nos desfiles, Ano Novo, as diferentes festividades...
+Era uma sequência de bum, bum, bum!&lt;wait&gt;&lt;page&gt;
+Mas tenho que dizer que, de todos os fogos de artifício
+que vi, os desta cidade são os mais bonitos.&lt;wait&gt;</Entry>
+  <Entry Index="359">Que belza... Na minha infância, eu costumava ter medo de
+fogos de artifício. Não me lembro exatamente o por que,
+mas me aterrorizavam completamente.&lt;wait&gt;&lt;page&gt;
+Talvez eu pensasse que eles iriam cair em cima de mim.
+Você não tem essa sensação quando os vê?&lt;wait&gt;</Entry>
+  <Entry Index="360">Uma grande explosão de energia e som criada pela
+mão do homem que te sacode até a alma.&lt;wait&gt;&lt;page&gt;
+Uma experiência assim só se vive em noites como esta. Não
+é incrível?&lt;wait&gt;</Entry>
+  <Entry Index="361">Os fogos de artifício desse ano foram ótimos.
+Temos que fazer isso novamente no ano que vem.&lt;wait&gt;</Entry>
+  <Entry Index="362">Nossa, já acabaram?&lt;wait&gt;</Entry>
+  <Entry Index="363">Me diverti muito! Eu definitivamente tenho que
+voltar no ano que vem!&lt;wait&gt;</Entry>
+  <Entry Index="364">Ok, é isso. Acabou. Espero que possamos vê-los
+novamente no ano que vem.&lt;wait&gt;</Entry>
+  <Entry Index="365">Isso é tudo, eu acho. E os próximos teremos que espera
+até o ano que vem. A espera vai ser eterna, né?&lt;wait&gt; </Entry>
+  <Entry Index="366">Muito bem! Que exibição maravilhosa! Não tenho palavras
+para descrever o quanto eu gostei.&lt;wait&gt;</Entry>
+  <Entry Index="367">Um dia eu gostaria de criar uma obra que expressasse as
+emoções que experimentei esta noite.&lt;wait&gt;</Entry>
+  <Entry Index="368">Que final maravilhoso! Só ouvi suspiros.&lt;wait&gt;</Entry>
+  <Entry Index="369">Oh, acabou. Eu gostaria de sentar um pouco e
+me gabar de como foi divertido, mas acho que
+será melhor irmos para casa.&lt;wait&gt;</Entry>
+  <Entry Index="370">Ha ha ha... Eu estive olhando para cima por tanto tempo
+que me deu um puxão no pescoço. Ai ai. Acho que
+vou para casa descansar.&lt;wait&gt;</Entry>
+  <Entry Index="371">Foi muito divertido. Temos que voltar no ano que vem.&lt;wait&gt;</Entry>
+  <Entry Index="372">Foi ótimo. Graças a esse descanso, minhas energias
+estão cheias. Amanhã irei trabalhar com vontade!&lt;wait&gt;</Entry>
+  <Entry Index="373">Foi uma noite muito gratificante. Dormirei muito bem
+me lembrando desse cobertor de estrelas.&lt;wait&gt;</Entry>
+  <Entry Index="374">Assitir os fogos de artifício da praia é o melhor.
+São tão mágicos.&lt;wait&gt;</Entry>
+  <Entry Index="375">Assitir os fogos de artifício da praia é o melhor.
+São tão mágicos.&lt;wait&gt;</Entry>
+  <Entry Index="376">Pj. principal solteiro=&lt;string0&gt;
+Garoto solteiro=&lt;string1&gt;
+Rival casado=&lt;string2&gt;&lt;wait&gt;</Entry>
+  <Entry Index="377">Venho todos os anos para ver os fogos de artifício.&lt;wait&gt;&lt;page&gt;
+Quando eu era pequeno, toda a minha família vinha nos
+visitar e fazíamos uma festa. Naquele época, tudo parecia
+muito maior para mim.&lt;wait&gt;</Entry>
+  <Entry Index="378">O espetáculo vai começar. Precisa de aguma coisa?&lt;wait&gt;</Entry>
+  <Entry Index="379">Devo convidá-lo para ver
+os fogos de artifício comigo?&lt;wait&gt;</Entry>
+  <Entry Index="380">Sim</Entry>
+  <Entry Index="381">Não</Entry>
+  <Entry Index="382">Você quer ver os fogos de artifício? É claro!
+Parece ótimo.&lt;wait&gt;</Entry>
+  <Entry Index="383">&lt;nickname&gt;, você veio. Você quer sentar
+e assitir aos fogos de artifício juntos?&lt;wait&gt;</Entry>
+  <Entry Index="384">Ah! Olá, &lt;playername&gt;! Eu estive o dia todo
+esperando pelo anoitecer! O que dalta para começar
+o espetáculo? Não aguento mais!&lt;wait&gt;</Entry>
+  <Entry Index="385">Pj. principal solteiro=&lt;string0&gt;
+Garota solteira=&lt;string1&gt;
+Rival casado=&lt;string2&gt;&lt;wait&gt;</Entry>
+  <Entry Index="386">Ah! Oh! Este lugar é perfeito, não acha? Poderemos
+vê-los muito bem daqui!&lt;wait&gt;</Entry>
+  <Entry Index="387">Sim, sem dúvida! Oh, parece que
+eles começarão em breve. Incrível!&lt;wait&gt;</Entry>
+  <Entry Index="388">Ah! Olá, &lt;nickname&gt;! ∀ Os fogos de artifício começarão
+muito em breve.&lt;wait&gt;</Entry>
+  <Entry Index="389">Mal posso esperar para começar o espetáculo.&lt;wait&gt;&lt;page&gt;
+Eu amo os fogos de artifício. Na minha cidade natal
+eles montavam esse tipo de exibição.&lt;wait&gt;</Entry>
+  <Entry Index="390">Estou começando a ficar impaciente... Espero que comece
+logo.&lt;wait&gt;</Entry>
+  <Entry Index="391">Uh? Quer ver os fogos de artifício comigo? Uh...
+ok, acho que está tudo bem.&lt;wait&gt;</Entry>
+  <Entry Index="392">Uau, Nossa. Olha, &lt;nickname&gt;. A vista daqui
+é linda, não é? Quer sentar e assistir comigo?&lt;wait&gt;</Entry>
+  <Entry Index="393">Ah, olá, &lt;playername&gt;. Você também veio vê-los?&lt;wait&gt;&lt;page&gt;
+Os fogos de artifício da Cidade Mineral são
+especialmente bonitos. Sente-se e prepare-se
+para se surpreender.&lt;wait&gt;</Entry>
+  <Entry Index="394">Devere começar em breve. Se prepare,
+&lt;playername&gt;. Está prestes a contemplar uma
+maravilha.&lt;wait&gt;</Entry>
+  <Entry Index="395">Gostarias de assisti aos fogos de artifício comigo?
+Por mim, tudo bem. Não me importo.&lt;wait&gt;</Entry>
+  <Entry Index="396">Ah, &lt;nickname&gt;. Você veio também? Venha.
+Vamos aproveitar o espetáculo.&lt;wait&gt;</Entry>
+  <Entry Index="397">Nada como relaxar em uma noite de verão com
+uma taça de vinho. Glup!
+Me dê outra!&lt;wait&gt;</Entry>
+  <Entry Index="398">He he. O verão é a melhor época. Há um festival com
+fogos de artifício e a comida é ótima!&lt;wait&gt;</Entry>
+  <Entry Index="399">O que foi? Procurando alguém para assistir aos fogos
+de artifício?&lt;wait&gt;</Entry>
+  <Entry Index="400">Claro! Eu adoraria assisti-los com você.&lt;wait&gt;</Entry>
+  <Entry Index="401">Ah, olá, &lt;nickname&gt;. Você terminou a suas tarefas
+diárias?&lt;wait&gt;</Entry>
+  <Entry Index="402">Ótimo! Podemos assistir aos fogos de artifício. Venha,
+sente-se comigo. Vamos, chegue um pouco mais perto.&lt;wait&gt;</Entry>
+  <Entry Index="403">Uau!
+O espetáculo de fogos de artifício
+vai ser ótimo!&lt;wait&gt;&lt;page&gt;
+Eles sempre jogam um montão
+mo final, vai ser incrível!&lt;wait&gt;</Entry>
+  <Entry Index="404">Você sabe onde quer se sentar para assistir aos fogos
+de artifício? Seria uma pena se você seta-se em um lugar
+com uma vista ruim.&lt;wait&gt;</Entry>
+  <Entry Index="405">Oh, vamos lá. Você não precisa ser tão formal. Adoraria
+assistir os fogos de artifício com você.&lt;wait&gt;</Entry>
+  <Entry Index="406">&lt;nickname&gt;! Ainda bem que chegou. Se apresse,
+eles estão  prestes a começar! Venha, podemos vê-los
+daqui.&lt;wait&gt;</Entry>
+  <Entry Index="407">Boa noite. Acho que o espetáculo de fogos
+de artifício está prestes a começar.&lt;wait&gt;</Entry>
+  <Entry Index="408">Que tipo de espetáculo estão preparado para este ano?
+Estou ansioso para descobrir.&lt;wait&gt;</Entry>
+  <Entry Index="409">Sim, claro. Adoraria assistir aos fogos de artifício
+com você.&lt;wait&gt;</Entry>
+  <Entry Index="410">Oh, aí está você, &lt;nickname&gt;. Vamos ver os fogos
+de artifício.&lt;wait&gt;</Entry>
+  <Entry Index="411">Boa noite, &lt;playername&gt;. Fico feliz que você
+chegou a tempo para assitir o espetáculo
+de fogos de artifício.&lt;wait&gt;</Entry>
+  <Entry Index="412">Boa noite, &lt;playername&gt;. Fico feliz que você
+chegou a tempo para ver o espetáculo de
+fogos de artifício.&lt;wait&gt;</Entry>
+  <Entry Index="413">Acho que devere começar logo. Algum problema?&lt;wait&gt;</Entry>
+  <Entry Index="414">Você gostaria de assistir aos fogos de artifício comigo?
+Por mim, tudo bem. Eu adoraria.&lt;wait&gt;</Entry>
+  <Entry Index="415">Ah! &lt;nickname&gt;, você veio. Pensei que estava
+sobrecarregado com o trabalho e que não lhe daria tempo.
+Estou muito feliz.&lt;wait&gt;</Entry>
+  <Entry Index="416">Maravilhoso. No final pudemos assistir aos fogos
+de artifício.&lt;wait&gt;</Entry>
+  <Entry Index="417">Não há nada mais calmo que uns fogos de artifício
+na praia. Ele celebram esse festival todos os anos,
+mas nunca me canso do assitir.&lt;wait&gt;&lt;page&gt;
+Gosto muito mais do espetáculo desta cidade do
+que dos outros lugares que conheço.&lt;wait&gt;</Entry>
+  <Entry Index="418">Ei, &lt;playername&gt;. Você rem certeza que quer
+assisti-los daqui? É importante encontrar um bom lugar
+para vê-los, você sabe.&lt;wait&gt;</Entry>
+  <Entry Index="419">Claro! Vamos assisti aos fogos de artifício.&lt;wait&gt;</Entry>
+  <Entry Index="420">&lt;nickname&gt;, o que você está esperando? Vamos, os
+veremos desde aqui. Se apresse antes que comecem!&lt;wait&gt;</Entry>
+  <Entry Index="421">Todos os anos, o vovô se encarrega de fabricar os
+canhões de onde serão lançados os fogos de artifício.&lt;wait&gt;&lt;page&gt;
+Não dá pra vê-los daqui, mas sempre insistem que eu fique
+de olhos bem abertos. Não entendo.&lt;wait&gt;</Entry>
+  <Entry Index="422">Ainda não está na hora de começar? Acho que nunca
+conheci uma pessoa que não goste de fogos
+de artifício.&lt;wait&gt;</Entry>
+  <Entry Index="423">Mmm? Oh... Tudo bem. Podemos assistir aos
+fogos de artifício daqui se você quiser.&lt;wait&gt;</Entry>
+  <Entry Index="424">&lt;nickname&gt;, vamos lá. Estão prestes a começar.
+Eu esperei o dia todo.&lt;wait&gt;</Entry>
+  <Entry Index="425">Esperei dias por essa noite para
+assistir ao espetáculo.&lt;wait&gt;&lt;page&gt;
+Ainda não começou? Quando pretendem ativá-los?&lt;wait&gt;</Entry>
+  <Entry Index="426">&lt;playername&gt;, quanto tempo você acha que vai
+demorar? É melhor encontrar se lugar antes que
+perca o espetáculo.&lt;wait&gt;</Entry>
+  <Entry Index="427">Deseja vê-los daqui? Ah, uh... tudo bem. Não me importo.&lt;wait&gt;</Entry>
+  <Entry Index="428">&lt;nickname&gt;, você está aqui. Esplêndido. Daqui
+poderemos deixar-nos levar por esse deslumbrante
+espetáculo. Venha, vamos. Sente-se, sente-se.&lt;wait&gt;</Entry>
+  <Entry Index="429">Oh, boa noite. O céu está lindo, não acha?
+Não há uma única nuvem à vista. Acho que o espetáculo
+vai ser memorável.&lt;wait&gt;</Entry>
+  <Entry Index="430">Posso sentir a energia positiva das pessoas no ambiente.
+Acho que o espetáculo começará logo.&lt;wait&gt;</Entry>
+  <Entry Index="431">Assistir aos fogos de artifício com outra pessoa...
+Mmm. De acordo. Pode ser uma fonte de energia
+positiva.&lt;wait&gt;</Entry>
+  <Entry Index="432">Nossa, você sentiu que eu estava pensando em você?
+Achei que você poderia querer companhia.
+Vamos, sente-se e assista.&lt;wait&gt;</Entry>
+  <Entry Index="433">Bom dia, &lt;playername&gt;. Amanhã o Concerto Anual
+acontecerá na igreja às 18:00.&lt;wait&gt;&lt;page&gt;
+Vim para perguntar se você gostaria se apresentar conosco.
+Você gostaria?&lt;wait&gt;</Entry>
+  <Entry Index="434">Bom dia, &lt;playername&gt;. Amanhã o Concerto Anual
+acontecerá na igreja às 18:00.&lt;wait&gt;&lt;page&gt;
+Vim para perguntar se você gostaria se apresentar conosco.
+Você gostaria?&lt;wait&gt;</Entry>
+  <Entry Index="435">Participar</Entry>
+  <Entry Index="436">Não participar</Entry>
+  <Entry Index="437">Sério? Maravilhoso. A Deusa ouviu
+minhas preces.&lt;wait&gt;&lt;page&gt;
+Estava pensando que você poderia tocar a ocarina.
+Te entragarei o instrumento amanhã.&lt;wait&gt;</Entry>
+  <Entry Index="438">Por favor, não se atrase. Esteja na igreja às 18:00.&lt;wait&gt;</Entry>
+  <Entry Index="439">Compreendo. É uma pena, mas ainda assim pode vir e
+ouvir a linda voz da Karen.&lt;wait&gt;&lt;page&gt;
+Se você tiver tempo, venha ver a nossa apresentação
+na igreja.&lt;wait&gt;</Entry>
+  <Entry Index="440">Eu estava te esperando. Todo mundo está lá dentro.
+Vamos entrar.&lt;wait&gt;</Entry>
+  <Entry Index="441">Perdão, mas vamos ter um concerto, então
+objetos externos não estão permitidos na igreja.&lt;wait&gt;&lt;page&gt;
+Peço perdão, mas poderia deixar de lado o que
+tem nas mãos?&lt;wait&gt;</Entry>
+  <Entry Index="442">Que maravilha. A música é perfeita para relaxar.&lt;wait&gt;</Entry>
+  <Entry Index="443">Lalala~ ♪ Laaa lala~ ♪ Bem, isso soa bem.
+Estou pronta para cantar.&lt;wait&gt;</Entry>
+  <Entry Index="444">Este concerto é realizado graças à ajuda
+de todos. É mais divertido do que se grandes
+profissionais viessem.&lt;wait&gt;</Entry>
+  <Entry Index="445">Mesmo se eu errar, Elly estará lá para me ajudar.
+Vamos improvisar. ♪&lt;wait&gt;</Entry>
+  <Entry Index="446">Hoje tocarei o órgão. Não tenho muita experiência. Só
+tivers algumas aulas quando era jovem.&lt;wait&gt;</Entry>
+  <Entry Index="447">Ugh, estou muito nervosa. Espero ser capaz de tocar sem
+cometer nenhum erro.&lt;wait&gt;</Entry>
+  <Entry Index="448">Karen vai cantar. Ela é muito boa nisso!&lt;wait&gt;</Entry>
+  <Entry Index="449">Você irá tocar a ocarina, certo?&lt;wait&gt;&lt;page&gt;
+Não posso mais esperar. Vamos começar?&lt;wait&gt;</Entry>
+  <Entry Index="450">Começar</Entry>
+  <Entry Index="451">Aguardar</Entry>
+  <Entry Index="452">Senhoras e senhores. Por favor, aguardem um momento
+enquanto os integrantes da banda se preparam.&lt;wait&gt;</Entry>
+  <Entry Index="453">Está bem. Quando estiver tudo pronto,
+venha falar comigo.&lt;wait&gt;</Entry>
+  <Entry Index="454">Mmm. Não acho que possa tocar se tiver algo nas
+mãos. Por favor, guarde isso.&lt;wait&gt;</Entry>
+  <Entry Index="455">Você não irá participar do concerto, certo? Então,
+sente-se e aproveite. Tenho certeza que irá mexer com você.&lt;wait&gt;</Entry>
+  <Entry Index="456">Quero cantar no concerto quando eu crescer.&lt;wait&gt;</Entry>
+  <Entry Index="457">Adorei. Voltarei no ano que vem.&lt;wait&gt;</Entry>
+  <Entry Index="458">Que grande concerto. Estou ansioso para repetir no
+ano que vem.&lt;wait&gt;</Entry>
+  <Entry Index="459">Bom dia, &lt;playername&gt;. Todo mundo se reunirá
+amanhã às 10:00 da manhã para celebrar o
+Festival da Colheita.&lt;wait&gt;&lt;page&gt;
+Para esse festival, precisaremos trazer ingredientes que
+misturaremos em uma panela enorme. É como uma
+reunião comunitária para comer.&lt;wait&gt;&lt;page&gt;
+Seria ótimo se pudesse trazer algo delicioso para
+colaborar. Espero você amanhã!&lt;wait&gt;</Entry>
+  <Entry Index="460">Você trouxe algo! Todos ficarão surpresos. He he he!&lt;wait&gt;</Entry>
+  <Entry Index="461">O que você acha? Eu trouxe geleia. Tenho certeza que ajudará
+a dar aquele toque especial.&lt;wait&gt;</Entry>
+  <Entry Index="462">Karen precisa ser observada de perto.&lt;wait&gt;&lt;page&gt;
+Certa vez, ela colocou chocolate dentro.&lt;wait&gt;</Entry>
+  <Entry Index="463">Ei, não toque na panela! E não coloque isso ainda!&lt;wait&gt;&lt;page&gt;
+Eca, não é para isso que serve o peixe!&lt;wait&gt;</Entry>
+  <Entry Index="464">Argh! Já chega! Pare de gritar, papai! Que mal tem!
+Misturado, tudo tem o mesmo sabor!&lt;wait&gt;</Entry>
+  <Entry Index="465">Nossa. Acho que algumas pessoas estão escondendo
+coisas.&lt;wait&gt;</Entry>
+  <Entry Index="466">É bom não ter que conzinhar pelo menos uma vez. Esta noite
+faremos nossa própria panela em casa com as sobras.&lt;wait&gt;</Entry>
+  <Entry Index="467">Mmmm. Vejo que não trouxe nada para a panela. Se você
+quiser participar, por que não traz alguma comida?&lt;wait&gt;</Entry>
+  <Entry Index="468">Olá, &lt;playername&gt;. trouxe algum ingrediente
+para acrescentar à panela?&lt;wait&gt;</Entry>
+  <Entry Index="469">Sim</Entry>
+  <Entry Index="470">Não</Entry>
+  <Entry Index="471">Quer acrescentar isso? Perfeito. Que comece o banquete.&lt;wait&gt;</Entry>
+  <Entry Index="472">É uma piada? Não podemos jogar isso na panela.&lt;wait&gt;</Entry>
+  <Entry Index="473">Os ensopados quentes são ótimos. A sopa está
+repleta de nutrientes.&lt;wait&gt;&lt;page&gt;
+Vou ter que levar algo para a vovó.&lt;wait&gt;</Entry>
+  <Entry Index="474">Os ensopados quentes são ótimos. A sopa está
+repleta de nutrientes.&lt;wait&gt;&lt;page&gt;
+Vou ter que levar algo para a vovó.&lt;wait&gt;</Entry>
+  <Entry Index="475">Ah, &lt;playername&gt;. Trouxe algo gostoso?
+Afinal, você está no comando de uma fazenda.
+Espero muito de sua contribuição.&lt;wait&gt;</Entry>
+  <Entry Index="476">Ai, que memórias. Eu costumava fazer algo semelhante
+anos atrás.&lt;wait&gt;&lt;page&gt;
+Eu colocava meu avental sagrado e preparava uma sopa
+divina, e depois convidava as pessas da cidade.&lt;wait&gt;</Entry>
+  <Entry Index="477">Uau, isso parece muito legal. Nunca é um mau momento
+para se sentar e desfrutar de um bom banquete
+rodeado de tanta gente.&lt;wait&gt;</Entry>
+  <Entry Index="478">Não... não fui eu, ok? Não fui eu. Não tem
+geleia na panela, eu juro!&lt;wait&gt;</Entry>
+  <Entry Index="479">Pode... pode ser que tenha caído geleia dentro.
+Com o pote incluido. Mas eu tirei antes que alguém
+percebesse.&lt;wait&gt;</Entry>
+  <Entry Index="480">Ah, tenho certeza de que temos que agradecer a Karen
+por isso... outra vez.&lt;wait&gt;&lt;page&gt;
+Talvez dessa vez fossem caramelos.
+Ou algodão doce.&lt;wait&gt;</Entry>
+  <Entry Index="481">Ufa, que alívio. Parece que ninguém
+colocou algo estranho dessa vez.&lt;wait&gt;</Entry>
+  <Entry Index="482">Que estranho. Eu provei antes e...&lt;wait&gt;</Entry>
+  <Entry Index="483">Obviamente, estava muito gostoso porque era eu quem
+estava vigiando a panela.&lt;wait&gt;</Entry>
+  <Entry Index="484">Oh, eu queria experimentar. Ainda não tive o sificiente!&lt;wait&gt;</Entry>
+  <Entry Index="485">Ugh... comi demais.&lt;wait&gt;</Entry>
+  <Entry Index="486">Ah, eu sabia. Deveríamos ter verificado cada ingrediente
+antes de colocá-lo. Que desperdício de comida...&lt;wait&gt;</Entry>
+  <Entry Index="487">Miúdo banquete. Devemos ser agradecidos pelas
+bênçãos da terra e do mar.&lt;wait&gt;</Entry>
+  <Entry Index="488">Que diabos...? Que tipo de sabor é esse?&lt;wait&gt;</Entry>
+  <Entry Index="489">Está delicioso. Nossa... Não sobrou nada.&lt;wait&gt;</Entry>
+  <Entry Index="490">No final conseguimos cozinhar todos juntos. Às vezes,
+essas coisas acontecem.&lt;wait&gt;</Entry>
+  <Entry Index="491">Você se divertiu? Comer com tanta gente é
+uma experiência e tanto, certo?&lt;wait&gt;</Entry>
+  <Entry Index="492">Mmm. O que são aqueles rostos mal-humorados?
+Pensei que estaria bom.&lt;wait&gt;</Entry>
+  <Entry Index="493">O peixe foi uma boa contribuição. É o que deu
+vida a esse prato.&lt;wait&gt;</Entry>
+  <Entry Index="494">&lt;playername&gt;, você tem água?&lt;wait&gt;</Entry>
+  <Entry Index="495">Anna colocou ervas.
+Elas conseguiram neutralizar o cheiro horrível do peixe.
+Mas sua fragrância talvez seja muito intensa.&lt;wait&gt;</Entry>
+  <Entry Index="496">É o que acontece quando todos trazem seus próprios
+ingredientes. A imprevisibilidade é a cruz que
+todos devemos carregar.&lt;wait&gt;</Entry>
+  <Entry Index="497">Os ensopados quentes tem um sabor melhor quando
+os compartilha com seus amigos.&lt;wait&gt;</Entry>
+  <Entry Index="498">Não importa qual seja o gosto, pretendo beber
+até a última gota.&lt;wait&gt;&lt;page&gt;
+Que? Por que? Porque desperdiçá-lo seria desrespeitoso
+para a montanha, o oceano e as pessoas que o fizeram.
+Certifique-se de comer alguma coisa também,
+está me ouvindo?&lt;wait&gt;</Entry>
+  <Entry Index="499">Bom, já me terminei de me encher, e foi um
+verdadeiro deleite. É hora de pegar o meu machado
+novamente!&lt;wait&gt;</Entry>
+  <Entry Index="500">Deveria ter uma grande panela e uma grande
+exibição para esse festival.&lt;wait&gt;&lt;page&gt;
+Mas não é possível agora. Desculpe pelo
+incoveniente.&lt;wait&gt;</Entry>
+  <Entry Index="501">Nossa, a lua está linda.&lt;wait&gt;</Entry>
+  <Entry Index="502">Ela está tão bonita.&lt;wait&gt;</Entry>
+  <Entry Index="503">Uau, esse lugar tem as melhores vistas.&lt;wait&gt;</Entry>
+  <Entry Index="504">Uau. A lua está enorme esta noite.&lt;wait&gt;</Entry>
+  <Entry Index="505">Oh, que lua mais bonita.&lt;wait&gt;</Entry>
+  <Entry Index="506">A lua irradia um brilho perolado que invade
+suavemente o céu noturno... Sua beleza é arrebatadora.&lt;wait&gt;</Entry>
+  <Entry Index="507">A lua parece estar tão próxima que quase pode
+alcançá-la e tocá-la. Definitivamente,
+escolhemos o melhor lugar.&lt;wait&gt;</Entry>
+  <Entry Index="508">Uau... Nesse momento, pessoas de todo o mundo
+estão olhando a lua, assim como nós.&lt;wait&gt;</Entry>
+  <Entry Index="509">Nossa, temos uma lua enorme! Dizem que lá vive
+um coelho. Gostaria de saber se isso é verdade.&lt;wait&gt;</Entry>
+  <Entry Index="510">De todas as fases da lua, a mais bonita é quando
+está cheia. É quando ela nos mostra sua verdadeira cara.&lt;wait&gt;</Entry>
+  <Entry Index="511">Há algo místico na lua esta noite. É a mesma lua
+de sempre, mas de alguma maneira, esta noite está
+especial.&lt;wait&gt;</Entry>
+  <Entry Index="512">Esta noite a lua é um círculo perfeito. As outras fases
+também têm seus encantos, mas a lua cheia é
+especial...&lt;wait&gt;</Entry>
+  <Entry Index="513">Oh! Bolinhos de lua. Você se importa se eu pegar um?&lt;wait&gt;&lt;page&gt;
+Uau! Obrigado! Hum, hum.&lt;wait&gt;</Entry>
+  <Entry Index="514">Mmmm! Obrigado! Estão muito saborosos.&lt;wait&gt;</Entry>
+  <Entry Index="515">Oh... bolinhos de lua? Você os fez só para mim?
+Oh, isso, o-obrigado...&lt;wait&gt;&lt;page&gt;
+Você se importas se eu provar uma? Obrigado...
+Hum, hum, hum.&lt;wait&gt;</Entry>
+  <Entry Index="516">Mmm. Estão muito bons. Comer bolinhos enquanto
+observamos a lua... Isso torna esta noite muito especial.&lt;wait&gt;</Entry>
+  <Entry Index="517">O que? você fez bolinhos de lua para mim? Oh,
+obrigado! É todo um detalhe!&lt;wait&gt;&lt;page&gt;
+He he! Eu peguei um! Hum, hum, hum.&lt;wait&gt;</Entry>
+  <Entry Index="518">Mmm! Você acertou em cheio. Comer deliciosos
+bolinhos enquanto olhamos a lua é o melhor. Obrigado!&lt;wait&gt;</Entry>
+  <Entry Index="519">Uh? Nossa, bolinhos de lua. Você fez para mim?&lt;wait&gt;&lt;page&gt;
+Obrigado. Hum, hum, hum.&lt;wait&gt;</Entry>
+  <Entry Index="520">Mmm. Estão muito bons. Obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="521">Ho ho! Bolinhos de lua! Você fez
+especialmente para esta noite? Claro, você pensa em tudo!&lt;wait&gt;&lt;page&gt;
+Nossa, obrigado. Hum, hum.&lt;wait&gt;</Entry>
+  <Entry Index="522">Mmm. Estão saborosos. Obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="523">E o que é isso? Oh, entendi. Bolinhos de lua. Que luxo.&lt;wait&gt;&lt;page&gt;
+Posso comê-los? Acho que posso ao menos provar um.&lt;wait&gt;</Entry>
+  <Entry Index="524">Agora você realmente me surpreendeu. Estão ótimos.
+Comer bolinhos olhando para lua é um
+costume bastante incomum.&lt;wait&gt;</Entry>
+  <Entry Index="525">Eu me pergunto se mamãe e papai costumavam
+contemplar a lua assim. Espero...
+espero que ele volte para casa logo.&lt;wait&gt;</Entry>
+  <Entry Index="526">Contemplar a lua em noites como esta dá uma
+sensação impossível de descrever... Ou sou só eu?&lt;wait&gt;</Entry>
+  <Entry Index="527">A lua como está é muito impressionante, mas acho que
+estaria ainda melhor se estivesse parcialmente
+coberta de nuvens.&lt;wait&gt;</Entry>
+  <Entry Index="528">Normalmente eu não me dou o trabalhp de olhar para a lua,
+mas tirar um momento para relaxar e dar uma olhada
+não é nada ruim.&lt;wait&gt;</Entry>
+  <Entry Index="529">Eu poderia ficar olhando para a lua assim
+a noite toda. Vamos torcer para que ela nos abençoe
+com um bom tempo no próximo ano outra vez.&lt;wait&gt;</Entry>
+  <Entry Index="530">O que você prefere, a lua cheia ou as mudanças de fases?&lt;wait&gt;&lt;page&gt;
+Ah, não importa. As belas faces da lua não podem ser
+comparadas entre si.&lt;wait&gt;</Entry>
+  <Entry Index="531">Não há nada de errado em ficar acordado até
+tarde de vez em quando. Eu gostaria de ficar- até
+o amanhecer, mas...&lt;wait&gt;</Entry>
+  <Entry Index="532">Ups! Passei a noite toda olhando para a lua. Espero
+que minhas olheiras não apareçam muito..&lt;wait&gt;</Entry>
+  <Entry Index="533">Ela é tão bonita...&lt;wait&gt;</Entry>
+  <Entry Index="534">Olá! Que lua redonda. E enorme!&lt;wait&gt;</Entry>
+  <Entry Index="535">Oh, é linda.&lt;wait&gt;</Entry>
+  <Entry Index="536">Preciosa...&lt;wait&gt;</Entry>
+  <Entry Index="537">Tão bela.&lt;wait&gt;</Entry>
+  <Entry Index="538">Em noites como esta, você sente a influência natural
+da lua...&lt;wait&gt;</Entry>
+  <Entry Index="539">Como somos sortudos! Você não encontrará uma vista melhor
+do que esta.&lt;wait&gt;</Entry>
+  <Entry Index="540">Uau, parece enorme daqui.&lt;wait&gt;</Entry>
+  <Entry Index="541">Sabe o que isso me lembra? Uma bola gigante. Ou a um
+bolinho. Mmmmm... bolinhos.&lt;wait&gt;</Entry>
+  <Entry Index="542">A lua tem um ar estranho e místico. Às vezes,
+eu me pergunto...&lt;wait&gt;&lt;page&gt;
+Se a lua não existisse, como seria o mundo? Um lugar
+totalmente diferente, sem dúvida.&lt;wait&gt;</Entry>
+  <Entry Index="543">Eu amo a lua. Alguma vez já viu ela pela
+manhã, quando está toda branca e embaçada? Sua beleza
+me faz estremecer.&lt;wait&gt;</Entry>
+  <Entry Index="544">Sinto como se a energia da lua atingisse a minha alma...
+Você também pode sentir?&lt;wait&gt;</Entry>
+  <Entry Index="545">É estranho. Como é que a lua pode parecer tão preciosa?
+É a mesma lua de sempre, certo? O que a torna
+tão diferente esta noite?&lt;wait&gt;</Entry>
+  <Entry Index="546">Sentados aqui sob a lua é como se estivéssemos em um
+mundo totalmente diferente.&lt;wait&gt;</Entry>
+  <Entry Index="547">Parece que eu poderia tocá-la em um salto.
+Olha, você vê isso? Quase posso tocá-la.&lt;wait&gt;</Entry>
+  <Entry Index="548">Mamãe e papai me disseram que iam sair esta noite também.
+Gostaria de saber ser eles encontraram um bom
+lugar para sentar.&lt;wait&gt;&lt;page&gt;
+Na verdade, talvez apenas papai tenha saído.
+A mamãe não gosta das montanhas à noite.&lt;wait&gt;</Entry>
+  <Entry Index="549">A lua está tão brilhante que parece dia.&lt;wait&gt;&lt;page&gt;
+Em noites como essa, por que não nos importamos
+em pregar os olhos?&lt;wait&gt;</Entry>
+  <Entry Index="550">Diz-se que a lua exerce uma grande influência mística
+nas pessoas e na natureza.&lt;wait&gt;&lt;page&gt;
+Ao observá-la esta noite, acho que posso entender
+o motivo.&lt;wait&gt;</Entry>
+  <Entry Index="551">Oh! Bolinhos de lua! E são macios e fofos!
+Você os fez para essa noite?&lt;wait&gt;&lt;page&gt;
+Ótimo, muito obrigado! Hum, hum.&lt;wait&gt;</Entry>
+  <Entry Index="552">Deliciosos! Estão deliciosíssimos. Obrigado!∀&lt;wait&gt;</Entry>
+  <Entry Index="553">Oh, Você fez bolinhos de lua só para mim?
+Que charme!&lt;wait&gt;&lt;page&gt;
+Bem! Muito obrigado! Hum, hum.&lt;wait&gt;</Entry>
+  <Entry Index="554">Mmmm! Que saborosos! Obrigado!∀&lt;wait&gt;</Entry>
+  <Entry Index="555">Oh, bolinhos de lua! Você fez só para a gente comer?&lt;wait&gt;&lt;page&gt;
+Bem! Vou provar um, se você não se importa! Hum, hum.&lt;wait&gt;</Entry>
+  <Entry Index="556">Mmmmmm! Estão muito bons! Obrigado!∀&lt;wait&gt;</Entry>
+  <Entry Index="557">Mmm? Nossa, bolinhos de lua. Você fez só para mim?&lt;wait&gt;&lt;page&gt;
+Nossa, obrigado. Hum, hum.&lt;wait&gt;</Entry>
+  <Entry Index="558">Estavam deliciosas. Obrigado.∀&lt;wait&gt;</Entry>
+  <Entry Index="559">Ah, bolinhos de lua! Hoje tentei fazer uma forma,
+mas não deu muito certo. Mmm? São para mim?&lt;wait&gt;&lt;page&gt;
+Oh, muito obrigado! Hum, hum.&lt;wait&gt;</Entry>
+  <Entry Index="560">Mmmmm, gostoso. Era o que mais queria esta
+noite. Obrigado.∀&lt;wait&gt;</Entry>
+  <Entry Index="561">Vamos, bolinhos de lua. O acompanhamento perfeito
+para uma noite como esta. Uh? São para mim?
+Que detalhe.&lt;wait&gt;&lt;page&gt;
+Acho que vou pegar um. Hum, hum.&lt;wait&gt;</Entry>
+  <Entry Index="562">Estão bons de chupar os dedos. Obrigado,
+&lt;nickname&gt;.∀&lt;wait&gt;</Entry>
+  <Entry Index="563">Que dia lindo. Olha esses cavalos!
+Que beleza!&lt;wait&gt;</Entry>
+  <Entry Index="564">Você vai participar da corrida hoje? Excelente.
+Vou torcer por você daqui.&lt;wait&gt;</Entry>
+  <Entry Index="565">Então, Gray virá desta vez? Bem, bem. O avô dele
+não o deixou vir na primavera, então estou
+feliz por ele.&lt;wait&gt;</Entry>
+  <Entry Index="566">Ei. Você vai participar da corrida hoje, certo?
+Boa sorte.&lt;wait&gt;</Entry>
+  <Entry Index="567">A sehorita Lillia queria ver os cavalos, então eu vim
+por precaução.&lt;wait&gt;&lt;page&gt;
+Eu não a deixaria vir se soubesse que sua saúde iria piorar.
+Mas acho que o ar fresco a ajudará a se sentir melhor.&lt;wait&gt;</Entry>
+  <Entry Index="568">Está tudo bem o dar tudo de si e se divertir, mas tenha
+muito cuidado para não se machucar.&lt;wait&gt;</Entry>
+  <Entry Index="569">Dessa vez, acho que vou comprar um bilhete para as
+corridas. Mas não sei qual cavalo escolher.&lt;wait&gt; </Entry>
+  <Entry Index="570">Boa sorte. Estarei torcendo por você das arquibancadas.&lt;wait&gt;</Entry>
+  <Entry Index="571">Meu Deus! Você viu os cavalos?
+Que animais esplêndidos.&lt;wait&gt;</Entry>
+  <Entry Index="572">Ouvi dizer que você vai participar da corrida.
+Boa sorte!&lt;wait&gt;</Entry>
+  <Entry Index="573">Andar a cavalo parece um ótimo passatempo.&lt;wait&gt;</Entry>
+  <Entry Index="574">Você vai participar da corrida hoje, certo?
+Rezarei pela sua vitória.&lt;wait&gt;</Entry>
+  <Entry Index="575">O vovô me deu permissão para fazer uma pausa
+e vir aqui hoje. Vou comprar um bilhete agora mesmo.&lt;wait&gt;</Entry>
+  <Entry Index="576">Nossa! Você vai participar da corrida? Muito bem!
+Já sei em quem apostar!&lt;wait&gt;</Entry>
+  <Entry Index="577">As corridas de cavalos são muito divertidas, não é?&lt;wait&gt;</Entry>
+  <Entry Index="578">Apostei em você, jovem. Boa sorte!&lt;wait&gt;</Entry>
+  <Entry Index="579">Bom dia, &lt;playername&gt;. Amanhã será o
+Festival Fluffy.&lt;wait&gt;&lt;page&gt;
+Qualquer ovelha adulta, alpaca ou coelho de angorá pode
+participar desde que não esteja gestante.&lt;wait&gt;&lt;page&gt;
+Espero que &lt;myfarmname&gt; possa participar no ano
+que vem, mas você pode aparecer para assistir
+se quiser.&lt;wait&gt;&lt;page&gt;
+Começará às 10:00 da manhã na Praça Rosa.
+Espero você lá amanhã, &lt;playername&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="580">Bom dia, &lt;playername&gt;. Amanhã será o
+Festival Fluffy.&lt;wait&gt;&lt;page&gt;
+Qualquer ovelha adulta, alpaca ou coelho de angorá pode
+participar desde que não esteja gestante.&lt;wait&gt;&lt;page&gt;
+Acredito que no ano que vem, os animais da &lt;myfarmname&gt;
+terão idade suficiente para participar, mas você pode
+aparecer para assistir.&lt;wait&gt;&lt;page&gt;
+Começará às 10:00 da manhã na Praça Rosa.
+Espero você lá amanhã, &lt;playername&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="581">Bom dia, &lt;playername&gt;. O Festival Fluffy
+é amanhã. Emocionante, certo?&lt;wait&gt;&lt;page&gt;
+Que tal participar com uma ovelha adulta, uma
+alpaca ou um coelho de angorá da &lt;myfarmname&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="582">Ótimo! Então, qual animal você vai inscrever?&lt;wait&gt;&lt;page&gt;
+Qualquer animal adulto vale, desde que
+não esteja gestante.&lt;wait&gt;</Entry>
+  <Entry Index="583">Uma pena. O festival seria mais divertido se algum
+animal da sua fazenda participasse.&lt;wait&gt;</Entry>
+  <Entry Index="584">Amanhã celebraremos o Festival Fluffy na praça.&lt;wait&gt;&lt;page&gt;
+Qualquer animal tosquiável adulto pode participar desde que
+não esteja gestante e esteja peludo, mas...&lt;wait&gt;&lt;page&gt;
+parece que você não tem nenhum com estas caraterísticas...&lt;wait&gt;&lt;page&gt;
+Bom, até mais, &lt;playername&gt;. Espero que você pelo
+menos venha ver!&lt;wait&gt;</Entry>
+  <Entry Index="585">Que espetáculo, hein? Esses animais têm uma pelagem de
+alta qualidade, além de serem adoráveis.&lt;wait&gt;</Entry>
+  <Entry Index="586">Você trouxe um animal da nossa fazenda para
+participar, certo, &lt;nickname&gt;? É impossível você
+perder. Nossos animais são de primeira qualidade!&lt;wait&gt;</Entry>
+  <Entry Index="587">Algum animal da sua fazenda vai participar,
+&lt;playername&gt;? Mal posso esperar para vê-lo em ação.
+Aposto a que vai nos surpreender.&lt;wait&gt;</Entry>
+  <Entry Index="588">Algum animal de sua fazenda vai participar,
+&lt;playername&gt;? Mal posso esperar para vê-lo em ação.
+Aposto a que vai nos surpreender.&lt;wait&gt;</Entry>
+  <Entry Index="589">Que ambiente ótimo. Estar cercado de animais
+relaxa muito.&lt;wait&gt;</Entry>
+  <Entry Index="590">O animal quevocê trouxe da sua fazenda parece
+muito bem cuidado.&lt;wait&gt;</Entry>
+  <Entry Index="591">Oh, você veio a ver os animais? Eu também. Adoro
+esse tipo de festival.&lt;wait&gt;</Entry>
+  <Entry Index="592">Tenho certeza que se animal vencerá. Quem não se
+apaixonaria por um rosto tão fofo?&lt;wait&gt;</Entry>
+  <Entry Index="593">Seu animal com certeza vencerá, &lt;nickname&gt;.
+Boa sorte!&lt;wait&gt;</Entry>
+  <Entry Index="594">Eu amo os animais. São tão tranquilos.&lt;wait&gt;</Entry>
+  <Entry Index="595">Você inscreveu um animal da sua fazenda, certo,
+&lt;playername&gt;? Espero que ganhe.&lt;wait&gt;</Entry>
+  <Entry Index="596">Olá. Olha como esses animais são grandes. É um
+espetáculo e tanto, não é?&lt;wait&gt;</Entry>
+  <Entry Index="597">Espero que o animal que você trouxe ganhe,
+&lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="598">Só de ver animais tão magníficos, eu sinto orgulho
+desta cidade. Espero que não encontremos encrenqueiros.&lt;wait&gt;</Entry>
+  <Entry Index="599">Espero que você ganhe. Rezarei por você.&lt;wait&gt;</Entry>
+  <Entry Index="600">Que sono... Esses animais tão parados fazem com que
+eu sinta sono.&lt;wait&gt;</Entry>
+  <Entry Index="601">Você vai participar com um animal da sua fazenda,
+&lt;playername&gt;? Legal. Deixa eu dar uma olhada.&lt;wait&gt;</Entry>
+  <Entry Index="602">Você vai participar com um animal da sua fazenda,
+&lt;playername&gt;? Legal. Deixa eu dar uma olhada.&lt;wait&gt;</Entry>
+  <Entry Index="603">Estarei torcendo por você, &lt;nickname&gt;. Boa sorte.&lt;wait&gt;</Entry>
+  <Entry Index="604">Olha esse! Ele parece muito acordado, não é?
+Estou começando a pegar o jeito.&lt;wait&gt;</Entry>
+  <Entry Index="605">Nada mal, nada mal. Os animais da sua fazenda
+parecem muito bons.&lt;wait&gt;</Entry>
+  <Entry Index="606">Minha cama é feita de lã macia.
+É a especialidade do meu avô!&lt;wait&gt;</Entry>
+  <Entry Index="607">Um animal da sua fazenda vai participar?
+Bom! Vou torcer por você!&lt;wait&gt;</Entry>
+  <Entry Index="608">Um animal da sua fazenda vai participar?
+Bom! Vou torcer por você!&lt;wait&gt;</Entry>
+  <Entry Index="609">Eu adoraria viver cercada de fofura. Acolcharía
+todas minhas coisas se pudesse.&lt;wait&gt;</Entry>
+  <Entry Index="610">Os animais macios são adoráveis. Falando nisso, você vai
+participar, certo? Boa sorte, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="611">Os animais suaves são adoráveis. Falando nisso, você vai
+participar, certo?&lt;wait&gt;&lt;page&gt;
+Boa sorte, &lt;nickname&gt;. Vou canalizar toda minha
+energia para que te dê sorte. Sua vitória será
+garantida.&lt;wait&gt;</Entry>
+  <Entry Index="612">Acho que é a hora de decidir qual animal é o vencedor.
+Ah, antes de mais nada, um conselho: Certifique-se
+de ter algum espaço na sua mochila!&lt;wait&gt;&lt;page&gt;
+Afinal, se sua mochila estiver cheia e seu animal
+for vitorioso, não poderemos lhe dar o troféu.&lt;wait&gt;&lt;page&gt;
+Tudo pronto?&lt;wait&gt;</Entry>
+  <Entry Index="613">O Festival Fluffy terminou.&lt;wait&gt;&lt;page&gt;
+Os organizadores levarão os animais inscritos para
+suas respectivas casas, para que os donos possam ir.&lt;wait&gt;&lt;page&gt;
+Repito, o Festival Fluffy terminou.&lt;wait&gt;</Entry>
+  <Entry Index="614">Eu sabia que aquele animal venceria. Tem um casaco
+de pêlo natural extramacio.&lt;wait&gt;</Entry>
+  <Entry Index="615">O pêlo do seu animal tinha um brilho especial.
+Eu estava convencido de que ganharia.&lt;wait&gt;</Entry>
+  <Entry Index="616">Ah, que chatice. Tente novamente ano que vem.&lt;wait&gt;</Entry>
+  <Entry Index="617">Os animais se comportaram muito bem. E também 
+mostraram sua cara mais adorável.&lt;wait&gt;</Entry>
+  <Entry Index="618">Parabéns pela sua vitória! Demonstra o quão bem
+você criou e cuidou dele. Estou impressionado.&lt;wait&gt;</Entry>
+  <Entry Index="619">Como você não ganhou? Que pena.&lt;wait&gt;</Entry>
+  <Entry Index="620">Grandes ou pequenos, gosto de todos!
+Os animais são adoráveis.&lt;wait&gt;</Entry>
+  <Entry Index="621">Parabéns pela sua vitória! Sabia que a
+&lt;myfarmname&gt; levaria o ouro para casa.&lt;wait&gt;</Entry>
+  <Entry Index="622">Não vale a pena ficar chateado. Terá outra oportunidade
+no ano que vem.&lt;wait&gt;</Entry>
+  <Entry Index="623">Olhar para esses animais fofos tem um efeito
+calmante na alma.&lt;wait&gt;</Entry>
+  <Entry Index="624">Parabéns. Eu não me importaria de tricotar um suéter
+com a lã do seu animal.&lt;wait&gt;</Entry>
+  <Entry Index="625">Pessoalmente, acho que o seu animal é o melhor,
+&lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="626">Que espetáculo mais impressionante presenciamos
+hoje, não? Todos os animais que foram aprensentados eram
+excelentes. Estou ansioso pelo próximo festival.&lt;wait&gt;</Entry>
+  <Entry Index="627">Parabéns pela vitoria! Você fez um trabalho esplêndido
+criando esse animal.&lt;wait&gt;</Entry>
+  <Entry Index="628">Olá, &lt;playername&gt;. Bem, bem. O resultado não
+importa. Espero que isso não o desanime de
+participar no ano que vem.&lt;wait&gt;</Entry>
+  <Entry Index="629">Que grande festival. Esses espetáculos
+me deixam de muito bom humor.&lt;wait&gt;</Entry>
+  <Entry Index="630">Você ganhou! É incrível. Você tem todo o direito
+de de sentir &lt;gender&gt;("orgulhoso","orgulhosa").&lt;wait&gt;</Entry>
+  <Entry Index="631">Esse ano teve candidatos muito bons. Todos
+os animais tinham uma pelagem ótima.&lt;wait&gt;</Entry>
+  <Entry Index="632">Que sono. Não consigo ficar de pé. Vou dormir
+muito bem hoje, com certeza.&lt;wait&gt;</Entry>
+  <Entry Index="633">Você ganhou. Parabéns. Seu animal era o melhor de todos.&lt;wait&gt;</Entry>
+  <Entry Index="634">Mmmm, que pena Tente novamente da próxima vez.&lt;wait&gt;</Entry>
+  <Entry Index="635">Ver esses animais tão fofos me inspira muita ternura.&lt;wait&gt;</Entry>
+  <Entry Index="636">Você ganhou?! Nesse caso, me daria um pouco dessa
+pêlagem tão maravilhosa? É perfeita para se
+aquecer durante o inverno.&lt;wait&gt;</Entry>
+  <Entry Index="637">Então no final seu animal perdeu, uh? Bem, não se sinta
+mal por isso.&lt;wait&gt;</Entry>
+  <Entry Index="638">Eu queria participar com meu melhor amigo peludo, mas me
+disseram que não posso por que sou menor de idade.&lt;wait&gt;&lt;page&gt;
+Tenho certeza de que eles estão com medo de que o
+Sr. Sonolento leve o ouro...&lt;wait&gt;</Entry>
+  <Entry Index="639">Você ganhou! Uauuu! Legal!&lt;wait&gt;</Entry>
+  <Entry Index="640">Você ganhou! Uauuu! Legal!&lt;wait&gt;</Entry>
+  <Entry Index="641">Nossa... que decepção.&lt;wait&gt;</Entry>
+  <Entry Index="642">Nossa... que decepção.&lt;wait&gt;</Entry>
+  <Entry Index="643">Este ano voltamos a ter um montão
+de animais de alta qualidade.&lt;wait&gt;</Entry>
+  <Entry Index="644">Há muito tempo que não me divirto tanto.&lt;wait&gt;</Entry>
+  <Entry Index="645">Que pena. Mas não desanime e apresenta-se novamente no
+ano que vem. Tenho certeza de que obterá
+melhores resultados.&lt;wait&gt;</Entry>
+  <Entry Index="646">Quando faço carinho nesses animais,
+sempre fico com sono.&lt;wait&gt;</Entry>
+  <Entry Index="647">Parabéns pela vitoria! Tenho certeza que foi graças à
+energia que transmiti a vocês.&lt;wait&gt;&lt;page&gt;
+É piada. Isso mostra o quanto você trabalhou para chegar
+aqui. Muito bem.&lt;wait&gt;</Entry>
+  <Entry Index="648">Você perdeu, uh? Se você ficar triste, os animais também
+ficaram deprimidos. Anime-se.&lt;wait&gt;</Entry>
+  <Entry Index="649">E o vencedor é...
+&lt;myfarmname&gt; com sua &lt;string0&gt;!&lt;wait&gt;&lt;page&gt;
+Observem que casaco de pêlos  macio e esplêndido.
+Muito bem!&lt;wait&gt;</Entry>
+  <Entry Index="650">Hoje é o Dia da Abóbora!&lt;wait&gt;&lt;page&gt;
+Nesse dia, as crianças recebem doces. Então me dê algum!&lt;wait&gt;</Entry>
+  <Entry Index="651">Hoje é o Dia da Abóbora!&lt;wait&gt;&lt;page&gt;
+Nesse dia, as crianças recebem doces. Então me dê algum!&lt;wait&gt;</Entry>
+  <Entry Index="652">Doces, por favor!&lt;wait&gt;</Entry>
+  <Entry Index="653">Uau, obrigado! ♪ Tchau.&lt;wait&gt;</Entry>
+  <Entry Index="654">Uau, obrigado! ♪ Tchau.&lt;wait&gt;</Entry>
+  <Entry Index="655">Ei, isso não é um doce.&lt;wait&gt;</Entry>
+  <Entry Index="656">Hoje é o Dia da Abóbora!&lt;wait&gt;&lt;page&gt;
+Eu vim pelos doces! Me dê algum!&lt;wait&gt;</Entry>
+  <Entry Index="657">Hoje é o Dia da Abóbora!&lt;wait&gt;&lt;page&gt;
+Eu vim pelos doces! Me dê algum!&lt;wait&gt;</Entry>
+  <Entry Index="658">Vaaaamos. Se apreesse e me dê alguns doces!&lt;wait&gt;</Entry>
+  <Entry Index="659">Obrigado! ♪ Certo, tchau.&lt;wait&gt;</Entry>
+  <Entry Index="660">Obrigado! ♪ Certo, tchau.&lt;wait&gt;</Entry>
+  <Entry Index="661">Você não me engana! Isso não é doce!&lt;wait&gt;</Entry>
+  <Entry Index="662">Hoje é o Dia da Abóbora.&lt;wait&gt;&lt;page&gt;
+Você não acha que é injusto que apenas as
+crianças recebam doces?&lt;wait&gt;&lt;page&gt;
+Por isso que eu vim. Eu também quero! ♪&lt;wait&gt;</Entry>
+  <Entry Index="663">Me dê algum? Por favor?&lt;wait&gt;</Entry>
+  <Entry Index="664">Uau, obrigado! ♪ Bem, até mais&lt;wait&gt;</Entry>
+  <Entry Index="665">VocÊ sabe que isso não é um doce?&lt;wait&gt;</Entry>
+  <Entry Index="666">Hoje é o Dia da Abóbora.&lt;wait&gt;&lt;page&gt;
+Não quero que você carregue todo o trabalho &lt;gender&gt;("sozinho","sozinha"),
+&lt;nickname&gt;, então...&lt;wait&gt;&lt;page&gt;
+trouxe alguns doces para você e para
+&lt;childname&gt;! Pode comer!&lt;wait&gt;</Entry>
+  <Entry Index="667">Sim! ♪&lt;wait&gt;</Entry>
+  <Entry Index="668">Vamos comê-los!&lt;wait&gt;</Entry>
+  <Entry Index="669">Hoje é o Dia da Abóbora.&lt;wait&gt;&lt;page&gt;
+Não quero que você carregue todo o trabalho &lt;gender&gt;(sozinho","sozinha),
+&lt;nickname&gt;, então...&lt;wait&gt;&lt;page&gt;
+trouxe alguns doces para você e 
+&lt;childname&gt;! Pode comer!&lt;wait&gt;</Entry>
+  <Entry Index="670">Hoje é o Dia da Abóbora, certo?&lt;wait&gt;&lt;page&gt;
+Para comemorar, trouxe alguns doces para você e
+&lt;childname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="671">Vamos comê-los!&lt;wait&gt;</Entry>
+  <Entry Index="672">Hoje é o Dia da Abóbora, certo?&lt;wait&gt;&lt;page&gt;
+Não sou muito hábil com isso, mas queria fazer algo com
+as minhas próprias mãos. Então segui um livro de
+receitas e bum!&lt;wait&gt;</Entry>
+  <Entry Index="673">Acho que ficaram muito bons. Vamos, experimente um!&lt;wait&gt;</Entry>
+  <Entry Index="674">Hoje é o Dia da Abóbora.&lt;wait&gt;&lt;page&gt;
+Eu queria fazer algo especial, então aqui estão alguns
+doces para você e &lt;childname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="675">Você quer nos os comamos?&lt;wait&gt;</Entry>
+  <Entry Index="676">Hoje é o Dia da Abóbora.&lt;wait&gt;&lt;page&gt;
+Eu fiz um doce para você. Gostaria de experimentar?&lt;wait&gt;</Entry>
+  <Entry Index="677">Olá. Você sabia que hoje é o Dia da Abóbora?&lt;wait&gt;&lt;page&gt;
+Achei que você poderia ter esquecido, &lt;nickname&gt;, então
+fiz alguns doces para você.&lt;wait&gt;</Entry>
+  <Entry Index="678">Anda, vamos comê-los.&lt;wait&gt;</Entry>
+  <Entry Index="679">Você sabia que hoje é o Dia da Abóbora?&lt;wait&gt;&lt;page&gt;
+Achei que você poderia ter esquecido, &lt;nickname&gt;,
+entãofiz alguns doces para você.&lt;wait&gt;&lt;page&gt;
+Vamos comê-los!&lt;wait&gt;</Entry>
+  <Entry Index="680">Hoje é o Dia da Abóbora. Você se lembrou?&lt;wait&gt;&lt;page&gt;
+Achei que você poderia ter esquecido, então tomei
+a liberdade de fazer alguns doces para você e
+&lt;childname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="681">Compartilhar?&lt;wait&gt;</Entry>
+  <Entry Index="682">Hoje é o Dia da Abóbora.&lt;wait&gt;&lt;page&gt;
+Achei que você poderia ter esquecido então tomei
+a liberdade de fazer alguns doces para você.&lt;wait&gt;&lt;page&gt;
+Segui a receita passo a passo. Então acho que são
+comestíveis. Deveriam ser.&lt;wait&gt;</Entry>
+  <Entry Index="683">Parece que hoje é o Dia da Abóbora. Você lembrou?&lt;wait&gt;&lt;page&gt;
+Me ocorreu de fazer alguns doces para você e para
+&lt;childname&gt; para celebrar a ocasião.&lt;wait&gt;</Entry>
+  <Entry Index="684">Vamos comê-los juntos, ok?&lt;wait&gt;</Entry>
+  <Entry Index="685">Parece que hoje é o Dia da Abóbora.
+Sempre posso contar com você, então...&lt;wait&gt;&lt;page&gt;
+Hoje fui eu quem fez alguns doces para você com as minhas
+próprias mãos. Pegue um.&lt;wait&gt;</Entry>
+  <Entry Index="686">Eu fiz doces para nossa família. Coma-os!&lt;wait&gt;</Entry>
+  <Entry Index="687">Estão deliciosos, certo?&lt;wait&gt;</Entry>
+  <Entry Index="688">Hoje me esforcei para fazer alguns doces deliciosos.
+Coma-os!&lt;wait&gt;</Entry>
+  <Entry Index="689">Hoje é o delicioso Dia da Abóbora. Para
+celebrá-lo, preparei alguns doces sazonais.&lt;wait&gt;</Entry>
+  <Entry Index="690">Prove um. Tenho certeza de que você lhes dará nota A.&lt;wait&gt;</Entry>
+  <Entry Index="691">Hoje temos um festival doce e travesso ao mesmo tempo:
+o Dia da Abóbora! Para celebrá-lo, preparei
+alguns doces sazonais.&lt;wait&gt; Vamos experimentá-los?&lt;wait&gt;</Entry>
+  <Entry Index="692">Me empanturrei... Ah, não! Meus dentes vão cair?!&lt;wait&gt;</Entry>
+  <Entry Index="693">Olá! Hoje é o Dia da Abóbora!&lt;wait&gt;&lt;page&gt;
+Imaginava que o celebraríamos, então preparei
+alguns doces em casa. trabalhei muito duro para
+agradar você e &lt;childname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="694">Oooh! ♪ É o Dia da Abóbora! Minha celebração
+favorita!&lt;wait&gt;&lt;page&gt;
+Hoje é o dia de comer doces, então preparei
+alguns para você e para &lt;childname&gt;. Espero que gostem!&lt;wait&gt;</Entry>
+  <Entry Index="695">Olá, &lt;nickname&gt;! Hoje é a Dia da Abóbora.&lt;wait&gt;&lt;page&gt;
+Coloquei as mãos à obra e preparei um montão.
+Vamos! Experimente!&lt;wait&gt;</Entry>
+  <Entry Index="696">Parece que hoje é o Dia da Abóbora.&lt;wait&gt;&lt;page&gt;
+Tentei fazer alguns doces para você experimentar.&lt;wait&gt;</Entry>
+  <Entry Index="697">Hoje é o Dia da Abóbora.&lt;wait&gt;&lt;page&gt;
+A vovó me ajudou a fazer alguns doces para você e
+&lt;childname&gt;.&lt;wait&gt;&lt;page&gt;
+Eu fiz o meu melhor, espero que você ao menos
+experimente.&lt;wait&gt;</Entry>
+  <Entry Index="698">Hoje é o Dia da Abóbora. Que festa divertida, né?
+Fiz um montão de doces para celebrar a ocasião.&lt;wait&gt;&lt;page&gt;
+Alguns para você, outros para &lt;childname&gt;, e também
+para mim.&lt;wait&gt;</Entry>
+  <Entry Index="699">Anda, vamos afundar os dente!&lt;wait&gt;</Entry>
+  <Entry Index="700">Coma até ficar satisfeito! ♪&lt;wait&gt;</Entry>
+  <Entry Index="701">Vamos comer!&lt;wait&gt;</Entry>
+  <Entry Index="702">Bom. Vamos comê-los agora?&lt;wait&gt;</Entry>
+  <Entry Index="703">Anda, vamos comê-los agora.&lt;wait&gt;</Entry>
+  <Entry Index="704">Olá! Hoje é o Dia da Abóbora!&lt;wait&gt;&lt;page&gt;
+Imaginei que iríamos comemorar, então preparei
+alguns doces em casa. Me esforcei muito para
+prepará-los, espero que não haja sobras!&lt;wait&gt;</Entry>
+  <Entry Index="705">Ah, mas não posso garantir que o sabor será bom.&lt;wait&gt;</Entry>
+  <Entry Index="706">Bom! ♪ Hoje é o Dia da Abóbora!&lt;wait&gt;&lt;page&gt;
+Eu amo esse dia. ∀ Eu fiz uma tonelada de doces, então
+agora você tem que comê-los.&lt;wait&gt;</Entry>
+  <Entry Index="707">Olá, &lt;nickname&gt;! Hoje é o Dia da Abóbora.&lt;wait&gt;&lt;page&gt;
+Coloquei as mãos à obra e preparei um montão.
+Vamos beber!&lt;wait&gt;</Entry>
+  <Entry Index="708">Parece que hoje é o Dia da Abóbora.&lt;wait&gt;&lt;page&gt;
+Tentei de fazer alguns doces.&lt;wait&gt; Deseja prová-los?&lt;wait&gt;</Entry>
+  <Entry Index="709">Hoje é o Dia da Abóbora.&lt;wait&gt;&lt;page&gt;
+A vovó me ajudou a fazer doces.&lt;wait&gt;&lt;page&gt;
+Ela mesma os experimentou, então eles não devem ser ruins.
+Vá em frente, experimente.&lt;wait&gt;</Entry>
+  <Entry Index="710">O Dia da Abóbora é hoje. Fiz um montão de doces
+para celebrar a ocasião.&lt;wait&gt;&lt;page&gt;
+Essas festas devem ser aproveitas ao máximo, então
+coma o quanto quiser.&lt;wait&gt;</Entry>
+  <Entry Index="711">Um</Entry>
+  <Entry Index="712">Dois</Entry>
+  <Entry Index="713">Três</Entry>
+  <Entry Index="714">Quatro</Entry>
+  <Entry Index="715">Cinco</Entry>
+  <Entry Index="716">Seis</Entry>
+  <Entry Index="717">Sete</Entry>
+  <Entry Index="718">Oito</Entry>
+  <Entry Index="719">Nove</Entry>
+  <Entry Index="720">Dez</Entry>
+  <Entry Index="721">Onze</Entry>
+  <Entry Index="722">Carta da Karen</Entry>
+  <Entry Index="723">Carta da Popuri</Entry>
+  <Entry Index="724">Carta da Ran</Entry>
+  <Entry Index="725">Carta da Marie</Entry>
+  <Entry Index="726">Carta da Elly</Entry>
+  <Entry Index="727">Carta da Jennifer</Entry>
+  <Entry Index="728">Carta do Rick</Entry>
+  <Entry Index="729">Carta do Cliff</Entry>
+  <Entry Index="730">Carta do Gray</Entry>
+  <Entry Index="731">Carta do Doutor</Entry>
+  <Entry Index="732">Carta do Brandon</Entry>
+  <Entry Index="733">Não participar</Entry>
+  <Entry Index="734">Voltar ao início</Entry>
+  <Entry Index="735">Bom dia, &lt;playername&gt;. Tenho algumas cartas
+para você. &lt;string0&gt;, na verdade.&lt;wait&gt;&lt;page&gt;
+Estou entregando-as pessoalmente porque é muito importante
+que as leia hoje.&lt;wait&gt;&lt;page&gt;
+Também preciso de uma resposta sua. Avise-me
+quando as ler, certo?&lt;wait&gt;</Entry>
+  <Entry Index="736">Qual carta eu leio primeiro?</Entry>
+  <Entry Index="737">Bem, &lt;playername&gt;. Você aceita o convite?&lt;wait&gt;</Entry>
+  <Entry Index="738">Aceitar</Entry>
+  <Entry Index="739">Recusar</Entry>
+  <Entry Index="740">Ler outra carta.</Entry>
+  <Entry Index="741">Entendo. Bem, vou passar sua mensagem.
+Que tenha um bom dia.&lt;wait&gt;</Entry>
+  <Entry Index="742">Você vai passar a Noite Estrelada sozinho esse ano?&lt;wait&gt;</Entry>
+  <Entry Index="743">Sim</Entry>
+  <Entry Index="744">Não</Entry>
+  <Entry Index="745">Entendo. Bem, vou passar sua mensagem. Tenho certeza que
+ficará muito feliz.&lt;wait&gt;</Entry>
+  <Entry Index="746">Entendo. Bem, vou passar sua mensagem. Tenho certeza que
+ficará muito feliz.&lt;wait&gt;</Entry>
+  <Entry Index="747">Nossa! Você veio!&lt;wait&gt;</Entry>
+  <Entry Index="748">Vamos! Boa noite, coração. Entre.&lt;wait&gt;</Entry>
+  <Entry Index="749">Olá. Popuri me disse que convidou você.&lt;wait&gt;&lt;page&gt;
+Na verdade, eu me perguntava o que você faria esta noite,
+já que vive &lt;gender&gt;("sozinho","sozinha") e tal.&lt;wait&gt;&lt;page&gt;
+A Noite Estrelada é melhor quando passamos junto
+com a família e os amigos, não acha?&lt;wait&gt;</Entry>
+  <Entry Index="750">Isso mesmo. Hoje vou passar a noite com minha a família
+e meu par. Tudo bem?&lt;wait&gt;</Entry>
+  <Entry Index="751">Muito bem. Vamos começar!&lt;wait&gt;</Entry>
+  <Entry Index="752">Gostei muito de passar a Noite Estrelada com a Popuri
+e a sua família.&lt;wait&gt;</Entry>
+  <Entry Index="753">Nossa, olá! você veio! Entre! Estávamos prestes
+a começar.&lt;wait&gt;</Entry>
+  <Entry Index="754">Não precisa ser uma ocasião especial nos reunirmos.
+Pode vir quando quiser!&lt;wait&gt;</Entry>
+  <Entry Index="755">Não precisa ser uma ocasião especial nos reunirmos.
+Pode vir quando quiser! Afinal, você e Ran estão
+&lt;gender&gt;("casados","casadas")...&lt;wait&gt;</Entry>
+  <Entry Index="756">Agh. Aqui vamos nós de novo. Papai! Continue assim e
+&lt;playername&gt; não nos visitará mais!&lt;wait&gt;</Entry>
+  <Entry Index="757">Agh. Aqui vamos nós de novo. Papai! Continue assim e
+&lt;playername&gt; não nos visitará mais!&lt;wait&gt;</Entry>
+  <Entry Index="758">Gostei muito de passar a Noite Estrelada com a Ran
+e a sua família.&lt;wait&gt;</Entry>
+  <Entry Index="759">Ah, boa noite. Você chegou ebm na hora. Estávamos
+prestes a começar.&lt;wait&gt;</Entry>
+  <Entry Index="760">Fico feliz que você podê vir. Nesse tipo
+de festa, quantos mais, melhor.&lt;wait&gt;</Entry>
+  <Entry Index="761">Doutor vai jantar com o Carter na igreja novamente esse ano.
+Eles sempre fazem a mesma coisa.&lt;wait&gt;&lt;page&gt;
+E nunca convidam a Elly!&lt;wait&gt;</Entry>
+  <Entry Index="762">Yu! Mas bem! Por que você tem que
+mencionar isso agora?&lt;wait&gt;</Entry>
+  <Entry Index="763">Gostei muito de passar a Noite Estrelada com a Elly
+e a sua família.&lt;wait&gt;</Entry>
+  <Entry Index="764">Oh! &lt;playername&gt;! Aí está você!&lt;wait&gt;</Entry>
+  <Entry Index="765">Oh! &lt;playername&gt;! Aí está você!&lt;wait&gt;</Entry>
+  <Entry Index="766">Karen estava como uma motocicleta esperando você chegar.&lt;wait&gt;</Entry>
+  <Entry Index="767">Espera... Como uma motocicleta?&lt;wait&gt;</Entry>
+  <Entry Index="768">Ei... o que você quis dizer com isso?&lt;wait&gt;</Entry>
+  <Entry Index="769">Eh, nada.&lt;wait&gt;&lt;page&gt;
+Eu estava apenas sugerindo que &lt;playername&gt; poderia se
+juntar a nós esta noite, já que ele vive &lt;gender&gt;("sozinho","sozinha").
+Era só isso.&lt;wait&gt;</Entry>
+  <Entry Index="770">Eh, nada.&lt;wait&gt;&lt;page&gt;
+Eu estava apenas sugerindo que &lt;playername&gt; poderia se
+juntar a nós esta noite, já que ele vive &lt;gender&gt;("sozinho","sozinha")
+Era só isso.&lt;wait&gt;</Entry>
+  <Entry Index="771">Gostei muito de passar a Noite Estrelada com a Karen
+e a sua família.&lt;wait&gt;</Entry>
+  <Entry Index="772">Ah. Você veio.&lt;wait&gt;</Entry>
+  <Entry Index="773">Vamos! Boa noite. Entre e sente-se.&lt;wait&gt;</Entry>
+  <Entry Index="774">Boa noite! Marie convidou você? Excelente!
+Entre e sinta-se em casa.&lt;wait&gt;</Entry>
+  <Entry Index="775">Bom, você que eu fale sobre a minha última
+descoberta botânica?&lt;wait&gt;</Entry>
+  <Entry Index="776">Não me importaria, mas também gostaria de saber como
+&lt;playername&gt; está se saindo na fazenda.&lt;wait&gt;</Entry>
+  <Entry Index="777">Sim, eu também. Quero saber tudo bom que tem acontecido com
+&lt;playername&gt; na fazenda.&lt;wait&gt;</Entry>
+  <Entry Index="778">Gostei muito de passar a Noite Estrelada com a Marie
+e a sua família.&lt;wait&gt;</Entry>
+  <Entry Index="779">Ah, você chegou! Estava te esperando. Vamos, me ajude
+a carregar a comida.&lt;wait&gt;&lt;page&gt;
+Assim que chegarmos a sua casa, vamos decorá-la para a
+Noite Estrelada! Ou você acha que é demais?&lt;wait&gt;</Entry>
+  <Entry Index="780">Boa noite. Obrigado pelo convite.&lt;wait&gt;</Entry>
+  <Entry Index="781">Sim! &lt;playername&gt;. Jennifer. Obrigado por nos convidar!&lt;wait&gt;</Entry>
+  <Entry Index="782">Sim! &lt;playername&gt;. Jennifer. Obrigado por nos convidar!&lt;wait&gt;</Entry>
+  <Entry Index="783">Afinal, hoje é a Noite Estrelada. Quanto mais de nós,
+melhor!&lt;wait&gt;</Entry>
+  <Entry Index="784">Achei que passaria a noite cercado por ovelhas,
+mas acho que estar com pessoas também é agradável.&lt;wait&gt;</Entry>
+  <Entry Index="785">Você realmente gosta de ovelhar, não é, Jennifer?&lt;wait&gt;</Entry>
+  <Entry Index="786">Sim, claro. Eu adoraria acordar todos os dias
+aconchegada em sua lã macia e quente.&lt;wait&gt;</Entry>
+  <Entry Index="787">Quer saber de uma coisa? Meu colchão está cheio
+de lã de ovelha!&lt;wait&gt;</Entry>
+  <Entry Index="788">Sério? Você sente como a energia das ovelhas
+emana dele? Que tipo de sonhos você tem quando
+dorme nele?&lt;wait&gt;</Entry>
+  <Entry Index="789">Bom, é quente e macio e fofo e confortável
+e... e... Mmmmmmm!&lt;wait&gt;</Entry>
+  <Entry Index="790">Macio, confortável e mmmmmm...?!&lt;wait&gt;</Entry>
+  <Entry Index="791">Eles parecem estar tendo uma discussão muito
+interessante sobre ovelhas.&lt;wait&gt;</Entry>
+  <Entry Index="792">Gostei muito de passar a Noite Estrelada com a Jennifer
+e os demais.&lt;wait&gt;</Entry>
+  <Entry Index="793">Olá, &lt;nickname&gt;. preparei um belo jantar
+para a Noite Estrelada. Vamos, podemos
+começar a comer agora.&lt;wait&gt;</Entry>
+  <Entry Index="794">Hoje é a Noite Estrelada, &lt;nickname&gt;. Esta
+celebração de inverno é ótima, né? Vamos comer agora!&lt;wait&gt;</Entry>
+  <Entry Index="795">É a Noite Estrelada, &lt;nickname&gt;, então 
+trouxe algo para jantar. Você quer que a gente coma agora?&lt;wait&gt;</Entry>
+  <Entry Index="796">Olá, &lt;nickname&gt;. É a Noite Estrelada, então
+me esforcei para preparar um bom jantar. Vamos, podemos
+começar a comer agora.&lt;wait&gt;</Entry>
+  <Entry Index="797">É a Noite Estrelada e merecemos festejar,
+&lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
+Mas devo avisá-lo de algo. Como médico, não recomendo comer
+demais, por mais tentador que seja.&lt;wait&gt;&lt;page&gt;
+Bom, vamos para de falar de coisas sérias.
+Agora, é para comer e celebrar.&lt;wait&gt;</Entry>
+  <Entry Index="798">&lt;nickname&gt;, hoje é a Noite Estrelada. 
+eu preparei algo para se adequar a esta noite encantadora.
+Venha, vamos comer.&lt;wait&gt;</Entry>
+  <Entry Index="799">Noite... Estrelada...&lt;wait&gt;</Entry>
+  <Entry Index="800">É a Noite Estrelada, certo? Temos que comemorar! 
+Preparei uma montanha de comida deliciosa, então vamos
+comer e nos divertir!&lt;wait&gt;</Entry>
+  <Entry Index="801">Por hoje ser a Noite Estrelada, preparei um
+maravilhoso banquete. Venha, vamos comer antes de que
+esfríe.&lt;wait&gt;</Entry>
+  <Entry Index="802">Olá, &lt;nickname&gt;. É a Noite Estrelada,
+então tentei cozinhar algo especial. Vamos, sente-se!&lt;wait&gt;</Entry>
+  <Entry Index="803">Por que você está tão surpreso, &lt;nickname&gt;? Você
+não esqueceu que é Noite Estrelada, certo?&lt;wait&gt;&lt;page&gt;
+Até eu posso preparar um jantar delicioso se me
+esforçar para isso. Vamos, sente-se e coma.&lt;wait&gt;</Entry>
+  <Entry Index="804">Olá, &lt;nickname&gt;! Vamos, preparei um grande
+banquete para a Noite Estrelada. Vamos comer tudo!&lt;wait&gt;</Entry>
+  <Entry Index="805">Ei, &lt;nickname&gt;. Você sabe que hoje é a Noite
+Estrelada, certo? Pois preparei um grande banquete
+para celebrá-lo. Vamos comer agora!&lt;wait&gt;</Entry>
+  <Entry Index="806">&lt;nickname&gt;, hoje é a Noite Estrelada. Todos os
+anos, a mamãe prepara um bolo e outras especialidades para
+a família.&lt;wait&gt;&lt;page&gt;
+Hoje preparei um banquete com as receitas antigar da mamãe.
+Venha, sente-se e coma.&lt;wait&gt;</Entry>
+  <Entry Index="807">Olá, &lt;playername&gt;! Hoje é um dia especial, né?
+A Noite Estrelada.&lt;wait&gt;&lt;page&gt;
+Em homenagem a esta noite, usei meus poderes divinos para
+preparar um grande banquete! Venha comigo. Vamos nos
+presentar uma vez e comemorar.&lt;wait&gt;</Entry>
+  <Entry Index="808">Vamos ver, &lt;nickname&gt;, me diga. Que dia é hoje?&lt;wait&gt;&lt;page&gt;
+Correto! É a Noite Estrelada! Venha, vamos
+fazer uma festa memorável.&lt;wait&gt;</Entry>
+  <Entry Index="809">Olá, &lt;nickname&gt;. Hoje é a Noite Estrelada, como
+bem sabe. O jantar já está pronto, então vamos
+sentar a comer agora.&lt;wait&gt;</Entry>
+  <Entry Index="810">Hoje é a Noite Estrelada, certo, &lt;nickname&gt;?
+Vamos nos sentar e que a festa comece!&lt;wait&gt;</Entry>
+  <Entry Index="811">Hoje é a Noite Estrelada, &lt;nickname&gt;, então 
+preparei um banquete para nossa pequena família. Vamos
+nos sentar para jantar agora?&lt;wait&gt;</Entry>
+  <Entry Index="812">Olá, &lt;nickname&gt;. Hoje é a Noite Estrelada e tal.
+Não sei se você poderia chamar isso de banquete,
+mas preparei um jantar para nós.&lt;wait&gt;&lt;page&gt;
+Reúna a família e vamos começar.&lt;wait&gt;</Entry>
+  <Entry Index="813">&lt;nickname&gt;, passei horas e horas preparando
+o banquete desta noite. Mas mesmo que seja a Noite
+Estrelada, não devemos exagerar.&lt;wait&gt;&lt;page&gt;
+O que não significa que não podemos nos divertir. Vamos lá,
+deixe que toda a família se sentere vamos celebrar.&lt;wait&gt;</Entry>
+  <Entry Index="814">&lt;nickname&gt;, esta noite temos que celebrar. Merecemos
+ter uma noite fantástica devido a Noite Estrelada.
+Venha, vamos comer.&lt;wait&gt;</Entry>
+  <Entry Index="815">É a Noite Estrelada, certo? Esta noite nos daremos
+um banquete! preparei um montão de comida saborosa
+para toda a família. Vamos lá!&lt;wait&gt;</Entry>
+  <Entry Index="816">Como hoje é a Noite Estrelada, quis fazer algo
+especial. Esta é uma noite para devorar iguarias até
+saciar nossos corações.&lt;wait&gt;&lt;page&gt;
+Venha, vamos comer antes de que esfríe.&lt;wait&gt;</Entry>
+  <Entry Index="817">Olá, &lt;nickname&gt;. É a Noite Estrelada, então
+tentei cozinhar algo especial. Vamos, sente-se!&lt;wait&gt;</Entry>
+  <Entry Index="818">Por que você está tão surpreso, &lt;nickname&gt;?
+Você não esqueceu que é a Noite Estrelada, esqueceu?&lt;wait&gt;&lt;page&gt;
+Até eu posso preparar um jantar delicioso se eu colocar
+todos os meus esforços. Venha, sente-se e coma.&lt;wait&gt;</Entry>
+  <Entry Index="819">Olá, &lt;nickname&gt;! Venha, preparei um grande
+banquete para Noite Estrelada. Apresse-se e coma tudo!&lt;wait&gt;</Entry>
+  <Entry Index="820">Ei, &lt;nickname&gt;. Você sabe que hoje é a Noite
+Estrelada, certo? Pois preparei um grande banquete
+para celebrá-la. Vamos comer agora!&lt;wait&gt;</Entry>
+  <Entry Index="821">&lt;nickname&gt;, hoje é a Noite Estrelada. Todos os
+anos, mamãe prepara um bolo e outras especialidades para
+a família.&lt;wait&gt;&lt;page&gt;
+Hoje preparei um banquete com as receitas antigas da mamãe.
+Venha, sente-se e coma.&lt;wait&gt;</Entry>
+  <Entry Index="822">Olá, &lt;playername&gt;! Hoje é um dia especial, né?
+A Noite Estrelada.&lt;wait&gt;&lt;page&gt;
+Em homenagem a esta noite, usei meus poderes divinos para
+preparar um grande banquete! Venha comigo. Vamos nos 
+presentear uma vez e comemorar.&lt;wait&gt;</Entry>
+  <Entry Index="823">Vamos ver, &lt;nickname&gt;, diga-me. Que dia é hoje?&lt;wait&gt;&lt;page&gt;
+Correto! É a Noite Estrelada! Venha, vamos
+fazer uma festa memorável.&lt;wait&gt;</Entry>
+  <Entry Index="824">Aaaaah. ♪&lt;wait&gt;</Entry>
+  <Entry Index="825">Ei, que tal darmos um passeio até a montanha para ver a
+vista? É a Noite Estrelada, não podemos nos perder
+as estrelas.&lt;wait&gt;</Entry>
+  <Entry Index="826">Chama-se Noite Estrelada, então a festa não acaba
+até que vermos as estrelas.&lt;wait&gt;&lt;page&gt;
+É por isso que temos que subir a montanha! O céu está
+claro, então tenho certeza que a vista será esplêndida!&lt;wait&gt;</Entry>
+  <Entry Index="827">Ah... Quase esqueci. Mmm, você quer subir
+a montanha a ver as estrelas?&lt;wait&gt;</Entry>
+  <Entry Index="828">Qual é o melhor lugar para ver as estrelas?
+O topo da montanha, é claro.&lt;wait&gt;&lt;page&gt;
+É a Noite Estrelada, por que não fazemos jus ao
+nome e vamos ver as estrelas?&lt;wait&gt;</Entry>
+  <Entry Index="829">Ei! Já sei! Que tal irmos ver as
+estrelas? Não dormir o suficiente seria ruim para a saúde,
+mas seria uma pena perder a Noite Estrelada.&lt;wait&gt;</Entry>
+  <Entry Index="830">Dizem que as estrelas estão especialmente
+bonitas esta noite.&lt;wait&gt;&lt;page&gt;
+Você gostarias de subir a montanha comigo para vê-las?
+Pode estar frio, mas ainda assim...&lt;wait&gt;</Entry>
+  <Entry Index="831">Vamos... Para o topo da montanha...&lt;wait&gt;</Entry>
+  <Entry Index="832">Na Noite Estrelada as pessoas observam as
+estrelas, certo? Pois o que estamos esperando? Vamos subir
+a montanha!&lt;wait&gt;</Entry>
+  <Entry Index="833">Ah, eu tenho o broche perfeito para terminar a noite.
+Vamos subir ao topo da montanha para ver aquele
+magnífico céu estrelado.&lt;wait&gt;</Entry>
+  <Entry Index="834">Mas antes... aqui. Um presente de Noite Estrelada.&lt;wait&gt;</Entry>
+  <Entry Index="835">Ah, sim. Quase me esqueço. Isso é para você.
+Um presente de Noite Estrelada?&lt;wait&gt;</Entry>
+  <Entry Index="836">Uau, quase esqueci! Isso é para você. Tenho um presente
+para você.&lt;wait&gt;</Entry>
+  <Entry Index="837">Ah, já sei! Por que não vamos até a montanha?
+Afinal, o melhor da Noite Estrelada são as estrelas.&lt;wait&gt;&lt;page&gt;
+Jantar com você foi só a primeira parte da noite.
+Eu também gostaria de ir ver as estrelas.&lt;wait&gt;</Entry>
+  <Entry Index="838">É uma noite muito bonita, as estrelas serão
+muito bem vistas com um céu claro. Que tal subirmos a
+montanha para vê-las?&lt;wait&gt;</Entry>
+  <Entry Index="839">&lt;nickname&gt;, você não vai ficar com sono, né? É a
+Noite Estrelada, eu tenho uma desculpa para ver as
+estrelas com você.&lt;wait&gt;&lt;page&gt;
+Você já está dormindo ou ainda tem forças para subir
+a montanha?&lt;wait&gt;</Entry>
+  <Entry Index="840">Quer saber? Hoje é a noite em que as estrelas são vistas
+em todo o seu esplendor. Temos que subir a montanha
+para vê-las!&lt;wait&gt;</Entry>
+  <Entry Index="841">Esta é a melhor noite do ano para ver as estrelas.
+Podemos subir à montanha para vê-las?&lt;wait&gt;</Entry>
+  <Entry Index="842">&lt;playername&gt;, suba a montanha comigo. Tenho certeza
+que as estrelas serão lindas la de cima. Estaremos
+lá rapidinho!&lt;wait&gt;</Entry>
+  <Entry Index="843">Ei, &lt;nickname&gt;. Em uma noite como esta, você não sente
+vontade de subir a algum lugar alto para ver as
+estrelas?&lt;wait&gt;&lt;page&gt;
+Venha, vamos para o topo da montanha. Tenho certeza que os espíritos
+do inverno nos aguardam por lá.&lt;wait&gt;</Entry>
+  <Entry Index="844">Aqui. Tenho um presente para você de
+Noite Estrelada.&lt;wait&gt;</Entry>
+  <Entry Index="845">É um anel!&lt;wait&gt;</Entry>
+  <Entry Index="846">Tachán!&lt;wait&gt;&lt;page&gt;
+Você obteve os sete anéis! Parabéns!&lt;wait&gt;&lt;page&gt;
+Que? Isso era tudo. Não há nenhum prêmio especial. Não tem
+nada a mais que isso. Agradeça que eu tenha te dado minhas
+saudações especiais. Tchau!&lt;wait&gt;</Entry>
+  <Entry Index="847">Nossa! Subir até aqui em cima foi uma ótima decisão.
+Espero que façamos isso de novo no ano que vem.&lt;wait&gt;</Entry>
+  <Entry Index="848">A Popuri está observando as estrelas agora?
+Ela adora. E eu também, honestamente.&lt;wait&gt;</Entry>
+  <Entry Index="849">Uuauuu! Todo o céu está coberto de estrelas
+brilhantes! Nunca imaginei que houvessem tantas.&lt;wait&gt;&lt;page&gt;
+Quantaa pessoas estarão observando esse céu
+maravilhoso como nós?&lt;wait&gt;</Entry>
+  <Entry Index="850">Meu Deus, primeiro um jantar de luxo, e agora essa
+vista tão espetacular?&lt;wait&gt;&lt;page&gt;
+É a melhor Noite Estrelada que já tive na vida!
+Temos que fazer isso novamente no ano que vem!&lt;wait&gt;</Entry>
+  <Entry Index="851">Nossa! É... lindo.&lt;wait&gt;&lt;page&gt;
+Havia muitas estrelas no lugar onde eu morava,
+mas acho que a vista daqui são muito melhores.&lt;wait&gt;</Entry>
+  <Entry Index="852">Eu ficaria olhando as estrelas a noite
+toda... mas isso com certeza não é uma boa ideia.
+É hora de ir para casa.&lt;wait&gt;</Entry>
+  <Entry Index="853">Estou feliz por termos vindo até aqui. Me sinto
+em paz olhando para as estrelas, e estão tão
+perto que você quase sente que pode tocá-las.&lt;wait&gt;</Entry>
+  <Entry Index="854">Parece que você gostou da vista. Eu gostei com toda
+a certeza. Umm. Talvez da próxima vez eu faça algo
+com formato de estrela na forja...&lt;wait&gt;</Entry>
+  <Entry Index="855">Eu me pergunto por que as estrelas brilham tanto. Talvez
+elas estão testando nos dizer algo...&lt;wait&gt;</Entry>
+  <Entry Index="856">Contemplar este imenso céu em toda sua glória
+me inspira a ir trabalhar amanhã.
+Para tentar melhorar a cada dia.&lt;wait&gt;</Entry>
+  <Entry Index="857">Brrr! Está mais frio do que eu pensava.
+Espero não pegar um resfriado.&lt;wait&gt;&lt;page&gt;
+Mas... que bom que eu vim aqui, &lt;nickname&gt;.
+O céu estrelado é uma maravilha.
+Toca a sua alma.&lt;wait&gt;</Entry>
+  <Entry Index="858">Eu me pergunto como eu poderia capturar esse majestoso céu
+noturno em uma obra...&lt;wait&gt;&lt;page&gt;
+Ah, não vejo a hora de amanhã chegar! Quero me
+concentrar no meu trabalho enquanto esse sentimento
+ainda está fresco em minha mente.&lt;wait&gt;</Entry>
+  <Entry Index="859">Cheguei à montanha... Mas ainda há um logo
+caminho a percorrer...&lt;wait&gt;</Entry>
+  <Entry Index="860">As estrelas... parecem tão pequenas...&lt;wait&gt;</Entry>
+  <Entry Index="861">Sim, claro. É uma bela vista. Cheio de lindas
+estrelas.&lt;wait&gt;</Entry>
+  <Entry Index="862">Gostaria que essas estrelas se transformassem em moedas...
+Isso seria lindo. Poderiam cair sobre mim?&lt;wait&gt;</Entry>
+  <Entry Index="863">A vista daqui é maravilhosa. Que noite linda.
+Até me emocionei. E muito!&lt;wait&gt;</Entry>
+  <Entry Index="864">Tenho pouco interesse nas estrelas, pois elas não podem ser
+comidas. Mas essa visão enche a minha alma. Adorei.&lt;wait&gt;</Entry>
+  <Entry Index="865">Uau! A vista daqui é incrível! Já vi
+muitas vezes, mas nunca me canso.&lt;wait&gt;</Entry>
+  <Entry Index="866">Cada vez é diferente, sabe? É como se o céu e as
+montanhas estivessem ouvindo e respirando...&lt;wait&gt;&lt;page&gt;
+É estranho. Às vezes esquecemos que não somos os
+únicos seres vivos do mundo.&lt;wait&gt;</Entry>
+  <Entry Index="867">Olhe para todas essas estrelas... Quer saber? Depois que
+a mamãe e o papai... morreram...&lt;wait&gt;&lt;page&gt;
+A vovó começou a me trazer aqui.
+Quando ainda podia andar.&lt;wait&gt;</Entry>
+  <Entry Index="868">Ela me disse que se eu subisse aqui, poderia ver a mamãe e
+o papai quando quisesse...&lt;wait&gt;</Entry>
+  <Entry Index="869">Uau! O céu está tão cheio de estrelas que parece
+que vão cair. Oh! Olha! Você viu? Uma estrela
+cadente! Nossa, você não viu?&lt;wait&gt;</Entry>
+  <Entry Index="870">Nossa... Que pena... Oh, espere.Eu esqueci de fazer
+um desejo! Nãoooo!&lt;wait&gt;</Entry>
+  <Entry Index="871">Não sei os nomes das estrelas, mas me adoro
+olhar para elas.&lt;wait&gt;</Entry>
+  <Entry Index="872">Isso me faz pensar... Haverá pessoas nessas outras
+estrelas que olhem para o céu e veem o nosso mundo como
+mais uma estrela?&lt;wait&gt;</Entry>
+  <Entry Index="873">Você sabia que as estrelas que vê no céu se
+apagram e desapareceram há muito, muito tempo?&lt;wait&gt;</Entry>
+  <Entry Index="874">Mas mesmo que elas tenham ido embora, ainda podemos os
+vestígios de sua presença. Elas me dão um pouco de inveja.&lt;wait&gt;</Entry>
+  <Entry Index="875">Passo muito tempo nas nuvens olhando para a terra.
+Estar aqui e olhar para cima é uma mudança de cenario.&lt;wait&gt;</Entry>
+  <Entry Index="876">Gostaria de olhar para essa maravilha a noite
+toda, mas temo que meu trabalho como Deusa nunca termine.&lt;wait&gt;&lt;page&gt;
+Ah, eu gostaria de poder tirar umas férias...&lt;wait&gt;</Entry>
+  <Entry Index="877">Brrr! Os topos das montanhas estão congelados no inverno.
+Sinto muito a falta do calor das minhas ovelhas...&lt;wait&gt;</Entry>
+  <Entry Index="878">Mas... mesmo que meu corpo esteja congelado, a energia
+das estrelas me aquece nas profundezas da minha alma.&lt;wait&gt;</Entry>
+  <Entry Index="879">Hoje foi uma noite especial. Eu me diverti muito.&lt;wait&gt;</Entry>
+  <Entry Index="880">Poder passar a Noite Estrelada com a minha família 
+foi ótimo.&lt;wait&gt;</Entry>
+  <Entry Index="881">As estrelas estavam lindas...&lt;wait&gt;</Entry>
+  <Entry Index="882">PAM!&lt;wait&gt;&lt;page&gt;
+Ufa! Ho ho ho... Meu Deus. Entrar a escondidas nas
+casas não é tão fácil quanto parece.&lt;wait&gt;&lt;page&gt;
+Ei? Oh. Eles não penduraram nenhuma meia.&lt;wait&gt;&lt;page&gt;
+Que engraçado, agora onde vou colocar os presentes? Mmmm.&lt;wait&gt;&lt;page&gt;
+Eu lhes trouxe presentes perfeitos. Mas se não houver
+lugar para colocá-los, acho que terei que levá-los de
+volta para casa.&lt;wait&gt;</Entry>
+  <Entry Index="883">PAM!&lt;wait&gt;&lt;page&gt;
+Ufa! Ho ho ho... Meu Deus. Entrar a escondidas nas
+casas não é tão fácil quanto parece.&lt;wait&gt;&lt;page&gt;
+Ahá. eles penduraram as meias, como deveria ser.
+Maravilhoso. E agora, qual era o presente da cada um?
+Está tão escuro que quase não consigo ver nada.&lt;wait&gt;&lt;page&gt;
+Mmm... Será esse? Ou era esse outro? Mmmm...
+Ou talvez esse?&lt;wait&gt;&lt;page&gt;
+Oh. Então vou deixar esse. Lá vai. E agora, à
+próxima casa. Ho ho ho!&lt;wait&gt;</Entry>
+  <Entry Index="884">Presente não definido. Por favor, informe esse erro.
+&lt;wait&gt;</Entry>
+  <Entry Index="885">PAM!&lt;wait&gt;&lt;page&gt;
+Ufa! Ho ho ho... Meu Deus. Entrar a escondidas nas
+casas não é tão fácil quanto parece.&lt;wait&gt;&lt;page&gt;
+Eh? Oh, me ajude ó céu! O presente do ano passado ainda
+está na meia!&lt;wait&gt;&lt;page&gt;
+Depois de tanto tempo escolhendo o  presente perfeito...
+Talvez eles apenas não queiram nenhum presente.&lt;wait&gt;&lt;page&gt;
+Bom. Acho que terei que ficar essa sanduicehira.&lt;wait&gt;</Entry>
+  <Entry Index="886">Muito bem. Você esperou pacientemente a noite toda
+por esse macarrão especial, então sem mais delongas...
+vamos comer!&lt;wait&gt;</Entry>
+  <Entry Index="887">Nossa. Eu queria ter certeza de que havia macarrão
+para todos, mas parece que fui longe demais.&lt;wait&gt;&lt;page&gt;
+Seria um desperdício jogá-los fora, então, por que não leva
+as sobra para casa?&lt;wait&gt;</Entry>
+  <Entry Index="888">Oh-oh. Parece que sua mochila está cheia,
+&lt;playername&gt;. Eu acho que você não pode levar as
+sobras. Vamos lá.&lt;wait&gt;</Entry>
+  <Entry Index="889">Mmm, delicioso. Comi tanto que vou ter que
+voltar para casa rolando!&lt;wait&gt;</Entry>
+  <Entry Index="890">Mmm, que delícia! Me enchi. Eu pareço mais um 
+macarrão agora do que uma pessoa...&lt;wait&gt;</Entry>
+  <Entry Index="891">Mmm, que delícia! E além disso, tenho sobras para levar
+para casa. É minha definição de um dia perfeito!&lt;wait&gt;</Entry>
+  <Entry Index="892">Mmm, que delícia! E além disso, tenho sobras para levar
+para casa. É minha definição de um dia perfeito!&lt;wait&gt;</Entry>
+  <Entry Index="893">Dizem que esse macarrão faz bem à saúde. Em outras
+palavras, coma quantos quiser! Ha ha ha!&lt;wait&gt;</Entry>
+  <Entry Index="894">Só vim fazer companhia ao Jeff, querido. Mas essa
+coisa de macarrão grátis não é nada ruim.&lt;wait&gt;</Entry>
+  <Entry Index="895">Mmm, mal posso esperar para devorar outra tigela
+de macarrão! É o meu prato favorito. ♪&lt;wait&gt;</Entry>
+  <Entry Index="896">Olá, olá! você veio saborear um bom prato de macarrão,
+&lt;playername&gt;? Há um montão, então coma até encher!&lt;wait&gt;</Entry>
+  <Entry Index="897">Olá. Você veio pelo macarrão também?&lt;wait&gt;&lt;page&gt;
+O Festival de Ano Novo não seria o mesmo sem um bom
+prato de macarrão, não é?&lt;wait&gt;</Entry>
+  <Entry Index="898">Nossa, olá! Você veio buscar seu prato de macarrão?
+Quais são os melhores? Adoro sua textura suave e leve.
+São perfeitos para beber! O macarrão por conta própria
+é bom, mas se acrescentar tempura a ele... mmm! Eles ficam
+absolutamente deliciosos! Ah, estou ficando com fome. Ainda não é
+a hora de comer?&lt;wait&gt;</Entry>
+  <Entry Index="899">O macarrão que comemos no Ano Novo tem um
+sabor divino, não acha?&lt;wait&gt;</Entry>
+  <Entry Index="900">Eh! você veio buscar um prato de macarrão?&lt;wait&gt;&lt;page&gt;
+Não há nada melhor para o Ano Novo do que uma tijela
+bem quente, certo?&lt;wait&gt;</Entry>
+  <Entry Index="901">Não há mais nada para o sol nascer...&lt;wait&gt;</Entry>
+  <Entry Index="902">Esperemos que este ano que se inicia seja melhor que
+o anterior... nesta cidade e em todo o mundo.&lt;wait&gt;</Entry>
+  <Entry Index="903">Um novo ano está prestes a começar. É difícil lembrar
+tudo que aconteceu no ano passado.&lt;wait&gt;</Entry>
+  <Entry Index="904">Quero dizer no bom sentido.&lt;wait&gt;</Entry>
+  <Entry Index="905">O tempo voa. Os anos passam sem que percebamos.&lt;wait&gt;</Entry>
+  <Entry Index="906">Sim... Olhando para atrás, acho que posso terminar o ano
+sem arrependimentos.&lt;wait&gt;</Entry>
+  <Entry Index="907">A primavera está quase chegando. Tanto as pessoas como
+os animais poderão passar mais tempo ao ar livre, e tudo
+ficará bem mais animado.&lt;wait&gt;</Entry>
+  <Entry Index="908">Boa noite, &lt;playername&gt;. Daqui temos
+uma visão única do sol nascente, não acha?&lt;wait&gt;</Entry>
+  <Entry Index="909">Oh... Meus olhos estão fechados. O ano novo já começou?&lt;wait&gt;</Entry>
+  <Entry Index="910">Em alguns minutos, o ano novo começará.&lt;wait&gt;</Entry>
+  <Entry Index="911">0</Entry>
+  <Entry Index="912">←</Entry>
+  <Entry Index="913">Festival do Mochi</Entry>
+  <Entry Index="914">Macarrão</Entry>
+  <Entry Index="915">→</Entry>
+  <Entry Index="916">Antes do Festival da Colheita</Entry>
+  <Entry Index="917">O dia do Festival da Colheita</Entry>
+  <Entry Index="918">0</Entry>
+  <Entry Index="919">Antes do Concurso Gastronômico</Entry>
+  <Entry Index="920">Concurso Gastronômico 1</Entry>
+  <Entry Index="921">Concurso Gastronômico 2</Entry>
+  <Entry Index="922">Sair</Entry>
+  <Entry Index="923">0</Entry>
+  <Entry Index="924">Antes do Cluck-Cluck Clash</Entry>
+  <Entry Index="925">O dia do Cluck-Cluck Clash</Entry>
+  <Entry Index="926">Voltar ao Início</Entry>
+  <Entry Index="927">voltar</Entry>
+  <Entry Index="928">0</Entry>
+  <Entry Index="929">Antes do Dérbi de Primavera</Entry>
+  <Entry Index="930">O dia do Dérbi de Primavera</Entry>
+  <Entry Index="931">Antes do Dérbi de Outono</Entry>
+  <Entry Index="932">O dia do Dérbi de Outono</Entry>
+  <Entry Index="933">0</Entry>
+  <Entry Index="934">Antes do Festival Moo-Moo</Entry>
+  <Entry Index="935">O dia do Festival Moo-Moo</Entry>
+  <Entry Index="936">Antes do Festival Fluffy</Entry>
+  <Entry Index="937">O dia do Festival Fluffy</Entry>
+  <Entry Index="938">0</Entry>
+  <Entry Index="939">Noite de Luar</Entry>
+  <Entry Index="940">Reunião de Ano Novo</Entry>
+  <Entry Index="941">Sair</Entry>
+  <Entry Index="942">Voltar</Entry>
+  <Entry Index="943">Voltar ao Início</Entry>
+  <Entry Index="944">Sair</Entry>
+  <Entry Index="945">Antes do Festival Frisbee</Entry>
+  <Entry Index="946">O dia do Festival Frisbee</Entry>
+  <Entry Index="947">Fogos Artificiais</Entry>
+  <Entry Index="948">Você gostou?&lt;wait&gt;</Entry>
+  <Entry Index="949">Você é um grande apoio para mim, eu te agradeço.
+Muito obrigado!&lt;wait&gt;</Entry>
+  <Entry Index="950">Obrigado pelo presente de Dia de Dia dos Namorados. Eu tenho
+isso para você. Espero que goste...&lt;wait&gt;</Entry>
+  <Entry Index="951">Tenho um anel.&lt;wait&gt;</Entry>
+  <Entry Index="952">Tachán!&lt;wait&gt;&lt;page&gt;
+Você obteve os sete anéis, parabéns!&lt;wait&gt;&lt;page&gt;
+Agora você tem direito de se gabar... isso é tudo.
+Que o desfrute! Tchau.&lt;wait&gt;</Entry>
+  <Entry Index="953">&lt;playername&gt;, há algo que quero te dar.&lt;wait&gt;</Entry>
+  <Entry Index="954">Nossa... que nervosismo.&lt;wait&gt;</Entry>
+  <Entry Index="955">Você sempre é bom pra mim, então eu queria
+agradecer. E como é o Dia Branco e tal... pegue.
+Espero que goste.&lt;wait&gt;</Entry>
+  <Entry Index="956">Olha. Isto é para você. Você me deu algo pelo Dia dos
+Namorados, então aqui está a minha resposta.&lt;wait&gt;</Entry>
+  <Entry Index="957">Ei, &lt;playername&gt;. Há algo que queria dar a você...&lt;wait&gt;</Entry>
+  <Entry Index="958">Espero que goste.&lt;wait&gt;</Entry>
+  <Entry Index="959">Eu lhe devo um favor por tduo o que você faz por mim,
+e hoje é o Dia Branco, afinal. Então pegue. Isto é para você.&lt;wait&gt;</Entry>
+  <Entry Index="960">Aqui está, &lt;playername&gt;. Já que você me deu um presente
+no Dia dos Namorados, é justo que eu lhe dê algo também.&lt;wait&gt;</Entry>
+  <Entry Index="961">Se você não se importar, há algo que gostaria de lhe dar.
+Espero que goste.&lt;wait&gt;</Entry>
+  <Entry Index="962">Ah, sim... aqui. Uma pequena amostra de gratidão por ser
+uma grande pessoa. Espero que goste.&lt;wait&gt;</Entry>
+  <Entry Index="963">&lt;playername&gt;, como me deu um presente pelo Dia dos
+Namorados, eu queria lhe dar algo também. Pegue!&lt;wait&gt;</Entry>
+  <Entry Index="964">Ei! Passei por aqui porque queria lhe dar uma coisa.&lt;wait&gt;</Entry>
+  <Entry Index="965">Ha ha... Nossa, que situação mais embaroçosa.&lt;wait&gt;</Entry>
+  <Entry Index="966">Pegue. Obrigado por tudo.&lt;wait&gt;</Entry>
+  <Entry Index="967">Você me deu algo no Dia dos Namorados, então pegue.
+Espero que goste.&lt;wait&gt;</Entry>
+  <Entry Index="968">Olá. Vim porque queria lhe dar uma coisa.&lt;wait&gt;</Entry>
+  <Entry Index="969">Use como que quiser.&lt;wait&gt;</Entry>
+  <Entry Index="970">Ouvi dizer que há um costume de dar presentes hoje. Eu não
+de ignorar as tradições locais, então pegue.
+Uma pequena amostra de gratidão por sua gentileza.&lt;wait&gt;</Entry>
+  <Entry Index="971">Pegue. Uma pequena amostra de gratidão pelo seu presente de
+de Dia dos Namorados. Não é muito, mas espero que goste.&lt;wait&gt;</Entry>
+  <Entry Index="972">&lt;playername&gt;, vim para lhe dar um presente.&lt;wait&gt;</Entry>
+  <Entry Index="973">Mmmmmm.&lt;wait&gt;</Entry>
+  <Entry Index="974">Ops! A mochila está cheia. E agora o que eu faço?&lt;wait&gt;</Entry>
+  <Entry Index="975">Tenho certeza que ele vai perceber se eu colocar na mochila
+dele... Lá vai! Mal posso esperar para ver o rosto dele.&lt;wait&gt;</Entry>
+  <Entry Index="976">Mmmmmm.&lt;wait&gt;</Entry>
+  <Entry Index="977">Oh? Puxa. A mochila está cheia. Acho que vou ter
+que desistir.&lt;wait&gt;</Entry>
+  <Entry Index="978">Vamos ver como ele vai reagir quando acordar e descobrir.
+Estou ansiosa para descobrir.&lt;wait&gt;</Entry>
+  <Entry Index="979">Mmmmmm.&lt;wait&gt;</Entry>
+  <Entry Index="980">Hein? Oh, não! Sua mochila está cheia. Não tem espaço.&lt;wait&gt;</Entry>
+  <Entry Index="981">isso deve funcionar. Espero que goste.&lt;wait&gt;</Entry>
+  <Entry Index="982">Hein? Opa! Sua mochila está cheia! E não pensei um plano
+alternativo. E agora?&lt;wait&gt;</Entry>
+  <Entry Index="983">Ah. Você tem que ser habilidoso para adormecer com
+a sua mochila.&lt;wait&gt;&lt;page&gt;
+Perfeito. Vai levar-se uma surpresa. Eu me pergunto
+quando se acordará...&lt;wait&gt;</Entry>
+  <Entry Index="984">Perfeito. Terá uma surpresa.
+Eu me pergunto quando lle vai acordar..&lt;wait&gt;</Entry>
+  <Entry Index="985">Mmmmmm.&lt;wait&gt;</Entry>
+  <Entry Index="986">Nossa. Nunca imaginei que a mochila pudesse
+estar cheia. E agora?&lt;wait&gt;</Entry>
+  <Entry Index="987">Lá vai. Pronto. Você vai descobrir quando acordar,
+com certeza. Ou assim espero.&lt;wait&gt;</Entry>
+  <Entry Index="988">Nossa! Quem diria que ia carregar uma mochila
+cheia. Que erro. Acho que vou ter que descartar essa
+ideia estúpida.&lt;wait&gt;</Entry>
+  <Entry Index="989">Meu Deus, isso é tão difícil. Eu não esperava que
+ele adormecesse com a mochila.&lt;wait&gt;&lt;page&gt;
+Bom. Deixei lá dentro, e isso é o que conta. Vamos ver a
+cara que ele vai fazer amanhã. Estou desejando vê-lo.&lt;wait&gt;</Entry>
+  <Entry Index="990">...&lt;wait&gt;&lt;page&gt;
+Como um tronco.&lt;wait&gt;</Entry>
+  <Entry Index="991">A mochila está cheia. Justo quando lhe trouxe um presente.
+Agora não posso dar a você.&lt;wait&gt;</Entry>
+  <Entry Index="992">Eu trouxe algo legal. Vou colocá-lo na mochila.
+Dê uma olhada, ok?&lt;wait&gt;</Entry>
+  <Entry Index="993">Nossa. &lt;nickname&gt;, está dormindo? Bem.&lt;wait&gt;</Entry>
+  <Entry Index="994">Nossa, &lt;nickname&gt;. Você dorme como um tronco.&lt;wait&gt;&lt;page&gt;
+Oh, não... A mochila está cheia. Eu tinha lhe trazido biscoitos.
+Bom. Os enviarei para você então.&lt;wait&gt;</Entry>
+  <Entry Index="995">Nossa, &lt;nickname&gt;. Você dorme como um tronco.&lt;wait&gt;&lt;page&gt;
+É o momento. Vou colocar os biscoitos que fiz para você
+pelo Dia Branco na mochila.&lt;wait&gt;</Entry>
+  <Entry Index="996">Nossa, &lt;nickname&gt;. Parece que dorme como um
+tronco.&lt;wait&gt;</Entry>
+  <Entry Index="997">Ora ora, &lt;nickname&gt;. Dorme como uma marmota.&lt;wait&gt;&lt;page&gt;
+Eu tinha feito uns biscoitos deliciosos pelo Dia
+Blanco, mas não quero que acorde... Nossa, e sua
+mochila está cheia.&lt;wait&gt;</Entry>
+  <Entry Index="998">Ora ora, &lt;nickname&gt;. Dorme como uma
+marmota.&lt;wait&gt;&lt;page&gt;
+Eu tinha feito uns biscoitos deliciosos pelo Dia
+Blanco, mas não quero que acorde...  Talvez eu poderia
+colocá-los na mochila.&lt;wait&gt;</Entry>
+  <Entry Index="999">Não me diga! A mochila está cheia. Justo no pior
+momento!&lt;wait&gt;</Entry>
+  <Entry Index="1000">E eu que pensava que era uma ótima idéiacolocar isso
+na sua mochila. Acho que não seria tão simples assim.&lt;wait&gt;</Entry>
+  <Entry Index="1001">Nossa. A mochila está cheia. Maldito seja.
+Vou ter que sair.&lt;wait&gt;</Entry>
+  <Entry Index="1002">Mal posso esperar para ver a sua cara quando acordar.
+He he. Olha como dorme.&lt;wait&gt;</Entry>
+  <Entry Index="1003">Hein? Sua mochila está cheia? Que trabalho! O que
+fazer nesses casos?&lt;wait&gt;</Entry>
+  <Entry Index="1004">Isso deve funcionar! Espero que goste depois de
+tudo pelo que me fez passar.&lt;wait&gt;</Entry>
+  <Entry Index="1005">Oh, sua mochila está cheia. Nossa! Não tinha outro
+momento? Você limpar e manter suas coisas organizadas!&lt;wait&gt;</Entry>
+  <Entry Index="1006">He he. Terá uma surpresa quando acordar e
+encontrar o meu presente. Não aguento mais!&lt;wait&gt;</Entry>
+  <Entry Index="1007">Ah, não... A mochila está cheia. Jamais poderia
+imaginar. Meu Deus, tente resolver isso de uma vez
+e veja o que acontece.&lt;wait&gt;</Entry>
+  <Entry Index="1008">Mmmm... Espero que não tenha errado. Ainda assim...
+Mal posso esperar para ver como reagirá amanhã.&lt;wait&gt;</Entry>
+  <Entry Index="1009">Não há espaço em sua mochila. Isso eu realmente não
+esperava. Adeus para minha surpresa.&lt;wait&gt;&lt;page&gt;
+Uma pena, mas acho que é o destino.&lt;wait&gt;</Entry>
+  <Entry Index="1010">Aí vai. Minha pequena surpresa está escondida em segurança
+na sua mochila. Estou ansioso para amanhã.&lt;wait&gt;</Entry>
+  <Entry Index="1011">Meu Deus! Mas se sua mochila estiver até o topo!
+Depois do esforço que tive para lhe trazer o presente.
+É o fim.&lt;wait&gt;</Entry>
+  <Entry Index="1012">Meu Deus, é capaz de dormir com a sua mochila.
+Que coisa mais fofa!&lt;wait&gt;&lt;page&gt;
+Agora é só colocar isso aqui... Sim! Perfeito.&lt;wait&gt;</Entry>
+  <Entry Index="1013">Você sabe que noite é hoje? É a Noite de Luar.
+Você quer que companhia para ver a lua?&lt;wait&gt;</Entry>
+  <Entry Index="1014">Nossa. Olha. Esta noite temos uma lua muito especial.
+Você quer, uh... sentar e vê-la comigo?&lt;wait&gt;</Entry>
+  <Entry Index="1015">Ouvi dizer que hoje é a Noite de Luar.
+A lua deverá estár linda hoje. Quer que a vejamos?&lt;wait&gt;</Entry>
+  <Entry Index="1016">Ah, a propósito. Hoje é a Noite de Luar.
+Quer vir comigo?&lt;wait&gt;</Entry>
+  <Entry Index="1017">O quão claro estará o céu esta noite? Mmm?
+O por que? Porque é a Noite de Luar.
+Gostaria de vir comigo?&lt;wait&gt;</Entry>
+  <Entry Index="1018">A Noite de Luar, hein? Prefiro contemplar
+a beleza da lua sozinho... mas acho que a sua
+companhia seria aceitável.&lt;wait&gt;</Entry>
+  <Entry Index="1019">Eu te acompanho!</Entry>
+  <Entry Index="1020">Estou com sono.</Entry>
+  <Entry Index="1021">Ótimo! Tenho certeza de que vamos nos divertir.&lt;wait&gt;</Entry>
+  <Entry Index="1022">O-ok. Então, vamos lá.&lt;wait&gt;</Entry>
+  <Entry Index="1023">Incrível! É um encontro.&lt;wait&gt;</Entry>
+  <Entry Index="1024">Certo. Ótimo.&lt;wait&gt;</Entry>
+  <Entry Index="1025">Maravilhoso. Que emoção!&lt;wait&gt;</Entry>
+  <Entry Index="1026">Ok. Poderei contemplar seu rosto radiante
+em companhia.&lt;wait&gt;</Entry>
+  <Entry Index="1027">Oh... tudo bem. É uma pena.&lt;wait&gt;</Entry>
+  <Entry Index="1028">Tem certeza de que não quer? Oh. Entendo. É uma pena.&lt;wait&gt;</Entry>
+  <Entry Index="1029">Nossa! Mas ía ser impressionante esta noite! Ok.
+Se você não puder, então não pode.&lt;wait&gt;</Entry>
+  <Entry Index="1030">Nossa. Seria muito tarde, sim. Bom, então,
+boa noite.&lt;wait&gt;</Entry>
+  <Entry Index="1031">Entendo. Uma pena, mas tudo bem.&lt;wait&gt;</Entry>
+  <Entry Index="1032">Nossa. Em fim. Então vou aproveitar os encantos da
+noite em uma solitária paz.&lt;wait&gt;</Entry>
+  <Entry Index="1033">Ok, hora de dormir...&lt;wait&gt;</Entry>
+  <Entry Index="1034">Ok, hora de dormir...&lt;wait&gt;</Entry>
+  <Entry Index="1035">&lt;playername&gt;, pegue. É para lhe agradecer pelo seu
+presente de Dia dos Namorados. Espero que goste.&lt;wait&gt;</Entry>
+  <Entry Index="1036">&lt;playername&gt;, muito obrigado pelos deliciosas
+biscoitos de Dia dos Namorados. Pegue, são para você.
+Espero que sejam do seu gosto.&lt;wait&gt;</Entry>
+  <Entry Index="1037">Ah, olha que tarde! Deveríamos ir agora.&lt;wait&gt;</Entry>
+  <Entry Index="1038">Já que você teve a gentileza de me convidar e tudo mais...&lt;wait&gt;&lt;page&gt;
+Achei que poderia pelo menos fazer algo para o jantar.&lt;wait&gt;</Entry>
+  <Entry Index="1039">Eh... espero que goste.&lt;wait&gt;</Entry>
+  <Entry Index="1040">A propósito, isso é para você também. Um presente para
+comemorar que hoje é a Noite Estrelada.&lt;wait&gt;</Entry>
+  <Entry Index="1041">Sim... Obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="1042">Não hà mais nada para entrar no ano novo. A neve vai
+derreter e será primavera novamente...&lt;wait&gt;</Entry>
+  <Entry Index="1043">Adorei passar a Noite Estrelada com o Cliff.&lt;wait&gt;</Entry>
+  <Entry Index="1044">Oh, &lt;playername&gt;. você veio. Maravilhoso. Vamos
+convidar o Carter também.&lt;wait&gt;</Entry>
+  <Entry Index="1045">Confesso que estou encantado. O habitual de todos
+os anos é que Carter e eu jantemos sozinhos.&lt;wait&gt;&lt;page&gt;
+Mas não é ruim que por uma vez celebremos
+uma festinha como esta.&lt;wait&gt;&lt;page&gt;
+Fico feliz que você tenha vindo.&lt;wait&gt;</Entry>
+  <Entry Index="1046">Concordo, definitivamente. Afinal, nenhum
+de nós tem família aqui na cidade para comemorar.&lt;wait&gt;</Entry>
+  <Entry Index="1047">Passar a Noite Estrelada com você foi ótimo.&lt;wait&gt;</Entry>
+  <Entry Index="1048">Adorei passar a Noite Estrelada com o Doutor.&lt;wait&gt;</Entry>
+  <Entry Index="1049">Olá, &lt;playername&gt;! Aqui está você.&lt;wait&gt;</Entry>
+  <Entry Index="1050">Olá, &lt;playername&gt;! Aqui está você.&lt;wait&gt;</Entry>
+  <Entry Index="1051">Oh, aí está você, coração! Boa noite. Venha a sentar aqui.
+O jantar está prestes a ser servido.&lt;wait&gt;</Entry>
+  <Entry Index="1052">Mamãe e eu preparamos um grande banquete hoje à noite.&lt;wait&gt;</Entry>
+  <Entry Index="1053">Sim! Rick está esperando por ele o dia todo!&lt;wait&gt;</Entry>
+  <Entry Index="1054">Popuri!&lt;wait&gt;</Entry>
+  <Entry Index="1055">Nada de brigas. Esta noite não. Não queremos que o jantar
+esfrie antes de nos sentarmos para comer.&lt;wait&gt;</Entry>
+  <Entry Index="1056">Certo... Vamos lá, podemos começar a comer agora.&lt;wait&gt;</Entry>
+  <Entry Index="1057">Sente-se, &lt;playername&gt;. Vamos nos sentar e
+aproveitar nosso jantar de Noite Estrelada juntos.&lt;wait&gt;</Entry>
+  <Entry Index="1058">Sente-se, &lt;playername&gt;. Vamos nos sentar e
+aproveitar nosso jantar de Noite Estrelada juntos.&lt;wait&gt;</Entry>
+  <Entry Index="1059">Gostei muito de passar a Noite Estrelada com o Rick
+e sua família.&lt;wait&gt;</Entry>
+  <Entry Index="1060">Umm. Já é tão tarde? Então vamos começar.
+Com o vovô também, é claro.&lt;wait&gt;</Entry>
+  <Entry Index="1061">&lt;playername&gt;. Como estão suas ferramentas?&lt;wait&gt;</Entry>
+  <Entry Index="1062">Vovô, você não tem outro momento para falar disso?&lt;wait&gt;</Entry>
+  <Entry Index="1063">Do que você está reclamando, garoto? isso é importante!&lt;wait&gt;&lt;page&gt;
+Um parafuso solto em uma ferramenta poderia colocar vidas
+em risco! Você ainda um longo caminho a percorrer se não
+percebe algo assim!&lt;wait&gt;</Entry>
+  <Entry Index="1064">Agh. Podemos parar a discussão e começar a comer agora?&lt;wait&gt;</Entry>
+  <Entry Index="1065">Nossa. A propósito, preparei isso para você.&lt;wait&gt;</Entry>
+  <Entry Index="1066">Não sei se isso é do seu agrado, mas espero ter acertado
+em cheio.&lt;wait&gt;</Entry>
+  <Entry Index="1067">Gostei muito de passar a Noite Estrelada com o Gray
+e sua família.&lt;wait&gt;</Entry>
+  <Entry Index="1068">Oh, &lt;playername&gt;. Você chegou na hora
+perfeita. Maravilhoso. Venha, me ajude a levar o jantar.&lt;wait&gt;</Entry>
+  <Entry Index="1069">Não sei o que é sentar e comer com outras pessoas,
+isso torna tudo mais saboroso.&lt;wait&gt;&lt;page&gt;
+Pode perceber que eu não sou a pessoa mais falante do mundo,
+e Brandon muito menos.&lt;wait&gt;</Entry>
+  <Entry Index="1070">Não é assim, Gotts. Eu só prefiro desfrutar de um
+jantar tranquilo em paz. É isso.&lt;wait&gt;</Entry>
+  <Entry Index="1071">Ahá. Então, por que você convidou &lt;playername&gt;?
+Você queria que tivéssemos uma festa mais animada hoje, né?&lt;wait&gt;</Entry>
+  <Entry Index="1072">É perfeitamente aceitável convidar pessoas para
+festas e eventos especiais.&lt;wait&gt;&lt;page&gt;
+De vez em quando é bom para minha inspiração
+deixar minha arte de lado e navegar pelas marés
+da vida mundana por um tempo.&lt;wait&gt;</Entry>
+  <Entry Index="1073">Entendo. Bem, como você diz. Não entendo de arte nem
+de como é ser um artista.&lt;wait&gt;</Entry>
+  <Entry Index="1074">Bom. O que essas ninharias importam em uma noite como esta?
+Vamos curtir a Noite Estrelada juntos, ok?&lt;wait&gt;</Entry>
+  <Entry Index="1075">Gostei muito de passar a Noite Estrelada com o Brandon
+e o Gotts.&lt;wait&gt;</Entry>
+  <Entry Index="1076">   １／   ７</Entry>
+  <Entry Index="1077">Dia Branco: Kai</Entry>
+  <Entry Index="1078">Dia Branco: Cliff</Entry>
+  <Entry Index="1079">Dia Branco: Rick</Entry>
+  <Entry Index="1080">Dia Branco: Gray</Entry>
+  <Entry Index="1081">   ２／   ７</Entry>
+  <Entry Index="1082">Dia Branco: Doutor</Entry>
+  <Entry Index="1083">Dia Branco: Casal</Entry>
+  <Entry Index="1084">Noite Estrelada: Kai</Entry>
+  <Entry Index="1085">Noite Estrelada: Cliff</Entry>
+  <Entry Index="1086">   ３／   ７</Entry>
+  <Entry Index="1087">Noite Estrelada: Rick</Entry>
+  <Entry Index="1088">Noite Estrelada: Gray</Entry>
+  <Entry Index="1089">Noite Estrelada: Doutor</Entry>
+  <Entry Index="1090">Noite Estrelada: Casal</Entry>
+  <Entry Index="1091">   ４／   ７</Entry>
+  <Entry Index="1092">Noite Estrelada: Popuri</Entry>
+  <Entry Index="1093">Noite Estrelada: Ran</Entry>
+  <Entry Index="1094">Noite Estrelada: Elly</Entry>
+  <Entry Index="1095">   ５／   ７</Entry>
+  <Entry Index="1096">Noite Estrelada: Karen</Entry>
+  <Entry Index="1097">Noite Estrelada: Marie</Entry>
+  <Entry Index="1098">   ６／   ７</Entry>
+  <Entry Index="1099">Mei Abóbora</Entry>
+  <Entry Index="1100">Yu Abóbora</Entry>
+  <Entry Index="1101">Popuri Abóbora</Entry>
+  <Entry Index="1102">Festa da Abóbora 2</Entry>
+  <Entry Index="1103">   ７／   ７</Entry>
+  <Entry Index="1104">Véspera do Concerto</Entry>
+  <Entry Index="1105">Concerto</Entry>
+  <Entry Index="1106">Presentes de Noite Estrelada</Entry>
+  <Entry Index="1107">Ouvi izer que as melhores vistas são do topo da
+montanha.
+Você quer vir ver a lua comigo?&lt;wait&gt;</Entry>
+  <Entry Index="1108">Oh, adivinhe! É a Noite de Luar! Vamos ver
+a lua!&lt;wait&gt;</Entry>
+  <Entry Index="1109">Ah, olá. você veio para a Noite de Luar? Eu
+também! Quer que vejamos a lua?&lt;wait&gt;</Entry>
+  <Entry Index="1110">A lua estará linda esta noite. Como de costume
+na Noite de Luar.&lt;wait&gt;</Entry>
+  <Entry Index="1111">Boa noite. Hoje haverá uma linda lua no céu.
+Quer vê-la comigo?&lt;wait&gt;</Entry>
+  <Entry Index="1112">Ouvi dizer que hoje é o festival da Noite de Luar,
+então subi até aqui em cima. Gostarias de me acompanhar?&lt;wait&gt;</Entry>
+  <Entry Index="1113">Vou te acompanhar!</Entry>
+  <Entry Index="1114">Estou com sono.</Entry>
+  <Entry Index="1115">Uau. Vamos nos sentar e assistir.&lt;wait&gt;</Entry>
+  <Entry Index="1116">Ceeerto! Vamos vê-la!&lt;wait&gt;</Entry>
+  <Entry Index="1117">Ótimo! Vamos lá.&lt;wait&gt;</Entry>
+  <Entry Index="1118">Maravilhoso. Então podemos ir vê-la.&lt;wait&gt;</Entry>
+  <Entry Index="1119">Certo. Vamos vê-la.&lt;wait&gt;</Entry>
+  <Entry Index="1120">Perfeito. Então, vamos voltar nossos olhos para o céu.&lt;wait&gt;</Entry>
+  <Entry Index="1121">Nossa. Uma pena. Não costumo dormir até tarde, então
+ficar acordado até tarde para mim não é um problema.&lt;wait&gt;</Entry>
+  <Entry Index="1122">Oh, você tem certeza? Uma pena. A lua vai estar linda
+esta noite.&lt;wait&gt;</Entry>
+  <Entry Index="1123">Oh! Então por que você veio até aqui?!&lt;wait&gt;</Entry>
+  <Entry Index="1124">Você não vai...? Que pena. Você só pode ver esta lua uma
+noite no ano.&lt;wait&gt;</Entry>
+  <Entry Index="1125">Uma pena. Você tem trabalhado muito? Bem,
+descanse e durma bem. Boa noite.&lt;wait&gt;</Entry>
+  <Entry Index="1126">Com uma noite tão linda e você já vai dormir?
+Seu espírito não é tão forte quanto eu pensava.&lt;wait&gt;</Entry>
+  <Entry Index="1127">Ok, hora de dormir...&lt;wait&gt;</Entry>
+  <Entry Index="1128">Obrigado por ser uma pessoa tão maravilhosa,
+&lt;playername&gt;!&lt;wait&gt;&lt;page&gt;
+Feliz Dia dos Namorados!&lt;wait&gt;</Entry>
+  <Entry Index="1129">&lt;playername&gt;, pegue. Fiz isso para agradecer
+pelo seu presente do Dia Branco. Espero que goste!&lt;wait&gt;</Entry>
+  <Entry Index="1130">Olá, vim porque tenho algo para lhe dar.&lt;wait&gt;</Entry>
+  <Entry Index="1131">Espero que goste.&lt;wait&gt;</Entry>
+  <Entry Index="1132">Você é sempre tão gentil comigo, pensei que a melhor coisa
+a fazer era lhe dar um presente. Aqui! Feliz Dia dos
+Namorados!&lt;wait&gt;</Entry>
+  <Entry Index="1133">Olá, &lt;playername&gt;! Eu fiz isso como
+agradecimento pelo presente que me deu no Dia Branco.
+Aqui!&lt;wait&gt;</Entry>
+  <Entry Index="1134">Olá! Eu vim porque tinha que te dar uma coisa.&lt;wait&gt;</Entry>
+  <Entry Index="1135">He he. Minhas bochechas estão ardendo.&lt;wait&gt;</Entry>
+  <Entry Index="1136">Você sempre foi muito gentil comigo e me ajudou
+muito, &lt;playername&gt;. Então pegue. Feliz Dia dos
+Namorados.&lt;wait&gt;</Entry>
+  <Entry Index="1137">&lt;playername&gt;, obrigado pelo Dia Branco. Pegue.
+Um presente para você.&lt;wait&gt;</Entry>
+  <Entry Index="1138">Há algo que eu queria dar a você. Veja você consegue
+adivinhar o que é. Vou te dar uma dica: é algo especial para
+celebrar este dia.&lt;wait&gt;</Entry>
+  <Entry Index="1139">Espero que goste.&lt;wait&gt;</Entry>
+  <Entry Index="1140">Aqui, são para você. O que? Você sabe que hoje é o Dia
+dos Namorados, né? Obrigado por ser tão legal! ♪&lt;wait&gt;</Entry>
+  <Entry Index="1141">Ei, eu te devo uma pelo Dia Branco! Aqui está, para você.&lt;wait&gt;</Entry>
+  <Entry Index="1142">Ei, você tem um momento? Há algo que eu queria dar a você.&lt;wait&gt;</Entry>
+  <Entry Index="1143">É melhor você gostar deles!&lt;wait&gt;</Entry>
+  <Entry Index="1144">Isso... aqui está. É o Dia dos Namorados, então tenho
+um presente para você.&lt;wait&gt;</Entry>
+  <Entry Index="1145">isso... aqui está. É um presente de agradecimento pelo
+que você me deu no Dia Branco. Espero que goste.&lt;wait&gt;</Entry>
+  <Entry Index="1146">Vim vê-lo porque tenho algo que
+gostaria de lhe dar.&lt;wait&gt;</Entry>
+  <Entry Index="1147">Espero que goste.&lt;wait&gt;</Entry>
+  <Entry Index="1148">Aqui está. Hoje é o Dia dos Namorados, correto? Um
+festival para estreitar os laços e agradecer os entes
+queridos.&lt;wait&gt;</Entry>
+  <Entry Index="1149">Aqui está. Muito obrigado pelo presente que me deu
+no Dia Branco.&lt;wait&gt;</Entry>
+  <Entry Index="1150">Você tem tempo? Gostaria de lhe dar uma coisa.&lt;wait&gt;</Entry>
+  <Entry Index="1151">Goste ou não... depende de você.&lt;wait&gt;</Entry>
+  <Entry Index="1152">Mmmmmm.&lt;wait&gt;</Entry>
+  <Entry Index="1153">Não me diga! Sua mochila está cheia! Não tem como
+isso caber.&lt;wait&gt;</Entry>
+  <Entry Index="1154">Nossa! Como é possível adormecer com uma mochila?
+Incrível...&lt;wait&gt;&lt;page&gt;
+Mmmm... Ha ha. Lá vai. Eu coloquei. Eh.&lt;wait&gt;</Entry>
+  <Entry Index="1155">Mmm...&lt;wait&gt;</Entry>
+  <Entry Index="1156">Nossa. Achei que poderia colocá-lo na mochila, mas não
+tem espaço. Bem, eu vou ter que comer isso sozinho.&lt;wait&gt;</Entry>
+  <Entry Index="1157">Gostaria de saber se &lt;nickname&gt; acordrá logo.
+Espero que goste.&lt;wait&gt;</Entry>
+  <Entry Index="1158">Mmmmmm.&lt;wait&gt;</Entry>
+  <Entry Index="1159">Droga! Eu não sabia que ele carregava uma mochila tão cheia.
+Como diabos ele pode carregar tantas coisas?! E agora?&lt;wait&gt;</Entry>
+  <Entry Index="1160">Ah!!! Caramba, que susto... Não foi nada. Não
+acordou. Ufa.&lt;wait&gt;</Entry>
+  <Entry Index="1161">Mmmmmm.&lt;wait&gt;</Entry>
+  <Entry Index="1162">Não pode ser! A sua mochila está tão cheia que não cabe
+um afinete!&lt;wait&gt;&lt;page&gt;
+Tenho certeza que ficará bravo se eu tirar algo para colocar
+isso no lugar. Muito bem! Eu vou ter que comer sozinho!&lt;wait&gt;</Entry>
+  <Entry Index="1163">Parece que está dormindo. Mal posso esperar para ver
+seu rosto quando acordar e descobrir. He he he!&lt;wait&gt;</Entry>
+  <Entry Index="1164">Ufa.&lt;wait&gt;</Entry>
+  <Entry Index="1165">Mmm? Droga. A mochila está cheia. Vou me lembrar de
+dar isso mais tarde? Posso esquecer...&lt;wait&gt;</Entry>
+  <Entry Index="1166">Eu me pergunto se &lt;nickname&gt; lembrou que
+hoje é o Dia dos Namorados.&lt;wait&gt;&lt;page&gt;
+Bem. Vou colocar isso na sua mochila.&lt;wait&gt;</Entry>
+  <Entry Index="1167">A mochila está cheia. Acho que não é bom em arrumar
+as coisas. Ok. Ficarei com isso.&lt;wait&gt;</Entry>
+  <Entry Index="1168">Incrível. Ele foi dormir sem nem perceber que não
+havia tirado a mochila. Mmm, vejamos... Isso cabe aqui?&lt;wait&gt;</Entry>
+  <Entry Index="1169">Tachán! Estou em casaaaa! Ei? Vamos! Parece que
+está dormindo.&lt;wait&gt;</Entry>
+  <Entry Index="1170">Meu Deus! Não cabe mais nada na mochila. E trouxe um
+presente para ele. Nossa! Que pena. Tchau. ♪&lt;wait&gt;</Entry>
+  <Entry Index="1171">Meu Deus, consegue adormecer com a sua mochila.
+Que coisa mais fofa!&lt;wait&gt;&lt;page&gt;
+Agora é só colocar isso aqui... Tachán! Lá vai.
+Perfeito.&lt;wait&gt;</Entry>
+  <Entry Index="1172">Uau! A mochila está cheia. E agora o que eu faço?&lt;wait&gt;</Entry>
+  <Entry Index="1173">Mmm. Tenho certeza que irá notar se colocar isso na
+sua mochila. Lá vai! Mal posso esperar para ver sua cara
+quando acordar.&lt;wait&gt;</Entry>
+  <Entry Index="1174">Hein? Droga. A mochila está cheia. Acho que vou ter
+que desistir.&lt;wait&gt;</Entry>
+  <Entry Index="1175">Vamos ver como irá reagir quando acordar e descobrir.
+Estou ansioso para descobrir.&lt;wait&gt;</Entry>
+  <Entry Index="1176">Hein? Oh, não! Sua mochila está cheia. Não cabe.&lt;wait&gt;</Entry>
+  <Entry Index="1177">Isso deve funcionar. Espero que goste.&lt;wait&gt;</Entry>
+  <Entry Index="1178">Hein? Opa! Sua mochila está cheia! E não pensei em um plano
+alternativo. E agora?&lt;wait&gt;</Entry>
+  <Entry Index="1179">Ah. Você tem que ser habilidoso para adormecer com a
+sua mochila.&lt;wait&gt;&lt;page&gt;
+Perfeito. Você terá uma surpresa. Eu me pergunto
+quando irá acordar..&lt;wait&gt;</Entry>
+  <Entry Index="1180">Nossa. Nunca imaginei que a mochila pudesse
+estar cheia. E agora?&lt;wait&gt;</Entry>
+  <Entry Index="1181">Aí vai. Pronto. Você irá descobrir quando acordar,
+com certeza. Ou assim espero.&lt;wait&gt;</Entry>
+  <Entry Index="1182">Uau! Quem diria que carregaria uma mochila
+cheia. Que erro. Acho que terei que descartar essa
+ideia estúpida.&lt;wait&gt;</Entry>
+  <Entry Index="1183">Adormecer enquanto usa a sua mochila... Acho
+que isso mostra sua devoção ao seu trabalho.
+Que inspirador.&lt;wait&gt;&lt;page&gt;
+Espero que não se perca entre as coisas que você
+carrega aqui. Certo... É isso.&lt;wait&gt;</Entry>
+  <Entry Index="1184">A mochila está cheia. Justo quando lhe trouxe um presente.
+Agora não posso dar a vcê.&lt;wait&gt;</Entry>
+  <Entry Index="1185">Eu trouxe algo legal. Vou colocá-lo na mochila.
+Dê uma olhada, certo?&lt;wait&gt;</Entry>
+  <Entry Index="1186">Ora ora, &lt;nickname&gt;. Você dorme como uma
+marmota.&lt;wait&gt;&lt;page&gt;
+Eu tinha preparado biscoitos deliciosos pelo Dia
+Branco, mas não quero que acorde... Nossa, e sua
+mochila está cheia.&lt;wait&gt;</Entry>
+  <Entry Index="1187">Ora ora, &lt;nickname&gt;. Você dorme como uma
+marmota.&lt;wait&gt;&lt;page&gt;
+Eu tinha preparado biscoitos deliciosos pelo Dia
+Branco, mas não quero que acorde... Talvez eu poderia
+colocá-los na mochila.&lt;wait&gt;</Entry>
+  <Entry Index="1188">Nossa, &lt;nickname&gt;. Você dorme como um tronco.&lt;wait&gt;&lt;page&gt;
+Oh, não... A mochila está cheia. Eu havia lhe trazido
+biscoitos. Bem. Vou enviá-los para você então.&lt;wait&gt;</Entry>
+  <Entry Index="1189">Nossa, &lt;nickname&gt;. Você dorme como um tronco.&lt;wait&gt;&lt;page&gt;
+É o momento. Vou colocar os biscoitos que lhe fiz pelo
+Dia Branco na mochila.&lt;wait&gt;</Entry>
+  <Entry Index="1190">Oh, quase esqueci. Gostaria que aceitasse isso
+primeiro, para celebrar a Noite Estrelada.&lt;wait&gt;</Entry>
+  <Entry Index="1191">Antes de mais nada, pegue isso.&lt;wait&gt;</Entry>
+  <Entry Index="1192">Espere. Antes de mais nada... Espero que aceite esse presente.&lt;wait&gt;</Entry>
+  <Entry Index="1193">Oh, sim! Trouxe isso para você, para celebrar a Noite
+Estrelada.&lt;wait&gt;</Entry>
+  <Entry Index="1194">Você aceita este presente? É para celebrar a Noite
+Estrelada.&lt;wait&gt;</Entry>
+  <Entry Index="1195">A propósito, tenho isso para você pela Noite Estrelada.
+Espero que goste.&lt;wait&gt;</Entry>
+  <Entry Index="1196">Ah... Antes de ir, você aceitaria esse presente?&lt;wait&gt;</Entry>
+  <Entry Index="1197">Antes de mais nada, pegue isso.&lt;wait&gt;</Entry>
+  <Entry Index="1198">A propósito, eu gostaria de lhe dar isso primeiro, para
+celebrar a Noite Estrelada.&lt;wait&gt;</Entry>
+  <Entry Index="1199">Antes de mais nada... Por favor, aceite isso.&lt;wait&gt;</Entry>
+  <Entry Index="1200">Antes de tudo, você se importaria se eu lhe der
+um presente?&lt;wait&gt;</Entry>
+  <Entry Index="1201">Ah, trouxe isso para você pela Noite Estrelada.
+Espero que goste.&lt;wait&gt;</Entry>
+  <Entry Index="1202">Quase esqueci! Trouxe isso para você pela Noite
+Estrelada. Aqui está!&lt;wait&gt;</Entry>
+  <Entry Index="1203">Ah, claro, hoje é a Noite Estrelada, certo? Eu estava
+guardando isso para você. Espero que goste.&lt;wait&gt;</Entry>
+  <Entry Index="1204">Ah, pegue isso. Hoje é a Noite Estrelada, certo? Isso
+é para celebrar.&lt;wait&gt;</Entry>
+  <Entry Index="1205">Ah, sim! Você aceitaria isso? É para celebrar a Noite
+Estrelada.&lt;wait&gt;</Entry>
+  <Entry Index="1206">Antes de irmos, gostaria de lhe dar isso. É para celebrar
+a Noite Estrelada.&lt;wait&gt;</Entry>
+  <Entry Index="1207">Oh? Você obteve os sete anéis. Parabéns!
+Embora eu não tenha nada em particular para te dar.&lt;wait&gt;&lt;page&gt;
+Bem, vamos ao topo.&lt;wait&gt;</Entry>
+  <Entry Index="1208">Queria de lhe dar algo, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1209">Hoje... tenho algo que gostaria te dar a você, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1210">Há algo que eu gostaria de dar a você hoje, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1211">&lt;playername&gt;! Tenho um presente para você, para
+agradecer aquele que você me deu no Dia Branco. Aqui está!&lt;wait&gt;</Entry>
+  <Entry Index="1212">Você é sempre tão legal comigo, &lt;playername&gt;.
+Aqui está, pelo Dia dos Namorados.&lt;wait&gt;</Entry>
+  <Entry Index="1213">&lt;playername&gt;! Obrigado pelo doce que você me deu
+no Dia Branco. Este é meu presente de agradecimento.&lt;wait&gt;</Entry>
+  <Entry Index="1214">E aí, &lt;playername&gt;? Amanhã será o  Cluck-Cluck Clash
+na praça. A galinha mais forte vencerá.&lt;wait&gt;&lt;page&gt;
+Eu gostaria que você participasse, mas parece que nenhuma
+de suas galinhas pode ser inscrita.&lt;wait&gt;</Entry>
+  <Entry Index="1215">Hein? Você não tem nenhum mascote? É uma pena, colega.
+Infelizmente você não pode participar então.&lt;wait&gt;&lt;page&gt;
+Mesmo que não participe, você pode vir assistir se não
+tiver nada para fazer.&lt;wait&gt;&lt;page&gt;
+O Festival Frisbee será amanhã na praia às 10:00 da
+manhã. Espero te ver por lá!&lt;wait&gt;</Entry>
+  <Entry Index="1216">Olá, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Amanhã vamos celebrar o Dérbi de Outono às 10:00 da
+manhã na praça.&lt;wait&gt;&lt;page&gt;
+Se tiver cavalos em sua fazenda, seria ótimo se você se
+inscrevesse e patrocinasse o festival...&lt;wait&gt;</Entry>
+  <Entry Index="1217">Olá, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Amanhã celebraremos o Dérbi de Outono às 10:00 da
+manhã na praça.&lt;wait&gt;&lt;page&gt;
+Se tiver cavalos em sua fazenda, seria ótimo se você se
+inscrevesse e patrocinasse o festival...&lt;wait&gt;</Entry>
+  <Entry Index="1218">Olá, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Amanhã vamos celebrar o Dérbi de Outono às 10:00 da
+manhã na praça.&lt;wait&gt;&lt;page&gt;
+Você gostaria de participar com o cavalo
+que tem em sua fazenda?&lt;wait&gt;</Entry>
+  <Entry Index="1219">Oh, maravilhoso! Fico feliz em poder
+contar com você.&lt;wait&gt;&lt;page&gt;
+Eu cuidarei de &lt;myhorsename&gt;.&lt;wait&gt;&lt;page&gt;
+Amanhã o Dérbi de Outono começará às 10:00,
+então não se atrase!&lt;wait&gt;</Entry>
+  <Entry Index="1220">Hoje é o Dia Branco! Bem, para quem eu deveria preparar
+uns biscoitos?&lt;wait&gt;</Entry>
+  <Entry Index="1221">Hoje é o Dia Branco! Gostaria de saber se alguém me dará
+biscoitos... Estou ansioso para descobrir.&lt;wait&gt;</Entry>
+  <Entry Index="1222">As aves batalharam ferozmente no Cluck-Cluck Clash,
+elas foram um sucesso...&lt;wait&gt;</Entry>
+  <Entry Index="1223">As vacas tinham muita energia! O Festival Moo-Moo
+foi um sucesso total.&lt;wait&gt;</Entry>
+  <Entry Index="1224">Os animais eram tão fofinhos que me senti como se estivesse
+em uma nuvem! O Festival Fluffy foi um sucesso total.&lt;wait&gt;</Entry>
+  <Entry Index="1225">Hoje é o Dia da Abóbora! É melhor eu preparar
+uns doces.&lt;wait&gt;</Entry>
+  <Entry Index="1226">Hoje é Dia dos Namorados! Gostaria de saber se alguém vai
+me dar chocolates... Estou ansioso para descobrir.&lt;wait&gt;</Entry>
+  <Entry Index="1227">Hoje é Dia dos Namorados! Bem, para quem eu deveria comprar
+um chocolate?&lt;wait&gt;</Entry>
+  <Entry Index="1228">Todos comeram o macarrão alegremente..&lt;wait&gt;</Entry>
+  <Entry Index="1229">Vou enviar o troféu para sua casa.&lt;wait&gt;&lt;page&gt;
+Dê uma olhada no seu armário quando chegar em casa..&lt;wait&gt;</Entry>
+  <Entry Index="1230">O que é isso?
+Seu armário está cheio.&lt;wait&gt;&lt;page&gt;
+Nesse caso, ficarei com o troféu até o próximo
+torneio.&lt;wait&gt;</Entry>
+  <Entry Index="1231">Eu lhe concedi esse troféu.
+Você deve exibi-lo com orgulho em sua casa.&lt;wait&gt;</Entry>
+  <Entry Index="1232">Ou assim eu gostaria de dizer,
+mas sua mochila está cheia.&lt;wait&gt;&lt;page&gt;
+Vou mantê-lo até o próximo torneio.&lt;wait&gt;</Entry>
+  <Entry Index="1233">Vou então enviar o troféu para sua casa.&lt;wait&gt;&lt;page&gt;
+Dê uma olhada no seu armário quando chegar em casa.&lt;wait&gt;</Entry>
+  <Entry Index="1234">Hein?
+Parece que seu armário está cheio.&lt;wait&gt;&lt;page&gt;
+Receio ter que mantê-lo até o próximo torneio.&lt;wait&gt;</Entry>
+  <Entry Index="1235">Aqui está o seu troféu. Exiba-o com orgulho em sua casa.&lt;wait&gt;</Entry>
+  <Entry Index="1236">O que é isso? Sua mochila está cheia!&lt;wait&gt;&lt;page&gt;
+Infelizmente, terei que manter este troféu até o
+próximo torneio.&lt;wait&gt;</Entry>
+  <Entry Index="1237">Todo mundo engoliu alegremente o mochi.&lt;wait&gt;</Entry>
+  <Entry Index="1238">Todos comeram muito felizes.&lt;wait&gt;</Entry>
+  <Entry Index="1239">...</Entry>
+  <Entry Index="1240">Mmm...&lt;wait&gt;</Entry>
+  <Entry Index="1241">Ahá...&lt;wait&gt;</Entry>
+  <Entry Index="1242">Ah, entendi...&lt;wait&gt;</Entry>
+  <Entry Index="1243">Parabéns!
+Eu sabia que você conseguiria!&lt;wait&gt;</Entry>
+  <Entry Index="1244">Parabéns! Sua vaca é super fofa!&lt;wait&gt;</Entry>
+  <Entry Index="1245">Parabéns! Eu sabia que você ganharia, &lt;playername&gt;.</Entry>
+  <Entry Index="1246">Uau! Você é incrível! Parabéns!&lt;wait&gt;</Entry>
+  <Entry Index="1247">Você ganhou porque tem a melhor vaca, certo?
+Parabéns!&lt;wait&gt;</Entry>
+  <Entry Index="1248">Parabéns!&lt;wait&gt;</Entry>
+  <Entry Index="1249">Parabéns! Sua vaca é muito graciosa.&lt;wait&gt;</Entry>
+  <Entry Index="1250">Sua vaca foi incrível. Parabéns!&lt;wait&gt;</Entry>
+  <Entry Index="1251">Sua vaca estava tão animada quanto você! Parabéns!&lt;wait&gt;</Entry>
+  <Entry Index="1252">Sua vaca é um prodígio! Parabéns!&lt;wait&gt;</Entry>
+  <Entry Index="1253">As vacas são animais fascinantes, não acha?&lt;wait&gt;</Entry>
+  <Entry Index="1254">Mmm...&lt;wait&gt;</Entry>
+  <Entry Index="1255">Ahá...&lt;wait&gt;</Entry>
+  <Entry Index="1256">Sim, sim, muito macio...&lt;wait&gt;</Entry>
+  <Entry Index="1257">Parabéns!&lt;wait&gt;</Entry>
+  <Entry Index="1258">Aí está! Eu sabia que você conseguiria!&lt;wait&gt;</Entry>
+  <Entry Index="1259">Parabenos! Eu sabia que você ia ganhar, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1260">Parabenos!! seu animal me deu boas vibrações!&lt;wait&gt;</Entry>
+  <Entry Index="1261">Parabéns!
+Seu animal tem a pelagem super macia!&lt;wait&gt;</Entry>
+  <Entry Index="1262">Uau, você é muito bom em criar animais,
+&lt;playername&gt;! Parabéns!&lt;wait&gt;</Entry>
+  <Entry Index="1263">Parabéns pela sua vitória!&lt;wait&gt;</Entry>
+  <Entry Index="1264">Parabéns! Você me impressionou.&lt;wait&gt;</Entry>
+  <Entry Index="1265">Sua vitória estava certa,
+&lt;playername&gt;. Parabéns!&lt;wait&gt;</Entry>
+  <Entry Index="1266">Ei, ótimo trabalho!&lt;wait&gt;</Entry>
+  <Entry Index="1267">E agora, afunde seus dentes nisso!&lt;wait&gt;</Entry>
+  <Entry Index="1268">O que é isso?!&lt;wait&gt;</Entry>
+</Entries>

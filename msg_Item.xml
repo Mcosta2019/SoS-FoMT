@@ -1,0 +1,1860 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entries Count="1218">
+  <Entry Index="0">Foice de Ferro</Entry>
+  <Entry Index="1">Uma lâmina curva de ferro usada para
+cortar ervas daninhas. Tome cuidado para não
+cortar suas colheitas!</Entry>
+  <Entry Index="2">Foice de Cobre</Entry>
+  <Entry Index="3">Uma lâmina curva de cobre usada para
+cortar ervas daninhas. Tome cuidado para não
+cortar suas colheitas!</Entry>
+  <Entry Index="4">Foice de Prata</Entry>
+  <Entry Index="5">Uma lâmina curva de prata usada para
+cortar ervas daninhas. Tome cuidado para não
+cortar suas colheitas!</Entry>
+  <Entry Index="6">Foice de Ouro</Entry>
+  <Entry Index="7">Uma lâmina curva de ouro usada para
+cortar ervas daninhas. Viu como brilha? Tome cuidado
+para não cortar suas colheitas!</Entry>
+  <Entry Index="8">Foice de Mithril</Entry>
+  <Entry Index="9">Uma lâmina curva de mithril usada para
+cortar ervas daninhas. Tome cuidado para não
+cortar suas colheitas!</Entry>
+  <Entry Index="10">Foice Amaldiçoada</Entry>
+  <Entry Index="11">Uma lâmina curva que não pode ser desequipada!
+Nunca! Exceto no confesionario. Livre-se dessa
+ferramenta.</Entry>
+  <Entry Index="12">Foice Abençoada</Entry>
+  <Entry Index="13">Uma lâmina curva abençoada. A maldição se foi! 
+Por algum motivo, você se sente bem quando a usa.</Entry>
+  <Entry Index="14">Foice Mítica</Entry>
+  <Entry Index="15">Uma lâmina curva feita de um minério
+mítico, usada para cortar ervas daninhas. 
+Tome cuidado para não cortar suas colheitas!</Entry>
+  <Entry Index="16">Enxada de Ferro</Entry>
+  <Entry Index="17">Uma ferramenta de ferro usada para
+lavrar a terra. Inclusive com sementes ou ervas recém
+cortadas.</Entry>
+  <Entry Index="18">Enxada de Cobre</Entry>
+  <Entry Index="19">Uma ferramenta de cobre usada para lavrar
+a terra. Inclusive com sementes ou ervas recém
+cortadas..</Entry>
+  <Entry Index="20">Enxada de Prata</Entry>
+  <Entry Index="21">Uma ferramenta de prata usada para lavrar
+a terra. Inclusive com sementes ou ervas recém
+cortadas.</Entry>
+  <Entry Index="22">Enxada de Ouro</Entry>
+  <Entry Index="23">Uma ferramenta de ouro usda para lavrar 
+a terra. Inclusive com sementes ou ervas recém
+cortadas. Viu como brilha?</Entry>
+  <Entry Index="24">Enxada de Mithril</Entry>
+  <Entry Index="25">Uma ferramenta de mithril que se usa para
+lavrar. Inclusive com sementes ou erva recém
+cortadas.</Entry>
+  <Entry Index="26">Enxada Amaldiçoada</Entry>
+  <Entry Index="27">Uma enxada que não pode ser desequipada!
+Nunca! Exceto no confesionario. Livre-se dessa
+ferramenta.</Entry>
+  <Entry Index="28">Enxada Abençoada</Entry>
+  <Entry Index="29">Uma ferramenta de cabo longo abençoada.
+A maldição se foi! Por algum motivo, você se
+sente bem quando o usa.</Entry>
+  <Entry Index="30">Enxada Mítica</Entry>
+  <Entry Index="31">Uma enxeda feita de um minério mítico, usada
+para lavrar a terra. Inclusive com sementes ou ervas recém
+cortadas.</Entry>
+  <Entry Index="32">Machado de Ferro</Entry>
+  <Entry Index="33">Um machado de ferro usado para cortar
+madeira e obter lenha. Não pode cortar
+tocos.</Entry>
+  <Entry Index="34">Machado de Cobre</Entry>
+  <Entry Index="35">Um machado de cobre usado para cortar
+madeira e obter lenha. Também pode cortar
+tocos.</Entry>
+  <Entry Index="36">Machado de Prata</Entry>
+  <Entry Index="37">Um machado de prata usado para cortar
+madeira e obter lenha. Também pode cortar
+tocos.</Entry>
+  <Entry Index="38">Machado de Ouro</Entry>
+  <Entry Index="39">Um machado de ouro usado para cortar
+madeira e obter lenha. Viu como brilha?
+Também pode cortar tocos.</Entry>
+  <Entry Index="40">Machado de Mithril</Entry>
+  <Entry Index="41">Um machado de mithril usado para cortar
+madeira e obter lenha. Também corta tocos.</Entry>
+  <Entry Index="42">Machado Amaldiçoado</Entry>
+  <Entry Index="43">Um machado que não pode ser desequipado!
+Nunca! Exceto no confesionario. Livre-se dessa
+ferramenta.</Entry>
+  <Entry Index="44">Machado Abençoado</Entry>
+  <Entry Index="45">Um machado abençoado. A maldição se foi!
+Por algum motivo, você se sente bem quando
+o usa.</Entry>
+  <Entry Index="46">Machado Mítico</Entry>
+  <Entry Index="47">Um machado feito de um minério mítico usado
+para cortar madeira e obter lenha. Também corta
+tocos.</Entry>
+  <Entry Index="48">Martelo de Ferro</Entry>
+  <Entry Index="49">Um martelo de ferro usado para nivelar
+o chão. Também quebra pedras e cercas, mas não
+pode quebras rochas ou pedregulhos.</Entry>
+  <Entry Index="50">Martelo de Cobre</Entry>
+  <Entry Index="51">Um martelo de cobre usado para nivelar
+o chão. Também quebra pedras, cercas e rochas. Mas
+não pode quebrar pedregulhos.</Entry>
+  <Entry Index="52">Martelo de Prata</Entry>
+  <Entry Index="53">Um martelo de prata usado para nivelar
+o chão. Também quebra pedras e cercas, inclusive
+as rochas e pedregulhos.</Entry>
+  <Entry Index="54">Martelo de Ouro</Entry>
+  <Entry Index="55">Um martelo de ouro usado para nivelar
+o chão. Viu como brilha? Também quebra pedras,
+cercas, rochas e pedregulhos.</Entry>
+  <Entry Index="56">Martelo de Mithril</Entry>
+  <Entry Index="57">Um martelo de mithril usado para nivelar
+o chão. Viu como brilha? Também quebra pedras,
+cercas, rochas e pedregulhos.</Entry>
+  <Entry Index="58">Martelo Amaldiçoado</Entry>
+  <Entry Index="59">Um martelo que não pode ser desequipado!
+Nunca! Exceto no confesionario. Livre-se dessa
+ferramenta.</Entry>
+  <Entry Index="60">Martelo Abençoado</Entry>
+  <Entry Index="61">Um martelo abençoado. A maldição se foi!
+Por algum motivo, você se sente bem quando
+o usa.</Entry>
+  <Entry Index="62">Martelo Mítico</Entry>
+  <Entry Index="63">Um martelo feito de um minério mítico, usado
+para nivelar o chão. Também quebra pedras, cercas,
+rochas e pedregulhos.</Entry>
+  <Entry Index="64">Regador Barato</Entry>
+  <Entry Index="65">Um regador básico. Não tem nada de especial,
+mas cumpre sua função. Encha-o de água
+para regar seus cultivos.</Entry>
+  <Entry Index="66">Regador de Cobre</Entry>
+  <Entry Index="67">Uma regador de cobre. Encha-o de água
+para regar seus cultivos.</Entry>
+  <Entry Index="68">Regador de Prata</Entry>
+  <Entry Index="69">Uma regador de prata. Encha-o de água
+para regar seus cultivos.</Entry>
+  <Entry Index="70">Regador de Ouro</Entry>
+  <Entry Index="71">Uma regador de ouro. Viu como brilha?
+Enche-o de água para regar seus cultivos.</Entry>
+  <Entry Index="72">Regador de Mithril</Entry>
+  <Entry Index="73">Uma regador de mithril. Encha-o de água
+para regar seus cultivos.</Entry>
+  <Entry Index="74">Regador Amaldiçoado</Entry>
+  <Entry Index="75">Uma regador que não pode ser desequipado!
+Nunca! Exceto no confesionario. Livre-se dessa
+ferramenta.</Entry>
+  <Entry Index="76">Regador Abençoado</Entry>
+  <Entry Index="77">Uma regador abençoado. A maldição se foi!
+Por algum motivo, você se sente bem quando
+o usa.</Entry>
+  <Entry Index="78">Regador Mítico</Entry>
+  <Entry Index="79">Uma regador feito de um minério mítico. Encha-o
+de água para regar seus cultivos.</Entry>
+  <Entry Index="80">Vara de Pesca Barata</Entry>
+  <Entry Index="81">Uma vara de pesca básica. Use-a para pescar!
+Recebeu de Zack.</Entry>
+  <Entry Index="82">Vara de Pesca de Cobre</Entry>
+  <Entry Index="83">Uma vara de pesca de cobre. Use-a para
+pescar!</Entry>
+  <Entry Index="84">Vara de Pesca de Prata</Entry>
+  <Entry Index="85">Uma vara de pesca de prata. Use-a para
+pescar!</Entry>
+  <Entry Index="86">Vara de Pesca de Ouro</Entry>
+  <Entry Index="87">Uma vara de pesca de ouro. viu como
+brilha? Use-a para pescar! Com esta vara
+também poderá capturar peixes grandes.</Entry>
+  <Entry Index="88">Vara de Pesca de Mithril</Entry>
+  <Entry Index="89">Uma vara de pesca de mithril. Use-a para
+pescar! Captura mais peixes que as outras varas.</Entry>
+  <Entry Index="90">Vara de Pesca Amaldiçoada</Entry>
+  <Entry Index="91">Uma vara de pesca que não pode ser desequipada!
+Nunca! Exceto no confesionario. Livre-se dessa
+ferramenta.</Entry>
+  <Entry Index="92">Vara de Pesca Abençoada</Entry>
+  <Entry Index="93">Uma vara de pesca abençoada. A maldição
+se foi! Por algum motivo, você se sente
+bem quando a usa.</Entry>
+  <Entry Index="94">Vara de Pesca Mítica</Entry>
+  <Entry Index="95">Uma vara de pesca feita de um minério
+mítico. Use-a para pescar, pode ser que
+capture um peixe guardião!</Entry>
+  <Entry Index="96">Kit de Procriação para Vacas</Entry>
+  <Entry Index="97">Faz com que as vacas adultas fiquem
+grávidas.</Entry>
+  <Entry Index="98">Kit de Procriação para Ovelhas</Entry>
+  <Entry Index="99">Faz com que as ovelhas adultas fiquem
+grávidas.</Entry>
+  <Entry Index="100">Sementes de Nabo</Entry>
+  <Entry Index="101">Um cultivo de primavera fácil de cultivar.
+Disperse as sementes no chão lavrado.</Entry>
+  <Entry Index="102">Sementes de Batata</Entry>
+  <Entry Index="103">Um cultivo de primavera. Disperse as sementes
+no chão lavrado.</Entry>
+  <Entry Index="104">Sementes de Pepino</Entry>
+  <Entry Index="105">Um cultivo de primavera que gera uma colheita
+abundante. Disperse as sementes no chão
+lavrado.</Entry>
+  <Entry Index="106">Sementes de Morango</Entry>
+  <Entry Index="107">Um cultivo de primavera que gera uma colheita
+abundante. Disperse as sementes no chão
+lavrado.</Entry>
+  <Entry Index="108">Sementes de Repolho</Entry>
+  <Entry Index="109">Um cultivo de primavera que leva um tempo
+para crescer. Disperse as sementes no chão
+lavrado.</Entry>
+  <Entry Index="110">Sementes de Tomate</Entry>
+  <Entry Index="111">Um cultivo de verão que gera uma colheita
+abundante. Disperse as sementes no chão
+lavrado.</Entry>
+  <Entry Index="112">Sementes de Milho</Entry>
+  <Entry Index="113">Um cultivo de verão que gera uma colheita
+abundante. Disperse as sementes no chão
+lavrado.</Entry>
+  <Entry Index="114">Sementes de Cebola</Entry>
+  <Entry Index="115">Um cultivo de verão que é fácil de cultivar.
+Disperse as sementes no chão lavrado.</Entry>
+  <Entry Index="116">Sementes de Abóbora</Entry>
+  <Entry Index="117">Um cultivo de verão. Disperse as sementes no
+chão lavrado.</Entry>
+  <Entry Index="118">Sementes de Abacaxi</Entry>
+  <Entry Index="119">Um cultivo de verão que demora muito tempo
+para crescer e gera uma colheita abundante.
+Disperse as sementes no chão lavrado.</Entry>
+  <Entry Index="120">Sementes de Berinjela</Entry>
+  <Entry Index="121">Um cultivo de outono. Disperse as sementes no
+chão lavrado. Gera uma colheita abundante.</Entry>
+  <Entry Index="122">Sementes de Cenoura</Entry>
+  <Entry Index="123">Um cultivo de outono. Disperse as sementes no
+chão lavrado.</Entry>
+  <Entry Index="124">Sementes de Batata-doce</Entry>
+  <Entry Index="125">Um cultivo de outono que é fácil de cultivar.
+Disperse as sementes no chão lavrado.
+Gera uma colheita abundante.</Entry>
+  <Entry Index="126">Sementes de Espinafre</Entry>
+  <Entry Index="127">Um cultivo de outono que é fácil de cultivar.
+Disperse as sementes no chão lavrado.</Entry>
+  <Entry Index="128">Sementes de Pimentão Verde</Entry>
+  <Entry Index="129">Um cultivo de outono. Disperse as sementes no
+chão lavrado. Gera uma colheita abundante.</Entry>
+  <Entry Index="130">Muda de Grama</Entry>
+  <Entry Index="131">Uma vez cultivada, crescerá todos os dias
+exceto em inverno. Serve de alimento para
+animais como vacas e ovelhas.</Entry>
+  <Entry Index="132">Sementes de Flor da Lua</Entry>
+  <Entry Index="133">Uma flor da primavera. Disperse as sementes no
+chão lavrado.</Entry>
+  <Entry Index="134">Sementes de Flor de Gato Rosa</Entry>
+  <Entry Index="135">Uma flor de verão. Disperse as sementes no
+chão lavrado.</Entry>
+  <Entry Index="136">Sementes de Flor Vermelha Mágica Azul</Entry>
+  <Entry Index="137">Uma flor de outono. Disperse as sementes no
+chão lavrado. Em ocasiões nascem flores de cor
+vermelha.</Entry>
+  <Entry Index="138">Sementes de Flor de Brinquedo</Entry>
+  <Entry Index="139">Uma flor de primavera. Disperse as sementes no
+chão lavrado.</Entry>
+  <Entry Index="140">Escova</Entry>
+  <Entry Index="141">Usada para escovar as vacas, ovelhas, alpacas
+e cavalos.</Entry>
+  <Entry Index="142">Ordenhador</Entry>
+  <Entry Index="143">Usado para ordenhar vacas adultas.</Entry>
+  <Entry Index="144"></Entry>
+  <Entry Index="145"></Entry>
+  <Entry Index="146"></Entry>
+  <Entry Index="147"></Entry>
+  <Entry Index="148">Tosquiadeira</Entry>
+  <Entry Index="149">Usada para tosquiar ovelhas adultas,
+alpacas e coelhos angorá.</Entry>
+  <Entry Index="150">Pena Azul</Entry>
+  <Entry Index="151">Usada para propor casamento à pessoa do qual
+  você gosta. Primeiro convém assegurar-se de que o
+sentimento é mútuo.</Entry>
+  <Entry Index="152">Pedômetro</Entry>
+  <Entry Index="153">Leve-o em seu bolso de ferramentas e 
+contará seus passos.</Entry>
+  <Entry Index="154">Pedra de Viagem</Entry>
+  <Entry Index="155">Quando usada, teleportará o usuário para qualquer
+ponto do mapa em um abrir e fechar de olhos.</Entry>
+  <Entry Index="156">Tesouro da Deusa</Entry>
+  <Entry Index="157">Equipe ele para recuperar resistência de maneira
+constante no exterior.</Entry>
+  <Entry Index="158">Tesouro de Kappa</Entry>
+  <Entry Index="159">Equipe ele para aliviar a fadiga de maneira
+constante no exterior.</Entry>
+  <Entry Index="160">Tesouro da Verdade</Entry>
+  <Entry Index="161">Equipe ele para ver seus pontos de fadiga
+no exterior.</Entry>
+  <Entry Index="162"></Entry>
+  <Entry Index="163"></Entry>
+  <Entry Index="164"></Entry>
+  <Entry Index="165"></Entry>
+  <Entry Index="166"></Entry>
+  <Entry Index="167"></Entry>
+  <Entry Index="168"></Entry>
+  <Entry Index="169"></Entry>
+  <Entry Index="170"></Entry>
+  <Entry Index="171"></Entry>
+  <Entry Index="172"></Entry>
+  <Entry Index="173"></Entry>
+  <Entry Index="174">Kit de Procriação para Coelhos</Entry>
+  <Entry Index="175">Faz com que as coelhas angorás adultas fiquem
+grávidas.</Entry>
+  <Entry Index="176">Kit de Procriação para Alpacas</Entry>
+  <Entry Index="177">Faz com que as alpacas adultas fiquem
+grávidas.</Entry>
+  <Entry Index="178">Flor Preservada</Entry>
+  <Entry Index="179">Usada para confessar seus sentimentos à
+pessoa da qual gosta. Primeiro convém assegurar-se
+de que o sentimento é mútuo.</Entry>
+  <Entry Index="180">Sementes de Feijão Azuki</Entry>
+  <Entry Index="181">Um cultivo de outono que gera uma colheita
+abundante. Disperse as sementes no chão
+lavrado.</Entry>
+  <Entry Index="182">Sementes de Pimenta</Entry>
+  <Entry Index="183">Um cultivo de outono que gera uma colheita
+abundante. Disperse as sementes no chão
+lavrado.</Entry>
+  <Entry Index="184">Sementes de Flor do Sol</Entry>
+  <Entry Index="185">Um novo tipo de flor de outono recentemente
+descoberta. Disperse as sementes no chão
+lavrado.</Entry>
+  <Entry Index="186"></Entry>
+  <Entry Index="187"></Entry>
+  <Entry Index="188"></Entry>
+  <Entry Index="189"></Entry>
+  <Entry Index="190"></Entry>
+  <Entry Index="191"></Entry>
+  <Entry Index="192"></Entry>
+  <Entry Index="193"></Entry>
+  <Entry Index="194"></Entry>
+  <Entry Index="195"></Entry>
+  <Entry Index="196"></Entry>
+  <Entry Index="197"></Entry>
+  <Entry Index="198"></Entry>
+  <Entry Index="199"></Entry>
+  <Entry Index="200"></Entry>
+  <Entry Index="201"></Entry>
+  <Entry Index="202"></Entry>
+  <Entry Index="203"></Entry>
+  <Entry Index="204"></Entry>
+  <Entry Index="205"></Entry>
+  <Entry Index="206">Nabo</Entry>
+  <Entry Index="207">Um cultivo de primavera. Pode ser comido, usado na
+cozinha ou enviado.</Entry>
+  <Entry Index="208">Batata</Entry>
+  <Entry Index="209">Um cultivo de primavera. Pode ser comida, usado na
+cozinha ou enviada.</Entry>
+  <Entry Index="210">Pepino</Entry>
+  <Entry Index="211">Um cultivo de primavera. Pode ser comido, usado na
+cozinha ou enviado.</Entry>
+  <Entry Index="212">Morango</Entry>
+  <Entry Index="213">Um cultivo de primavera. Pode ser comido, usado na
+cozinha ou enviado.</Entry>
+  <Entry Index="214">Repolho</Entry>
+  <Entry Index="215">Um cultivo de primavera. Pode ser comido, usado na
+cozinha ou enviado.</Entry>
+  <Entry Index="216">Tomate</Entry>
+  <Entry Index="217">Um cultivo de verão. Pode ser comido, usado na
+cozinha ou enviado.</Entry>
+  <Entry Index="218">Milho</Entry>
+  <Entry Index="219">Um cultivo de verão. Pode ser comido, usado na
+cozinha ou enviado.</Entry>
+  <Entry Index="220">Cebola</Entry>
+  <Entry Index="221">Um cultivo de verão. Pode ser comida, usado na
+cozinha ou enviada.</Entry>
+  <Entry Index="222">Abóbora</Entry>
+  <Entry Index="223">Um cultivo de verão. Pode ser comida, usado na
+cozinha ou enviada.</Entry>
+  <Entry Index="224">Abacaxi</Entry>
+  <Entry Index="225">Um cultivo de verão. Pode ser comido, usado na
+cozinha ou enviado.</Entry>
+  <Entry Index="226">Berinjela</Entry>
+  <Entry Index="227">Um cultivo de outono. Pode ser comida, usado na
+cozinha ou enviada.</Entry>
+  <Entry Index="228">Cenoura</Entry>
+  <Entry Index="229">Um cultivo de outono. Pode ser comida, usado na
+cozinha ou enviada.</Entry>
+  <Entry Index="230">Batata-doce</Entry>
+  <Entry Index="231">Um cultivo de outono. Pode ser comida, usado na
+cozinha ou enviada.</Entry>
+  <Entry Index="232">Espinafre</Entry>
+  <Entry Index="233">Um cultivo de outono. Pode ser comido, usado na
+cozinha ou enviado.</Entry>
+  <Entry Index="234">Pimentão Verde</Entry>
+  <Entry Index="235">Um cultivo de outono. Pode ser comido, usado na
+cozinha ou enviado.</Entry>
+  <Entry Index="236">Ovo Comum</Entry>
+  <Entry Index="237">Um ovo de galinha. Pode ser comido, usado na
+cozinha ou enviado.</Entry>
+  <Entry Index="238">Ovo Bom</Entry>
+  <Entry Index="239">Um ovo de uma galinha com um nível de carinho
+relativamente alto. Pode ser comido, usado na
+cozinha ou enviado.</Entry>
+  <Entry Index="240">Ovo Excelente</Entry>
+  <Entry Index="241">Um ovo de uma galinha com um nível de carinho
+muito alto. Pode ser comido, usado na cozinha ou
+enviado.</Entry>
+  <Entry Index="242">Ovo Dourado</Entry>
+  <Entry Index="243">Um ovo de uma galinha com um nível de carinho
+muito alto. Pode ser comido, usado na cozinha ou
+enviado.</Entry>
+  <Entry Index="244">Ovo Platina</Entry>
+  <Entry Index="245">Um ovo de uma galinha com um nível de carinho
+muito alto. Pode ser comido, usado na cozinha ou
+enviado.</Entry>
+  <Entry Index="246">Ovo X</Entry>
+  <Entry Index="247">Um ovo de uma galinha com um nível de carinho
+muito alto. Pode ser comido, usado na cozinha ou
+enviado.</Entry>
+  <Entry Index="248">Ovo da Fonte Termal</Entry>
+  <Entry Index="249">Um ovo cozinhado na fonte termal. Pode
+ser comido ou enviado.</Entry>
+  <Entry Index="250">Maionese (S)</Entry>
+  <Entry Index="251">Feita batendo ovos em uma máquina de maionese.</Entry>
+  <Entry Index="252">Maionese (M)</Entry>
+  <Entry Index="253">Feita batendo um tipo especial de ovo em uma
+máquina de maionese.</Entry>
+  <Entry Index="254">Maionese (L)</Entry>
+  <Entry Index="255">Feita batendo um tipo especial de ovo em uma
+máquina de maionese.</Entry>
+  <Entry Index="256">Maionese (G)</Entry>
+  <Entry Index="257">Feita batendo um tipo especial de ovo em uma
+máquina de maionese.</Entry>
+  <Entry Index="258">Maionese (P)</Entry>
+  <Entry Index="259">Feita batendo um tipo especial de ovo em uma
+máquina de maionese.</Entry>
+  <Entry Index="260">Maionese (X)</Entry>
+  <Entry Index="261">Feita batendo um tipo especial de ovo em uma
+máquina de maionese.</Entry>
+  <Entry Index="262">Leite (S)</Entry>
+  <Entry Index="263">Leite de vaca. Pode ser bebido ou enviado.</Entry>
+  <Entry Index="264">Leite (M)</Entry>
+  <Entry Index="265">Leite de vaca com um nível de carinho
+relativamente alto. Pode ser bebido ou enviado.</Entry>
+  <Entry Index="266">Leite (L)</Entry>
+  <Entry Index="267">Leite de vaca com um nível de carinho muito alto.
+Pode ser bebido ou enviado.</Entry>
+  <Entry Index="268">Leite (G)</Entry>
+  <Entry Index="269">Leite de vaca com um nível de carinho muito alto.
+Pode ser bebido ou enviado.</Entry>
+  <Entry Index="270">Leite (P)</Entry>
+  <Entry Index="271">Leite de vaca com um nível de carinho muito alto.
+Pode ser bebido ou enviado.</Entry>
+  <Entry Index="272">Leite (X)</Entry>
+  <Entry Index="273">Leite de vaca com um nível de carinho muito alto.
+Pode ser bebido ou enviado.</Entry>
+  <Entry Index="274">Queijo (S)</Entry>
+  <Entry Index="275">Feito processando leite em uma máquina de queijo.</Entry>
+
+  <Entry Index="276">Queijo (M)</Entry>
+  <Entry Index="277">Feito processando um tipo especial de leite
+em uma máquina de queijo.</Entry>
+  <Entry Index="278">Queijo (L)</Entry>
+  <Entry Index="279">Feito processando um tipo especial de leite
+em uma máquina de queijo.</Entry>
+  <Entry Index="280">Queijo (G)</Entry>
+  <Entry Index="281">Feito processando um tipo especial de leite
+em uma máquina de queijo.</Entry>
+  <Entry Index="282">Queijo (P)</Entry>
+  <Entry Index="283">Feito processando um tipo especial de leite
+em uma máquina de queijo.</Entry>
+  <Entry Index="284">Queijo (X)</Entry>
+  <Entry Index="285">Feito processando um tipo especial de leite
+em uma máquina de queijo.</Entry>
+  <Entry Index="286">Maçã</Entry>
+  <Entry Index="287">A fruta da macieira. Pode ser comida ou
+enviada.</Entry>
+  <Entry Index="288">Mel</Entry>
+  <Entry Index="289">Mel de uma colméia. Pode ser comido ou enviado.</Entry>
+  <Entry Index="290">Broto de Bambú</Entry>
+  <Entry Index="291">Uma planta que cresce perto das montanhas.
+Pode ser comido ou enviado.</Entry>
+  <Entry Index="292">Uva Silvestre</Entry>
+  <Entry Index="293">Uma fruta que cresce perto das montanhas. Pode
+ser comida ou enviada.</Entry>
+  <Entry Index="294">Cogumelo</Entry>
+  <Entry Index="295">Um fungo que cresce perto das montanhas. Pode
+ser comido ou enviado.</Entry>
+  <Entry Index="296">Cogumelo Venenoso</Entry>
+  <Entry Index="297">Um fungo que cresce perto das montanhas. Pode
+ser comido... Mas não é muito aconselhável.</Entry>
+  <Entry Index="298">Cogumelo Matsutake</Entry>
+  <Entry Index="299">Um fungo raro que cresce perto das
+montanhas. Se encontrar um, está com sorte!</Entry>
+  <Entry Index="300">Erva Zzul</Entry>
+  <Entry Index="301">Cresce perto das montanhas e recupera um
+pouco de resistência ao comê-la. Se enviada com frequência,
+pode acontecer algo bom.</Entry>
+  <Entry Index="302">Erva Verde</Entry>
+  <Entry Index="303">Cresce perto das montanhas e, ao comê-la,
+alivia um pouco de fadiga. Se enviada com frequência,
+pode acontecer algo bom.</Entry>
+  <Entry Index="304">Erva Vermelha</Entry>
+  <Entry Index="305">Cresce perto dos bosques e florestas. É venenosa,
+de modo que não é recomendável comê-la.</Entry>
+  <Entry Index="306">Erva Amarela</Entry>
+  <Entry Index="307">Cresce perto das zonas costeiras. Ao comê-la,
+diminuirá sua resistência, mas aliviará a
+sua fadiga.</Entry>
+  <Entry Index="308">Erva Laranja</Entry>
+  <Entry Index="309">Cresce perto das zonas costeiras. Comê-la não
+tem efeito, de modo que é usada como ingrediente
+para cozinhar.</Entry>
+  <Entry Index="310">Erva Roxa</Entry>
+  <Entry Index="311">Cresce perto das zonas costeiras. Ao comê-la,
+recuperará um pouco de sua resistência e aliviará
+a sua fadiga.</Entry>
+  <Entry Index="312">Erva Índigo</Entry>
+  <Entry Index="313">Cresce perto das zonas costeiras. Ao comê-la
+recuperará um pouco de resistência.</Entry>
+  <Entry Index="314">Erva Preta</Entry>
+  <Entry Index="315">Cresce perto das minas. Ao comê-la,
+recuperará um pouco de resistência e te aliviará
+a fadiga.</Entry>
+  <Entry Index="316">Erva Branca</Entry>
+  <Entry Index="317">Uma erva rara que cresce perto das bosques
+e florestas. Ao comê-la, recuperará um pouco
+de resistência e te aliviará a fadiga.</Entry>
+  <Entry Index="318">Flor Misteriosa</Entry>
+  <Entry Index="319">A flor favorita da deusa. O que aconteceria
+se a jogasse na nascente como oferenda?</Entry>
+  <Entry Index="320">Suplemento de Resistência</Entry>
+  <Entry Index="321">Medicamento que recupera resistência.</Entry>
+  <Entry Index="322">Suplemento de Resistência XL</Entry>
+  <Entry Index="323">Medicamento que recupera muita resistência.</Entry>
+
+  <Entry Index="324">Cafeína</Entry>
+  <Entry Index="325">Medicamento que alivia a fadiga.</Entry>
+  <Entry Index="326">Super Cafeína</Entry>
+  <Entry Index="327">Medicamento que alivia muito a fadiga.</Entry>
+  <Entry Index="328">Suco de Uva Premium</Entry>
+  <Entry Index="329">Suco feito com uvas cuidadosamente
+selecionadas e coletadas dos vinhedos e
+da montanha. Excelente!</Entry>
+  <Entry Index="330">Suco de Uva</Entry>
+  <Entry Index="331">Suco feito com uvas coletadas dos
+vinhedos e da montanha.</Entry>
+  <Entry Index="332">Bolinho de Arroz</Entry>
+  <Entry Index="333">Pode ser comido ousado como
+ingrediente em pratos de arroz.</Entry>
+  <Entry Index="334">Pão</Entry>
+  <Entry Index="335">Pode ser comido ou usado como
+ingrediente para cozinhar.</Entry>
+  <Entry Index="336">Azeite</Entry>
+  <Entry Index="337">Pode ser bebido, mas normalmente se
+usa como ingrediente para cozinhar.</Entry>
+  <Entry Index="338">Farinha de Trigo</Entry>
+  <Entry Index="339">Pode ser comida, mas normalmente se
+usa como ingrediente para cozinhar.</Entry>
+  <Entry Index="340">Curry em Pó</Entry>
+  <Entry Index="341">Pode ser comido, mas normalmente se
+usa como ingrediente para cozinhar.</Entry>
+  <Entry Index="342">Farinha Dango</Entry>
+  <Entry Index="343">Pode ser comifo, mas normalmente se
+usa como ingrediente para cozinhar.</Entry>
+  <Entry Index="344">Chocolate</Entry>
+  <Entry Index="345">Pode ser comido ou usado como
+ingrediente para cozinhar.</Entry>
+  <Entry Index="346">Folhas de Chá Relaxantes</Entry>
+  <Entry Index="347">Uma erva medicinal rara. O chá preparado com
+estas folhas te ajudará a relaxar.</Entry>
+  <Entry Index="348">Maçã SUGDW</Entry>
+  <Entry Index="349">O nome oficial é "Maçã
+SuperUltraGostosaDelíciosamenteWow".</Entry>
+  <Entry Index="350">Maçã HMSGB</Entry>
+  <Entry Index="351">O nome oficial é "Maçã
+HiperMilagrosaSaborosaGraciosamenteBela".</Entry>
+  <Entry Index="352">Maçã AEPFE</Entry>
+  <Entry Index="353">O nome oficial é "Maçã
+AnjaEternaPuramenteFrescaElegante".</Entry>
+  <Entry Index="354">Farinha de Trigo Sarraceno</Entry>
+  <Entry Index="355">Pode ser comido, mas normalmente se
+usa como ingrediente para cozinhar.</Entry>
+  <Entry Index="356">Água de Uvas Silvestres</Entry>
+  <Entry Index="357">Uma bebida refrescante feita com uvas
+silvestres e água da fonte.</Entry>
+  <Entry Index="358">Salada</Entry>
+  <Entry Index="359">Um prato feito com verduras frescas. Pode ser
+comida, mas não pode ser enviada.</Entry>
+  <Entry Index="360">Arroz com Curry</Entry>
+  <Entry Index="361">[Bolinho de Arroz]
+Um prato de arroz banhado em molho curry. Pode
+ser comido, mas não pode ser enviado.</Entry>
+  <Entry Index="362">Ensopado</Entry>
+  <Entry Index="363">Um prato abundante de verduras fervidas. Pode
+ser comido, mas não pode ser enviado.</Entry>
+  <Entry Index="364">Sopa de Missô</Entry>
+  <Entry Index="365">Um prato ligeiro fato com miso. Pode ser
+comido, mas não pode ser enviado.</Entry>
+  <Entry Index="366">Fritado de Verduras</Entry>
+  <Entry Index="367">Um prato de verduras frescas picadas em uma
+frigideira quente. Pode ser comido, mas não pode
+ser enviado.</Entry>
+  <Entry Index="368">Arroz Frito</Entry>
+  <Entry Index="369">[Bolinho de Arroz]
+Um prato de arroz e ovo salteado em azeite.
+Pode ser comido, mas não pode ser enviado.</Entry>
+  <Entry Index="370">Okonomiyaki</Entry>
+  <Entry Index="371">Uma saborosa panqueca preparada a partir de uma
+massa de farinha de trigo e água que depois é frita.
+Pode ser comida, mas não pode ser enviada.</Entry>
+  <Entry Index="372">Sanduíche</Entry>
+  <Entry Index="373">Prato que consiste em vários ingredientes
+colocados entre duas fatias de pão. Pode
+ser comido, mas não pode ser enviado.</Entry>
+  <Entry Index="374">Suco de Frutas</Entry>
+  <Entry Index="375">[Bebida]
+Um suco feito a partir da mistura de várias
+frutas. Pode ser bebido, mas não pode ser
+enviado.</Entry>
+  <Entry Index="376">Suco de Vegetais</Entry>
+  <Entry Index="377">[Bebida]
+Um suco feito a partir da mistura de várias
+verduras. Pode ser bebido, mas não pode ser
+enviado.</Entry>
+  <Entry Index="378">Suco Misto</Entry>
+  <Entry Index="379">[Bebida]
+Uma mistura de sucos de frutas e verduras.
+Pode ser bebido, mas não enviado.</Entry>
+  <Entry Index="380">Batida de Frutas</Entry>
+  <Entry Index="381">[Bebida]
+Uma mistura de suco de frutas e leite. Pode
+ser bebida , mas não pode ser enviada.</Entry>
+  <Entry Index="382"></Entry>
+  <Entry Index="383"></Entry>
+  <Entry Index="384">Batida Mista</Entry>
+  <Entry Index="385">[Bebida]
+Uma mistura de sucos de frutas e verduras com
+leite. Pode ser bebida, mas não pode ser enviada.</Entry>
+  <Entry Index="386">Leite de Morango</Entry>
+  <Entry Index="387">[Bebida]
+Uma bebida batida com morango e leite. Pode ser
+bebido, mas não pode ser enviado.</Entry>
+  <Entry Index="388"></Entry>
+  <Entry Index="389"></Entry>
+  <Entry Index="390"></Entry>
+  <Entry Index="391"></Entry>
+  <Entry Index="392"></Entry>
+  <Entry Index="393"></Entry>
+  <Entry Index="394">Batata Frita</Entry>
+  <Entry Index="395">Um prato de batatas descascadas fritas e
+cortadas em pedaços. Irresistivel! Pode ser comida, mas
+não enviada.</Entry>
+  <Entry Index="396"></Entry>
+  <Entry Index="397"></Entry>
+  <Entry Index="398">Ketchup</Entry>
+  <Entry Index="399">Um condimento preparado com tomates. Pode
+ser comido, mas não pode ser enviado.</Entry>
+  <Entry Index="400">Pipoca</Entry>
+  <Entry Index="401">Grãos de milho que se abrem ao tostarlos em uma
+frigideira. É divertido mastigá-los. Pode ser
+comida, mas não pode ser enviada.</Entry>
+  <Entry Index="402"></Entry>
+  <Entry Index="403"></Entry>
+  <Entry Index="404">Milho Assado</Entry>
+  <Entry Index="405">Um prato de milho ao forno. Deliciosamente
+doce! Pode ser comido, mas não pode ser
+enviado.</Entry>
+  <Entry Index="406">Suco de Abacaxi</Entry>
+  <Entry Index="407">[Bebida]
+Uma bebida de abacaxi. Pode ser bebido, mas não pode
+ser enviado.</Entry>
+  <Entry Index="408"></Entry>
+  <Entry Index="409"></Entry>
+  <Entry Index="410"></Entry>
+  <Entry Index="411"></Entry>
+  <Entry Index="412"></Entry>
+  <Entry Index="413"></Entry>
+  <Entry Index="414">Sobremesa de Batata-doce</Entry>
+  <Entry Index="415">[Doces]
+Um prato doce de batatas-doces. Pode ser comido,
+mas não pode ser enviado.</Entry>
+  <Entry Index="416">Batata-doce Assada</Entry>
+  <Entry Index="417">[Doces]
+Um prato de batata-doce assado. Clássico aperitivo de inverno!
+Pode ser comida, mas não enviada.</Entry>
+  <Entry Index="418"></Entry>
+  <Entry Index="419"></Entry>
+  <Entry Index="420">Ovo Frito</Entry>
+  <Entry Index="421">Um ovo frito em uma frigideira. É bastante
+básico, mas tem seu segredo. Pode ser comido,
+mas não pode ser enviado.</Entry>
+  <Entry Index="422"></Entry>
+  <Entry Index="423"></Entry>
+  <Entry Index="424">Omelete de Arroz</Entry>
+  <Entry Index="425">[Bolinho de Arroz]
+Um prato caseiro de arroz envolvido em uma camada
+de ovo. Pode ser comido, mas não enviado.</Entry>
+  <Entry Index="426">Ovo Cozido</Entry>
+  <Entry Index="427">Um ovo cozido ao banho maría. Pode ser comido,
+mas não pode ser enviado.</Entry>
+  <Entry Index="428"></Entry>
+  <Entry Index="429"></Entry>
+  <Entry Index="430">Manteiga</Entry>
+  <Entry Index="431">Preparada a partir de leite batido. Serve de ingrediente
+para muitos pratos. Pode ser comida, mas não pode ser
+enviada.</Entry>
+  <Entry Index="432">Bolo de Queijo</Entry>
+  <Entry Index="433">[Doces]
+Uma sobremesa de queijo ao forno. Delicioso. Pode
+ser comido, mas não enviado.</Entry>
+  <Entry Index="434">Fondue de Queijo</Entry>
+  <Entry Index="435">Um prato de queijo fundido no que podem ser
+molhado outros alimentos. Pode ser comido, mas não
+pode ser enviado.</Entry>
+  <Entry Index="436">Torta de Maçã</Entry>
+  <Entry Index="437">[Doces]
+Uma sobremesa horneada de maçãs. Pode ser
+comido, mas não pode ser enviado.</Entry>
+  <Entry Index="438"></Entry>
+  <Entry Index="439"></Entry>
+  <Entry Index="440">Maçã Assada</Entry>
+  <Entry Index="441">[Doces]
+Uma maçã assada, doce e ácida. É quente! Pode
+ser comida, mas não enviada.</Entry>
+  <Entry Index="442">Arroz com Cogumelos</Entry>
+  <Entry Index="443">[Bolinho de Arroz]
+Um prato de arroz com cogumelos. Pode ser comido,
+mas não pode ser enviado.</Entry>
+  <Entry Index="444">Arroz com Bambú</Entry>
+  <Entry Index="445">[Bolinho de Arroz]
+Um prato de arroz com brotos de bambú. Pode
+ser comido, mas não pode ser enviado.</Entry>
+  <Entry Index="446">Arroz com Comgumelo Matsutake</Entry>
+  <Entry Index="447">[Bolinho de Arroz]
+Um prato de arroz de grande qualidade com
+cogumelos matsutake. Pode ser comido, mas não pode
+ser enviado.</Entry>
+  <Entry Index="448">Sushi</Entry>
+  <Entry Index="449">[Bolinho de Arroz]
+Um prato de sashimi e arroz com vinagre. Pode
+ser comido, mas não pode ser enviado.</Entry>
+  <Entry Index="450"></Entry>
+  <Entry Index="451"></Entry>
+  <Entry Index="452"></Entry>
+  <Entry Index="453"></Entry>
+  <Entry Index="454">Pão de Passas</Entry>
+  <Entry Index="455">[Pão]
+Para este pão horneado, jogam-se as uvas na
+massa. Pode ser comido, mas não enviado.</Entry>
+  <Entry Index="456"></Entry>
+  <Entry Index="457"></Entry>
+  <Entry Index="458">Pão de Curry</Entry>
+  <Entry Index="459">[Pão]
+Para este pão frito, joga-se curry em pó na
+massa. Pode ser comido, mas não enviado.</Entry>
+  <Entry Index="460">Sashimi</Entry>
+  <Entry Index="461">Um prato de peixe cru cortado em rodelas
+finas. Pode ser comido, mas não pode ser enviado.</Entry>
+  <Entry Index="462">Peixe Assado</Entry>
+  <Entry Index="463">Um prato de peixe ao forno. Pode ser
+comido, mas não pode ser enviado.</Entry>
+  <Entry Index="464"></Entry>
+  <Entry Index="465"></Entry>
+  <Entry Index="466"> Pizza</Entry>
+  <Entry Index="467">Uma massa com tomate ao estilo italiano.
+A qualidade do queijo é incrível!</Entry>
+  <Entry Index="468">Udon</Entry>
+  <Entry Index="469">[Udon]
+Macarrão grosso de farinha de trigo cozido. Pode
+ser comido, mas não enviado.</Entry>
+  <Entry Index="470">Udon com Curry</Entry>
+  <Entry Index="471">[Udon]
+Um prato de udon temperado com curry em pó.
+Pode ser comido, mas não pode ser enviado.</Entry>
+  <Entry Index="472">Udon com Tempura</Entry>
+  <Entry Index="473">[Udon]
+Um prato de udon com tempura. Pode ser comido,
+mas não pode ser enviado.</Entry>
+  <Entry Index="474"></Entry>
+  <Entry Index="475"></Entry>
+  <Entry Index="476">Zaru Soba</Entry>
+  <Entry Index="477">Um singelo prato de macarrão elaborados com
+farinha de trigo sarraceno. Pode ser comido,
+mas não pode ser enviado.</Entry>
+  <Entry Index="478">Soba com Tempura</Entry>
+  <Entry Index="479">Um prato de soba com tempura. Pode ser comido,
+mas não pode ser enviado.</Entry>
+  <Entry Index="480"></Entry>
+  <Entry Index="481"></Entry>
+  <Entry Index="482"></Entry>
+  <Entry Index="483"></Entry>
+  <Entry Index="484">Biscoitos</Entry>
+  <Entry Index="485">[Doces]
+Um doce aperitivo horneado. Delicioso! Pode
+ser comido, mas não enviado.</Entry>
+  <Entry Index="486">Biscoitos de Chocolate</Entry>
+  <Entry Index="487">[Doces]
+Um aperitivo horneado com lascas de chocolate.
+Pode ser comido, mas não enviado.</Entry>
+  <Entry Index="488">Tempura</Entry>
+  <Entry Index="489">Um prato preparado com ingredientes à milanesa
+que são fritos em uma frigideira funda. Pode ser
+comido, mas não pode ser enviado.</Entry>
+  <Entry Index="490">Sorvete</Entry>
+  <Entry Index="491">[Doces]
+Um doce gelado. Pode ser comido, mas não pode
+ser enviado.</Entry>
+  <Entry Index="492">Bolo</Entry>
+  <Entry Index="493">[Doces]
+Uma sobremesa clássica. Pode ser comido, mas não pode
+ser enviado.</Entry>
+  <Entry Index="494"></Entry>
+  <Entry Index="495"></Entry>
+  <Entry Index="496">Chá Relaxante</Entry>
+  <Entry Index="497">[Bebida]
+Uma bebida relaxante. Pode ser bebido, mas não
+enviado.</Entry>
+  <Entry Index="498"></Entry>
+  <Entry Index="499"></Entry>
+  <Entry Index="500">Torrada Francesa</Entry>
+  <Entry Index="501">[Pão]
+Um prato de pão à milanesa com ovo. Pode ser
+comido, mas não pode ser enviado.</Entry>
+  <Entry Index="502">Pudim</Entry>
+  <Entry Index="503">[Doces]
+Uma sobremesa deliciosa e popular entre as crianças.
+Pode ser comido, mas não pode ser enviado.</Entry>
+  <Entry Index="504"></Entry>
+  <Entry Index="505"></Entry>
+  <Entry Index="506">Bolinhos de Lua</Entry>
+  <Entry Index="507">[Doces]
+Bolinhos doces e redondos de arroz. Podem
+ser comidos, mas não enviados.</Entry>
+  <Entry Index="508">Mochi</Entry>
+  <Entry Index="509">Um bolo de arroz de textura pegajosa
+para celebrar o Festival do Mochi. Pode ser
+comido, mas não pode ser enviado.</Entry>
+  <Entry Index="510"></Entry>
+  <Entry Index="511"></Entry>
+  <Entry Index="512">Folhas de Elly</Entry>
+  <Entry Index="513">Uma planta medicinal que recupera muita
+resistência e alivia bastante a fadiga. Podem
+ser comidas, mas não pode ser enviadas.</Entry>
+  <Entry Index="514"></Entry>
+  <Entry Index="515"></Entry>
+  <Entry Index="516"></Entry>
+  <Entry Index="517"></Entry>
+  <Entry Index="518"></Entry>
+  <Entry Index="519"></Entry>
+  <Entry Index="520"></Entry>
+  <Entry Index="521"></Entry>
+  <Entry Index="522"></Entry>
+  <Entry Index="523"></Entry>
+  <Entry Index="524"></Entry>
+  <Entry Index="525"></Entry>
+  <Entry Index="526">Peixe Pequeno</Entry>
+  <Entry Index="527">Um peixe pequenino encontrado em oceanos
+ou rios. Pode ser comido ou enviado.</Entry>
+  <Entry Index="528">Peixe Médio</Entry>
+  <Entry Index="529">Um peixe de tamanho médio encontrado em oceanos
+ou rios. Pode ser comido ou enviado.
+Cuidado com as espinhas pequenas ao comê-lo.</Entry>
+  <Entry Index="530">Peixe Grande</Entry>
+  <Entry Index="531">Um peixe grande encontrado em oceanos e
+rios. Pode ser comido ou enviado. Cuidado com as
+espinhas ao comê-lo.</Entry>
+  <Entry Index="532"></Entry>
+  <Entry Index="533"></Entry>
+  <Entry Index="534"></Entry>
+  <Entry Index="535"></Entry>
+  <Entry Index="536"></Entry>
+  <Entry Index="537"></Entry>
+  <Entry Index="538"></Entry>
+  <Entry Index="539"></Entry>
+  <Entry Index="540">Panqueca</Entry>
+  <Entry Index="541">[Doces]
+Uma tortita de trigo fritada, fina e plana. Pode
+ser comido, mas não enviar.</Entry>
+  <Entry Index="542"></Entry>
+  <Entry Index="543"></Entry>
+  <Entry Index="544"></Entry>
+  <Entry Index="545"></Entry>
+  <Entry Index="546"></Entry>
+  <Entry Index="547"></Entry>
+  <Entry Index="548"></Entry>
+  <Entry Index="549"></Entry>
+  <Entry Index="550"></Entry>
+  <Entry Index="551"></Entry>
+  <Entry Index="552"></Entry>
+  <Entry Index="553"></Entry>
+  <Entry Index="554"></Entry>
+  <Entry Index="555"></Entry>
+  <Entry Index="556"></Entry>
+  <Entry Index="557"></Entry>
+  <Entry Index="558"></Entry>
+  <Entry Index="559"></Entry>
+  <Entry Index="560">Leite de Café (S)</Entry>
+  <Entry Index="561">Leite ordenhado de uma vaca de café. Pode ser
+bebido e pode ser enviado.</Entry>
+  <Entry Index="562">Leite de Café (M)</Entry>
+  <Entry Index="563">Leite ordenhado de uma vaca de café com
+um nível de carinho relativamente alto. Pode ser
+bebido e pode ser enviado.</Entry>
+  <Entry Index="564">Leite de Café (L)</Entry>
+  <Entry Index="565">Leite ordenhado de uma vaca de café com
+um nível de carinho muito alto. Pode ser bebido e pode
+ser enviado.</Entry>
+  <Entry Index="566">Leite de Café (G)</Entry>
+  <Entry Index="567">Leite ordenhado de uma vaca de café com
+um nível de carinho muito alto. Pode ser bebido e pode
+ser enviado.</Entry>
+  <Entry Index="568">Leite de Café (P)</Entry>
+  <Entry Index="569">Leite ordenhado de uma vaca de café com
+um nível de carinho muito alto. Pode ser bebido e pode
+ser enviado.</Entry>
+  <Entry Index="570">Leite de Café (X)</Entry>
+  <Entry Index="571">Leite ordenhado de uma vaca de café com
+um nível de carinho muito alto. Pode ser bebido e pode
+ser enviado.</Entry>
+  <Entry Index="572">Leite de Frutas (S)</Entry>
+  <Entry Index="573">Leite ordenhado de uma vaca de fruta. Pode
+ser bebido e pode ser enviado.</Entry>
+  <Entry Index="574">Leite de Frutas (M)</Entry>
+  <Entry Index="575">Leite ordenhado de uma vaca de fruta com
+um nível de carinho relativamente alto. Pode ser
+bebido e pode ser enviado.</Entry>
+  <Entry Index="576">Leite de Frutas (L)</Entry>
+  <Entry Index="577">Leite ordenhado de uma vaca de fruta com
+um nível de carinho muito alto. Pode ser bebido e pode
+ser enviado.</Entry>
+  <Entry Index="578">Leite de Frutas (G)</Entry>
+  <Entry Index="579">Leite ordenhado de uma vaca de fruta com
+um nível de carinho muito alto. Pode ser bebido e pode
+ser enviado.</Entry>
+  <Entry Index="580">Leite de Frutas (P)</Entry>
+  <Entry Index="581">Leite ordenhado de uma vaca de fruta com
+um nível de carinho muito alto. Pode ser bebido e pode
+ser enviado.</Entry>
+  <Entry Index="582">Leite de Frutas (X)</Entry>
+  <Entry Index="583">Leite ordenhado de uma vaca de fruta com
+um nível de carinho muito alto. Pode ser bebido e pode
+ser enviado.</Entry>
+  <Entry Index="584">Leite de Morango (S)</Entry>
+  <Entry Index="585">Leite ordenhado de uma vaca de morango. Pode
+ser bebido e pode ser enviado.</Entry>
+  <Entry Index="586">Leite de Morango (M)</Entry>
+  <Entry Index="587">Leite ordenhado de uma vaca de morango com
+um nível de carinho relativamente alto. Pode ser
+bebido e pode ser enviado.</Entry>
+  <Entry Index="588">Leite de Morango (L)</Entry>
+  <Entry Index="589">Leite ordenhado de uma vaca de morango com
+um nível de carinho muito alto. Pode ser bebido e pode
+ser enviado.</Entry>
+  <Entry Index="590">Leite de Morango (G)</Entry>
+  <Entry Index="591">Leite ordenhado de uma vaca de morango com
+um nível de carinho muito alto. Pode ser bebido e pode
+ser enviado.</Entry>
+  <Entry Index="592">Leite de Morango (P)</Entry>
+  <Entry Index="593">Leite ordenhado de uma vaca de morango com
+um nível de carinho muito alto. Pode ser bebido e pode
+ser enviado.</Entry>
+  <Entry Index="594">Leite de Morango (X)</Entry>
+  <Entry Index="595">Leite ordenhado de uma vaca de morango com
+um nível de carinho muito alto. Pode ser bebido e pode
+ser enviado.</Entry>
+  <Entry Index="596">Feijão Azuki</Entry>
+  <Entry Index="597">Um cultivo de outono. Pode ser comido, usado como
+ingrediente de cozinha ou enviado.</Entry>
+  <Entry Index="598">Pimenta</Entry>
+  <Entry Index="599">Um cultivo de outono. Pode ser comida, usada como
+ingrediente de cozinha ou enviada.</Entry>
+  <Entry Index="600">Laranja</Entry>
+  <Entry Index="601">Uma fruta da laranjeira. Pode ser comido ou
+enviado.</Entry>
+  <Entry Index="602">Castanha</Entry>
+  <Entry Index="603">O fruto de um castanheira. Pode ser comida ou
+enviada. Tem cuidado com sua casca espinhosa!</Entry>
+  <Entry Index="604">Purê de Batatas</Entry>
+  <Entry Index="605">Um prato básico de batatas fervidas e depois
+trituradas. Pode ser comido, mas não pode ser
+enviado.</Entry>
+  <Entry Index="606">Baumkuchen</Entry>
+  <Entry Index="607">[Doces]
+Uma sobremesa feita de ovos, leite e farinha de trigo.
+Pode ser comido, mas não pode ser enviado.</Entry>
+  <Entry Index="608">Aqua Pazza</Entry>
+  <Entry Index="609">Um prato de peixe escalfado em caldo. Pode
+ser comida, mas não pode ser enviada.</Entry>
+  <Entry Index="610">Ajillo</Entry>
+  <Entry Index="611">Uma fritura à que se acrescentam vários
+ingredientes. Cuidado, é quente! Pode ser comido,
+mas não pode ser enviado.</Entry>
+  <Entry Index="612">Churros</Entry>
+  <Entry Index="613">[Doces]
+Um aperitivo singelo de farinha de trigo frito.
+Pode ser comido, mas não pode ser enviado.</Entry>
+  <Entry Index="614">Paella</Entry>
+  <Entry Index="615">[Bolinho de Arroz]
+Prato cozido a fogo baixo com carne e
+verduras. Pode ser comida, mas não enviada.</Entry>
+  <Entry Index="616">Sopa de Peixe</Entry>
+  <Entry Index="617">Um prato de peixe estufado em caldo. Pode
+ser comida, mas não pode ser enviada.</Entry>
+  <Entry Index="618">Tofu de Amêndoas</Entry>
+  <Entry Index="619">[Doces]
+Uma sobremesa feita com leite. Doce e delicioso. Pode
+ser comido, mas não pode ser enviado.</Entry>
+  <Entry Index="620">Palbochae</Entry>
+  <Entry Index="621">Um prato de verduras salteadas. Pode ser
+comido, mas não pode ser enviado.</Entry>
+  <Entry Index="622">Bife Apimentado</Entry>
+  <Entry Index="623">Um bife salteado com pimentões verdes e
+broto de bambú. Pode ser comido, mas não pode
+ser enviado.</Entry>
+  <Entry Index="624">Tigela de Frutos do Mar</Entry>
+  <Entry Index="625">[Bolinho de Arroz]
+Prato de arroz com rodelas de peixe fresco.
+Pode ser comida, mas não enviada.</Entry>
+  <Entry Index="626">Oden</Entry>
+  <Entry Index="627">Um estufado no que se misturam vários
+ingredientes. A melhor parte é o mochi! Pode
+ser comido, mas não pode ser enviado.</Entry>
+  <Entry Index="628">Napolitana</Entry>
+  <Entry Index="629">Um prato de massa com molho de tomate.
+Após comer, deixa a boca vermelha! Pode ser
+comida, mas não pode ser enviada.</Entry>
+  <Entry Index="630">Ovos Benedict</Entry>
+  <Entry Index="631">Um sofisticado prato cujo ingrediente
+principal são os ovos. Pode ser comido,
+mas não pode ser enviado.</Entry>
+  <Entry Index="632">Caldo de Abóbora</Entry>
+  <Entry Index="633">Uma sopa cremosa de abóboras, servida em
+uma tijela. Pode ser comido, mas não pode ser enviado.</Entry>
+  <Entry Index="634">Cozido</Entry>
+  <Entry Index="635">Um ensopado caseiro com verduras. te
+aquece e te deixa sonolento. Pode ser comido, mas
+não pode ser enviado.</Entry>
+  <Entry Index="636">Carpaccio</Entry>
+  <Entry Index="637">Um prato de peixe cru cortado em rodelas
+finas. Pode ser comido, mas não pode ser enviado.</Entry>
+  <Entry Index="638">Quiche</Entry>
+  <Entry Index="639">Uma torta salgada preparada com ovos. Pode
+ser comido, mas não pode ser enviado.</Entry>
+  <Entry Index="640">Suflê de Queijo</Entry>
+  <Entry Index="641">[Doces]
+Uma sobremesa de queijo superfofa e macia. Pode
+ser comido, mas não pode ser enviado.</Entry>
+  <Entry Index="642">Bagna Cauda</Entry>
+  <Entry Index="643">Um prato que enriquece o sabor de todas as
+verduras. Pode ser comida, mas não pode ser
+enviada.</Entry>
+  <Entry Index="644">Carbonara</Entry>
+  <Entry Index="645">Um prato de uma deliciosa massa com queijo.
+Pode ser comida, mas não pode ser enviada.</Entry>
+  <Entry Index="646">Pizza Margarita</Entry>
+  <Entry Index="647">Uma clássica pizza italiana com uma base
+de molho de tomate. Pode ser comida, mas não pode
+ser enviada.</Entry>
+  <Entry Index="648">Risoto de Queijo</Entry>
+  <Entry Index="649">Um sofisticado prato de queijo e arroz. Pode ser
+comido, mas não pode ser enviado.</Entry>
+  <Entry Index="650">Bolhinos de Peixe</Entry>
+  <Entry Index="651">Peixe frito ao estilo ocidental. Pode ser
+comido, mas não pode ser enviado.</Entry>
+  <Entry Index="652">Nasi Goreng</Entry>
+  <Entry Index="653">[Bolinho de Arroz]
+Um prato de arroz frito. Coloque ketchup! Pode
+ser comido, mas não enviado.</Entry>
+  <Entry Index="654">Madaleine</Entry>
+  <Entry Index="655">[Doces]
+Bolinho fofo com formato de concha. Pode
+ser comida, mas não pode ser enviada.</Entry>
+  <Entry Index="656">Torta de Morango</Entry>
+  <Entry Index="657">[Doces]
+Uma torta de morango. Pode ser comida, mas não
+pode ser enviada.</Entry>
+  <Entry Index="658">Bibimbap</Entry>
+  <Entry Index="659">[Bolinho de Arroz]
+Saboroso prato de arroz com ovos passados por água.
+Pode ser comido, mas não enviado.</Entry>
+  <Entry Index="660">Pizza de Legumes</Entry>
+  <Entry Index="661">Uma pizza italiana com legumes. Pode ser
+comida, mas não pode ser enviada.</Entry>
+  <Entry Index="662">Gratinado de Cogumelos</Entry>
+  <Entry Index="663">Champinhons ao forno gratinados. Cuidado,
+queimam! Pode ser comido, mas não enviado.</Entry>
+  <Entry Index="664">Ramen</Entry>
+  <Entry Index="665">Uma sopa de macarrão sofisticada, pode
+acrescentar-lhe uns ovos. Pode ser comido, mas não
+pode ser enviado.</Entry>
+  <Entry Index="666">Daifuku</Entry>
+  <Entry Index="667">[Doces]
+Revestimento doce de massa de feijões azuki
+em mochi. Pode ser comido, mas não enviado.</Entry>
+  <Entry Index="668">Dorayaki</Entry>
+  <Entry Index="669">[Doces]
+Um doce japonês preparado com massa de azuki.
+Pode ser comido, mas não pode ser enviado.</Entry>
+  <Entry Index="670">Orangette</Entry>
+  <Entry Index="671">[Doces]
+Aperitivo de laranjas com um sabor bastante
+forte. Pode ser comido, mas não enviado.</Entry>
+  <Entry Index="672">Casca Cristalizadas</Entry>
+  <Entry Index="673">[Doces]
+Aperitivo de casca de laranja coberta de açúcar.
+Pode ser comida, mas não enviada.</Entry>
+  <Entry Index="674">Folhado de laranja</Entry>
+  <Entry Index="675">[Pão]
+Um bolo de pão e laranjas. Pode ser comido,
+mas não enviado.</Entry>
+  <Entry Index="676">Zenzai</Entry>
+  <Entry Index="677">[Doces]
+Uma sobremesa de feijões azuki. Acrescente mochis! Pode
+ser comido, mas não enviar.</Entry>
+  <Entry Index="678">Arroz com Castanhas</Entry>
+  <Entry Index="679">[Bolinho de Arroz]
+Um prato de arroz com castanhas. Pode ser
+comido, mas não pode ser enviado.</Entry>
+  <Entry Index="680">Castanha Assada</Entry>
+  <Entry Index="681">Um prato que está composto simplesmente de
+castanhas assadas. Muito qunte! Pode ser
+comido, mas não pode ser enviado.</Entry>
+  <Entry Index="682">Monte Branco</Entry>
+  <Entry Index="683">[Doces]
+Uma sobremesa de castanhas com forma de montanha.
+Pode ser comido, mas não enviado.</Entry>
+  <Entry Index="684">Bife com Pimenta Picante</Entry>
+  <Entry Index="685">Bife condimentado com pimenta e pimentão
+verde. Deliciosamente picante! Pode ser comido,
+mas não pode ser enviado.</Entry>
+  <Entry Index="686">Ramen Picante</Entry>
+  <Entry Index="687">Ramen com pimenta. Sentirá um delicioso calor
+na língua! Pode ser comido, mas não pode ser
+enviado.</Entry>
+  <Entry Index="688">Salteado de Verduras Picantes</Entry>
+  <Entry Index="689">Verduras salteadas em uma frigideira com
+pimenta. Quente, quente, quente! Pode ser comido, mas não pode
+ser enviado.</Entry>
+  <Entry Index="690">Sanduíche Picante</Entry>
+  <Entry Index="691">Uma sanduíche com um toque picante.
+Como queima! Pode ser comido, mas não pode ser
+enviado.</Entry>
+  <Entry Index="692">Pizza Margarita Picante</Entry>
+  <Entry Index="693">Pizza Margarita com pimenta. Cuidado, esta
+pizza queima bastante! Pode ser comida, mas
+não pode ser enviad.</Entry>
+  <Entry Index="694">Sopa de Peixe</Entry>
+  <Entry Index="695">Um prato de peixe estufado em caldo. Pode
+ser comido, mas não pode ser enviado.</Entry>
+  <Entry Index="696"></Entry>
+  <Entry Index="697"></Entry>
+  <Entry Index="698"></Entry>
+  <Entry Index="699"></Entry>
+  <Entry Index="700"></Entry>
+  <Entry Index="701"></Entry>
+  <Entry Index="702"></Entry>
+  <Entry Index="703"></Entry>
+  <Entry Index="704"></Entry>
+  <Entry Index="705"></Entry>
+  <Entry Index="706"></Entry>
+  <Entry Index="707"></Entry>
+  <Entry Index="708"></Entry>
+  <Entry Index="709"></Entry>
+  <Entry Index="710"></Entry>
+  <Entry Index="711"></Entry>
+  <Entry Index="712"></Entry>
+  <Entry Index="713"></Entry>
+  <Entry Index="714">Bacalhau Japonês</Entry>
+  <Entry Index="715"></Entry>
+  <Entry Index="716">Carapau</Entry>
+  <Entry Index="717"></Entry>
+  <Entry Index="718">Piava</Entry>
+  <Entry Index="719"></Entry>
+  <Entry Index="720">Truta</Entry>
+  <Entry Index="721"></Entry>
+  <Entry Index="722">Rouco</Entry>
+  <Entry Index="723"></Entry>
+  <Entry Index="724">Sardinha</Entry>
+  <Entry Index="725"></Entry>
+  <Entry Index="726">Salvelino</Entry>
+  <Entry Index="727"></Entry>
+  <Entry Index="728">Leucisco</Entry>
+  <Entry Index="729"></Entry>
+  <Entry Index="730">Enguia</Entry>
+  <Entry Index="731"></Entry>
+  <Entry Index="732">Chub</Entry>
+  <Entry Index="733"></Entry>
+  <Entry Index="734">Bonito</Entry>
+  <Entry Index="735"></Entry>
+  <Entry Index="736">Peixe-Solha</Entry>
+  <Entry Index="737"></Entry>
+  <Entry Index="738">Peixe-Ballesta</Entry>
+  <Entry Index="739"></Entry>
+  <Entry Index="740">Carpa-Dourada</Entry>
+  <Entry Index="741"></Entry>
+  <Entry Index="742">Carpa-Cruciana</Entry>
+  <Entry Index="743"></Entry>
+  <Entry Index="744">Garoupa-de-Dente-Longo</Entry>
+  <Entry Index="745"></Entry>
+  <Entry Index="746">Carpa Cabeçuda</Entry>
+  <Entry Index="747"></Entry>
+  <Entry Index="748">Salmão</Entry>
+  <Entry Index="749"></Entry>
+  <Entry Index="750">Cavala</Entry>
+  <Entry Index="751"></Entry>
+  <Entry Index="752">Peixe-Agulha</Entry>
+  <Entry Index="753"></Entry>
+  <Entry Index="754">Cavala-Japonesa</Entry>
+  <Entry Index="755"></Entry>
+  <Entry Index="756">Paparda</Entry>
+  <Entry Index="757"></Entry>
+  <Entry Index="758">Dourado</Entry>
+  <Entry Index="759"></Entry>
+  <Entry Index="760">Besugo</Entry>
+  <Entry Index="761"></Entry>
+  <Entry Index="762">Bacalhau</Entry>
+  <Entry Index="763"></Entry>
+  <Entry Index="764">Locha</Entry>
+  <Entry Index="765"></Entry>
+  <Entry Index="766">Donko</Entry>
+  <Entry Index="767"></Entry>
+  <Entry Index="768">Truta-Arco-íris</Entry>
+  <Entry Index="769"></Entry>
+  <Entry Index="770">Arenque</Entry>
+  <Entry Index="771"></Entry>
+  <Entry Index="772">Carpa Prateada</Entry>
+  <Entry Index="773"></Entry>
+  <Entry Index="774">Peixe-de-Areia</Entry>
+  <Entry Index="775"></Entry>
+  <Entry Index="776">Halibute</Entry>
+  <Entry Index="777"></Entry>
+  <Entry Index="778">Baiacu</Entry>
+  <Entry Index="779"></Entry>
+  <Entry Index="780">Achigã</Entry>
+  <Entry Index="781"></Entry>
+  <Entry Index="782">Medregal</Entry>
+  <Entry Index="783"></Entry>
+  <Entry Index="784">Peixe-Agalla-Azul</Entry>
+  <Entry Index="785"></Entry>
+  <Entry Index="786">Carpa-Cruciana</Entry>
+  <Entry Index="787"></Entry>
+  <Entry Index="788">Cavala-de-Ojotsk</Entry>
+  <Entry Index="789"></Entry>
+  <Entry Index="790">Atum</Entry>
+  <Entry Index="791"></Entry>
+  <Entry Index="792">Peixe-Lua</Entry>
+  <Entry Index="793"></Entry>
+  <Entry Index="794">Peixe-Leão</Entry>
+  <Entry Index="795"></Entry>
+  <Entry Index="796">Gallineta</Entry>
+  <Entry Index="797"></Entry>
+  <Entry Index="798">Salmão-Cereja</Entry>
+  <Entry Index="799"></Entry>
+  <Entry Index="800">Cabeça-de-Cobra-Manchada</Entry>
+  <Entry Index="801"></Entry>
+  <Entry Index="802">Eperlano</Entry>
+  <Entry Index="803"></Entry>
+  <Entry Index="804">Salmón-do-Danubio</Entry>
+  <Entry Index="805"></Entry>
+  <Entry Index="806">Rape</Entry>
+  <Entry Index="807"></Entry>
+  <Entry Index="808">Peixe-Gato-de-Manancial</Entry>
+  <Entry Index="809"></Entry>
+  <Entry Index="810">Carpa</Entry>
+  <Entry Index="811"></Entry>
+  <Entry Index="812">Celacanto</Entry>
+  <Entry Index="813"></Entry>
+  <Entry Index="814">Lula</Entry>
+  <Entry Index="815"></Entry>
+  <Entry Index="816">Peixe-Espada</Entry>
+  <Entry Index="817"></Entry>
+  <Entry Index="818">Medregal-do-Japão</Entry>
+  <Entry Index="819"></Entry>
+  <Entry Index="820">Ayu</Entry>
+  <Entry Index="821"></Entry>
+  <Entry Index="822">Cheirado</Entry>
+  <Entry Index="823"></Entry>
+  <Entry Index="824">Congrio</Entry>
+  <Entry Index="825"></Entry>
+  <Entry Index="826">Peixe-Voador</Entry>
+  <Entry Index="827"></Entry>
+  <Entry Index="828">Lagosta-Espinhosa</Entry>
+  <Entry Index="829"></Entry>
+  <Entry Index="830">Pirarucú</Entry>
+  <Entry Index="831"></Entry>
+  <Entry Index="832"></Entry>
+  <Entry Index="833"></Entry>
+  <Entry Index="834"></Entry>
+  <Entry Index="835"></Entry>
+  <Entry Index="836"></Entry>
+  <Entry Index="837"></Entry>
+  <Entry Index="838"></Entry>
+  <Entry Index="839"></Entry>
+  <Entry Index="840"></Entry>
+  <Entry Index="841"></Entry>
+  <Entry Index="842"></Entry>
+  <Entry Index="843"></Entry>
+  <Entry Index="844"></Entry>
+  <Entry Index="845"></Entry>
+  <Entry Index="846"></Entry>
+  <Entry Index="847"></Entry>
+  <Entry Index="848"></Entry>
+  <Entry Index="849"></Entry>
+  <Entry Index="850"></Entry>
+  <Entry Index="851"></Entry>
+  <Entry Index="852">Flor da Lua</Entry>
+  <Entry Index="853">Uma flor que floresce na primavera.
+Não pode ser comida, mas pode ser enviada.</Entry>
+  <Entry Index="854">Flor de Gato Rosa</Entry>
+  <Entry Index="855">Uma flor que floresce no verão.
+Não pode ser comida, mas pode ser enviada.</Entry>
+  <Entry Index="856">Flor Vermelha Mágica Azul</Entry>
+  <Entry Index="857">Uma flor azul que nasce das sementes de flor
+vermelha mágica. Não pode ser comida, mas pode ser
+enviada. Floresce no outono.</Entry>
+  <Entry Index="858">Verdadeira Flor Vermelha Mágica</Entry>
+  <Entry Index="859">Flor de Outono que nasce das sementes de uma
+flor vermelha mágica. Não pode ser comida, mas pode
+ser enviada.</Entry>
+  <Entry Index="860">Flor de Brinquedo</Entry>
+  <Entry Index="861">Uma flor que floresce na primavera.
+Não pode ser comida, mas pode ser enviada.</Entry>
+  <Entry Index="862">Lã (S)</Entry>
+  <Entry Index="863">Lã tosquiada de uma ovelha. Fofa.
+Pode ser enviada.</Entry>
+  <Entry Index="864">Lã (M)</Entry>
+  <Entry Index="865">Lã tosquiada de uma ovelha com um nível de
+carinho relativamente alto. Fofa e suave.
+Pode ser enviada.</Entry>
+  <Entry Index="866">Lã (L)</Entry>
+  <Entry Index="867">Lã tosquiada de uma ovelha com um nível de
+carinho muito alto. Fofa e muito suave.
+Pode ser enviada.</Entry>
+  <Entry Index="868">Lã (G)</Entry>
+  <Entry Index="869">Lã tosquiada de uma ovelha com um nível de
+carinho muito alto. Fofa e extremamente suave.
+Pode ser enviada.</Entry>
+  <Entry Index="870">Lã (P)</Entry>
+  <Entry Index="871">Lã tosquiada de uma ovelha com um nível de
+carinho muito alto. Superfofa e suave.
+Pode ser enviada.</Entry>
+  <Entry Index="872">Lã (X)</Entry>
+  <Entry Index="873">Lã tosquiada de uma ovelha com um nível de
+carinho muito alto. Da melhor qualidade.
+Pode ser enviada.</Entry>
+  <Entry Index="874">Novelo de Lã (S)</Entry>
+  <Entry Index="875">Faz-se processando lã ou pêlo (S) na
+máquina de lã.</Entry>
+  <Entry Index="876">Novelo de Lã (M)</Entry>
+  <Entry Index="877">Faz-se processando lã ou pêlo (M) na
+máquina de lã.</Entry>
+  <Entry Index="878">Novelo de Lã (L)</Entry>
+  <Entry Index="879">Faz-se processando lã ou pêlo (L) na
+máquina de lã.</Entry>
+  <Entry Index="880">Novelo de Lã (G)</Entry>
+  <Entry Index="881">Faz-se processando lã ou pêlo (G) na
+máquina de lã.</Entry>
+  <Entry Index="882">Novelo de Lã (P)</Entry>
+  <Entry Index="883">Faz-se processando lã ou pêlo (P) na
+máquina de lã.</Entry>
+  <Entry Index="884">Novelo de Lã (X)</Entry>
+  <Entry Index="885">Faz-se processando lã ou pêlo (X) na
+máquina de lã.</Entry>
+  <Entry Index="886">Sucata de Minério</Entry>
+  <Entry Index="887">Encontrado nas minas. Não serve para nada,
+com baixo valor de envio.</Entry>
+  <Entry Index="888">Cobre</Entry>
+  <Entry Index="889">Um material encontrado nas minas.
+Usado para melhorar suas ferramentas.</Entry>
+  <Entry Index="890">Prata</Entry>
+  <Entry Index="891">Um material encontrado nas minas.
+Usado para melhorar suas ferramentas.</Entry>
+  <Entry Index="892">Ouro</Entry>
+  <Entry Index="893">Um material encontrado nas minas.
+Usado para melhorar suas ferramentas.</Entry>
+  <Entry Index="894">Mithril</Entry>
+  <Entry Index="895">Um material encontrado nas minas.
+Usado para melhorar suas ferramentas.</Entry>
+  <Entry Index="896">Oricalco</Entry>
+  <Entry Index="897">Um material encontrado nas minas.
+Usado para fazer acessórios.</Entry>
+  <Entry Index="898">Adamantita</Entry>
+  <Entry Index="899">Um material encontrado nas minas.
+Usado para fabricar máquinas.</Entry>
+  <Entry Index="900">Pedra da Lua</Entry>
+  <Entry Index="901">Uma joia encontrada nas minas.
+Vendida por um preço baixo.</Entry>
+  <Entry Index="902">Rosa do Deserto</Entry>
+  <Entry Index="903">Um cristal encontrado nas minas.
+Vendido por um preço descente.</Entry>
+  <Entry Index="904">Diamante Rosa</Entry>
+  <Entry Index="905">Uma pedra preciosa extremamente rara e
+valiosa encontrada nas minas. Vendida
+por uma boa quantia!</Entry>
+  <Entry Index="906">Alexandrita</Entry>
+  <Entry Index="907">Uma pedra preciosa extremamente rara e
+valiosa encontrada nas minas. Vendida por
+uma boa quantia! É vermelha por dentro.</Entry>
+  <Entry Index="908">Alexandrita</Entry>
+  <Entry Index="909">Uma pedra preciosa extremamente rara e
+valiosa encontrado nas minas. Vendida por
+uma boa quantia! É verde por fora.</Entry>
+  <Entry Index="910">Minério Mítico</Entry>
+  <Entry Index="911">Um material extremamente raro encontrado
+nas minas. Usado para melhorar suas
+ferramentas.</Entry>
+  <Entry Index="912">Diamante</Entry>
+  <Entry Index="913">Uma joia rara encontrada nas minas.
+Vendida por uma quantia generosa.</Entry>
+  <Entry Index="914">Esmeralda</Entry>
+  <Entry Index="915">Uma joia rara encontrada nas minas.
+Vendida por uma boa quantia.</Entry>
+  <Entry Index="916">Rubí</Entry>
+  <Entry Index="917">Uma joia encontrada nas minas.
+Vendida a um preço decente.</Entry>
+  <Entry Index="918">Topázio</Entry>
+  <Entry Index="919">Uma joia encontrada nas minas.
+Vendida a um preço decente.</Entry>
+  <Entry Index="920">Peridoto</Entry>
+  <Entry Index="921">Uma joia encontrada nas minas.
+Vendida a um preço decente.</Entry>
+  <Entry Index="922">Fluorita</Entry>
+  <Entry Index="923">Uma joia encontrada nas minas.
+Vendida a um preço decente.</Entry>
+  <Entry Index="924">Ágata</Entry>
+  <Entry Index="925">Uma joia encontrada nas minas.
+Vendida a um preço decente.</Entry>
+  <Entry Index="926">Ametista</Entry>
+  <Entry Index="927">Uma joia encontrada nas minas.
+Vendida a um preço decente.</Entry>
+  <Entry Index="928">Joia da Deusa</Entry>
+  <Entry Index="929">Uma fabulosa joia encontrada nas
+minas. Se reunir nove dessas, pode acontecer
+algo inusitado...</Entry>
+  <Entry Index="930">Joia de Kappa</Entry>
+  <Entry Index="931">Uma curiosa joia encontrada nas
+minas. Se reunir nove dessas, pode acontecer
+algo inusitado...</Entry>
+  <Entry Index="932">Joia da Verdade</Entry>
+  <Entry Index="933">Quando reunir nove dessas, a verdade
+será revelada...</Entry>
+  <Entry Index="934">Sol de Primavera</Entry>
+  <Entry Index="935">Um prato preparado com diferentes tipos
+de ervas. Um momento... Isso não é comestível.
+O que é isso?!</Entry>
+  <Entry Index="936">Sol de Verão</Entry>
+  <Entry Index="937">Um prato preparado com diferentes produtos
+obtidos da pesca. Um momento... Isso não é comestível.
+O que é isso?!</Entry>
+  <Entry Index="938">Sol de Outono</Entry>
+  <Entry Index="939">Um prato preparado com vários produtos de
+Tamanho X. Um momento... Isso não é comestível.
+O que é isso?!</Entry>
+  <Entry Index="940">Sol de Inverno</Entry>
+  <Entry Index="941">Um prato preparado com diferentes minério
+e joias. Um momento... Isso não é comestível.
+O que é isso?!</Entry>
+  <Entry Index="942">Pulsera</Entry>
+  <Entry Index="943">Um acessório fabricado pelo ferreiro.
+Entregue-o a alguém como presente!</Entry>
+  <Entry Index="944">Colar</Entry>
+  <Entry Index="945">Um acessório fabricado pelo ferreiro.
+Entregue-o a alguém como presente!</Entry>
+  <Entry Index="946">Brincos</Entry>
+  <Entry Index="947">Um acessório fabricado pelo ferreiro.
+Entregue-o a alguém como presente!</Entry>
+  <Entry Index="948">Broche</Entry>
+  <Entry Index="949">Um acessório fabricado pelo ferreiro.
+Entregue-o a alguém como presente!</Entry>
+  <Entry Index="950">Erva Daninha</Entry>
+  <Entry Index="951">Cresce no campo desde a primavera até o
+outono. Pode ser enviado, mas ninguém dará
+pagará muito por ela.</Entry>
+  <Entry Index="952">Pedra</Entry>
+  <Entry Index="953">Pode ser quebrada com um martelo. Também pode
+ser colocada sobre o solo lavrado para
+volta-lo ao normal.</Entry>
+  <Entry Index="954">Galho</Entry>
+  <Entry Index="955">Pode ser partido com um machado para fazer
+madeira. Também pode ser colocado sobre o
+solo lavrado para volta-lo ao normal.</Entry>
+  <Entry Index="956">Pedra de Tomate</Entry>
+  <Entry Index="957">[Receita de kétchup]
+Ingredientes: tomate, cebola. Utensílios de cozinha:
+batedeira, temperos.</Entry>
+  <Entry Index="958">Mensagem em uma Garrafa</Entry>
+  <Entry Index="959">[Receita de Batata Frita]
+Ingredientes: batatas, azeite. Utensílios de cozinha:
+frigideira, faca.</Entry>
+  <Entry Index="960">Bolinha</Entry>
+  <Entry Index="961">Um brinquedo para seu mascote. Tente
+joga-la para ele!</Entry>
+
+  <Entry Index="962">Tesouro Pirata</Entry>
+  <Entry Index="963">Baú escondido por piratas. Vendido por uma
+boa quantia!</Entry>
+  <Entry Index="964">Fóssil Antigo</Entry>
+  <Entry Index="965">Os restos de um peixe que viveu há muitos anos
+Vendido por uma boa quantia!</Entry>
+  <Entry Index="966">Lata Vazia</Entry>
+  <Entry Index="967">Quem jogou isso aqui? Ao menos agora
+a água está mais limpa.</Entry>
+  <Entry Index="968">Bota</Entry>
+  <Entry Index="969">Quem jogou isso aqui? Voltou a casa
+com um só sapato? Ao menos agora o água
+está mais limpa.</Entry>
+  <Entry Index="970">Espinha de Peixe</Entry>
+  <Entry Index="971">Ao menos agora a água está mais limpa.</Entry>
+  <Entry Index="972">Vinho da Karen</Entry>
+  <Entry Index="973">Uma bebida Preparada pela Karen. Na
+etiqueta leva seu nome.</Entry>
+  <Entry Index="974">Dorodango da Popuri</Entry>
+  <Entry Index="975">Uma bola brilhante que Popuri moldou a partir
+de barro. Está muito bem polida e não se
+quebrará.</Entry>
+  <Entry Index="976">Caixa de Música da Ran</Entry>
+  <Entry Index="977">A caixa de música de Ran. Está quebrada e já não
+reproduz canções.</Entry>
+  <Entry Index="978">Livro de Marie</Entry>
+  <Entry Index="979">Um livro de Marie. Uma obra prima que
+seguramente te fará derramar alguma
+lagrimasinha.</Entry>
+  <Entry Index="980">Flores Prensadas de Elly</Entry>
+  <Entry Index="981">Elly secou e prensou essas flores para
+conservá-las. Ternura é emitida destas
+pétalas prensadas.</Entry>
+  <Entry Index="982">Disco 1</Entry>
+  <Entry Index="983">Título: Começo das Estações - Tema de Primavera.
+Compre-o para adcionar a canção ao
+Toca-discos.</Entry>
+  <Entry Index="984">Disco 2</Entry>
+  <Entry Index="985">Título: Começo das Estações - Tema de Celebração.
+Compre-o para adcionar a canção
+ao Toca-discos.</Entry>
+  <Entry Index="986">Disco 3</Entry>
+  <Entry Index="987">Título: O Povo das Flores - Tema de Outono.
+Compre-o para adcionar a canção ao Toca-discos.</Entry>
+  <Entry Index="988">Disco 4</Entry>
+  <Entry Index="989">Título: O Povo das Flores - Tema Principal.
+Compre-o para adcionar a canção ao Toca-discos.</Entry>
+  <Entry Index="990">Disco 5</Entry>
+  <Entry Index="991">Título: Tema da Garota da Lua. Compre-o
+para adcionar a canção ao Toca-discos.</Entry>
+  <Entry Index="992">Disco 6</Entry>
+  <Entry Index="993">Título: A Garota da Lua - Romance.
+Compre-o para adcionar a canção ao Toca-discos.</Entry>
+  <Entry Index="994">Disco 7</Entry>
+  <Entry Index="995">Título: Povo de Açúcar - Tema de Verão.
+Compre-o para adcionar a canção ao Toca-discos.</Entry>
+  <Entry Index="996">Disco 8</Entry>
+  <Entry Index="997">Título: Povo de Açúcar - Tema de Outono.
+Compre-o para adcionar a canção ao Toca-discos.</Entry>
+  <Entry Index="998">Disco 9</Entry>
+  <Entry Index="999">Título: Uma Temporada Maravilhosa - Tema
+de Outono/Inverno. Compre-o para adcionar a
+canção ao Toca-discos.</Entry>
+  <Entry Index="1000">Disco 10</Entry>
+  <Entry Index="1001">Título: Uma Temporada Maravilhosa - Bar
+de Noite. Compre-o para adcionar a canção ao
+Toca-discos.</Entry>
+  <Entry Index="1002">Disco 11</Entry>
+  <Entry Index="1003">Título: Tema do Canal Duende. Compre-o para
+adcionar a canção ao Toca-discos.</Entry>
+  <Entry Index="1004">Disco 12</Entry>
+  <Entry Index="1005">Título: Canal Duende - Tema Final. Compre-o
+para adcionar a canção ao Toca-discos.</Entry>
+  <Entry Index="1006">Disco 13</Entry>
+  <Entry Index="1007">Título: Trio de Cidades - Tema de Outono.
+Compre-o para adcionar a canção ao Toca-discos.</Entry>
+  <Entry Index="1008">Disco 14</Entry>
+  <Entry Index="1009">Título: Trio de Cidades - Tema de Primavera.
+Compre-o para adcionar a canção ao Toca-discos.</Entry>
+  <Entry Index="1010">Disco 15</Entry>
+  <Entry Index="1011">Título: Trio de Cidades - Tema de Verão.
+Compre-o para adcionar a canção ao Toca-discos.</Entry>
+  <Entry Index="1012">Disco 16</Entry>
+  <Entry Index="1013">Título: Trio de Cidades - Tema de Inverno.
+Compre-o para adcionar a canção ao Toca-discos.</Entry>
+  <Entry Index="1014">Disco 17</Entry>
+  <Entry Index="1015">Título: O Que Todos Desejam - Tema Principal.
+Compre-o para adcionar a canção ao Toca-discos.</Entry>
+  <Entry Index="1016">Disco 18</Entry>
+  <Entry Index="1017">Título: O Que Todos Desejam - Festival da
+Colheita. Compre-o para adcionar a canção ao
+Toca-discos.</Entry>
+  <Entry Index="1018">Disco 19</Entry>
+  <Entry Index="1019">Título: O Que Todos Desejam - Casamento.
+Compre-o para adcionar a canção ao Toca-discos.</Entry>
+  <Entry Index="1020">Disco 20</Entry>
+  <Entry Index="1021">Título: O Que Todos Desejam - Paz.
+Compre-o para adcionar a canção ao Toca-discos.</Entry>
+  <Entry Index="1022">Começo das Estações - Tema de Primavera</Entry>
+
+  <Entry Index="1023">Começo das Estações - Tema de Celebração</Entry>
+
+  <Entry Index="1024">O povo das Flores - Tema de Outono</Entry>
+
+  <Entry Index="1025">O Povo das Flores - Tema Principal</Entry>
+  <Entry Index="1026">Tema da Garota da Lua</Entry>
+  <Entry Index="1027">A Garota da Lua - Romance</Entry>
+  <Entry Index="1028">Povo de Açúcar - Tema de Verão</Entry>
+  <Entry Index="1029">Povo de Açúcar - Tema de Outono</Entry>
+  <Entry Index="1030">Uma Temporada Maravilhosa - Tema de Outono/Inverno</Entry>
+
+  <Entry Index="1031">Uma Temporada Maravilhosa - Bar de Noite</Entry>
+
+  <Entry Index="1032">Tema do Canal Duende</Entry>
+  <Entry Index="1033">Canal Duende - Tema Final</Entry>
+  <Entry Index="1034">Trio de Cidades - Tema de Outono</Entry>
+  <Entry Index="1035">Trio de Cidades - Tema de Primavera</Entry>
+  <Entry Index="1036">Trio de Cidades - Tema de Verão</Entry>
+  <Entry Index="1037">Trio de Cidades - Tema de Inverno</Entry>
+  <Entry Index="1038">O Que Todos Desejam - Tema Principal</Entry>
+  <Entry Index="1039">O Que Todos Desejam - Festival da
+Colheita</Entry>
+  <Entry Index="1040">O Que Todos Desejam - Casamento</Entry>
+  <Entry Index="1041">O que Todos Desejam - Paz</Entry>
+  <Entry Index="1042">Livro da rajada de 100 vitórias</Entry>
+  <Entry Index="1043">Um livro autorgado pela Deusa por ter
+adivinhado 100 vezes seguidas se o seguinte
+número era maior ou menor.</Entry>
+  <Entry Index="1044"></Entry>
+  <Entry Index="1045"></Entry>
+  <Entry Index="1046">Colônia</Entry>
+  <Entry Index="1047">Uma fragancia de flores. O presente perfeito
+para um fanático dos aromas!</Entry>
+  <Entry Index="1048">Fotografia</Entry>
+  <Entry Index="1049">Uma fotografia que Cliff derrubou no chão.
+Parece ser a imagem de uma família.</Entry>
+  <Entry Index="1050"></Entry>
+  <Entry Index="1051"></Entry>
+  <Entry Index="1052">Convite</Entry>
+  <Entry Index="1053">Um convite dos Duendes para sua festa
+do chá.</Entry>
+  <Entry Index="1054">Vestido</Entry>
+  <Entry Index="1055">Um desenho feminino que cativará a todos
+aqueles interessados na moda. Apresenta-se
+muito bem dobrado em uma caixa preciosa.</Entry>
+  <Entry Index="1056">Cremes Faciais</Entry>
+  <Entry Index="1057">Cremes para ter uma pele suave e suave. Se
+passa-lo, acabará assustando alguém.</Entry>
+  <Entry Index="1058">Maquiagem</Entry>
+  <Entry Index="1059">Produto para que a pele fique jovem e
+atraente. Popular entre as garotas.</Entry>
+  <Entry Index="1060">Protetor Solar</Entry>
+  <Entry Index="1061">O sol é o inimigo da pele desprotegida
+no verão! Para aqueles que preferem não se parecer
+com um camarão.</Entry>
+  <Entry Index="1062"></Entry>
+  <Entry Index="1063"></Entry>
+  <Entry Index="1064">Madeira Dourada</Entry>
+  <Entry Index="1065">Material dourado e brilhante. Ao colocar no
+chão, se converterá em uma cerca dourada, e não
+se deteriorará com o tempo.</Entry>
+  <Entry Index="1066">Forragem</Entry>
+  <Entry Index="1067">Comida para vacas, ovelhas e alpacas.
+Coloque-a no dispensador dentro do celeiro.</Entry>
+  <Entry Index="1068">Ração para Galinhas/Coelhos</Entry>
+  <Entry Index="1069">Comida a base de milho para galinhas e coelhos
+de angora. Guarda na caixa de alimentos no
+galinheiro.</Entry>
+  <Entry Index="1070">Certificado de Pedra-Papel-Tesoura</Entry>
+  <Entry Index="1071">Prova de que derrotou à Deusa no
+jogo de pedra-papel-tesoura 100 vezes
+seguidas. Deve de ter muita sorte.</Entry>
+  <Entry Index="1072">Frisbee</Entry>
+  <Entry Index="1073">Um brinquedo de lançar para o seu mascota.
+Podem jogar ao frisbee na Praia Mineral.</Entry>
+  <Entry Index="1074">Relógio de Pulso do Rick</Entry>
+  <Entry Index="1075">O relógio de Rick. É um tesouro da infância.</Entry>
+  <Entry Index="1076">Amuleto Marinho de Kai</Entry>
+  <Entry Index="1077">O amuleto de Kai. Comprou em outra região.</Entry>
+  <Entry Index="1078">Enfeite Floral de Cliff</Entry>
+  <Entry Index="1079">Uma decoração que Cliff fez com as flores 
+que foi recolhendo perto da montanha.</Entry>
+  <Entry Index="1080">Broche de Gray</Entry>
+  <Entry Index="1081">O broche de Gray. Parece que foi feito de prata.</Entry>
+  <Entry Index="1082">Instrumento Médico </Entry>
+  <Entry Index="1083">Instrumento o Doutor te deu. Parece que
+emite iões negativos.</Entry>
+  <Entry Index="1084">Bilhete Misterioso</Entry>
+  <Entry Index="1085">Ganhou de Huang. Troque-os no balcão...</Entry>
+  <Entry Index="1086">Saquinho de Flores da Jennifer</Entry>
+  <Entry Index="1087">Uma seleção de flores de Jennifer. Parece
+que ela elege flores diferentes dependendo da
+pessoa para quem ela ira entregar. Cheira bem...</Entry>
+  <Entry Index="1088">Mini Escultura de Brandon</Entry>
+  <Entry Index="1089">Uma mini escultura de Brandon. Parece que se
+chama: "Pesadelos ou insônia".</Entry>
+  <Entry Index="1090">Escultura de Amor de Brandon</Entry>
+  <Entry Index="1091">Esculpida por Brandon. Nomeada "Mistérios da
+vida e do leite: a generosidade da Terra e
+o amor não correspondido".</Entry>
+  <Entry Index="1092">Troféu do Cluck-Cluck Clash</Entry>
+  <Entry Index="1093">Para cacarejar de alegria: este troféu é
+concedido ao primeiro colocado do concurso do
+Clucl-Cluck Clash.</Entry>
+  <Entry Index="1094">Troféu do Festival Moo-Moo</Entry>
+  <Entry Index="1095">Um troféu muuuuuuuuito legal que é
+concedido ao primeiro colocado do concurso do
+Festival Moo-Moo.</Entry>
+  <Entry Index="1096">Troféu do Festival Fluffy</Entry>
+  <Entry Index="1097">Um troféu béééééllísimo que é concedido
+ao primeiro colocado no concurdo do Festival
+Fluffy.</Entry>
+  <Entry Index="1098">Estátua do Kappa</Entry>
+  <Entry Index="1099">Uma estátua do Kappa. Não se parece nada
+com o Kappa do lago.</Entry>
+  <Entry Index="1100">Estátua da Deusa</Entry>
+  <Entry Index="1101">Uma estátua da Deusa. Simplesmente divina.</Entry>
+  <Entry Index="1102">Estátua de Duende</Entry>
+  <Entry Index="1103">Uma estátua de um Duende. Como é cinza, não
+sabemos a qual Duende corresponde!</Entry>
+  <Entry Index="1104"></Entry>
+  <Entry Index="1105"></Entry>
+  <Entry Index="1106"></Entry>
+  <Entry Index="1107"></Entry>
+  <Entry Index="1108">Pêlo de Coelho de Angora (S)</Entry>
+  <Entry Index="1109">Pêlo tosquiado de um coelho de Angora.
+Fofinho. Pode ser enviado.</Entry>
+  <Entry Index="1110">Pêlo de coelho de Angora (M)</Entry>
+  <Entry Index="1111">Pêlo tosquiado de um coelho de Angora com
+um nível de afeto relativamente alto. Fofo e
+macio. Pode ser enviado.</Entry>
+  <Entry Index="1112">Pêlo de Coelho de Angora (L)</Entry>
+  <Entry Index="1113">Pêlo tosquiado de um coelho de Angora com
+um nível de afeto muito alto. Fofo e
+muito macio. Pode ser enviado.</Entry>
+  <Entry Index="1114">Pêlo de Coelho de Angora (G)</Entry>
+  <Entry Index="1115">Pêlo tosquiado de um coelho de Angora com
+um nível de afeto muito alto. Fofo e
+extremamente macio. Pode ser enviado.</Entry>
+  <Entry Index="1116">Pêlo de Coelho de Angora (P)</Entry>
+  <Entry Index="1117">Pêlo tosquiado de um coelho de Angora com
+um nível de afeto muito alto. Superfofo e macio.
+Pode ser enviado.</Entry>
+  <Entry Index="1118">Pêlo de Coelho de Angora (X)</Entry>
+  <Entry Index="1119">Pêlo tosquiado de um coelho de Angora. Com
+um nível de afeto muito alto. Macio e aveludado.
+Pode ser enviado
+.</Entry>
+  <Entry Index="1120">Fibra de Alpaca (S)</Entry>
+  <Entry Index="1121">Fibra tosquiada de uma alpaca. fofinha.
+Pode ser enviada.</Entry>
+  <Entry Index="1122">Fibra de Alpaca (M)</Entry>
+  <Entry Index="1123">Fibra tosquiada de uma alpaca com um nível
+de afeto relativamente alto. Fofa e macia.
+Pode ser enviada.</Entry>
+  <Entry Index="1124">Fibra de Alpaca (L)</Entry>
+  <Entry Index="1125">Fibra tosquiada de uma alpaca com um nível
+de afeto muito alto. Fofa e muito macia.
+Pode ser enviada.</Entry>
+  <Entry Index="1126">Fibra de Alpaca (G)</Entry>
+  <Entry Index="1127">Fibra tosquiada de uma Alpaca com um nível
+de afeto muito alto. Fofa e extremamente
+macia. Pode ser enviada.</Entry>
+  <Entry Index="1128">Fibra de Alpaca (P)</Entry>
+  <Entry Index="1129">Fibra tosquiada de uma alpaca com um nível
+de afeto muito alto. Superfofa e macia.
+Pode ser enviada.</Entry>
+  <Entry Index="1130">Fibra de Alpaca (X)</Entry>
+  <Entry Index="1131">Fibra tosquiada de uma alpaca com um nível
+de afeto muito alto. Macia como a seda, de
+primerísima qualidade. Pode ser enviada.</Entry>
+  <Entry Index="1132">Material</Entry>
+  <Entry Index="1133">Precisará muitas destas pedras quando
+tiver que fazer ampliações na casa.</Entry>
+  <Entry Index="1134">Jade</Entry>
+  <Entry Index="1135">Uma joia encontrada nas minas.
+Vendida a um preço decente.</Entry>
+  <Entry Index="1136">Safira</Entry>
+  <Entry Index="1137">Uma joia encontrada nas minas.
+Vendida por uma boa quantia.</Entry>
+  <Entry Index="1138">Água-marinha</Entry>
+  <Entry Index="1139">Uma joia encontrada nas minas.
+Vendida a um preço decente.</Entry>
+  <Entry Index="1140">Granada</Entry>
+  <Entry Index="1141">Uma joia encontrada nas minas.
+Vendida por uma boa quantia.</Entry>
+  <Entry Index="1142">Turquesa</Entry>
+  <Entry Index="1143">Uma joia encontrado nas minas.
+Vendida a um preço decente.</Entry>
+  <Entry Index="1144">Madeira</Entry>
+  <Entry Index="1145">Usada para reformas, para fazer funcionar
+o forno e para criar cercas. Muito versátil.</Entry>
+  <Entry Index="1146">Flor do Sol</Entry>
+  <Entry Index="1147">Uma nova espécie de flor de outono que se
+foi descoberta recentemente. Não pode ser
+comida, mas pode ser enviada.</Entry>
+  <Entry Index="1148">Bebida Favorita do Van</Entry>
+  <Entry Index="1149">Seja o que for, seria uma boa ideia
+presenta-la ao Van.</Entry>
+  <Entry Index="1150">Controle Remoto</Entry>
+  <Entry Index="1151">Se assite séries de televisão com isso...</Entry>
+  <Entry Index="1152">Troféu Mestre de Compras</Entry>
+  <Entry Index="1153">Se olhe no espelho enquanto segura...</Entry>
+  <Entry Index="1154">Livro de Perguntas</Entry>
+  <Entry Index="1155">Segure enquanto olha uma prateleira
+da biblioteca...</Entry>
+  <Entry Index="1156">Presente da Deusa</Entry>
+  <Entry Index="1157">É bastante raro, mas não parece
+muito valioso.</Entry>
+  <Entry Index="1158">Pretisco para Mascotes</Entry>
+  <Entry Index="1159">Comprado na loja de animais do Van. Se
+entrega-lo a seu mascote, te amará
+ainda mais.</Entry>
+  <Entry Index="1160">Pulseira do Gray</Entry>
+  <Entry Index="1161">Um presente do Gray. Está muito bem feito.</Entry>
+  <Entry Index="1162">Todas a Músicas</Entry>
+  <Entry Index="1163">Acrescenta todos os discos ao toca-discos.</Entry>
+  <Entry Index="1164">Todas as Cartas</Entry>
+  <Entry Index="1165">Segure enquanto olha uma prateleira
+da biblioteca...</Entry>
+  <Entry Index="1166">Todos os Livros</Entry>
+  <Entry Index="1167">Segure enquanto olha uma prateleira
+da biblioteca...</Entry>
+  <Entry Index="1168"></Entry>
+  <Entry Index="1169"></Entry>
+  <Entry Index="1170"></Entry>
+  <Entry Index="1171"></Entry>
+  <Entry Index="1172"></Entry>
+  <Entry Index="1173"></Entry>
+  <Entry Index="1174"></Entry>
+  <Entry Index="1175"></Entry>
+  <Entry Index="1176"></Entry>
+  <Entry Index="1177"></Entry>
+  <Entry Index="1178"></Entry>
+  <Entry Index="1179"></Entry>
+  <Entry Index="1180"></Entry>
+  <Entry Index="1181"></Entry>
+  <Entry Index="1182"></Entry>
+  <Entry Index="1183"></Entry>
+  <Entry Index="1184"></Entry>
+  <Entry Index="1185"></Entry>
+  <Entry Index="1186"></Entry>
+  <Entry Index="1187"></Entry>
+  <Entry Index="1188"></Entry>
+  <Entry Index="1189"></Entry>
+  <Entry Index="1190"></Entry>
+  <Entry Index="1191"></Entry>
+  <Entry Index="1192"></Entry>
+  <Entry Index="1193"></Entry>
+  <Entry Index="1194"></Entry>
+  <Entry Index="1195"></Entry>
+  <Entry Index="1196"></Entry>
+  <Entry Index="1197"></Entry>
+  <Entry Index="1198"></Entry>
+  <Entry Index="1199"></Entry>
+  <Entry Index="1200"></Entry>
+  <Entry Index="1201"></Entry>
+  <Entry Index="1202"></Entry>
+  <Entry Index="1203"></Entry>
+  <Entry Index="1204"></Entry>
+  <Entry Index="1205"></Entry>
+  <Entry Index="1206"></Entry>
+  <Entry Index="1207"></Entry>
+  <Entry Index="1208"></Entry>
+  <Entry Index="1209"></Entry>
+  <Entry Index="1210"></Entry>
+  <Entry Index="1211"></Entry>
+  <Entry Index="1212"></Entry>
+  <Entry Index="1213"></Entry>
+  <Entry Index="1214"></Entry>
+  <Entry Index="1215"></Entry>
+  <Entry Index="1216"></Entry>
+  <Entry Index="1217"></Entry>
+</Entries>

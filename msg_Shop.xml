@@ -1,0 +1,1169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Entries Count="896">
+  <Entry Index="0"></Entry>
+  <Entry Index="1"></Entry>
+  <Entry Index="2"></Entry>
+  <Entry Index="3"></Entry>
+  <Entry Index="4">Uau. Parece que você não tem dinheiro suficiente.&lt;wait&gt;</Entry>
+  <Entry Index="5">Hmm? Você não vai comprar nada?&lt;wait&gt;</Entry>
+  <Entry Index="6">Não precisa?&lt;wait&gt;</Entry>
+  <Entry Index="7">Você vai comprar outra coisa?&lt;wait&gt;</Entry>
+  <Entry Index="8">Obrigado! Volte em breve!&lt;wait&gt;&lt;page&gt;
+Vou dizer ao Rick para colocar a ração que você comprou
+no seu dispensador.&lt;wait&gt;</Entry>
+  <Entry Index="9">A ração não caberá no dispensador.&lt;wait&gt;</Entry>
+  <Entry Index="10">Obrigada! Volte em breve!&lt;wait&gt;</Entry>
+  <Entry Index="11"></Entry>
+  <Entry Index="12">Obrigada! Volte logo! Hã? Parece que você está
+com as mãos cheias.&lt;wait&gt;&lt;page&gt;
+Vou pedir para Rick levar suas compras mais tarde.&lt;wait&gt;</Entry>
+  <Entry Index="13">Uau. Parece que você não pode carregar mais nada.&lt;wait&gt;</Entry>
+  <Entry Index="14">Seu galinheiro já está cheio.&lt;wait&gt;</Entry>
+  <Entry Index="15"></Entry>
+  <Entry Index="16">Pedirei a Rick que leve a galinha que você comprou
+para o seu galinheiro.&lt;wait&gt;</Entry>
+  <Entry Index="17">Vou dizer a Rick para pegar a galinha que você nos
+vendeu do seu galinheiro.&lt;wait&gt;</Entry>
+  <Entry Index="18"></Entry>
+  <Entry Index="19">Hum... Parece... que você não tem dinheiro suficiente.&lt;wait&gt;</Entry>
+  <Entry Index="20">Você não pode carregar mais coisas.&lt;wait&gt;</Entry>
+  <Entry Index="21">Temo que você não possa levar mais ferramentas.&lt;wait&gt;</Entry>
+  <Entry Index="22">Muito obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="23">Hein? Você está &lt;gender&gt;("certo","certa")?&lt;wait&gt;&lt;page&gt;</Entry>
+  <Entry Index="24">Você vai comprar outra coisa?&lt;wait&gt;</Entry>
+  <Entry Index="25">Muito obrigado.&lt;wait&gt;&lt;page&gt;
+Hã? Parece que você já tem muitas ferramentas.
+Eu vou levar para você então.&lt;wait&gt;</Entry>
+  <Entry Index="26">Muito obrigado.&lt;wait&gt;&lt;page&gt;
+Hã? Parece que não tem espaço. Levarei para você mais tarde.&lt;wait&gt;</Entry>
+  <Entry Index="27">Hein? Você está &lt;gender&gt;("certo","certa")?&lt;wait&gt;&lt;page&gt;</Entry>
+  <Entry Index="28">Muito obrigado.&lt;wait&gt;&lt;page&gt;
+Hã? Parece que você já está com as mãos cheias.
+Eu vou levar para você mais tarde.&lt;wait&gt;</Entry>
+  <Entry Index="29">Muito obrigado.&lt;wait&gt;&lt;page&gt;
+Hã? Não vai caber. Levarei para você mais tarde, ok?&lt;wait&gt;</Entry>
+  <Entry Index="30">Ah, você não tem dinheiro suficiente. Temo que
+posso de dar o remédio. Desculpe.&lt;wait&gt;</Entry>
+  <Entry Index="31">Ah, parece que você não pode carregar mais nada.
+Você pode liberar um espaço?&lt;wait&gt;</Entry>
+  <Entry Index="32">Não quer comprar mais nada?&lt;wait&gt;</Entry>
+  <Entry Index="33">Você não vai comprar nada? Se está &lt;gender&gt;("cansado","cansada"), não
+se esforce demais.&lt;wait&gt;</Entry>
+  <Entry Index="34">Você vai comprar outra coisa?&lt;wait&gt;</Entry>
+  <Entry Index="35">Aqui está. Tome cuidado.&lt;wait&gt;</Entry>
+  <Entry Index="36">Ah, parece que você não pode carregar mais nada.
+Eu vou levar para sua casa depois.&lt;wait&gt;</Entry>
+  <Entry Index="37">Ah, parece que você não tem espaço para tudo isso.
+Eu vou levar o resto depois.&lt;wait&gt;</Entry>
+  <Entry Index="38">Água normal e corrente.</Entry>
+  <Entry Index="39">Vendido apenas na estalagem durante o dia.&lt;wait&gt;</Entry>
+  <Entry Index="40">Um copo de leite de vaca fresco.</Entry>
+  <Entry Index="41">Você parece estar com pouco dinheiro.
+Traga mais da próxima vez.&lt;wait&gt;</Entry>
+  <Entry Index="42">Você está &lt;gender&gt;("certo","certa")?
+Farei o pedido quando você disser.&lt;wait&gt;</Entry>
+  <Entry Index="43">Obrigado! Espere um minuto... Aqui está!&lt;wait&gt;</Entry>
+  <Entry Index="44">Hmph. Você não tem dinheiro suficiente.
+Você não está me enganando!&lt;wait&gt;</Entry>
+  <Entry Index="45">Você já está com as mãos cheias de ferramentas, certo?
+Ser &lt;gender&gt;("ganancioso","gananciosa") não te leva a lugar nenhum.
+&lt;wait&gt;</Entry>
+  <Entry Index="46">Você já tem muitas coisas, certo?
+Ser &lt;gender&gt;("ganancioso","ganancioso") não leva a nenhum lugar, sabia?&lt;wait&gt;</Entry>
+  <Entry Index="47">Nada mais chama sua atenção? vou te fazer uma oferta
+especial!&lt;wait&gt;</Entry>
+  <Entry Index="48">Você é uma daquelas pessoas que gosta de olhar
+vitrines?&lt;wait&gt;</Entry>
+  <Entry Index="49">Você vai comprar outra coisa?&lt;wait&gt;</Entry>
+  <Entry Index="50">Obrigado! Muito obrigado! Volte em breve!&lt;wait&gt;</Entry>
+  <Entry Index="51">Muito obrigado, volte logo... Ah! Sua
+Mochila está cheia, não?&lt;wait&gt;&lt;page&gt;
+Vou levar para sua casa mais tarde. Que trabalho, hein!&lt;wait&gt;</Entry>
+  <Entry Index="52">Muito obrigado, volte logo... Ah! Sua
+Mochila está cheia, não?&lt;wait&gt;&lt;page&gt;
+Vou levar para sua casa mais tarde. Que trabalho, hein!&lt;wait&gt;</Entry>
+  <Entry Index="53">Muito obrigado, volte logo... Ah! Não vai
+caber tudo na sua mochila, ora.&lt;wait&gt;&lt;page&gt;
+Vou levar para sua casa mais tarde. Terei um belo
+trabalho, uh?&lt;wait&gt;</Entry>
+  <Entry Index="54">Muito obrigado, volte logo... Ah! Não vai
+caber tudo em sua mochila, ora.&lt;wait&gt;&lt;page&gt;
+Vou enviar para sua casa mais tarde. Tenho um bom serviço?&lt;wait&gt;</Entry>
+  <Entry Index="55">Uau, uau. Você não tem dinheiro suficiente. que insolente,
+certo?&lt;wait&gt;</Entry>
+  <Entry Index="56">Fico feliz por você ter comprado algo, mas se não puder levar, não
+Eu posso fazer qualquer coisa.&lt;wait&gt;</Entry>
+  <Entry Index="57">Obrigado. Volte a qualquer momento!&lt;wait&gt;</Entry>
+  <Entry Index="58">Se você quiser comprar algo, vá em frente.&lt;wait&gt;</Entry>
+  <Entry Index="59">Muito obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="60">Há mais alguma coisa que chame sua atenção?&lt;wait&gt;</Entry>
+  <Entry Index="61">Obrigado. Oh Parece que você já está ocupado.&lt;wait&gt;&lt;page&gt;
+Nada acontece. Vou dizer ao meu marido para te levar o resto
+então.&lt;wait&gt;</Entry>
+  <Entry Index="62">Obrigado. Oh Parece que você já está ocupado.&lt;wait&gt;&lt;page&gt;
+Nada acontece. Vou dizer ao meu marido para te levar o resto
+então.&lt;wait&gt;</Entry>
+  <Entry Index="63">Um dispositivo para reproduzir discos.</Entry>
+  <Entry Index="64">Obrigado por sua compra. Vou levá-lo para o seu armário mais
+atrasado.&lt;wait&gt;</Entry>
+  <Entry Index="65">Você vai comprar outra coisa?&lt;wait&gt;</Entry>
+  <Entry Index="66">Hmm. Infelizmente, os fundos não estão chegando até você.&lt;wait&gt;</Entry>
+  <Entry Index="67">Muito obrigado. O gramofone é bastante pesado,
+Vou enviar para casa.&lt;wait&gt;</Entry>
+  <Entry Index="68">Muito obrigado. Espero poder contar com seu apoio
+contínuo.&lt;wait&gt;</Entry>
+  <Entry Index="69">Muito obrigado. Ah, espere um minuto. Parece que não se encaixa. Chá
+Vou enviá-lo para casa.&lt;wait&gt;</Entry>
+  <Entry Index="70">Muito obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="71">Infelizmente, parece que você está &lt;gender&gt;("carregado","carregada") neste
+momento e não tem espaço.&lt;wait&gt;</Entry>
+  <Entry Index="72">Um prato de massa italiana.</Entry>
+  <Entry Index="73">Uma sobremesa congelada feita com gelo picado.</Entry>
+  <Entry Index="74">Espere. Você não tem dinheiro suficiente!&lt;wait&gt;</Entry>
+  <Entry Index="75">Bom. Ah, se você quiser comer outra coisa, é só me avisar.&lt;wait&gt;</Entry>
+  <Entry Index="76">Ok, espere... Aqui está. Desculpe a espera.
+Vamos, coma!&lt;wait&gt;</Entry>
+  <Entry Index="77">Vou começar com a ampliação. Então não se preocupe
+eu.&lt;wait&gt;</Entry>
+  <Entry Index="78">Ah, e tudo o que você tem por aí vai ficar no meu caminho um
+pouco, então vou deixá-lo de lado para você.&lt;wait&gt;</Entry>
+  <Entry Index="79"></Entry>
+  <Entry Index="80"></Entry>
+  <Entry Index="81"></Entry>
+  <Entry Index="82"></Entry>
+  <Entry Index="83"></Entry>
+  <Entry Index="84"></Entry>
+  <Entry Index="85"></Entry>
+  <Entry Index="86"></Entry>
+  <Entry Index="87"></Entry>
+  <Entry Index="88"></Entry>
+  <Entry Index="89"></Entry>
+  <Entry Index="90"></Entry>
+  <Entry Index="91"></Entry>
+  <Entry Index="92"></Entry>
+  <Entry Index="93"></Entry>
+  <Entry Index="94"></Entry>
+  <Entry Index="95"></Entry>
+  <Entry Index="96"></Entry>
+  <Entry Index="97"></Entry>
+  <Entry Index="98"></Entry>
+  <Entry Index="99"></Entry>
+  <Entry Index="100"></Entry>
+  <Entry Index="101"></Entry>
+  <Entry Index="102"></Entry>
+  <Entry Index="103"></Entry>
+  <Entry Index="104"></Entry>
+  <Entry Index="105"></Entry>
+  <Entry Index="106"></Entry>
+  <Entry Index="107"></Entry>
+  <Entry Index="108"></Entry>
+  <Entry Index="109">Tem certeza?&lt;wait&gt;</Entry>
+  <Entry Index="110"></Entry>
+  <Entry Index="111"></Entry>
+  <Entry Index="112"></Entry>
+  <Entry Index="113"></Entry>
+  <Entry Index="114"></Entry>
+  <Entry Index="115"></Entry>
+  <Entry Index="116">Obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="117"></Entry>
+  <Entry Index="118"></Entry>
+  <Entry Index="119"></Entry>
+  <Entry Index="120"></Entry>
+  <Entry Index="121"></Entry>
+  <Entry Index="122"></Entry>
+  <Entry Index="123"></Entry>
+  <Entry Index="124"></Entry>
+  <Entry Index="125"></Entry>
+  <Entry Index="126"></Entry>
+  <Entry Index="127"></Entry>
+  <Entry Index="128"></Entry>
+  <Entry Index="129"></Entry>
+  <Entry Index="130"></Entry>
+  <Entry Index="131"></Entry>
+  <Entry Index="132">Você não tem dinheiro suficiente.&lt;wait&gt;</Entry>
+  <Entry Index="133">Você vai comprar outra coisa?&lt;wait&gt;</Entry>
+  <Entry Index="134">Tem certeza?&lt;wait&gt;</Entry>
+  <Entry Index="135">Se você quiser comprar algo, fale comigo, ok?&lt;wait&gt;</Entry>
+  <Entry Index="136">Ok, vou colocar a forragem no seu silo. Volte em breve.&lt;wait&gt;</Entry>
+  <Entry Index="137">Seu silo já está cheio de forragem.&lt;wait&gt;</Entry>
+  <Entry Index="138">Volte em breve. Oh. Parece que você não tem espaço para mais
+equipamento. Vou enviá-lo para sua casa mais tarde.&lt;wait&gt;</Entry>
+  <Entry Index="139">Volte em breve. Oh. Parece que você não se encaixa em todo o seu equipamento.&lt;wait&gt;&lt;page&gt;
+Vou enviar para sua casa mais tarde, ok?&lt;wait&gt;</Entry>
+  <Entry Index="140">Hein? Parece que o equipamento não serve.&lt;wait&gt;</Entry>
+  <Entry Index="141">Vamos lá, dê um nome.&lt;wait&gt;</Entry>
+  <Entry Index="142">E eu o levarei para o celeiro. Volte em breve.&lt;wait&gt;</Entry>
+  <Entry Index="143">Seu celeiro está cheio.&lt;wait&gt;</Entry>
+  <Entry Index="144">Você não tem uma vaca que possa me vender.&lt;wait&gt;</Entry>
+  <Entry Index="145">Você não tem uma ovelha para vender para mim.&lt;wait&gt;</Entry>
+  <Entry Index="146"></Entry>
+  <Entry Index="147"></Entry>
+  <Entry Index="148"></Entry>
+  <Entry Index="149"></Entry>
+  <Entry Index="150"></Entry>
+  <Entry Index="151">Vale dinheiro para você?</Entry>
+  <Entry Index="152">Oh, sim.&lt;wait&gt;&lt;page&gt;
+Bem...</Entry>
+  <Entry Index="153">Vou pegá-lo no celeiro da sua fazenda.&lt;wait&gt;</Entry>
+  <Entry Index="154"></Entry>
+  <Entry Index="155"></Entry>
+  <Entry Index="156"></Entry>
+  <Entry Index="157">Há espaço para 30 itens nesta cesta e você pode enviá-los com sua caixa de remessa. Isso também pode ser equipado no cavalo.&lt;wait&gt;</Entry>
+  <Entry Index="158">Mochila</Entry>
+  <Entry Index="159">Capacidade:
+16 objetos
+8 ferramentas</Entry>
+  <Entry Index="160">Mochila grande</Entry>
+  <Entry Index="161">Capacidade:
+24 objetos
+12 ferramentas</Entry>
+  <Entry Index="162">Faca</Entry>
+  <Entry Index="163">Usado para cortar ingredientes na cozinha.</Entry>
+  <Entry Index="164">Panejar</Entry>
+  <Entry Index="165">É usado para fritar alimentos.</Entry>
+  <Entry Index="166">Pote</Entry>
+  <Entry Index="167">Usado para cozinhar alimentos.</Entry>
+  <Entry Index="168">Misturador</Entry>
+  <Entry Index="169">É usado para bater comida.</Entry>
+  <Entry Index="170">Varas de bater</Entry>
+  <Entry Index="171">É usado para bater os alimentos manualmente.</Entry>
+  <Entry Index="172">Rolo</Entry>
+  <Entry Index="173">É usado para trabalhar a massa.</Entry>
+  <Entry Index="174">Forno</Entry>
+  <Entry Index="175">Usado para assar alimentos.</Entry>
+  <Entry Index="176">Condimentos</Entry>
+  <Entry Index="177">Uma série de condimentos para apimentar o
+comida.</Entry>
+  <Entry Index="178">Energy Berry </Entry>
+  <Entry Index="179">Aumenta sua resistência máxima em 15 quando
+coma.</Entry>
+  <Entry Index="180">Enxada de cobre</Entry>
+  <Entry Index="181">Até uma área maior de terra
+que a enxada do prefeito.</Entry>
+  <Entry Index="182">Enxada de Prata</Entry>
+  <Entry Index="183">Até uma área maior de terra
+do que a enxada de cobre.</Entry>
+  <Entry Index="184">Enxada de Ouro</Entry>
+  <Entry Index="185">Até uma área maior de terra
+do que a enxada de prata.</Entry>
+  <Entry Index="186">Enxada de Mythril</Entry>
+  <Entry Index="187">Até uma área maior de terra
+do que a enxada de ouro.</Entry>
+  <Entry Index="188">Enxada Lendária</Entry>
+  <Entry Index="189">Até uma área maior de terra
+aquela enxada amaldiçoada/abençoada.</Entry>
+  <Entry Index="190">Foice de Cobre</Entry>
+  <Entry Index="191">Corta em um raio maior que a foice
+prefeito.</Entry>
+  <Entry Index="192">Foice de Prata</Entry>
+  <Entry Index="193">Corta em um raio maior que a foice
+cobre.</Entry>
+  <Entry Index="194">Foice de Ouro</Entry>
+  <Entry Index="195">Corta em um raio maior que a foice
+prata.</Entry>
+  <Entry Index="196">Foice de Mithril</Entry>
+  <Entry Index="197">Corta em um raio maior que a foice de ouro.</Entry>
+  <Entry Index="198">Foice Lendária</Entry>
+  <Entry Index="199">Corta em um raio maior que a foice
+amaldiçoado/abençoado.</Entry>
+  <Entry Index="200">Machado de Cobre</Entry>
+  <Entry Index="201">Pode quebrar tocos que o machado do prefeito
+não foi possível.</Entry>
+  <Entry Index="202">Machado de Prata</Entry>
+  <Entry Index="203">Quebra tocos mais rápido que o machado de
+cobre.</Entry>
+  <Entry Index="204">Machado de Ouro</Entry>
+  <Entry Index="205">Quebra tocos mais rápido que o machado de
+prata.</Entry>
+  <Entry Index="206">Machado de Mythril</Entry>
+  <Entry Index="207">Quebra tocos mais rápido que o machado de
+ouro.</Entry>
+  <Entry Index="208">Machado Lendário</Entry>
+  <Entry Index="209">Consome metade do vigor do machado
+amaldiçoado/abençoado, e quebra todos os tocos
+da área de uma varredura.</Entry>
+  <Entry Index="210">Martelo de Cobre</Entry>
+  <Entry Index="211">Pode quebrar pedras maiores que o
+martelo do prefeito.</Entry>
+  <Entry Index="212">Martelo de Prata</Entry>
+  <Entry Index="213">Pode quebrar blocos maiores que o
+martelo de cobre.</Entry>
+  <Entry Index="214">Martelo de Ouro</Entry>
+  <Entry Index="215">Você pode quebrar bloquse mais rápido do que o
+martelo de prata.</Entry>
+  <Entry Index="216">Martelo de Mythril</Entry>
+  <Entry Index="217">Você pode quebrar blocos mais rápido do que o
+martelo de ouro.</Entry>
+  <Entry Index="218">Martelo Lendário</Entry>
+  <Entry Index="219">Destrua tudo na área de um
+varredura.</Entry>
+  <Entry Index="220">Regador de cobre</Entry>
+  <Entry Index="221">Rega uma área maior do que o regador
+do prefeito.</Entry>
+  <Entry Index="222">Regador de Prata</Entry>
+  <Entry Index="223">Irriga uma área maior do que o regador em
+cobre.</Entry>
+  <Entry Index="224">Regador Dourado</Entry>
+  <Entry Index="225">Irriga uma área maior do que o regador em
+prata.</Entry>
+  <Entry Index="226">Regador de Mythril</Entry>
+  <Entry Index="227">Irriga uma área maior do que o regador em
+ouro.</Entry>
+  <Entry Index="228">Regador lendário</Entry>
+  <Entry Index="229">Rega uma área maior do que o regador
+amaldiçoado/abençoado.</Entry>
+  <Entry Index="230">Vara de pesca de cobre</Entry>
+  <Entry Index="231">Com esta vara, é mais fácil pescar
+tamanho médio do que com a vara de Zack.</Entry>
+  <Entry Index="232">Vara de pesca de prata</Entry>
+  <Entry Index="233">Com esta vara, é mais fácil pescar
+tamanho médio do que com a haste de cobre.</Entry>
+  <Entry Index="234">Vara de Pesca de Ouro</Entry>
+  <Entry Index="235">Com esta vara, é mais fácil pescar
+maior do que com a bengala de prata.</Entry>
+  <Entry Index="236">Vara de Pescar Mythril</Entry>
+  <Entry Index="237">Com esta vara, é mais fácil pescar
+maior do que com a bengala de ouro.</Entry>
+  <Entry Index="238">Vara de Pesca Lendária</Entry>
+  <Entry Index="239">Pegue peixes guardiões e itens raros com o
+duas vezes mais provável que a vara de pescar
+amaldiçoado/abençoado.</Entry>
+  <Entry Index="240"></Entry>
+  <Entry Index="241"></Entry>
+  <Entry Index="242"></Entry>
+  <Entry Index="243"></Entry>
+  <Entry Index="244"></Entry>
+  <Entry Index="245"></Entry>
+  <Entry Index="246"></Entry>
+  <Entry Index="247"></Entry>
+  <Entry Index="248"></Entry>
+  <Entry Index="249"></Entry>
+  <Entry Index="250"></Entry>
+  <Entry Index="251"></Entry>
+  <Entry Index="252"></Entry>
+  <Entry Index="253"></Entry>
+  <Entry Index="254"></Entry>
+  <Entry Index="255"></Entry>
+  <Entry Index="256"></Entry>
+  <Entry Index="257"></Entry>
+  <Entry Index="258"></Entry>
+  <Entry Index="259"></Entry>
+  <Entry Index="260"></Entry>
+  <Entry Index="261"></Entry>
+  <Entry Index="262"></Entry>
+  <Entry Index="263"></Entry>
+  <Entry Index="264"></Entry>
+  <Entry Index="265"></Entry>
+  <Entry Index="266"></Entry>
+  <Entry Index="267"></Entry>
+  <Entry Index="268"></Entry>
+  <Entry Index="269"></Entry>
+  <Entry Index="270"></Entry>
+  <Entry Index="271"></Entry>
+  <Entry Index="272"></Entry>
+  <Entry Index="273"></Entry>
+  <Entry Index="274"></Entry>
+  <Entry Index="275"></Entry>
+  <Entry Index="276"></Entry>
+  <Entry Index="277"></Entry>
+  <Entry Index="278"></Entry>
+  <Entry Index="279"></Entry>
+  <Entry Index="280"></Entry>
+  <Entry Index="281"></Entry>
+  <Entry Index="282"></Entry>
+  <Entry Index="283"></Entry>
+  <Entry Index="284"></Entry>
+  <Entry Index="285"></Entry>
+  <Entry Index="286"></Entry>
+  <Entry Index="287"></Entry>
+  <Entry Index="288"></Entry>
+  <Entry Index="289"></Entry>
+  <Entry Index="290"></Entry>
+  <Entry Index="291"></Entry>
+  <Entry Index="292"></Entry>
+  <Entry Index="293"></Entry>
+  <Entry Index="294"></Entry>
+  <Entry Index="295"></Entry>
+  <Entry Index="296"></Entry>
+  <Entry Index="297"></Entry>
+  <Entry Index="298"></Entry>
+  <Entry Index="299"></Entry>
+  <Entry Index="300">Maionese</Entry>
+  <Entry Index="301">A qualidade do ovo usado determina
+a quantidade de maionese.</Entry>
+  <Entry Index="302">Máquina de queijo</Entry>
+  <Entry Index="303">A qualidade do leite utilizado determina
+a quantidade de queijo.</Entry>
+  <Entry Index="304">Máquina de lã (quintal)</Entry>
+  <Entry Index="305">A qualidade da lã ou pele usada
+determina o tamanho da bola.</Entry>
+  <Entry Index="306">Máquina de lã (celeiro)</Entry>
+  <Entry Index="307">A qualidade da lã ou pele usada
+determina o tamanho da bola.</Entry>
+  <Entry Index="308"></Entry>
+  <Entry Index="309"></Entry>
+  <Entry Index="310">Batimento da manteiga</Entry>
+  <Entry Index="311">Adicione leite para fazer manteiga.</Entry>
+  <Entry Index="312">Casa espaçosa</Entry>
+  <Entry Index="313">Uma casa com mais espaço que a sua.
+Inclui uma cozinha.</Entry>
+  <Entry Index="314">Casa grande</Entry>
+  <Entry Index="315">Uma casa muito maior que a sua.
+Uma cama grande pode ser colocada.</Entry>
+  <Entry Index="316">Banheiro</Entry>
+  <Entry Index="317">Use para restaurar a resistência e aliviar
+cansaço. Levará 30 minutos.</Entry>
+  <Entry Index="318">Curral</Entry>
+  <Entry Index="319">Expanda a caneta para suportar até
+8 animais.</Entry>
+  <Entry Index="320">Celeiro</Entry>
+  <Entry Index="321">Expanda seu celeiro para acomodar
+até 16 animais.</Entry>
+  <Entry Index="322">Moinho</Entry>
+  <Entry Index="323">Para armazenar alimentos. pode
+conter até 9999 unidades.</Entry>
+  <Entry Index="324">Silo</Entry>
+  <Entry Index="325">Para armazenar feed. Pode conter
+até 9999 unidades.</Entry>
+  <Entry Index="326">Terreno de nível 2</Entry>
+  <Entry Index="327">Aumenta as chances de colheita
+colheitas de alta qualidade.</Entry>
+  <Entry Index="328">Terreno de nível 3</Entry>
+  <Entry Index="329">Aumenta as chances de colheita
+culturas de maior qualidade do que a terra
+nível 2.</Entry>
+  <Entry Index="330">Terreno de nível 4</Entry>
+  <Entry Index="331">Aumenta as chances de colheita
+culturas de maior qualidade do que a terra
+nível 3.</Entry>
+  <Entry Index="332">Terreno de nível 5</Entry>
+  <Entry Index="333">Aumenta as chances de colheita
+culturas de maior qualidade do que a terra
+nível 4.</Entry>
+  <Entry Index="334">Árvore de macieiras</Entry>
+  <Entry Index="335">Produz maçãs no verão e no outono.
+Às vezes, gera mel.</Entry>
+  <Entry Index="336">Vinha</Entry>
+  <Entry Index="337">Produz uvas na primavera e no verão.
+Às vezes, gera mel.</Entry>
+  <Entry Index="338">Laranja</Entry>
+  <Entry Index="339">Produz laranjas no outono e inverno. Em
+às vezes gera mel.</Entry>
+  <Entry Index="340">Cidade da cidade</Entry>
+  <Entry Index="341">Você pode construí-lo na parte sul do
+Cidade. Bom lugar para relaxar
+de tempos em tempos.</Entry>
+  <Entry Index="342">Janelas quadradas</Entry>
+  <Entry Index="343">Altere a forma das janelas para
+quadrado com persianas bonitas.</Entry>
+  <Entry Index="344">Janelas quadradas</Entry>
+  <Entry Index="345">Altere a forma das janelas para
+quadrado sem persianas.</Entry>
+  <Entry Index="346">Janelas circulares</Entry>
+  <Entry Index="347">Altere a forma das janelas para
+circular.</Entry>
+  <Entry Index="348"></Entry>
+  <Entry Index="349"></Entry>
+  <Entry Index="350"></Entry>
+  <Entry Index="351"></Entry>
+  <Entry Index="352"></Entry>
+  <Entry Index="353"></Entry>
+  <Entry Index="354">Caixa de correio vermelha</Entry>
+  <Entry Index="355">Mude a cor da sua caixa de correio para vermelho.</Entry>
+  <Entry Index="356">Caixa de correio azul</Entry>
+  <Entry Index="357">Mude a cor da sua caixa de correio para azul.</Entry>
+  <Entry Index="358">Caixa de correio rara</Entry>
+  <Entry Index="359">Dá à sua caixa de correio uma aparência única.</Entry>
+  <Entry Index="360">Relógio</Entry>
+  <Entry Index="361">Para saber a hora.</Entry>
+  <Entry Index="362"></Entry>
+  <Entry Index="363"></Entry>
+  <Entry Index="364">Geladeira </Entry>
+  <Entry Index="365">Pode armazenar alimentos e produtos
+da fazenda.</Entry>
+  <Entry Index="366"> Refrigerador grande</Entry>
+  <Entry Index="367">Você pode armazenar mais do que a geladeira
+básico.</Entry>
+  <Entry Index="368"> Geladeira de luxo</Entry>
+  <Entry Index="369">Você pode armazenar mais do que a geladeira
+grande.</Entry>
+  <Entry Index="370">Armário grande</Entry>
+  <Entry Index="371">Pode armazenar mais do que o armário
+básico.</Entry>
+  <Entry Index="372">Roupa de luxo</Entry>
+  <Entry Index="373">Pode armazenar mais do que o armário
+grande.</Entry>
+  <Entry Index="374">Tapete</Entry>
+  <Entry Index="375">Coloque-o no chão para dar mais estilo
+para sua casa.</Entry>
+  <Entry Index="376">Cama grande</Entry>
+  <Entry Index="377">É necessário aumentar a família.</Entry>
+  <Entry Index="378">Papel de parede normal</Entry>
+  <Entry Index="379">O papel de parede inicial.</Entry>
+  <Entry Index="380">Papel de parede em ziguezague</Entry>
+  <Entry Index="381">Papel de parede com um design divertido.</Entry>
+  <Entry Index="382">Papel de parede azul</Entry>
+  <Entry Index="383">Este papel de parede adiciona um toque de
+elegância.</Entry>
+  <Entry Index="384">Andar normal</Entry>
+  <Entry Index="385">O piso inicial.</Entry>
+  <Entry Index="386">Andar elegante</Entry>
+  <Entry Index="387">Piso com estilo.</Entry>
+  <Entry Index="388">Piso de cerâmica</Entry>
+  <Entry Index="389">Piso que lembra um tabuleiro
+xadrez.</Entry>
+  <Entry Index="390">TV LCD</Entry>
+  <Entry Index="391">Uma televisão com tela grande. Já
+é hora de dizer adeus à tv relâmpago
+catódico.</Entry>
+  <Entry Index="392"></Entry>
+  <Entry Index="393"></Entry>
+  <Entry Index="394">Água</Entry>
+  <Entry Index="395">Água normal e corrente.</Entry>
+  <Entry Index="396">Especial do dia </Entry>
+  <Entry Index="397">É vendido na pensão, mas apenas durante o dia.</Entry>
+  <Entry Index="398">Leite</Entry>
+  <Entry Index="399">Um copo de leite de vaca fresco.</Entry>
+  <Entry Index="400">Espaguete</Entry>
+  <Entry Index="401">Um prato de massa italiana.</Entry>
+  <Entry Index="402">Slush</Entry>
+  <Entry Index="403">Uma sobremesa congelada feita com gelo picado
+finamente.</Entry>
+  <Entry Index="404">Galinha</Entry>
+  <Entry Index="405">Põe um ovo todos os dias.</Entry>
+  <Entry Index="406">Galinha marrom</Entry>
+  <Entry Index="407">Uma galinha com penas escuras. colocar um
+ovo todos os dias.</Entry>
+  <Entry Index="408">Coelho angorá</Entry>
+  <Entry Index="409">Um coelho de pelo comprido. Se você o cortar,
+você receberá pele de coelho angorá.</Entry>
+  <Entry Index="410">Conjunto de coelhos para coelhos</Entry>
+  <Entry Index="411">Faz com que os coelhos angorá adultos
+engravidar.</Entry>
+  <Entry Index="412">Carne</Entry>
+  <Entry Index="413">Quando crescer, começará a produzir leite.</Entry>
+  <Entry Index="414">Carne de café</Entry>
+  <Entry Index="415">Quando crescer, começará a produzir leite
+de café.</Entry>
+  <Entry Index="416">Vitela com morango</Entry>
+  <Entry Index="417">Quando crescer, começará a produzir leite
+morango.</Entry>
+  <Entry Index="418">Vitela de frutas</Entry>
+  <Entry Index="419">Quando crescer, começará a produzir leite
+de frutas.</Entry>
+  <Entry Index="420">Ovelhas</Entry>
+  <Entry Index="421">Esquiar lala para obter lã.</Entry>
+  <Entry Index="422">Alpacas</Entry>
+  <Entry Index="423">Esquiar lala para obter lã.</Entry>
+  <Entry Index="424">Gramofone</Entry>
+  <Entry Index="425">Um aparelho para tocar discos. UMA
+Uma vez comprado, você pode colocá-lo em sua casa.</Entry>
+  <Entry Index="426">Todas as músicas</Entry>
+  <Entry Index="427">Permite que você ouça todas as músicas de
+plano de fundo.</Entry>
+  <Entry Index="428">Cão de Minério</Entry>
+  <Entry Index="429">Um cão de aparência única.</Entry>
+  <Entry Index="430">Black Shiba</Entry>
+  <Entry Index="431">Um Shiba Inu com pelo preto.</Entry>
+  <Entry Index="432">Papillon</Entry>
+  <Entry Index="433">Um cão com orelhas e pelos característicos
+longo.</Entry>
+  <Entry Index="434">Tabby</Entry>
+  <Entry Index="435">Um gato com uma marca M específica
+testa.</Entry>
+  <Entry Index="436">Bengali </Entry>
+  <Entry Index="437">Um gato reconhecível por sua pelagem manchada.</Entry>
+  <Entry Index="438">Calico</Entry>
+  <Entry Index="439">Um gato de pelo branco com manchas
+marrom e preto.</Entry>
+  <Entry Index="440">Pinguim</Entry>
+  <Entry Index="441">Uma ave aquática azul que não voa.</Entry>
+  <Entry Index="442">Pinguim Azul</Entry>
+  <Entry Index="443">Uma ave aquática azul que não voa
+marinha.</Entry>
+  <Entry Index="444">Cobaia</Entry>
+  <Entry Index="445">Um grande roedor com cabelos curtos coloridos
+marrom.</Entry>
+  <Entry Index="446">Cobaia branca</Entry>
+  <Entry Index="447">Um grande roedor com cabelos curtos coloridos
+branco.</Entry>
+  <Entry Index="448"></Entry>
+  <Entry Index="449"></Entry>
+  <Entry Index="450"></Entry>
+  <Entry Index="451"></Entry>
+  <Entry Index="452"></Entry>
+  <Entry Index="453"></Entry>
+  <Entry Index="454"></Entry>
+  <Entry Index="455"></Entry>
+  <Entry Index="456">Bolsa de Itens</Entry>
+  <Entry Index="457">Sementes</Entry>
+  <Entry Index="458">Produtos</Entry>
+  <Entry Index="459">Compre um animal</Entry>
+  <Entry Index="460">Vender um animal</Entry>
+  <Entry Index="461">Agrupar</Entry>
+  <Entry Index="462">Desempacotar</Entry>
+  <Entry Index="463">Digite um nome usando o teclado.</Entry>
+  <Entry Index="464"></Entry>
+  <Entry Index="465">Reformas</Entry>
+  <Entry Index="466">Melhorar ferramentas</Entry>
+  <Entry Index="467">Pedidos</Entry>
+  <Entry Index="468">Comida</Entry>
+  <Entry Index="469"></Entry>
+  <Entry Index="470"></Entry>
+  <Entry Index="471"></Entry>
+  <Entry Index="472"></Entry>
+  <Entry Index="473"></Entry>
+  <Entry Index="474"></Entry>
+  <Entry Index="475"></Entry>
+  <Entry Index="476"></Entry>
+  <Entry Index="477"></Entry>
+  <Entry Index="478"></Entry>
+  <Entry Index="479"></Entry>
+  <Entry Index="480"></Entry>
+  <Entry Index="481"></Entry>
+  <Entry Index="482"></Entry>
+  <Entry Index="483"></Entry>
+  <Entry Index="484"></Entry>
+  <Entry Index="485"></Entry>
+  <Entry Index="486"></Entry>
+  <Entry Index="487">Comprar</Entry>
+  <Entry Index="488">Sair</Entry>
+  <Entry Index="489">Sim </Entry>
+  <Entry Index="490">Não</Entry>
+  <Entry Index="491">Modo simples</Entry>
+  <Entry Index="492">Modo normal</Entry>
+  <Entry Index="493">Confirmar</Entry>
+  <Entry Index="494">Confirmar seleção</Entry>
+  <Entry Index="495">Vender</Entry>
+  <Entry Index="496"></Entry>
+  <Entry Index="497"></Entry>
+  <Entry Index="498"></Entry>
+  <Entry Index="499"></Entry>
+  <Entry Index="500"></Entry>
+  <Entry Index="501"></Entry>
+  <Entry Index="502"></Entry>
+  <Entry Index="503"></Entry>
+  <Entry Index="504"></Entry>
+  <Entry Index="505"></Entry>
+  <Entry Index="506"></Entry>
+  <Entry Index="507"></Entry>
+  <Entry Index="508">Em posse</Entry>
+  <Entry Index="509">Pode ser criado</Entry>
+  <Entry Index="510">Você não pode vender nenhum animal.</Entry>
+  <Entry Index="511"></Entry>
+  <Entry Index="512">Comprar isto?</Entry>
+  <Entry Index="513">Vender isto?</Entry>
+  <Entry Index="514">Dinheiro</Entry>
+  <Entry Index="515">Qual nome você gostaria?</Entry>
+  <Entry Index="516">Tem certeza de que deseja vender?</Entry>
+  <Entry Index="517">Existem muitas fazendas que desejam animais saudáveis. Vocês
+Encontrarei um bom lar, não se preocupe.&lt;wait&gt;</Entry>
+  <Entry Index="518">Ah. No final você não vende?&lt;wait&gt;</Entry>
+  <Entry Index="519">Uau. Um de seus animais está prestes a dar à luz,
+para que você não tenha mais espaço na caneta. </Entry>
+  <Entry Index="520">Uau. Sua caneta já está cheia de animais e ovos
+incubando.</Entry>
+  <Entry Index="521">Uau. Você tem animais que vão dar à luz e ovos
+incubando. Não há mais espaço na caneta.</Entry>
+  <Entry Index="522"></Entry>
+  <Entry Index="523"></Entry>
+  <Entry Index="524"></Entry>
+  <Entry Index="525"></Entry>
+  <Entry Index="526"></Entry>
+  <Entry Index="527">Seleção de Personagem</Entry>
+  <Entry Index="528">Jogar com este personagem?</Entry>
+  <Entry Index="529">Informações do personagem</Entry>
+  <Entry Index="530">Escolha um nome.</Entry>
+  <Entry Index="531">Qual nome você escolhe?</Entry>
+  <Entry Index="532">Escolha um aniversário</Entry>
+  <Entry Index="533">Personagem principal criado!</Entry>
+  <Entry Index="534">Cor da pele</Entry>
+  <Entry Index="535">Menino</Entry>
+  <Entry Index="536">Garota</Entry>
+  <Entry Index="537">Nome</Entry>
+  <Entry Index="538">Aniversário</Entry>
+  <Entry Index="539">Dificuldade</Entry>
+  <Entry Index="540">Modo simples</Entry>
+  <Entry Index="541">Modo normal</Entry>
+  <Entry Index="542">- Você começa com muito dinheiro.
+- Os itens são vendidos por mais dinheiro.
+- É mais fácil aumentar o nível
+mel.
+- Você começa com dezoito nabos
+plantado.</Entry>
+  <Entry Index="543">Sem nenhum dos recursos do
+modo simples que torna o jogo mais
+fácil. oferece-lhe um desafio­
+gratificante.</Entry>
+  <Entry Index="544">Primavera</Entry>
+  <Entry Index="545">Verão</Entry>
+  <Entry Index="546">Outono</Entry>
+  <Entry Index="547">Inverno</Entry>
+  <Entry Index="548"></Entry>
+  <Entry Index="549"></Entry>
+  <Entry Index="550"></Entry>
+  <Entry Index="551"></Entry>
+  <Entry Index="552"></Entry>
+  <Entry Index="553"></Entry>
+  <Entry Index="554"></Entry>
+  <Entry Index="555"></Entry>
+  <Entry Index="556"></Entry>
+  <Entry Index="557"></Entry>
+  <Entry Index="558">Comprou?</Entry>
+  <Entry Index="559">Envolvê-lo?</Entry>
+  <Entry Index="560">Desembrulhar?</Entry>
+  <Entry Index="561">Vá em frente e embrulhe?</Entry>
+  <Entry Index="562">Mas você não tem nada para embrulhar.&lt;wait&gt;</Entry>
+  <Entry Index="563">O que você quer que eu desembrulhe para você?</Entry>
+  <Entry Index="564">Você não tem nada para desembrulhar.</Entry>
+  <Entry Index="565">Hein? Você parece estar carregando um monte de coisas. Talvez você
+Seria bom jogar os objetos que você não precisa no
+bin do quadrado!&lt;wait&gt;</Entry>
+  <Entry Index="566">Estes são os produtos que estão à venda.</Entry>
+  <Entry Index="567"></Entry>
+  <Entry Index="568">Muito obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="569">Sua mochila está cheia. vou levar o resto para a geladeira
+sua casa.&lt;wait&gt;</Entry>
+  <Entry Index="570">Sua mochila está cheia. Eu vou levar o resto para o seu armário
+home.&lt;wait&gt;</Entry>
+  <Entry Index="571">O seu bolso de ferramentas está cheio. eu te levo o resto
+para sua caixa de ferramentas inicial.&lt;wait&gt;</Entry>
+  <Entry Index="572">Sua mochila está cheia e parece que sua geladeira também.
+Libere algum espaço primeiro, ok?&lt;wait&gt;</Entry>
+  <Entry Index="573">Sua mochila está cheia e parece que seu guarda-roupa também.
+Libere algum espaço primeiro, ok?&lt;wait&gt;</Entry>
+  <Entry Index="574">Seu bolso de ferramentas está cheio e parece que seu
+caixa de ferramentas também. Libere algum espaço
+primeiro, ok?&lt;wait&gt;</Entry>
+  <Entry Index="575">Sua mochila está cheia. Libere algum espaço primeiro,
+ok?&lt;wait&gt;</Entry>
+  <Entry Index="576"></Entry>
+  <Entry Index="577"></Entry>
+  <Entry Index="578"></Entry>
+  <Entry Index="579"></Entry>
+  <Entry Index="580"></Entry>
+  <Entry Index="581"></Entry>
+  <Entry Index="582"></Entry>
+  <Entry Index="583"></Entry>
+  <Entry Index="584"></Entry>
+  <Entry Index="585"></Entry>
+  <Entry Index="586"></Entry>
+  <Entry Index="587"></Entry>
+  <Entry Index="588"></Entry>
+  <Entry Index="589"></Entry>
+  <Entry Index="590"></Entry>
+  <Entry Index="591">Hmm. Você carrega a mochila para o topo. Suponho que
+Vou enviar o resto para sua geladeira.&lt;wait&gt;</Entry>
+  <Entry Index="592">Hmm. Você carrega a mochila para o topo. Suponho que
+Vou enviar o resto para o seu armário.&lt;wait&gt;</Entry>
+  <Entry Index="593">Hmm. Seu bolso de ferramentas está cheio. Suponho que
+Enviarei o restante para sua caixa de ferramentas.&lt;wait&gt;</Entry>
+  <Entry Index="594">Ah. Parece que sua mochila e geladeira estão cheias.
+Organize suas coisas, ok? E depois venha me ver.&lt;wait&gt;</Entry>
+  <Entry Index="595">Parece que sua mochila e armário estão cheios.
+Organize suas coisas, ok? E depois venha me ver.&lt;wait&gt;</Entry>
+  <Entry Index="596">Parece que seu bolso de ferramentas está cheio e seu
+caixa de ferramentas está cheia. Organize suas coisas e
+então venha me ver.&lt;wait&gt;</Entry>
+  <Entry Index="597">Volte em breve, ok?&lt;wait&gt;</Entry>
+  <Entry Index="598"></Entry>
+  <Entry Index="599"></Entry>
+  <Entry Index="600"></Entry>
+  <Entry Index="601"></Entry>
+  <Entry Index="602"></Entry>
+  <Entry Index="603">Ei, sua mochila está cheia! vou levar o resto para o armário
+da sua casa, ok?&lt;wait&gt;</Entry>
+  <Entry Index="604"></Entry>
+  <Entry Index="605"></Entry>
+  <Entry Index="606">Ei, sua mochila está cheia e seu armário também.
+Organize suas coisas!&lt;wait&gt;</Entry>
+  <Entry Index="607"></Entry>
+  <Entry Index="608"></Entry>
+  <Entry Index="609"></Entry>
+  <Entry Index="610"></Entry>
+  <Entry Index="611"></Entry>
+  <Entry Index="612"></Entry>
+  <Entry Index="613">Uau! Parece que você tem uma mochila cheia. vou enviar o
+descanse na geladeira, ok?&lt;wait&gt;</Entry>
+  <Entry Index="614">Uau! Parece que você tem uma mochila cheia. vou enviar o
+descanse no seu armário, ok?&lt;wait&gt;</Entry>
+  <Entry Index="615">Uau! Parece que seu bolso de ferramentas está
+cheio. Vou enviar o resto para sua caixa de ferramentas, ok?&lt;wait&gt;</Entry>
+  <Entry Index="616">Uau! Sua mochila e sua geladeira estão cheias. você pode
+fazer um buraco primeiro?&lt;wait&gt;</Entry>
+  <Entry Index="617">Uau! Sua mochila e seu armário estão cheios. você pode
+fazer um buraco primeiro?&lt;wait&gt;</Entry>
+  <Entry Index="618">Uau! Seu bolso de ferramentas está cheio e sua caixa de
+ferramentas também. Você pode fazer um buraco para ele?&lt;wait&gt;</Entry>
+  <Entry Index="619"></Entry>
+  <Entry Index="620"></Entry>
+  <Entry Index="621"></Entry>
+  <Entry Index="622"></Entry>
+  <Entry Index="623"></Entry>
+  <Entry Index="624">Hmm. Parece que sua mochila está cheia. Não te preocupes,
+Eu vou levar o resto para a geladeira para você.&lt;wait&gt;</Entry>
+  <Entry Index="625">Hmm. Parece que sua mochila está cheia. Não te preocupes,
+Vou mandar o resto para o armário.&lt;wait&gt;</Entry>
+  <Entry Index="626">Hmm. Parece que seu bolso de ferramentas está cheio.
+Não se preocupe, vou levar o resto para a caixa registradora.
+ferramentas.&lt;wait&gt;</Entry>
+  <Entry Index="627">Uau. Sua mochila e sua geladeira estão cheias. você deveria
+libere algum espaço primeiro.&lt;wait&gt;</Entry>
+  <Entry Index="628">Uau. Sua mochila e seu armário estão cheios. você deveria
+libere algum espaço primeiro.&lt;wait&gt;</Entry>
+  <Entry Index="629">Uau. Seu bolso de ferramentas e sua caixa de
+ferramentas estão cheias. Você deve liberar alguns
+espaço antes.&lt;wait&gt;</Entry>
+  <Entry Index="630"></Entry>
+  <Entry Index="631"></Entry>
+  <Entry Index="632"></Entry>
+  <Entry Index="633"></Entry>
+  <Entry Index="634">Obrigado! Espera um momento. Pronto!&lt;wait&gt;</Entry>
+  <Entry Index="635"></Entry>
+  <Entry Index="636"></Entry>
+  <Entry Index="637"></Entry>
+  <Entry Index="638"></Entry>
+  <Entry Index="639"></Entry>
+  <Entry Index="640"></Entry>
+  <Entry Index="641"></Entry>
+  <Entry Index="642"></Entry>
+  <Entry Index="643"></Entry>
+  <Entry Index="644"></Entry>
+  <Entry Index="645">Ok, me dê um segundo. Aqui você vai. Vamos comer!&lt;wait&gt;</Entry>
+  <Entry Index="646"></Entry>
+  <Entry Index="647"></Entry>
+  <Entry Index="648"></Entry>
+  <Entry Index="649"></Entry>
+  <Entry Index="650"></Entry>
+  <Entry Index="651"></Entry>
+  <Entry Index="652"></Entry>
+  <Entry Index="653"></Entry>
+  <Entry Index="654"></Entry>
+  <Entry Index="655"></Entry>
+  <Entry Index="656"></Entry>
+  <Entry Index="657">Sua mochila está cheia. Vou mandar o resto para a geladeira.
+Que serviço, hein!&lt;wait&gt;</Entry>
+  <Entry Index="658">Sua mochila está cheia. Vou mandar o resto para o armário.
+Que serviço, hein!&lt;wait&gt;</Entry>
+  <Entry Index="659">Seu bolso de ferramentas está cheio, sim? vou te enviar o
+descanso para a caixa de ferramentas. Que serviço, hein!&lt;wait&gt;</Entry>
+  <Entry Index="660">Uau! Parece que sua mochila e sua geladeira estão
+cheio. Você deve organizar suas coisas primeiro, ok?&lt;wait&gt;</Entry>
+  <Entry Index="661">Uau! Parece que sua mochila e sua geladeira estão
+cheio. Você deve organizar suas coisas primeiro, ok?&lt;wait&gt;</Entry>
+  <Entry Index="662">Uau! Parece que seu bolso de ferramentas e seu
+caixa de ferramentas está cheia. organize suas coisas
+antes, sim?&lt;wait&gt;</Entry>
+  <Entry Index="663"></Entry>
+  <Entry Index="664"></Entry>
+  <Entry Index="665"></Entry>
+  <Entry Index="666"></Entry>
+  <Entry Index="667"></Entry>
+  <Entry Index="668">Uau. Parece que sua mochila está cheia.&lt;wait&gt;&lt;page&gt;
+Vou pedir para Rick levar o resto para a geladeira para você mais tarde.&lt;wait&gt;</Entry>
+  <Entry Index="669">Uau. Parece que sua mochila está cheia.&lt;wait&gt;&lt;page&gt;
+Vou pedir para Rick trazer o resto para o armário para você mais tarde.&lt;wait&gt;</Entry>
+  <Entry Index="670">Uau. Parece que seu bolso de ferramentas está
+completo.&lt;wait&gt;&lt;page&gt;
+Vou pedir para Rick levar o resto para a caixa registradora.
+ferramentas mais tarde.&lt;wait&gt;</Entry>
+  <Entry Index="671">Uau. A caneta já está cheia de animais.</Entry>
+  <Entry Index="672">Uau... Sua mochila e armário estão cheios. você se importa
+fazer um buraco primeiro?&lt;wait&gt;</Entry>
+  <Entry Index="673">Uau... Seu bolso e caixa de ferramentas
+ferramentas estão cheias. você pode fazer um buraco
+primeiro?&lt;wait&gt;</Entry>
+  <Entry Index="674">Ok, dê um nome.&lt;wait&gt;</Entry>
+  <Entry Index="675">Uau. Parece que sua mochila está cheia.&lt;wait&gt;&lt;page&gt;
+Vou pedir para Rick levar o resto para você no moinho de água.
+então.&lt;wait&gt;</Entry>
+  <Entry Index="676">Uau. Parece que a mochila e o moinho de vento estão cheios.&lt;wait&gt;&lt;page&gt;
+Importa-se de fazer um buraco primeiro?&lt;wait&gt;</Entry>
+  <Entry Index="677">Existem muitas fazendas que desejam animais saudáveis. Vocês
+Encontrarei um bom lar, não se preocupe.&lt;wait&gt;</Entry>
+  <Entry Index="678">Uau. Um de seus animais está prestes a dar à luz,
+para que você não tenha mais espaço na caneta. </Entry>
+  <Entry Index="679">Uau. Sua caneta já está cheia de animais e ovos
+incubando.</Entry>
+  <Entry Index="680">Uau. Você tem animais que vão dar à luz e ovos
+incubando. Não há mais espaço na caneta.</Entry>
+  <Entry Index="681">Sua mochila está cheia. Vou mandar o resto para a geladeira.&lt;wait&gt;</Entry>
+  <Entry Index="682">Sua mochila está cheia. Vou mandar o resto para o armário.&lt;wait&gt;</Entry>
+  <Entry Index="683">O bolso da ferramenta está no topo. eu vou te enviar
+o restante para a caixa de ferramentas.&lt;wait&gt;</Entry>
+  <Entry Index="684">Uau, veja. O celeiro já está cheio de animais.</Entry>
+  <Entry Index="685">Ah, parece que sua mochila e armário estão cheios.&lt;wait&gt;&lt;page&gt;
+Organize suas coisas e depois venha falar comigo.&lt;wait&gt;</Entry>
+  <Entry Index="686">Ah, parece que tanto seu bolso de ferramentas quanto seu
+caixa de ferramentas estão cheias.&lt;wait&gt;&lt;page&gt;
+Organize suas coisas e depois venha falar comigo.&lt;wait&gt;</Entry>
+  <Entry Index="687">Dê um nome, certo?&lt;wait&gt;</Entry>
+  <Entry Index="688">Sua mochila está cheia, então levarei o resto para o seu silo.&lt;wait&gt;</Entry>
+  <Entry Index="689">Ah, parece que sua mochila e seu silo estão cheios.&lt;wait&gt;&lt;page&gt;
+Organize suas coisas e depois venha falar comigo.&lt;wait&gt;</Entry>
+  <Entry Index="690">Há muitas fazendas que adorariam ter
+outro animal saudável. Eu vou encontrar um bom lar para você. Não te
+Não se preocupe.&lt;wait&gt;</Entry>
+  <Entry Index="691">Ah. Um de seus animais está grávido, então você não tem
+espaço suficiente no celeiro.</Entry>
+  <Entry Index="692">Você parece ter uma mochila cheia. Eu vou mandar eles te levarem
+descanse na geladeira.&lt;wait&gt;</Entry>
+  <Entry Index="693">Você parece ter uma mochila cheia. Eu vou mandar eles te levarem
+descanse no armário.&lt;wait&gt;</Entry>
+  <Entry Index="694">O seu bolso de ferramentas está cheio. Eu vou mandar eles te levarem
+o restante para a caixa de ferramentas.&lt;wait&gt;</Entry>
+  <Entry Index="695">Ah. Não só você tem uma mochila cheia, mas também o
+geladeira. Libere algum espaço.&lt;wait&gt;</Entry>
+  <Entry Index="696">Ah. Não só você tem uma mochila cheia, mas seu guarda-roupa
+também. Libere algum espaço.&lt;wait&gt;</Entry>
+  <Entry Index="697">Ah. Não só o seu bolso de ferramentas está cheio, mas
+sua caixa de ferramentas também. Eu preciso que você libere um
+pouco espaço antes.&lt;wait&gt;</Entry>
+  <Entry Index="698"></Entry>
+  <Entry Index="699"></Entry>
+  <Entry Index="700"></Entry>
+  <Entry Index="701"></Entry>
+  <Entry Index="702"></Entry>
+  <Entry Index="703">Você parece ter uma mochila cheia. Eu vou mandar eles te levarem
+descansar para a geladeira.
+para a geladeira.&lt;wait&gt;</Entry>
+  <Entry Index="704">Você parece ter uma mochila cheia. Eu vou mandar eles te levarem
+descanse no armário.&lt;wait&gt;</Entry>
+  <Entry Index="705">O seu bolso de ferramentas está cheio. Eu vou mandar eles te levarem
+o restante para a caixa de ferramentas.&lt;wait&gt;</Entry>
+  <Entry Index="706">Ah. Não só você tem uma mochila cheia, mas também o
+geladeira.
+Libere algum espaço.&lt;wait&gt;</Entry>
+  <Entry Index="707">Ah. Não só você tem uma mochila cheia, mas seu guarda-roupa
+também.
+Libere algum espaço.&lt;wait&gt;</Entry>
+  <Entry Index="708">Ah. Não só o seu bolso de ferramentas está cheio, mas
+sua caixa de ferramentas também. Eu preciso que você libere um
+pouco espaço antes.&lt;wait&gt;</Entry>
+  <Entry Index="709"></Entry>
+  <Entry Index="710"></Entry>
+  <Entry Index="711"></Entry>
+  <Entry Index="712"></Entry>
+  <Entry Index="713"></Entry>
+  <Entry Index="714"></Entry>
+  <Entry Index="715"></Entry>
+  <Entry Index="716"></Entry>
+  <Entry Index="717"></Entry>
+  <Entry Index="718"></Entry>
+  <Entry Index="719"></Entry>
+  <Entry Index="720"></Entry>
+  <Entry Index="721"></Entry>
+  <Entry Index="722"></Entry>
+  <Entry Index="723"></Entry>
+  <Entry Index="724"></Entry>
+  <Entry Index="725"></Entry>
+  <Entry Index="726"></Entry>
+  <Entry Index="727"></Entry>
+  <Entry Index="728"></Entry>
+  <Entry Index="729"></Entry>
+  <Entry Index="730"></Entry>
+  <Entry Index="731"></Entry>
+  <Entry Index="732"></Entry>
+  <Entry Index="733"></Entry>
+  <Entry Index="734"></Entry>
+  <Entry Index="735"></Entry>
+  <Entry Index="736"></Entry>
+  <Entry Index="737"></Entry>
+  <Entry Index="738">Aham! Eu vou trabalhar agora. Você se importa de sair?&lt;wait&gt;</Entry>
+  <Entry Index="739"></Entry>
+  <Entry Index="740"></Entry>
+  <Entry Index="741"></Entry>
+  <Entry Index="742"></Entry>
+  <Entry Index="743"></Entry>
+  <Entry Index="744"></Entry>
+  <Entry Index="745">Qual ferramenta você deseja melhorar?</Entry>
+  <Entry Index="746">Melhorar esta ferramenta?</Entry>
+  <Entry Index="747"></Entry>
+  <Entry Index="748"></Entry>
+  <Entry Index="749"></Entry>
+  <Entry Index="750"></Entry>
+  <Entry Index="751"></Entry>
+  <Entry Index="752"></Entry>
+  <Entry Index="753"></Entry>
+  <Entry Index="754"></Entry>
+  <Entry Index="755">Você entregou sua &lt;string0&gt;, seu
+&lt;cadeia1&gt; e você &lt;string2&gt;, e você tem
+solicitado para melhorar sua &lt;string3&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="756">Martelo</Entry>
+  <Entry Index="757">Enxada</Entry>
+  <Entry Index="758">Foice</Entry>
+  <Entry Index="759">Chuveiro</Entry>
+  <Entry Index="760">Machado</Entry>
+  <Entry Index="761">Vara de pesca</Entry>
+  <Entry Index="762"></Entry>
+  <Entry Index="763">Cobre</Entry>
+  <Entry Index="764">Prata</Entry>
+  <Entry Index="765">Ouro</Entry>
+  <Entry Index="766">Mythril</Entry>
+  <Entry Index="767">Lendário</Entry>
+  <Entry Index="768">Foice</Entry>
+  <Entry Index="769">Enxada</Entry>
+  <Entry Index="770">Machado</Entry>
+  <Entry Index="771">Martelo</Entry>
+  <Entry Index="772">Chuveiro</Entry>
+  <Entry Index="773">Vara de pesca</Entry>
+  <Entry Index="774">Dias restantes</Entry>
+  <Entry Index="775">-</Entry>
+  <Entry Index="776">1 dia </Entry>
+  <Entry Index="777">2 dias </Entry>
+  <Entry Index="778">3 dias </Entry>
+  <Entry Index="779">4 dias </Entry>
+  <Entry Index="780">5 dias </Entry>
+  <Entry Index="781">6 dias </Entry>
+  <Entry Index="782">7 dias </Entry>
+  <Entry Index="783"></Entry>
+  <Entry Index="784"></Entry>
+  <Entry Index="785"></Entry>
+  <Entry Index="786"></Entry>
+  <Entry Index="787"></Entry>
+  <Entry Index="788">Solicitar processamento?</Entry>
+  <Entry Index="789">Ah! Eu vou trabalhar agora. Você se importa de sair?&lt;wait&gt;&lt;page&gt;
+Venha buscar sua &lt;string0&gt; quando
+o tempo especificado expirou.&lt;wait&gt;</Entry>
+  <Entry Index="790">Muito bom. Estes são o adamantite e o pagamento que eu preciso
+para fazer o trabalho.&lt;wait&gt;&lt;page&gt;
+Quando terminar, vou colocar a maionese no seu curral, assim­
+não se preocupe.&lt;wait&gt;</Entry>
+  <Entry Index="791">Muito bom. Estes são o adamantite e o pagamento que eu preciso
+para fazer o trabalho.&lt;wait&gt;&lt;page&gt;
+Quando terminar, vou colocar a máquina de queijo no seu
+celeiro, então não se preocupe.&lt;wait&gt;</Entry>
+  <Entry Index="792">Muito bom. Estes são o adamantite e o pagamento que eu preciso
+para fazer o trabalho.&lt;wait&gt;&lt;page&gt;
+Quando terminar, vou colocar a máquina de lã na sua caneta,
+então não se preocupe.&lt;wait&gt;</Entry>
+  <Entry Index="793">Muito bom. Estes são o adamantite e o pagamento que eu preciso
+para fazer o trabalho.&lt;wait&gt;&lt;page&gt;
+Quando terminar, vou colocar a máquina de lã no seu celeiro,
+então não se preocupe.&lt;wait&gt;</Entry>
+  <Entry Index="794">Muito bom. Estes são o adamantite e o pagamento que eu preciso
+para fazer o trabalho.&lt;wait&gt;&lt;page&gt;
+Quando eu terminar vou colocar a máquina de geleia no seu
+casa, então não se preocupe.&lt;wait&gt;</Entry>
+  <Entry Index="795">Muito bom. Estes são o adamantite e o pagamento que eu preciso
+para fazer o trabalho.&lt;wait&gt;&lt;page&gt;
+Quando terminar, vou colocar a batedeira no seu celeiro, assim­
+não se preocupe.&lt;wait&gt;</Entry>
+  <Entry Index="796">EXP</Entry>
+  <Entry Index="797">Trabalho na
+curso</Entry>
+  <Entry Index="798">Em posse</Entry>
+  <Entry Index="799">Materiais
+necessário</Entry>
+  <Entry Index="800">Você enviou sua &lt;string0&gt; e você
+&lt;cadeia1&gt; e você solicitou que eu modificasse seu
+&lt;string2&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="801">Essa ferramenta não está pronta para aprimoramento.&lt;wait&gt;</Entry>
+  <Entry Index="802">Você não tem o minério necessário para atualizar esse
+ferramenta. Você pode obtê-lo na mina de primavera.&lt;wait&gt;</Entry>
+  <Entry Index="803">Parece que você não tem seu
+&lt;string0&gt; &lt;cadeia1&gt;.
+Traga a ferramenta que deseja atualizar.&lt;wait&gt;</Entry>
+  <Entry Index="804">Parece que você não tem minérios que eu possa
+trabalhar.
+Você pode procurá-lo na mina da primavera.&lt;wait&gt;</Entry>
+  <Entry Index="805">Solicitar esta extensão?</Entry>
+  <Entry Index="806">Em construção</Entry>
+  <Entry Index="807">Materiais Necessários</Entry>
+  <Entry Index="808">------Â G</Entry>
+  <Entry Index="809">Ei, você não tem madeira suficiente.&lt;wait&gt;</Entry>
+  <Entry Index="810">Ei, você não tem material suficiente.&lt;wait&gt;</Entry>
+  <Entry Index="811">Mmmm... Vou pegar sua &lt;string0&gt;
+até terminar. Tudo bem para você?&lt;wait&gt;</Entry>
+  <Entry Index="812">Então começarei a trabalhar logo pela manhã.&lt;wait&gt;</Entry>
+  <Entry Index="813">Ei, você não tem dinheiro suficiente.&lt;wait&gt;</Entry>
+  <Entry Index="814">Ei, parece que você não aguenta mais nada.&lt;wait&gt;</Entry>
+  <Entry Index="815">Você precisa de mais alguma coisa?&lt;wait&gt;</Entry>
+  <Entry Index="816">Desculpe. Não posso aceitar outro emprego até
+Termina agora. Era assim que funcionava.&lt;wait&gt;</Entry>
+  <Entry Index="817">É exatamente isso que você tem.&lt;wait&gt;</Entry>
+  <Entry Index="818">Ei, parece que você não pode plantar mais nada.&lt;wait&gt;</Entry>
+  <Entry Index="819"></Entry>
+  <Entry Index="820"></Entry>
+  <Entry Index="821"></Entry>
+  <Entry Index="822"></Entry>
+  <Entry Index="823"></Entry>
+  <Entry Index="824"></Entry>
+  <Entry Index="825"></Entry>
+  <Entry Index="826"></Entry>
+  <Entry Index="827"></Entry>
+  <Entry Index="828">Compre animais</Entry>
+  <Entry Index="829">Comprar equipamentos e itens </Entry>
+  <Entry Index="830">Vender animais</Entry>
+  <Entry Index="831">Compre animais</Entry>
+  <Entry Index="832">Comprar equipamentos e itens </Entry>
+  <Entry Index="833">Vender animais</Entry>
+  <Entry Index="834">Melhorar ferramentas</Entry>
+  <Entry Index="835">Comprar ferramentas</Entry>
+  <Entry Index="836">Pedidos</Entry>
+  <Entry Index="837">Reformas</Entry>
+  <Entry Index="838">Estou mantendo</Entry>
+  <Entry Index="839">Nenhum</Entry>
+  <Entry Index="840"></Entry>
+  <Entry Index="841"></Entry>
+  <Entry Index="842"></Entry>
+  <Entry Index="843"></Entry>
+  <Entry Index="844"></Entry>
+  <Entry Index="845"></Entry>
+  <Entry Index="846"></Entry>
+  <Entry Index="847"></Entry>
+  <Entry Index="848"></Entry>
+  <Entry Index="849">Loja de Vans</Entry>
+  <Entry Index="850">Pet shop</Entry>
+  <Entry Index="851">Animais de estimação atuais</Entry>
+  <Entry Index="852">Escolher isto?</Entry>
+  <Entry Index="853"></Entry>
+  <Entry Index="854"></Entry>
+  <Entry Index="855"></Entry>
+  <Entry Index="856"></Entry>
+  <Entry Index="857"></Entry>
+  <Entry Index="858"></Entry>
+  <Entry Index="859"></Entry>
+  <Entry Index="860"></Entry>
+  <Entry Index="861"></Entry>
+  <Entry Index="862"></Entry>
+  <Entry Index="863"></Entry>
+  <Entry Index="864"></Entry>
+  <Entry Index="865"></Entry>
+  <Entry Index="866"></Entry>
+  <Entry Index="867"></Entry>
+  <Entry Index="868"></Entry>
+  <Entry Index="869"></Entry>
+  <Entry Index="870"></Entry>
+  <Entry Index="871"></Entry>
+  <Entry Index="872"></Entry>
+  <Entry Index="873"></Entry>
+  <Entry Index="874"></Entry>
+  <Entry Index="875"></Entry>
+  <Entry Index="876"></Entry>
+  <Entry Index="877"></Entry>
+  <Entry Index="878"></Entry>
+  <Entry Index="879">Vá para casa e verifique seu gramofone. Existe todo o seu
+música!&lt;wait&gt;</Entry>
+  <Entry Index="880">Sua casa atual é muito pequena para ter mais de
+um animal de estimação.&lt;wait&gt;&lt;page&gt;
+Você pode ter mais espaço ao expandi -lo.&lt;wait&gt;</Entry>
+  <Entry Index="881">Sua casa atual é pequena demais para ter mais de
+três animais de estimação.&lt;wait&gt;&lt;page&gt;
+Você pode ter mais espaço ao expandi -lo.&lt;wait&gt;</Entry>
+  <Entry Index="882"></Entry>
+  <Entry Index="883"></Entry>
+  <Entry Index="884"></Entry>
+  <Entry Index="885"></Entry>
+  <Entry Index="886"></Entry>
+  <Entry Index="887">Mmmm... Você se importa se eu pedir para você voltar quando
+Você já se acostumou a ter um animal de estimação?&lt;wait&gt;</Entry>
+  <Entry Index="888">Você não pode ter mais animais de estimação.</Entry>
+  <Entry Index="889"></Entry>
+  <Entry Index="890"></Entry>
+  <Entry Index="891">Registro</Entry>
+  <Entry Index="892">Escolha um animal de estimação</Entry>
+  <Entry Index="893">Você quer isso?</Entry>
+  <Entry Index="894">Tem certeza de que deseja sair?</Entry>
+  <Entry Index="895">Ei, não posso fazer nada com o que você tem.&lt;wait&gt;</Entry>
+</Entries>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entries Count="26">
+  <Entry Index="0">Mochila</Entry>
+  <Entry Index="1">Quantidade que
+deseja descartar:</Entry>
+  <Entry Index="2">Bolsa de Ferramentas</Entry>
+  <Entry Index="3">[UNUSED SKIP]</Entry>
+  <Entry Index="4">[UNUSED SKIP]</Entry>
+  <Entry Index="5">[UNUSED SKIP]</Entry>
+  <Entry Index="6">Geladeira</Entry>
+  <Entry Index="7">Objetos na Geladeira</Entry>
+  <Entry Index="8">Se mover este objeto, perderá seu embrulho.
+Você quer movê-lo?</Entry>
+  <Entry Index="9">Caixa de Ferramentas</Entry>
+  <Entry Index="10">Objetos na Caixa de Ferramentas</Entry>
+  <Entry Index="11">Armário</Entry>
+  <Entry Index="12">Objetos no Armário</Entry>
+  <Entry Index="13">Materiais</Entry>
+  <Entry Index="14">Caixa de Envio</Entry>
+  <Entry Index="15">Enviar objetos</Entry>
+  <Entry Index="16">Enviar tudo de uma vez?</Entry>
+  <Entry Index="17">*Uma vez que coloque algo na caixa de envio,
+você não poderá retirá-lo.</Entry>
+  <Entry Index="18">Enviar</Entry>
+  <Entry Index="19">Encomendar objetos?</Entry>
+  <Entry Index="20">Encomendar</Entry>
+  <Entry Index="21">Toca-discos</Entry>
+  <Entry Index="22">Música</Entry>
+  <Entry Index="23"></Entry>
+  <Entry Index="24"></Entry>
+  <Entry Index="25"></Entry>
+</Entries>

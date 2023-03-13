@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entries Count="73">
+  <Entry Index="0">Pedregulho Grande
+Uma carga de martelo de nível 5 é necessária para
+quebrá-lo.&lt;wait&gt;</Entry>
+  <Entry Index="1">Rocha
+Uma carga de martelo de pelo menos nível 2 é necessária
+para quebrá-la.&lt;wait&gt;</Entry>
+  <Entry Index="2">Pedregulho
+Uma carga de martelo de pelo menos nível 3 é necessária
+para quebrá-lo.&lt;wait&gt;</Entry>
+  <Entry Index="3">Toco
+Uma carga de machado de pelo menos nível 2 é necessária
+para cortá-lo.&lt;wait&gt;</Entry>
+  <Entry Index="4">Toco Rígido
+Uma carga de machado de pelo menos nível 4 é necessária
+para cortá-lo.&lt;wait&gt;</Entry>
+  <Entry Index="5">Oh, não. A Cesta está cheia...&lt;wait&gt;</Entry>
+  <Entry Index="6">Boa! Eu pesquei um &lt;low&gt;&lt;string0&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="7">Boa! Eu pesquei um &lt;low&gt;&lt;string0&gt;. Medindo
+&lt;string1&gt; cm.&lt;wait&gt;</Entry>
+  <Entry Index="8">Boa! Eu pesquei um &lt;low&gt;&lt;string0&gt;. Medindo
+&lt;string1&gt; m.&lt;wait&gt;</Entry>
+  <Entry Index="9">Boa! Eu pesquei um &lt;low&gt;&lt;string0&gt;.
+Medindo &lt;string1&gt; m e &lt;string2&gt; cm.&lt;wait&gt;</Entry>
+  <Entry Index="10">Oh uau, um peixe Guardião!!&lt;wait&gt;</Entry>
+  <Entry Index="11">Uau, é o maior &lt;string0&gt; que já peguei!</Entry>
+  <Entry Index="12">Oh... Ele escapou.&lt;wait&gt;</Entry>
+  <Entry Index="13">Há uma receita escrita na carta!&lt;wait&gt;</Entry>
+  <Entry Index="14">Você já pescou 10.000 peixes!&lt;wait&gt;&lt;page&gt;
+Parabéns! Que? Ah, isso é tudo.&lt;wait&gt;&lt;page&gt;
+Não há nenhum prêmio especial. Isso é tudo o que eu
+queria dizer a você. Obrigada e minha saudação
+especial. Até mais!&lt;wait&gt;</Entry>
+  <Entry Index="15">Você já pescou 100.000 peixes!&lt;wait&gt;&lt;page&gt;
+Parabéns! Que? Ah, isso é tudo.&lt;wait&gt;&lt;page&gt;
+Não há nenhum prêmio especial. Isso é tudo o que eu
+queria dizer a você. Obrigado e minha saudação
+especial. Até mais!&lt;wait&gt;</Entry>
+  <Entry Index="16">Você já pescou 1 000 000 peixes!&lt;wait&gt;&lt;page&gt;
+Parabéns! Que? Ah, isso é tudo.&lt;wait&gt;&lt;page&gt;
+Não há nenhum prêmio especial. Isso é tudo o que eu
+queria dizer a você. Obrigado e minha saudação
+especial. Até mais!&lt;wait&gt;</Entry>
+  <Entry Index="17">Você já pescou 10 000 000 peixes!&lt;wait&gt;&lt;page&gt;
+Parabéns! Que? Ah, isso é tudo.&lt;wait&gt;&lt;page&gt;
+Não há nenhum prêmio especial. Isso é tudo o que eu
+queria dizer a você. Obrigado e minha saudação
+especial. Até mais!&lt;wait&gt;</Entry>
+  <Entry Index="18">Você já pescou 100 000 000 peixes!&lt;wait&gt;&lt;page&gt;
+Parabéns! Que? Ah, isso é tudo.&lt;wait&gt;&lt;page&gt;
+Não há nenhum prêmio especial. Isso é tudo o que eu
+queria dizer a você. Obrigado e minha saudação
+especial. Até mais!&lt;wait&gt;</Entry>
+  <Entry Index="19">Você já pescou 1 000 000 000 peixes!&lt;wait&gt;&lt;page&gt;
+Parabéns! Que? Ah, isso é tudo.&lt;wait&gt;&lt;page&gt;
+Não há nenhum prêmio especial. Isso é tudo o que eu
+queria dizer a você. Obrigado e minha saudação
+especial. Até mais!&lt;wait&gt;</Entry>
+  <Entry Index="20">Você já pescou todo tipo de peixe que existe!&lt;wait&gt;&lt;page&gt;
+Parabéns! Que? Ah, isso é tudo.&lt;wait&gt;&lt;page&gt;
+Não há nenhum prêmio especial. Isso é tudo o que eu
+queria dizer a você. Obrigado e minha saudação
+especial. Até mais!&lt;wait&gt;</Entry>
+  <Entry Index="21">Se você está aqui, isso significa que você não está
+nem no nível 1 da mina da fonte ou do lago!&lt;wait&gt;</Entry>
+  <Entry Index="22">Quer descer?</Entry>
+  <Entry Index="23">Sim</Entry>
+  <Entry Index="24">Não</Entry>
+  <Entry Index="25">Oops... Já é dia.&lt;wait&gt;</Entry>
+  <Entry Index="26">Mina da Fonte, nível &lt;string0&gt;&lt;wait&gt;</Entry>
+  <Entry Index="27">Mina do Lago, nível &lt;string0&gt;&lt;wait&gt;</Entry>
+  <Entry Index="28">Voltar à superfície?</Entry>
+  <Entry Index="29">Acho que chegou a hora do nascimento!&lt;wait&gt;</Entry>
+  <Entry Index="30">Nasceu um pintinho! Eu deveria dar-lhe um nome.&lt;wait&gt;</Entry>
+  <Entry Index="31">Nasceu um bezerro! Eu deveria dar-lhe um nome.&lt;wait&gt;</Entry>
+  <Entry Index="32">Nasceu um cordeiro! Eu deveria dar-lhe um nome.&lt;wait&gt;</Entry>
+  <Entry Index="33">Nasceu um filhote! Eu deveria dar-lhe um nome.&lt;wait&gt;</Entry>
+  <Entry Index="34">Nasceu um filhote! Eu deveria dar-lhe um nome&lt;wait&gt;</Entry>
+  <Entry Index="35">A família cresceu um pouco. eu tenho que continuar
+trabalhando para cuidar de todos.&lt;wait&gt;</Entry>
+  <Entry Index="36">[UNUSED SKIP]</Entry>
+  <Entry Index="37">[UNUSED SKIP]</Entry>
+  <Entry Index="38">[UNUSED SKIP]</Entry>
+  <Entry Index="39">[UNUSED SKIP]</Entry>
+  <Entry Index="40">[UNUSED SKIP]</Entry>
+  <Entry Index="41">Opa! Eu dormi demais.&lt;wait&gt;</Entry>
+  <Entry Index="42">Ótimo! A maldição do Martelo Amaldiçoado foi removida!&lt;wait&gt;</Entry>
+  <Entry Index="43">Ótimo! A maldição da Foice Amaldiçoada foi removida!&lt;wait&gt;</Entry>
+  <Entry Index="44">Olá! Vim buscar as coisas da Caixa de Envio.&lt;wait&gt;</Entry>
+  <Entry Index="45">Uau! Você vai mandar muito, não vai? Ótimo, continue!
+assim!&lt;wait&gt;</Entry>
+  <Entry Index="46">Uau, você não tem nada para mim hoje?&lt;wait&gt;</Entry>
+  <Entry Index="47">Por que não experimenta algumas galinhas?
+Se você cuidar bem delas, elas lhe darão
+ovos frescos todos os dias!&lt;wait&gt;</Entry>
+  <Entry Index="48">Por que você não experimenta algumas vacas?
+Se você cuidar bem delas, quando crescerem,
+elas lhe darão leite fresco!&lt;wait&gt;</Entry>
+  <Entry Index="49">Por que você não experimenta algumas ovelhas?
+Se você cuidar bem delas, quando crescerem,
+elas lhe darão uma boa lã!&lt;wait&gt;</Entry>
+  <Entry Index="50">Você sabia que pode vender minérios e joias? Porque não
+tente encontrar alguns nas minas?&lt;wait&gt;</Entry>
+  <Entry Index="51">Você sabia que pode ir para a mina do lago no inverno, né?
+Dizem que há coisas estranhas lá.
+Dê uma olhada, está bem?&lt;wait&gt;</Entry>
+  <Entry Index="52">Você sabia que pode encontrar coisas no chão do
+bosque, certo? Por que você não tenta procurar?&lt;wait&gt;</Entry>
+  <Entry Index="53">Já pensou em plantar algumas sementes?
+Na mercearia você encontra de todo tipo.&lt;wait&gt;</Entry>
+  <Entry Index="54">Já pensou em ir pescar um dia? O peixe é
+vendido a um bom preço, sabia?&lt;wait&gt;</Entry>
+  <Entry Index="55">Ótimo! A maldição da Enxada Amaldiçoada foi removida!&lt;wait&gt;</Entry>
+  <Entry Index="56">Ótimo! A maldição do Regador Amaldiçoado foi removida!&lt;wait&gt;</Entry>
+  <Entry Index="57">Ótimo! A maldição do Machado Amaldiçoado foi removida&lt;wait&gt;</Entry>
+  <Entry Index="58">Ótimo! A maldição da Vara de Pesca Amaldiçoada
+foi removida!&lt;wait&gt;</Entry>
+  <Entry Index="59">Agora você tem &lt;string0&gt;. Enviar
+relatório de erros.</Entry>
+  <Entry Index="60">Parece que você não pode usar a Pedra de Viagem aqui...&lt;wait&gt;</Entry>
+  <Entry Index="61">Parece que você não pode sair agora...&lt;wait&gt;</Entry>
+  <Entry Index="62">Opa! A Foice subiu de nível!
+Já posso melhorá-la no ferreiro!</Entry>
+  <Entry Index="63">Opa! A Enxada subiu de nível!
+Já posso melhorá-la no ferreiro!</Entry>
+  <Entry Index="64">Opa! O Machado subiu de nível!
+Já posso melhorá-lo no ferreiro!</Entry>
+  <Entry Index="65">Opa! O Martelo subiu de nível!
+Já posso melhorá-lo no ferreiro!</Entry>
+  <Entry Index="66">Opa! O Regador subiu de nível!
+Já posso melhorá-lo no ferreiro!</Entry>
+  <Entry Index="67">Opa! A Vara de Pescar subiu de nível!
+Já posso melhorá-la no ferreiro!</Entry>
+  <Entry Index="68">0</Entry>
+  <Entry Index="69">0</Entry>
+  <Entry Index="70">0</Entry>
+  <Entry Index="71">0</Entry>
+  <Entry Index="72">0</Entry>
+</Entries>

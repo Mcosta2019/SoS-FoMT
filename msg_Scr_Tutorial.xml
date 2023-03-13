@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Entries Count="525">
+  <Entry Index="0">A Cidade Mineral dá as boas-vindas a você!</Entry>
+  <Entry Index="1">Sua nova vida na Cidade Mineral está apenas começando!</Entry>
+  <Entry Index="2">Há muitas pessoas interessantes morando aqui, e
+muitas lojas que vendem tudo que você precisa,
+comece suas aventuras na fazenda!</Entry>
+  <Entry Index="3">Perto daqui há uma montanha cheia de tesouros
+naturais e que possui uma vista incrivel do topo.</Entry>
+  <Entry Index="4">Agora que você tem uma fazenda, pode tentar fazer todos
+os tipos de atividades: agricultura, criação de animais,
+exploração do bosque, cavar na mina... e muito mais!</Entry>
+  <Entry Index="5">Se você não sabe por onde começar, fale com as pessoas da
+cidade para ouvir seus conselhos.</Entry>
+  <Entry Index="6">Esperamos que você aproveite sua nova vida na fazenda
+e nesta cidade maravilhosa.</Entry>
+  <Entry Index="7">dummy</Entry>
+  <Entry Index="8">dummy</Entry>
+  <Entry Index="9">dummy</Entry>
+  <Entry Index="10">dummy</Entry>
+  <Entry Index="11">dummy</Entry>
+  <Entry Index="12">dummy</Entry>
+  <Entry Index="13">dummy</Entry>
+  <Entry Index="14">dummy</Entry>
+  <Entry Index="15">dummy</Entry>
+  <Entry Index="16">dummy</Entry>
+  <Entry Index="17">dummy</Entry>
+  <Entry Index="18">dummy</Entry>
+  <Entry Index="19">dummy</Entry>
+  <Entry Index="20">dummy</Entry>
+  <Entry Index="21">Resistência e Fadiga</Entry>
+  <Entry Index="22">Seu personagem tem dois atributos principais: a
+resistência e a fadiga.</Entry>
+  <Entry Index="23">As frutas vermelhas no canto superior esquerdo da
+tela representam sua resistência. A Resistência será
+reduzida ao executar ações como usar uma ferramenta.</Entry>
+  <Entry Index="24">Se você continuar trabalhando quando sua resistência,
+chegar a zero, você acumulará fadiga.</Entry>
+  <Entry Index="25">A fadiga também se acumula se você fizer coisas como
+ficar acordado até tarde trabalhando fora ou
+quando o tempo estiver ruim.</Entry>
+  <Entry Index="26">O ícone de um rosto no canto superior esquerdo da
+tela indica seu nível de fadiga. Vai mudar à medida que você for
+acumulando fadiga.</Entry>
+  <Entry Index="27">Se você se esforçar demais, vai desmaiar e acordar
+na clínica. Tenha cuidado e tente evitar que isso aconteça!</Entry>
+  <Entry Index="28">Você pode recuperar a resistência e aliviar a fadiga
+ao tomar banho e comer, mas o melhor remédio é uma
+noite de descanso completo.</Entry>
+  <Entry Index="29">dummy</Entry>
+  <Entry Index="30">dummy</Entry>
+  <Entry Index="31">dummy</Entry>
+  <Entry Index="32">dummy</Entry>
+  <Entry Index="33">dummy</Entry>
+  <Entry Index="34">dummy</Entry>
+  <Entry Index="35">dummy</Entry>
+  <Entry Index="36">dummy</Entry>
+  <Entry Index="37">dummy</Entry>
+  <Entry Index="38">dummy</Entry>
+  <Entry Index="39">dummy</Entry>
+  <Entry Index="40">dummy</Entry>
+  <Entry Index="41">dummy</Entry>
+  <Entry Index="42">Enviando Objetos</Entry>
+  <Entry Index="43">Você pode colocar seus produtos da fazenda na Caixa
+de Envio para envia-los e ganhar dinheiro.</Entry>
+  <Entry Index="44">Zack passará todos os dias às 17:00 para pegar o que
+que você deixou na caixa e fazer o pagamento. Virá quase
+todos os dias, exceto feriados.</Entry>
+  <Entry Index="45">Além da Caixa de Envio ao lado de seu jardim,
+você encontrará outras em seu Celeiro e Galinheiro.</Entry>
+  <Entry Index="46">Para colocar um objeto na Caixa de Envio, segure-o com
+as mãos e examine a Caixa de Envio.</Entry>
+  <Entry Index="47">Você pode depositar vários itens de sua mochila de
+uma só vez se você examinar a caixa enquanto
+não tiver nada em mãos.</Entry>
+  <Entry Index="48">Tenha cuidado! Depois de colocar um objeto na Caixa
+Envio, você não poderá recuperá-lo.</Entry>
+  <Entry Index="49">dummy</Entry>
+  <Entry Index="50">dummy</Entry>
+  <Entry Index="51">dummy</Entry>
+  <Entry Index="52">dummy</Entry>
+  <Entry Index="53">dummy</Entry>
+  <Entry Index="54">dummy</Entry>
+  <Entry Index="55">dummy</Entry>
+  <Entry Index="56">dummy</Entry>
+  <Entry Index="57">dummy</Entry>
+  <Entry Index="58">dummy</Entry>
+  <Entry Index="59">dummy</Entry>
+  <Entry Index="60">dummy</Entry>
+  <Entry Index="61">dummy</Entry>
+  <Entry Index="62">dummy</Entry>
+  <Entry Index="63">Cuidados com a Colheita</Entry>
+  <Entry Index="64">Para cultivar, primeiro você precisa lavrar a terra com a
+Enxada. Equipe-se com uma enxada e aperte o botão
+ferramenta.</Entry>
+  <Entry Index="65">Você não pode cultivar áreas onde existam obstáculos.
+Para limpar o terreno, corte a grama com a Foice ou
+empurre o obstáculo com o botão de Confirmação.</Entry>
+  <Entry Index="66">Equipe-se um Martelo para quebrar pedras e um Machado
+para cortar galhos. Você também pode remover outros
+obstáculos se você pegá-los ou movê-los.</Entry>
+  <Entry Index="67">Você não poderá mover blocos muito grandes ou
+tocos de árvore. Para se livrar deles, você terá
+que atualizar suas ferramentas no ferreiro.</Entry>
+  <Entry Index="68">Depois de lavrar a terra, use um Saco de Sementes
+para plantar. Você não pode semear nas áreas que não
+lavrou.</Entry>
+  <Entry Index="69">Depois de plantar as sementes, o próximo passo é
+regue-las com um Regador.</Entry>
+  <Entry Index="70">Para usar o Regador, primeiro você deve enchê-lo com água.
+Fique ao lado de uma fonte de água e use o botão Confirmar
+com o Regador em mãos para enchê-lo.</Entry>
+  <Entry Index="71">Irrigue os campos diariamente por vários dias e suas
+plantas vão crescer. Continue regando-as até que elas tenham
+amadurecido.</Entry>
+  <Entry Index="72">Algumas plantas são específicas para determinadas estações.
+A mercearia sempre venderá sementes sazonais.</Entry>
+  <Entry Index="73">Tenha cuidado! Se você plantar em uma estação que não seja
+corresponde, elas não irão crescer.</Entry>
+  <Entry Index="74">Há também plantas das quais você pode coletar mais
+de uma vez. Estas lhe oferecerão várias vezes seus frutos;
+depois de coletá-los, você pode regá-los novamente para
+crescer mais.</Entry>
+  <Entry Index="75">dummy</Entry>
+  <Entry Index="76">dummy</Entry>
+  <Entry Index="77">dummy</Entry>
+  <Entry Index="78">dummy</Entry>
+  <Entry Index="79">dummy</Entry>
+  <Entry Index="80">dummy</Entry>
+  <Entry Index="81">dummy</Entry>
+  <Entry Index="82">dummy</Entry>
+  <Entry Index="83">dummy</Entry>
+  <Entry Index="84">Minas</Entry>
+  <Entry Index="85">Você pode encontrar minérios e joias nas minas.
+Você precisará dos minérios para atualizar suas ferramentas,
+e as joias podem ser vendidas.</Entry>
+  <Entry Index="86">Para encontrar coisas na mina, você precisará da Enxada e
+o Martelo.</Entry>
+  <Entry Index="87">Use o Martelo para quebrar pedras e encontrar itens. Use a
+Enxada para descobrir escadas que levam aos níveis mais
+baixos. Às vezes você pode encontrar itens raros.</Entry>
+  <Entry Index="88">Quanto mais fundo você entra na mina, mais
+chances você terá de encontrar minérios raros e
+jóias valiosas.</Entry>
+  <Entry Index="89">Às vezes pode haver buracos escondidos no chão. se você cair
+em um deles você vai perder a resistência, mas é uma forma
+para descer vários níveis ao mesmo tempo.</Entry>
+  <Entry Index="90">Esses buracos podem ser descobertos com a Enxada, mas
+atenção! Você pode passar por um deles antes de
+encontrá-los....</Entry>
+  <Entry Index="91">Se você descer uma escada, você descerá apenas um nível.
+Se você subir as mesmas escadas, você irá diretamente
+para o primeiro andar.</Entry>
+  <Entry Index="92">Atenção! Você não pode usar as habilidades de carga das
+ferramentas enquanto estiver nas minas.</Entry>
+  <Entry Index="93">Você pode aprender receitas com pessoas da cidade
+ou assistindo TV. Às vezes, você também pode descobrir
+receitas simplesmente combinando os ingredientes certos.</Entry>
+  <Entry Index="94">Você pode cozinhar uma receita se tiver os ingredientes
+e utensílios necessários.</Entry>
+  <Entry Index="95">Você pode decidir se deseja usar ingredientes premium
+ou de baixa qualidade.</Entry>
+  <Entry Index="96">dummy</Entry>
+  <Entry Index="97">dummy</Entry>
+  <Entry Index="98">dummy</Entry>
+  <Entry Index="99">dummy</Entry>
+  <Entry Index="100">dummy</Entry>
+  <Entry Index="101">dummy</Entry>
+  <Entry Index="102">dummy</Entry>
+  <Entry Index="103">dummy</Entry>
+  <Entry Index="104">dummy</Entry>
+  <Entry Index="105">Cozinha</Entry>
+  <Entry Index="106">Para cozinhar, você precisará de uma receita e dos
+ingredientes. Algumas receitas também requerem
+certos utensílios.</Entry>
+  <Entry Index="107">Você pode aprender receitas com moradores da cidade ou
+assistindo a Televisão. Às vezes você também pode descobrir
+receitas simplesmente combinando os ingredientes certos.</Entry>
+  <Entry Index="108">Você pode cozinhar uma receita se tiver os ingredientes
+e utensílios necessários.</Entry>
+  <Entry Index="109">Você pode decidir se deseja usar ingredientes de
+qualidade premium ou de qualidade inferior.</Entry>
+  <Entry Index="110">dummy</Entry>
+  <Entry Index="111">dummy</Entry>
+  <Entry Index="112">dummy</Entry>
+  <Entry Index="113">dummy</Entry>
+  <Entry Index="114">dummy</Entry>
+  <Entry Index="115">dummy</Entry>
+  <Entry Index="116">dummy</Entry>
+  <Entry Index="117">dummy</Entry>
+  <Entry Index="118">dummy</Entry>
+  <Entry Index="119">dummy</Entry>
+  <Entry Index="120">dummy</Entry>
+  <Entry Index="121">dummy</Entry>
+  <Entry Index="122">dummy</Entry>
+  <Entry Index="123">dummy</Entry>
+  <Entry Index="124">dummy</Entry>
+  <Entry Index="125">dummy</Entry>
+  <Entry Index="126">Namoro</Entry>
+  <Entry Index="127">Se você quiser namorar uma pessoa especial, você deve
+primeiro confessar seus sentimentos a ela.</Entry>
+  <Entry Index="128">Para pedir alguém em casamento, equipe a
+Flor Preservada e dê a ele. No entanto, nem todas as
+confissões de amor saem bem.</Entry>
+  <Entry Index="129">Se você quiser aumentar suas chances de sucesso, melhore
+o nível de afeto com essa pessoa estando presente em
+vários momentos de sua vida.</Entry>
+  <Entry Index="130">Os corações indicam o nível de afeto com aquela pessoa,
+e será exibido para homens e mulheres.</Entry>
+  <Entry Index="131">Os corações indicam o nível de afeto com aquela pessoa,
+e será exibido para homens e mulheres.</Entry>
+  <Entry Index="132">dummy</Entry>
+  <Entry Index="133">dummy</Entry>
+  <Entry Index="134">dummy</Entry>
+  <Entry Index="135">dummy</Entry>
+  <Entry Index="136">dummy</Entry>
+  <Entry Index="137">dummy</Entry>
+  <Entry Index="138">dummy</Entry>
+  <Entry Index="139">dummy</Entry>
+  <Entry Index="140">dummy</Entry>
+  <Entry Index="141">dummy</Entry>
+  <Entry Index="142">dummy</Entry>
+  <Entry Index="143">dummy</Entry>
+  <Entry Index="144">dummy</Entry>
+  <Entry Index="145">dummy</Entry>
+  <Entry Index="146">dummy</Entry>
+  <Entry Index="147">Casamento</Entry>
+  <Entry Index="148">Se você quiser se casar com sua cara metade,
+você deve primeiro a propor em casamento.</Entry>
+  <Entry Index="149">Para pedir alguém em casamento, equipe a Pena Azul
+e dê a ele. Mas nada garante que vocês caminharam
+até o altar.</Entry>
+  <Entry Index="150">Para mais chances de sucesso, passe mais momentos com
+essa pessoa para aumentar o nível de afeto dela em relação
+a você. Você precisará ter uma Cama Grande em casa.</Entry>
+  <Entry Index="151">Você pode propor tanto a homens e mulheres, mas tenha em
+mente que você só pode se casar uma vez. Escolha bem!</Entry>
+  <Entry Index="152">dummy</Entry>
+  <Entry Index="153">dummy</Entry>
+  <Entry Index="154">dummy</Entry>
+  <Entry Index="155">dummy</Entry>
+  <Entry Index="156">dummy</Entry>
+  <Entry Index="157">dummy</Entry>
+  <Entry Index="158">dummy</Entry>
+  <Entry Index="159">dummy</Entry>
+  <Entry Index="160">dummy</Entry>
+  <Entry Index="161">dummy</Entry>
+  <Entry Index="162">dummy</Entry>
+  <Entry Index="163">dummy</Entry>
+  <Entry Index="164">dummy</Entry>
+  <Entry Index="165">dummy</Entry>
+  <Entry Index="166">dummy</Entry>
+  <Entry Index="167">dummy</Entry>
+  <Entry Index="168">Cuidando de Galinhas</Entry>
+  <Entry Index="169">Para criar as galinhas, você precisará alimentá-las
+diariamente. Retire a ração de galinha/coelho do
+dispensador e coloque-a nos comedouros.</Entry>
+  <Entry Index="170">Deve haver ração suficiente nos comedouros para
+alimentar todas as galinhas. Se você esquecer de dar
+de comer a elas, elas não crescerão ou botarão ovos.</Entry>
+  <Entry Index="171">Você pode alimentar suas galinhas diretamente.
+É importante que você dê muito amor aos seus animais.</Entry>
+  <Entry Index="172">Fique ao lado de uma galinha e pressione o botão
+Confirmar para falar com ela.</Entry>
+  <Entry Index="173">Se forem bem alimentadas, as galinhas botarão
+um ovo por dia.</Entry>
+  <Entry Index="174">Quanto mais suas galinhas gostarem de você, melhor
+será a qualidade de seus ovos.</Entry>
+  <Entry Index="175">Coloque um ovo na incubadora e em poucos dias ele
+eclodirá um pintainho.</Entry>
+  <Entry Index="176">Os pintinhos que nascerem em sua fazenda irão gostar
+de você mais rápido do que as galinhas que você comprar.</Entry>
+  <Entry Index="177">Toque a Sino do Galinheiro para fazer suas galinhas
+saírem para procurarem sua própria comida.</Entry>
+  <Entry Index="178">Deixe-os fora por várias horas e eles encontrarão sua
+própria comida, para que você não precise alimentá-los.</Entry>
+  <Entry Index="179">Às 20:00, as galinhas que estão do lado de fora
+retornarão automaticamente para o galinheiro.</Entry>
+  <Entry Index="180">dummy</Entry>
+  <Entry Index="181">dummy</Entry>
+  <Entry Index="182">dummy</Entry>
+  <Entry Index="183">dummy</Entry>
+  <Entry Index="184">dummy</Entry>
+  <Entry Index="185">dummy</Entry>
+  <Entry Index="186">dummy</Entry>
+  <Entry Index="187">dummy</Entry>
+  <Entry Index="188">dummy</Entry>
+  <Entry Index="189">Criação de Coelhos Angorá</Entry>
+  <Entry Index="190">Para criar coelhos angorá, você precisará alimentá-los
+diariamente. Retire ração para os coelhos/galinhas
+do dispensador e coloque-a nos comedouros.</Entry>
+  <Entry Index="191">Deve haver ração suficiente nos comedouros para
+alimentar todos os coelhos. Se você esquecer de dar
+de comer, eles levarão mais tempo para crescer.</Entry>
+  <Entry Index="192">Você pode alimentar seus coelhos diretamente.
+É importante que você dê muito amor aos seus animais.</Entry>
+  <Entry Index="193">Fique ao lado de um coelho e pressione o botão
+Confirmar para falar com ele.</Entry>
+  <Entry Index="194">Você também pode tosquiar seu coelho angorá.
+Você só precisa equipar a Tosquiadeira, ficar
+ao lado dele e pressionar o botão Confirmar.</Entry>
+  <Entry Index="195">Você pode cortar a pêlo de qualquer
+coelho angorá adulto.</Entry>
+  <Entry Index="196">Quanto mais carinho o coelho tiver por você,
+melhor será a qualidade de seu pêlo.</Entry>
+  <Entry Index="197">Você pode procriar coelhos angorá se ficar ao lado de um
+adulto e peludo e usar o Kit de Procriação para Coelhos.</Entry>
+  <Entry Index="198">A sua coelha terá um filhote dentro de alguns dias.
+Você pode comprar o Kit de Procriação para Coelhos
+na PoPoultry.</Entry>
+  <Entry Index="199">Depois de usar o Kit de Procriação, alimente o coelho
+colocando ração de coelhos na Área de Procriação.
+Em cinco dias nascerá um filhote.</Entry>
+  <Entry Index="200">Os filhotes que nascerem em sua fazenda irão gostar
+de você mais rápido do que os coelhos que você comprar.</Entry>
+  <Entry Index="201">Toque o Sino do Galinheiro para fazer seus coelhos
+angorá saírem para procurar sua prórpia comida.</Entry>
+  <Entry Index="202">Deixe-os de fora por várias horas e eles encontrarão sua
+própria comida, para que você não precise alimentá-los.</Entry>
+  <Entry Index="203">Às 20:00, os coelhos que estão do lado de fora retornarão
+automaticamente para o galinheiro.</Entry>
+  <Entry Index="204">dummy</Entry>
+  <Entry Index="205">dummy</Entry>
+  <Entry Index="206">dummy</Entry>
+  <Entry Index="207">dummy</Entry>
+  <Entry Index="208">dummy</Entry>
+  <Entry Index="209">dummy</Entry>
+  <Entry Index="210">Criação de Vacas</Entry>
+  <Entry Index="211">Para criar vacas, você precisará alimentá-las diariamente.
+Retire a forragem do silo e coloque-a nos comedouros.</Entry>
+  <Entry Index="212">Deve haver forragem suficiente para todas as suas vacas.
+Se você esquecer de alimentá-las, elas não crescerão
+e nem lhe darão leite.</Entry>
+  <Entry Index="213">Você pode alimentar suas vacas com forragem diretamente.
+É importante que você dê muito amor aos seus animais.</Entry>
+  <Entry Index="214">Fique ao lado de uma vaca e pressione o botão Confirmar
+para falar com ela.</Entry>
+  <Entry Index="215">Equipe uma Escova para escovar suas vacas.</Entry>
+  <Entry Index="216">Para ordenhar, equipe um Ordenhador e use-o
+em uma vaca.</Entry>
+  <Entry Index="217">Contanto que você as alimente, você pode ordenhá-las
+uma vez ao dia.</Entry>
+  <Entry Index="218">Quanto mais carinho a vaca tiver por você, melhor será
+a qualidade do seu leite.</Entry>
+  <Entry Index="219">Existem quatro tipos diferentes de vacas, e todas elas
+produzem diferentes tipos de leite.</Entry>
+  <Entry Index="220">Você pode criar vacas se ficar ao lado de uma adulta e
+e usar o Kit de Procriação para Vacas.</Entry>
+  <Entry Index="221">Sua vaca terá um bezerro em algumas semanas. Você pode
+comprar o Kit de Procriação para Vacas no Rancho Yodel.</Entry>
+  <Entry Index="222">Depois de usar o Kit de Procriação, alimente a vaca
+colocando forragem na Área de Procriação. Em três semanas,
+nascerá um bezerro.</Entry>
+  <Entry Index="223">Os bezerros nascidos em sua fazenda vão gostar de você
+mais rápido do que as vacas que você comprar.</Entry>
+  <Entry Index="224">Toque o Sino do Celeiro para que suas vacas
+saiam para pastar.</Entry>
+  <Entry Index="225">Deixe-as fora por várias horas e elas comerão a grama
+que encontrarem, se você já a tiver plantado
+e ela tiver crescido.</Entry>
+  <Entry Index="226">Às 20:00, as vacas que estão do lado de fora retornarão
+automaticamente para o celeiro.</Entry>
+  <Entry Index="227">dummy</Entry>
+  <Entry Index="228">dummy</Entry>
+  <Entry Index="229">dummy</Entry>
+  <Entry Index="230">dummy</Entry>
+  <Entry Index="231">Criação de Ovelhas</Entry>
+  <Entry Index="232">Para criar ovelhas, você precisará alimentá-las diariamente.
+Retire a forragem do silo e coloque-a nos comedouros.</Entry>
+  <Entry Index="233">Deve haver forragem suficiente para todas as suas ovelhas.
+Se você esquecer de alimentá-las, elas não crescerão.</Entry>
+  <Entry Index="234">Você pode alimentar suas ovelhas com forragem diretamente.
+É importante que você dê muito amor aos seus animais.</Entry>
+  <Entry Index="235">Fique ao lado de uma ovelha e pressione o botão Confirmar
+para falar com ela.</Entry>
+  <Entry Index="236">Equipe uma Escova para escovar suas ovelhas.</Entry>
+  <Entry Index="237">Para tosquiar suas ovelhas, equipe uma Tosquiadeira
+e use-a nela.</Entry>
+  <Entry Index="238">Você pode tosquiar ovelhas adultas que tenham lã.</Entry>
+  <Entry Index="239">Quanto mais carinho a ovelha tiver por você, melhor será
+a qualidade de sua lã.</Entry>
+  <Entry Index="240">Você pode criar ovelhas se ficar ao lado de uma adulta
+com lã e usar o Kit de Procriação de Ovelhas.</Entry>
+  <Entry Index="241">Sua ovelha terá um cordeiro em algumas semanas. Você pode
+comprar o Kit de Procriação para Ovelhas no Rancho Yodel.</Entry>
+  <Entry Index="242">Depois de usar o Kit de Procriação, alimente as ovelhas
+colocando forragem na Área de Procriação. Em três semanas,
+nascerá um cordeiro.</Entry>
+  <Entry Index="243">Os cordeiros nascidos em sua fazenda irão gostar de você
+mais rápido do que as ovelhas que você comprar.</Entry>
+  <Entry Index="244">Toque o Sino do Celeiro para que suas ovelhas
+saiam para pastar.</Entry>
+  <Entry Index="245">Deixe-as fora por várias horas e elas comerão a grama
+que encontrarem, se você já a tiver plantado
+e ela tiver crescido.</Entry>
+  <Entry Index="246">Às 20:00, as ovelhas que estão do lado de fora retornarão
+automaticamente para o celeiro.</Entry>
+  <Entry Index="247">dummy</Entry>
+  <Entry Index="248">dummy</Entry>
+  <Entry Index="249">dummy</Entry>
+  <Entry Index="250">dummy</Entry>
+  <Entry Index="251">dummy</Entry>
+  <Entry Index="252">Criação de Alpacas</Entry>
+  <Entry Index="253">Para criar alpacas, você precisará alimentá-las diariamente.
+Retire a forragem do silo e coloque-a nos comedouros.</Entry>
+  <Entry Index="254">Deve haver forragem suficiente para todas as suas alpacas.
+Se você esquecer de alimentá-las, elas não crescerão.</Entry>
+  <Entry Index="255">Você pode alimentar suas alpacas com a forragem diretamente.
+É importante que você dê muito amor aos seus animais.</Entry>
+  <Entry Index="256">Fique ao lado de uma alpaca e pressione o botão Confirmar
+para falar com ela.</Entry>
+  <Entry Index="257">Equipe uma Escova para escovar suas alpacas.</Entry>
+  <Entry Index="258">Para tosquiar sua alpaca, equipe a Tosquiadeira
+e use-a nela.</Entry>
+  <Entry Index="259">Você pode tosquiar as alpacas adultas que tenham fibra.</Entry>
+  <Entry Index="260">Quanto mais carinho a alpaca tiver por você, melhor será
+a qualidade de sua fibra.</Entry>
+  <Entry Index="261">Você pode criar alpacas se ficar ao lado de uma adulta
+com fibra e você usar o Kit de Prociração para alpacas.</Entry>
+  <Entry Index="262">Sua alpaca terá um filhote em algumas semanas. Você pode
+comprar o Kit de Procriação para alpacas no Rancho Yodel.</Entry>
+  <Entry Index="263">Depois de usar o Kit de Procriação, alimente a alpaca
+colocando forragem na Área de Procriação.
+Um filhote nascerá em três semanas.</Entry>
+  <Entry Index="264">Os filhotes que nascem em sua fazenda vão gostar
+mais de você do que as alpacas que você comprar.</Entry>
+  <Entry Index="265">Toque o Sino no Celeiro para que as alpacas
+saiam para pastar.</Entry>
+  <Entry Index="266">Deixe-as fora por várias horas e eles comerão a grama
+que encontrarem, se você já a tiver plantado
+e ela tiver crescido.</Entry>
+  <Entry Index="267">Às 20:00, as alpacas que estão do lado de fora retornarão
+automaticamente para o celeiro.</Entry>
+  <Entry Index="268">dummy</Entry>
+  <Entry Index="269">dummy</Entry>
+  <Entry Index="270">dummy</Entry>
+  <Entry Index="271">dummy</Entry>
+  <Entry Index="272">dummy</Entry>
+  <Entry Index="273">[UNUSED SKIP]</Entry>
+  <Entry Index="274">[UNUSED SKIP]</Entry>
+  <Entry Index="275">[UNUSED SKIP]</Entry>
+  <Entry Index="276">[UNUSED SKIP]</Entry>
+  <Entry Index="277">[UNUSED SKIP]</Entry>
+  <Entry Index="278">[UNUSED SKIP]</Entry>
+  <Entry Index="279">dummy</Entry>
+  <Entry Index="280">dummy</Entry>
+  <Entry Index="281">dummy</Entry>
+  <Entry Index="282">dummy</Entry>
+  <Entry Index="283">dummy</Entry>
+  <Entry Index="284">dummy</Entry>
+  <Entry Index="285">dummy</Entry>
+  <Entry Index="286">dummy</Entry>
+  <Entry Index="287">dummy</Entry>
+  <Entry Index="288">dummy</Entry>
+  <Entry Index="289">dummy</Entry>
+  <Entry Index="290">dummy</Entry>
+  <Entry Index="291">dummy</Entry>
+  <Entry Index="292">dummy</Entry>
+  <Entry Index="293">dummy</Entry>
+  <Entry Index="294">Criação de Potros</Entry>
+  <Entry Index="295">Você não precisa alimentar os potros,
+mas você pode dar-lhes pestiscos.</Entry>
+  <Entry Index="296">Fique ao lado de um potro e pressione o botão Confirmar
+para falar com ele.</Entry>
+  <Entry Index="297">Equipe uma Escova para escovar seus potros.</Entry>
+  <Entry Index="298">Após cerca de 90 dias, o potro se tornará um
+cavalo adulto. Crie seus potros dando-lhes muito amor.</Entry>
+  <Entry Index="299">dummy</Entry>
+  <Entry Index="300">dummy</Entry>
+  <Entry Index="301">dummy</Entry>
+  <Entry Index="302">dummy</Entry>
+  <Entry Index="303">dummy</Entry>
+  <Entry Index="304">dummy</Entry>
+  <Entry Index="305">dummy</Entry>
+  <Entry Index="306">dummy</Entry>
+  <Entry Index="307">dummy</Entry>
+  <Entry Index="308">dummy</Entry>
+  <Entry Index="309">dummy</Entry>
+  <Entry Index="310">dummy</Entry>
+  <Entry Index="311">dummy</Entry>
+  <Entry Index="312">dummy</Entry>
+  <Entry Index="313">dummy</Entry>
+  <Entry Index="314">dummy</Entry>
+  <Entry Index="315">Cavalos</Entry>
+  <Entry Index="316">Seu personagem pode montar um cavalo adulto para
+viajar de um lugar para outro.</Entry>
+  <Entry Index="317">Para montar o cavalo ou aumentar a velocidade,
+pressione o botão Confirmar. Para reduzir, pressione o botão
+Cancelar.</Entry>
+  <Entry Index="318">Você pode deixar sua fazenda com o cavalo, mas lembre-se
+que, você não poderá entrar em edifícios
+se estiver cavalgando.</Entry>
+  <Entry Index="319">[UNUSED SKIP]</Entry>
+  <Entry Index="320">[UNUSED SKIP]</Entry>
+  <Entry Index="321">dummy</Entry>
+  <Entry Index="322">dummy</Entry>
+  <Entry Index="323">dummy</Entry>
+  <Entry Index="324">dummy</Entry>
+  <Entry Index="325">dummy</Entry>
+  <Entry Index="326">dummy</Entry>
+  <Entry Index="327">dummy</Entry>
+  <Entry Index="328">dummy</Entry>
+  <Entry Index="329">dummy</Entry>
+  <Entry Index="330">dummy</Entry>
+  <Entry Index="331">dummy</Entry>
+  <Entry Index="332">dummy</Entry>
+  <Entry Index="333">dummy</Entry>
+  <Entry Index="334">dummy</Entry>
+  <Entry Index="335">dummy</Entry>
+  <Entry Index="336">Pesca</Entry>
+  <Entry Index="337">Para pescar, equipe uma vara e pressione o botão
+ferramenta para lançar o anzol a sua frente.</Entry>
+  <Entry Index="338">Depois de lançado, sente-se e espere um peixe morder.</Entry>
+  <Entry Index="339">Quando a isca é mordida, você verá a boia
+puxar fortemente. Aperte o botão de ferramenta nesse momento
+para puxar o peixe.</Entry>
+  <Entry Index="340">Se o peixe escapar, é só esperar que venha
+outro e morda a isca.</Entry>
+  <Entry Index="341">Se você não puxar a tempo, coletará um anzol vazio.
+No entando, não desista! Lance a linha e tente novamente.</Entry>
+  <Entry Index="342">Se não houver peixes no ponto em que estiver pescando,
+enquanto aguardar, nada morderá o anzol. experimente
+em outro lugar.</Entry>
+  <Entry Index="343">Você pode pescar diferentes peixes dependendo do local
+e da temporada. Experimente pescar em lugares diferentes e
+em um horário diferente!</Entry>
+  <Entry Index="344">Às vezes você pode pegar peixes gigantes da classe
+Guardião e itens raros!</Entry>
+  <Entry Index="345">dummy</Entry>
+  <Entry Index="346">dummy</Entry>
+  <Entry Index="347">dummy</Entry>
+  <Entry Index="348">dummy</Entry>
+  <Entry Index="349">dummy</Entry>
+  <Entry Index="350">dummy</Entry>
+  <Entry Index="351">dummy</Entry>
+  <Entry Index="352">dummy</Entry>
+  <Entry Index="353">dummy</Entry>
+  <Entry Index="354">dummy</Entry>
+  <Entry Index="355">dummy</Entry>
+  <Entry Index="356">dummy</Entry>
+  <Entry Index="357">Colher a Plantação</Entry>
+  <Entry Index="358">Tente colher o máximo de nabos que puder dentro do
+limite de tempo.</Entry>
+  <Entry Index="359">Pressione o botão Confirmar repetidamente para que o
+Duende colha os nabos.</Entry>
+  <Entry Index="360">Se você pressinar muito rápido, o Duende fará muito
+esforço e ficará cansado. Se continuar assim
+por muito tempo, irá falhar.</Entry>
+  <Entry Index="361">Quando começar a cansar, reduza a velocidade com que
+você pressiona o botão e deixe o Duedne descansar.</Entry>
+  <Entry Index="362">dummy</Entry>
+  <Entry Index="363">dummy</Entry>
+  <Entry Index="364">dummy</Entry>
+  <Entry Index="365">dummy</Entry>
+  <Entry Index="366">dummy</Entry>
+  <Entry Index="367">dummy</Entry>
+  <Entry Index="368">dummy</Entry>
+  <Entry Index="369">dummy</Entry>
+  <Entry Index="370">dummy</Entry>
+  <Entry Index="371">dummy</Entry>
+  <Entry Index="372">dummy</Entry>
+  <Entry Index="373">dummy</Entry>
+  <Entry Index="374">dummy</Entry>
+  <Entry Index="375">dummy</Entry>
+  <Entry Index="376">dummy</Entry>
+  <Entry Index="377">dummy</Entry>
+  <Entry Index="378">Regar a Plantação</Entry>
+  <Entry Index="379">Memorize os pontos indicados e regue-os na ordem
+correta.</Entry>
+  <Entry Index="380">Será mostrado uma sequência a você. Memorize
+e regue na ordem em que foi determinada. </Entry>
+  <Entry Index="381">Em seguida, use os botões direcionais e Confirmar
+para irrigar seguindo o padrão. Repita esse
+processo três vezes.</Entry>
+  <Entry Index="382">Você receberá mais pontos se regar na ordem
+correta. Além disso, as sementes brotarão.</Entry>
+  <Entry Index="383">Se você errar pelo menos uma vez, as sementes não brotarão.</Entry>
+  <Entry Index="384">Tenha cuidado para não regar as áreas fora
+do padrão, e também não regue o mesmo local duas vezes.</Entry>
+  <Entry Index="385">dummy</Entry>
+  <Entry Index="386">dummy</Entry>
+  <Entry Index="387">dummy</Entry>
+  <Entry Index="388">dummy</Entry>
+  <Entry Index="389">dummy</Entry>
+  <Entry Index="390">dummy</Entry>
+  <Entry Index="391">dummy</Entry>
+  <Entry Index="392">dummy</Entry>
+  <Entry Index="393">dummy</Entry>
+  <Entry Index="394">dummy</Entry>
+  <Entry Index="395">dummy</Entry>
+  <Entry Index="396">dummy</Entry>
+  <Entry Index="397">dummy</Entry>
+  <Entry Index="398">dummy</Entry>
+  <Entry Index="399">Alimentar os Aniamis</Entry>
+  <Entry Index="400">Tente alimentar o máximo de galinhas que puder dentro do
+limite de tempo.</Entry>
+  <Entry Index="401">Use os botões direcionais para mover o Duende e o
+botão Confirmar para colocar ração de galinha nos
+comedouros.</Entry>
+  <Entry Index="402">Se você colocar ração em um comedouro cheio, as galinhas
+ficarão com raiva. Coloque somente nos comedouros que estão
+pela metade ou vazios.</Entry>
+  <Entry Index="403">Quando o comedouro está pela metade, a galinha ficará
+agitada. Se o comedouro estiver totalmente vazio, ela sairá do
+cercado.</Entry>
+  <Entry Index="404">Se a galinha sair do cercado, não voltará por um tempo.</Entry>
+  <Entry Index="405">Preste atenção ao comportamento das galinhas e
+alimente-as da forma mais eficiente possível.</Entry>
+  <Entry Index="406">dummy</Entry>
+  <Entry Index="407">dummy</Entry>
+  <Entry Index="408">dummy</Entry>
+  <Entry Index="409">dummy</Entry>
+  <Entry Index="410">dummy</Entry>
+  <Entry Index="411">dummy</Entry>
+  <Entry Index="412">dummy</Entry>
+  <Entry Index="413">dummy</Entry>
+  <Entry Index="414">dummy</Entry>
+  <Entry Index="415">dummy</Entry>
+  <Entry Index="416">dummy</Entry>
+  <Entry Index="417">dummy</Entry>
+  <Entry Index="418">dummy</Entry>
+  <Entry Index="419">dummy</Entry>
+  <Entry Index="420">Dérbi de Primavera/Outono</Entry>
+  <Entry Index="421">Preste atenção à resistência do cavalo durante
+a corrida para ficar em primeiro lugar.</Entry>
+  <Entry Index="422">Pressione o botão Confirmar repetidamente para
+aumentar a velocidade. Cuidado: quanto mais rápido você
+correr, mais rápido ficará sem resistência.</Entry>
+  <Entry Index="423">Você pode dizer quanta resistência seu cavalo tem
+observando a cor de seu balão. Enquanto estiver verde,
+ainda tem muita resistência sobrando.</Entry>
+  <Entry Index="424">Se sua resistência cair, o balão ficará amarelo.
+Continue acelerando e logo ficará vermelho.</Entry>
+  <Entry Index="425">Se o balão estiver vermelho, não importa o quanto
+você pressione o botão Confirmar, o cavalo não
+irá acelerar.</Entry>
+  <Entry Index="426">O cavalo recuperará a resistência desde que você
+não pressione o botão Confirmar.</Entry>
+  <Entry Index="427">Encontre o equilíbrio tentando pressionar o botão na
+hora certa e tente ficar em primeiro lugar.</Entry>
+  <Entry Index="428">dummy</Entry>
+  <Entry Index="429">dummy</Entry>
+  <Entry Index="430">dummy</Entry>
+  <Entry Index="431">dummy</Entry>
+  <Entry Index="432">dummy</Entry>
+  <Entry Index="433">dummy</Entry>
+  <Entry Index="434">dummy</Entry>
+  <Entry Index="435">dummy</Entry>
+  <Entry Index="436">dummy</Entry>
+  <Entry Index="437">dummy</Entry>
+  <Entry Index="438">dummy</Entry>
+  <Entry Index="439">dummy</Entry>
+  <Entry Index="440">dummy</Entry>
+  <Entry Index="441">Cluck-Click Clash</Entry>
+  <Entry Index="442">Torça pela sua galinha enquanto ela tenta expulsar sua
+rival da arena. Ganhe três vezes para reivindicar
+a vitória!</Entry>
+  <Entry Index="443">Pressione o botão Confirmar para animar sua galinha.
+Quando animada ela irá cacarejar, a outra galinha
+ficará com medo.</Entry>
+  <Entry Index="444">Se sua galinha estiver de frente para a sua rival,
+animá-la fará com que aa outra galinha saia do ringue.</Entry>
+  <Entry Index="445">Mas se você animar sua galinha quando ela estiver
+na borda da arena, é provável que seja a única a surtar.</Entry>
+  <Entry Index="446">dummy</Entry>
+  <Entry Index="447">dummy</Entry>
+  <Entry Index="448">dummy</Entry>
+  <Entry Index="449">dummy</Entry>
+  <Entry Index="450">dummy</Entry>
+  <Entry Index="451">dummy</Entry>
+  <Entry Index="452">dummy</Entry>
+  <Entry Index="453">dummy</Entry>
+  <Entry Index="454">dummy</Entry>
+  <Entry Index="455">dummy</Entry>
+  <Entry Index="456">dummy</Entry>
+  <Entry Index="457">dummy</Entry>
+  <Entry Index="458">dummy</Entry>
+  <Entry Index="459">dummy</Entry>
+  <Entry Index="460">dummy</Entry>
+  <Entry Index="461">dummy</Entry>
+  <Entry Index="462">Festival Frisbee</Entry>
+  <Entry Index="463">Jogue o disco para seu mascote pegar! Ajuste a
+potência e tente jogá-lo o mais longe possível.</Entry>
+  <Entry Index="464">No início, o cursor estará em movimento. Aperte o botão
+Confirmar no momento certo para interrompê-lo.</Entry>
+  <Entry Index="465">A área verde do medidor de arremesso indica a
+distância em que seu mascote pode pegar o disco.
+Mas não é uma garantia de que você terá sucesso!</Entry>
+  <Entry Index="466">A área vermelha do medidor indica uma distância muito
+maior, onde seu mascote não pode pegar o disco.</Entry>
+  <Entry Index="467">Procure uma boa posição na área verde do medidor e
+jogue o disco o mais longe que seu masocte puder pegar.</Entry>
+  <Entry Index="468">Você pode praticar jogando o disco para seu mascote
+para aumentar a distância em que ele pode pegar.</Entry>
+  <Entry Index="469">Mas se você jogar muitas vezes ao dia, seu mascote
+vicará entediado e não vai querer mais brincar.</Entry>
+  <Entry Index="470">Quanto mais carinho seu animal de estimação
+tiver por você, mais vezes você vai poder brincar
+com ele durante o dia.</Entry>
+  <Entry Index="471">dummy</Entry>
+  <Entry Index="472">dummy</Entry>
+  <Entry Index="473">dummy</Entry>
+  <Entry Index="474">dummy</Entry>
+  <Entry Index="475">dummy</Entry>
+  <Entry Index="476">dummy</Entry>
+  <Entry Index="477">dummy</Entry>
+  <Entry Index="478">dummy</Entry>
+  <Entry Index="479">dummy</Entry>
+  <Entry Index="480">dummy</Entry>
+  <Entry Index="481">dummy</Entry>
+  <Entry Index="482">dummy</Entry>
+  <Entry Index="483">Duendes</Entry>
+  <Entry Index="484">Faça amizade com os Duendes e eles o ajudarão com suas
+tarefas. Além disso, você poderá brincar com eles.</Entry>
+  <Entry Index="485">Para torná-los seus amigos, de muitos presentes e a eles.
+Você pode fazer amizade com cada um dos Duendes.</Entry>
+  <Entry Index="486">Quando vocês forem amigos, os Duendes irão ajudá-lo
+com três tarefas diferentes.</Entry>
+  <Entry Index="487">1. Regar as colheitas
+Eles regarão as plantações que crescem em sua fazenda.</Entry>
+  <Entry Index="488">2. Colher as plantações
+Eles colherão as plantações maduras de sua fazenda e
+colocarão na Caixa de Envio.</Entry>
+  <Entry Index="489">3. Cuidar dos Animais
+Eles alimentarão e cuidarão de seus animais e enviarão seus
+produtos derivados.</Entry>
+  <Entry Index="490">Como os Duendes ajudam você em suas tarefas,
+eles aprenderão a serem mais rápidos e
+mais eficazes em suas tarefas.</Entry>
+  <Entry Index="491">Você também pode jogar com eles para treiná-los em
+determinadas tarefas.</Entry>
+  <Entry Index="492">dummy</Entry>
+  <Entry Index="493">dummy</Entry>
+  <Entry Index="494">dummy</Entry>
+  <Entry Index="495">dummy</Entry>
+  <Entry Index="496">dummy</Entry>
+  <Entry Index="497">dummy</Entry>
+  <Entry Index="498">dummy</Entry>
+  <Entry Index="499">dummy</Entry>
+  <Entry Index="500">dummy</Entry>
+  <Entry Index="501">dummy</Entry>
+  <Entry Index="502">dummy</Entry>
+  <Entry Index="503">dummy</Entry>
+  <Entry Index="504">Cuidando dos Animais</Entry>
+  <Entry Index="505">Há muitos animais disponíveis na Cidade Mineral.
+Cuide deles com amor e você será ricamente recompensado.</Entry>
+  <Entry Index="506">Existem cinco tipos de animais dos quais você pode cuidar:
+vacas, ovelhas, alpacas, galinhas e coelhos angorá.</Entry>
+  <Entry Index="507">Vacas, ovelhas e alpacas vivem em celeiros.
+As galinhas e coelhos angorá vivem no galinheiro.</Entry>
+  <Entry Index="508">Você pode comprar novos animais na loja ou fazer
+seus animais procriarem e cuidar de seus filhotes.</Entry>
+  <Entry Index="509">É importante que você alimente seus animais todos os dias,
+escove-os, fale com eles e deixe-os pastar nos
+dias ensolarados.</Entry>
+  <Entry Index="510">Quanto mais amor você der a eles, melhores serão os
+produtos obtidos, então cuide bem deles!</Entry>
+  <Entry Index="511">dummy</Entry>
+  <Entry Index="512">dummy</Entry>
+  <Entry Index="513">dummy</Entry>
+  <Entry Index="514">dummy</Entry>
+  <Entry Index="515">dummy</Entry>
+  <Entry Index="516">dummy</Entry>
+  <Entry Index="517">dummy</Entry>
+  <Entry Index="518">dummy</Entry>
+  <Entry Index="519">dummy</Entry>
+  <Entry Index="520">dummy</Entry>
+  <Entry Index="521">dummy</Entry>
+  <Entry Index="522">dummy</Entry>
+  <Entry Index="523">dummy</Entry>
+  <Entry Index="524">dummy</Entry>
+</Entries>

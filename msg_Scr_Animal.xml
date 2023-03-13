@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entries Count="43">
+  <Entry Index="0">Aha! Parece que &lt;string0&gt; está
+grávida.&lt;wait&gt;</Entry>
+  <Entry Index="1">Ei? Não aconteceu nada.&lt;wait&gt;</Entry>
+  <Entry Index="2">Não tenho nenhuma área de procriação disponível.&lt;wait&gt;</Entry>
+  <Entry Index="3">O celeiro está cheio. Não posso ter mais animais.</Entry>
+  <Entry Index="4">Olá, &lt;playername&gt;. Você tem um segundo? Quero
+te pedir um favor...&lt;wait&gt;</Entry>
+  <Entry Index="5">Veja bem, este potro não está se sentindo muito bem.
+Precisa de muito cuidado.&lt;wait&gt;&lt;page&gt;
+No entanto, não tenho tempo suficiente. Eu esperava que
+você pudesse cuidar por mim.&lt;wait&gt;</Entry>
+  <Entry Index="6">Oh, eu realmente adoraria ter sua ajuda com o potro...&lt;wait&gt;</Entry>
+  <Entry Index="7">Ou isso não lhe convém?</Entry>
+  <Entry Index="8">Aceitar</Entry>
+  <Entry Index="9">Rejeitar</Entry>
+  <Entry Index="10">Estou vendo. Bem, se você não pode, não pode. Não vou
+incomoda-lo mais com o assunto. Tenha um bom dia.&lt;wait&gt;</Entry>
+  <Entry Index="11">Sério? ótimo! Eu sabia que poderia contar com você.&lt;wait&gt;&lt;page&gt;
+Bem, por que você não lhe dá um nome?&lt;wait&gt;</Entry>
+  <Entry Index="12">A criação de cavalos geralmente não apresenta
+muitos problemas.&lt;wait&gt;&lt;page&gt;
+Você só tem que dar muito amor a ele, isso será
+o suficiente.&lt;wait&gt;&lt;page&gt;
+Fale com ele todos os dias, ok? Eles adoram
+ouvir sua voz.&lt;wait&gt;&lt;page&gt;
+Escová-lo todos os dias também é bom.&lt;wait&gt;</Entry>
+  <Entry Index="13">Muito bem. Vou levar este pequeno para o seu estábulo.&lt;wait&gt;</Entry>
+  <Entry Index="14">Quando ele crescer, eu irei buscá-lo.&lt;wait&gt;&lt;page&gt;
+Cuide bem dele até lá.
+Conto com você.&lt;wait&gt;</Entry>
+  <Entry Index="15">Olá, &lt;playername&gt;. Eu vim dar uma olhada em
+&lt;string0&gt;.&lt;wait&gt;&lt;page&gt;
+Acho que já deve ter crescido.&lt;wait&gt;</Entry>
+  <Entry Index="16">Umm... Mmmmm... Mmmmm...&lt;wait&gt;</Entry>
+  <Entry Index="17">Excelente! Posso afirmar que você passou os últimos 90
+dias criando a &lt;string0&gt; com muito
+amor. Você fez um bom trabalho. Está &lt;gender&gt;("aprovado","aprovada").&lt;wait&gt;</Entry>
+  <Entry Index="18">Como agradecimento pelo seu esforço, eu não me importo
+de deixar você ficar com &lt;string0&gt;.&lt;wait&gt;&lt;page&gt;
+Parece que ele te ama muito depois de todo esse tempo.&lt;wait&gt;&lt;page&gt;
+Continue cuidando do pequeno assim... Bem,
+&lt;string0&gt; está bastante grande
+para chamá-lo assim. Eu sei que posso contar com você.&lt;wait&gt;</Entry>
+  <Entry Index="19">Umm... Mmmmm... Mmmmm...&lt;wait&gt;</Entry>
+  <Entry Index="20">Não, Não é assim que deveria ser &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Já faz um ano, mas você ainda não deu
+muito amor a &lt;string0&gt;.
+Receio ter que suspender seus cuidados.&lt;wait&gt;</Entry>
+  <Entry Index="21">Irei levar &lt;string0&gt; de volta
+comigo então. Tenha um bom dia.&lt;wait&gt;</Entry>
+  <Entry Index="22">Olá, &lt;playername&gt;. Notei que você não
+tem cavalos na fazenda.&lt;wait&gt;</Entry>
+  <Entry Index="23">Este é o que eu criei. Você pode ficar com ele.
+Vai dar um toque mais fazendeiro ao lugar.&lt;wait&gt;&lt;page&gt;
+Você pode nomeá-lo também, se quiser.&lt;wait&gt;</Entry>
+  <Entry Index="24">Bem, vou levar este pequeno para o seu estábulo.&lt;wait&gt;&lt;page&gt;
+Dê-lhe muito amor todos os dias. ok? E não se esqueça de
+escová-lo bem.&lt;wait&gt;</Entry>
+  <Entry Index="25">Deixo você com &lt;myhorsename&gt; então. Tenha um belo dia.
+Bom dia.&lt;wait&gt;</Entry>
+  <Entry Index="26">[UNUSED SKIP]</Entry>
+  <Entry Index="27">&lt;string0&gt; está grávida. Deve
+dar à luz a qualquer dia.&lt;wait&gt;</Entry>
+  <Entry Index="28">&lt;string0&gt; está grávida. Acho que tem
+pelo menos uns &lt;string1&gt; dias.&lt;wait&gt;</Entry>
+  <Entry Index="29">[UNUSED SKIP]</Entry>
+  <Entry Index="30">Olá, &lt;string0&gt;! Parece muito feliz e
+saudável hoje.&lt;wait&gt;</Entry>
+  <Entry Index="31">Olá, &lt;string0&gt;!
+Você quer isto &lt;string1&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="32">Bom garoto.
+Cresça logo e fique forte, ok?&lt;wait&gt;</Entry>
+  <Entry Index="33">Oh, não. Parece que ele está tramando algo...&lt;wait&gt;</Entry>
+  <Entry Index="34">As vacas aqui são sempre adoráveis e felizes.&lt;wait&gt;</Entry>
+  <Entry Index="35">Olá, Hana.&lt;wait&gt; Você está muito feliz hoje, não está?&lt;wait&gt;</Entry>
+  <Entry Index="36">[UNUSED SKIP]</Entry>
+  <Entry Index="37">&lt;string0&gt; está grávida. Deve
+dar à luz a qualquer dia.&lt;wait&gt;</Entry>
+  <Entry Index="38">&lt;string0&gt; está grávida. Acho que tem
+pelo menos uns &lt;string1&gt; dias.&lt;wait&gt;</Entry>
+  <Entry Index="39">[UNUSED SKIP]</Entry>
+  <Entry Index="40">Olá, &lt;string0&gt;! Hoje parece que
+você está de bom humor.&lt;wait&gt;</Entry>
+  <Entry Index="41">[UNUSED SKIP]</Entry>
+  <Entry Index="42">Esta fêmea está grávida. Vou deixá-la em paz.</Entry>
+</Entries>
