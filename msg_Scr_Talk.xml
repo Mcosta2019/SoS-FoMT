@@ -1322,387 +1322,386 @@ Tenho certeza que você entende melhor do que ninguém,
 &lt;nickname&gt;, Eu notei algo.&lt;wait&gt;&lt;page&gt;
 Não pude deixar de pensar comigo mesmo que ainda tenho um longo
 caminho a percorrer.&lt;wait&gt;</Entry>
-  <Entry Index="587">Buenos días. ¿Te va bien el trabajo?
-No vayas a hacerte daño.&lt;wait&gt;</Entry>
-  <Entry Index="588">Las tareas de la granja son un poco peligrosas a veces,
-¿verdad?&lt;wait&gt;</Entry>
-  <Entry Index="589">&lt;gender&gt;("Bienvenido","Bienvenida") a casa, &lt;nickname&gt;.
-¿Has estado fuera trabajando hasta tan tarde?&lt;wait&gt;</Entry>
-  <Entry Index="590">Me alegro de que te guste trabajar,
-pero a veces tienes que tomártelo con más calma.
-Estoy preocupado por ti.&lt;wait&gt;</Entry>
-  <Entry Index="591">¡Buenos días, &lt;nickname&gt;! ∀
-¿Cómo te sientes hoy?
-Yo genial.&lt;wait&gt;</Entry>
-  <Entry Index="592">¡Buenos días, &lt;nickname&gt;! ∀
-¿Cómo te sientes hoy?
-Yo genial.&lt;wait&gt;</Entry>
-  <Entry Index="593">Es maravilloso tener a alguien para saludarte por las
-mañanas y recibirte cuando llegas a casa por la noche.&lt;wait&gt;</Entry>
-  <Entry Index="594">Mi corazón está en paz cuando estoy contigo,
+  <Entry Index="587">Bom Dia. O trabalho está indo bem?
+Não vá se machucar.&lt;wait&gt;</Entry>
+  <Entry Index="588">O trabalho na fazenda tem que ser pelo menos um pouco perigoso de
+de vez em quando, não?&lt;wait&gt;</Entry>
+  <Entry Index="589">&lt;gender&gt;("Bem vindo","Bem vinda") a casa, &lt;nickname&gt;.
+Você estava trabalhando tão tarde?&lt;wait&gt;</Entry>
+  <Entry Index="590">Estou feliz que você gosta de trabalhar,
+mas às vezes você tem que ir com calma.
+Estou preocupado com você.&lt;wait&gt;</Entry>
+  <Entry Index="591">Bom dia!, &lt;nickname&gt;! ∀
+Como você está se sentindo hoje?
+Estou bem.&lt;wait&gt;</Entry>
+  <Entry Index="592">Bom dia!, &lt;nickname&gt;! ∀
+Como você está se sentindo hoje?
+Estou bem.&lt;wait&gt;</Entry>
+  <Entry Index="593">É bom ter alguém para cumprimentá-lo nas
+manhãs e quando você chega em casa à noite.&lt;wait&gt;</Entry>
+  <Entry Index="594">Meu coração fica em paz quando estou com você,
 &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="595">No hay nada como estar rodeado de tu familia. Me alegro
-de haberme casado contigo, &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="596">No hay nada como estar rodeado de tu familia. Me alegro
-de haberme casado contigo, &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="597">¡&lt;nickname&gt;! Mira, no estás para muchos trotes en
-tu estado actual. Lo sabes perfectamente.&lt;wait&gt;</Entry>
-  <Entry Index="598">Me alegro de que hayas venido a verme,
-pero no te esfuerces más de la cuenta.&lt;wait&gt;</Entry>
-  <Entry Index="599">Hola, &lt;nickname&gt;. ¿Has venido a verme?
-¿Qué tal le va a &lt;childname&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="600">Cuando cierro los ojos, no puedo dejar de pensar en la
-carita de &lt;childname&gt;.&lt;wait&gt;&lt;page&gt;
-Pienso: ¿estará durmiendo ahora &lt;childname&gt;?
-¿Estará comiendo? ¿Llorando? Estoy obsesionado.&lt;wait&gt;</Entry>
-  <Entry Index="601">¿Qué pasa?
-¿Te pasa algo?&lt;wait&gt;</Entry>
-  <Entry Index="602">Si no quieres nada de mí,
-no me hables, por favor.&lt;wait&gt;</Entry>
+  <Entry Index="595">Não há nada como estar cercado pela sua família. Estou tão
+feliz de ter casado com você, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="596">Não há nada como estar cercado pela sua família. Estou tão
+feliz de ter casado com você, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="597">¡&lt;nickname&gt;! Ouça, seu corpo não está em condições de sair
+correndo pela cidade assim. Você sabe perfeitamente.&lt;wait&gt;</Entry>
+  <Entry Index="598">Estou feliz que você veio me ver,
+mas não se esforce demais.&lt;wait&gt;</Entry>
+  <Entry Index="599">Olá, &lt;nickname&gt;. Você veio me ver?
+Como vai? &lt;childname&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="600">Quando fecho meus olhos, não consigo parar de pensar na
+carinha de &lt;childname&gt;.&lt;wait&gt;&lt;page&gt;
+Penso: dormindo agora &lt;childname&gt;?
+Estará comendo? Chorando? Estou obcecado.&lt;wait&gt;</Entry>
+  <Entry Index="601">O que está acontecendo?
+Você está bem?&lt;wait&gt;</Entry>
+  <Entry Index="602">Se você não quer nada de mim,
+não fale mais comigo por favor.&lt;wait&gt;</Entry>
   <Entry Index="603">Oh, &lt;nickname&gt;...
-¿Qué pasa?&lt;wait&gt;</Entry>
-  <Entry Index="604">¿Eh? ¿A mí? No es nada...
-Estoy dándole vueltas a algo.&lt;wait&gt;</Entry>
-  <Entry Index="605">Hola, &lt;nickname&gt;. ¿Tienes asuntos por aquí cerca?
-Es raro que nos crucemos en la ciudad.&lt;wait&gt;</Entry>
-  <Entry Index="606">Me estoy esforzando mucho en el viñedo.
-Por cierto, Manna siempre dice que deberías venir
-a visitarla más a menudo.&lt;wait&gt;&lt;page&gt;
-Al parecer, tiene muchas cosas
-que contarte.&lt;wait&gt;</Entry>
+O que está acontecendo?&lt;wait&gt;</Entry>
+  <Entry Index="604">Ei? A mim? Não é nada...
+Eu só tenho algo em minha mente.&lt;wait&gt;</Entry>
+  <Entry Index="605">Olá, &lt;nickname&gt;. Você tem negócios por aqui?
+É raro nos encontrarmos na cidade.&lt;wait&gt;</Entry>
+  <Entry Index="606">Estou trabalhando muito no Vinhedo.
+A propósito, Manna sempre diz que você deveria vir
+visitá-la com mais frequência.&lt;wait&gt;&lt;page&gt;
+Aparentemente, ela tem muito para lhe falar
+com você sobre.&lt;wait&gt;</Entry>
   <Entry Index="607">Oh, &lt;nickname&gt;.
-¿Qué haces aquí?&lt;wait&gt;</Entry>
-  <Entry Index="608">¿Has venido a verme? ¡Ah, qué amable por tu parte! Me
-hace muy feliz, de verdad.&lt;wait&gt;</Entry>
-  <Entry Index="609">¿Eh? &lt;nickname&gt;?
-¿Qué pasa?
-¿Necesitas algo?&lt;wait&gt;</Entry>
-  <Entry Index="610">¿Que no vuelva a la pensión por equivocación? Ja, ja. No te
-preocupes. Te prometo que esta noche estaré contigo.&lt;wait&gt;</Entry>
-  <Entry Index="611">Cuando me siento cansado, Ran siempre está ahí para
-ayudarme a reponer fuerzas. ¡Estoy deseando que se pase
-por aquí!&lt;wait&gt;</Entry>
-  <Entry Index="612">¡Estoy trabajando duro!
-¡Tengo que pensar en positivo!&lt;wait&gt;</Entry>
-  <Entry Index="613">¿Qué hay, &lt;playername&gt;?
-Este trabajo en el viñedo se me da muy bien.&lt;wait&gt;</Entry>
-  <Entry Index="614">¿Qué hay, &lt;playername&gt;?
-Este trabajo en el viñedo se me da muy bien.&lt;wait&gt;</Entry>
-  <Entry Index="615">Y Manna y Duke son muy amables.&lt;wait&gt;</Entry>
-  <Entry Index="616">Le estoy muy agradecido a Ran. Desde que nos conocimos,
-me ha tratado como a un amigo. Me ha hecho... sentirme
-como en casa.&lt;wait&gt;</Entry>
-  <Entry Index="617">Hasta ahora, consideraba a Ran como una hermana
-pequeña, pero estoy empezando a verla con otros ojos.&lt;wait&gt;</Entry>
+O que faz aqui?&lt;wait&gt;</Entry>
+  <Entry Index="608">Você veio me ver? Ah, que gentil de sua parte! Me
+deixa muito feliz, de verdade.&lt;wait&gt;</Entry>
+  <Entry Index="609">Ei? &lt;nickname&gt;?
+O que está acontecendo?
+Precisa de algo?&lt;wait&gt;</Entry>
+  <Entry Index="610">Não volte para a pousada por engano? haha. Não se
+preocupe. Eu prometo que esta noite estarei com você.&lt;wait&gt;</Entry>
+  <Entry Index="611">Quando me sinto cansado, Ran está sempre ao meu lado,
+me ajude a recuperar as forças. Estou ansioso para isso acontecer
+por aqui!&lt;wait&gt;</Entry>
+  <Entry Index="612">Estou trabalhando duro!
+Eu tenho que pensar positivo!&lt;wait&gt;</Entry>
+  <Entry Index="613">O que há, &lt;playername&gt;?
+Eu sou muito bom neste trabalho na vinha.&lt;wait&gt;</Entry>
+  <Entry Index="614">O que há, &lt;playername&gt;?
+Eu sou muito bom neste trabalho na vinha.&lt;wait&gt;</Entry>
+  <Entry Index="615">E Manna e Duke são muito legais.&lt;wait&gt;</Entry>
+  <Entry Index="616">Sou muito grato a Ran. Desde que nos conhecemos
+ela me tratou como um amigo. Isto me fez... sentir
+como em casa.&lt;wait&gt;</Entry>
+  <Entry Index="617">Até agora, ele considerava Ran como uma irmã
+pequena, mas estou começando a vê-la com outros olhos.&lt;wait&gt;</Entry>
   <Entry Index="618">Ah, &lt;playername&gt;.
-¿Qué pasa?&lt;wait&gt;</Entry>
+O que está acontecendo?&lt;wait&gt;</Entry>
   <Entry Index="619">Ah, &lt;playername&gt;.
-¿Qué pasa?&lt;wait&gt;</Entry>
-  <Entry Index="620">Ni en mis sueños más alocados me habría imaginado que
-me casaría tan pronto.
-Me cuesta creer que sea real.&lt;wait&gt;&lt;page&gt;
-Ya te estoy viendo con el vestido de boda...&lt;wait&gt;&lt;page&gt;
-Vas a ser la mujer más bella del mundo. Me muero de
-ganas.&lt;wait&gt;</Entry>
-  <Entry Index="621">Ni en mis sueños más alocados me habría imaginado que
-me casaría tan pronto.
-Me cuesta creer que sea real.&lt;wait&gt;&lt;page&gt;
-Ya te estoy viendo con esmoquin...&lt;wait&gt;&lt;page&gt;
-Vas a ser el hombre más guapo del mundo. Me muero de
-ganas.&lt;wait&gt;</Entry>
+O que está acontecendo?&lt;wait&gt;</Entry>
+  <Entry Index="620">Nem em meus sonhos mais loucos eu teria imaginado que
+eu me casaria tão cedo.
+Acho difícil acreditar que é real.&lt;wait&gt;&lt;page&gt;
+Eu já estou vendo você no vestido de noiva...&lt;wait&gt;&lt;page&gt;
+Você vai ser a mulher mais bonita do
+mundo inteiro. Eu mal posso esperar.&lt;wait&gt;</Entry>
+  <Entry Index="621">Nem em meus sonhos mais loucos eu teria imaginado que
+eu me casaria tão cedo.
+Acho difícil acreditar que é real.&lt;wait&gt;&lt;page&gt;
+Já estou te vendo de smoking...&lt;wait&gt;&lt;page&gt;
+Você vai ser o homem mais bonito do
+mundo inteiro. Eu mal posso esperar.&lt;wait&gt;</Entry>
   <Entry Index="622">Ah, &lt;playername&gt;.&lt;wait&gt;</Entry>
   <Entry Index="623">Ah, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="624">Estaba pensando en lo que voy a hacer en esta ciudad.
-Todavía no he decidido mi plan de acción.&lt;wait&gt;</Entry>
-  <Entry Index="625">¿Qué hay, &lt;playername&gt;?
-¿Cómo va la granja?&lt;wait&gt;</Entry>
-  <Entry Index="626">¿Qué hay, &lt;playername&gt;?
-¿Cómo va la granja?&lt;wait&gt;</Entry>
-  <Entry Index="627">A mí me va como siempre. No sé que tendrá
-esta ciudad, pero apenas se nota el paso del tiempo.&lt;wait&gt;</Entry>
-  <Entry Index="628">Voy a la iglesia todos los días.&lt;wait&gt;</Entry>
-  <Entry Index="629">Carter es un tipo interesante.
-Es un sacerdote, pero no se comporta como tal.&lt;wait&gt;</Entry>
-  <Entry Index="630">Tenerte cerca me da el coraje para ser
-yo mismo, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="631">Tenerte cerca me da el coraje para ser
-yo mismo, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="632">De todos los lugares en los que he vivido, debo decir
-que Ciudad Mineral se ha convertido rápidamente
-en mi favorito.&lt;wait&gt;</Entry>
-  <Entry Index="633">Eres muy fuerte, &lt;playername&gt;.
-Es admirable.&lt;wait&gt;</Entry>
-  <Entry Index="634">Eres muy fuerte, &lt;playername&gt;.
-Es admirable.&lt;wait&gt;</Entry>
-  <Entry Index="635">¿Qué hay, &lt;playername&gt;?
-¿Cómo te va hoy?&lt;wait&gt;</Entry>
-  <Entry Index="636">¿Qué hay, &lt;playername&gt;?
-¿Cómo te va hoy?&lt;wait&gt;</Entry>
-  <Entry Index="637">Últimamente, estoy pensando mucho en ti. En lo que haces,
-en tus objetivos...&lt;wait&gt;</Entry>
-  <Entry Index="638">Últimamente, estoy pensando mucho en ti. En lo que haces,
-en tus objetivos...&lt;wait&gt;</Entry>
+  <Entry Index="624">Eu estava pensando sobre o que eu vou fazer nesta cidade.
+Ainda não decidi meu plano de ação.&lt;wait&gt;</Entry>
+  <Entry Index="625">O que há, &lt;playername&gt;?
+Como vai a fazenda?&lt;wait&gt;</Entry>
+  <Entry Index="626">O que há, &lt;playername&gt;?
+Como vai a fazenda?&lt;wait&gt;</Entry>
+  <Entry Index="627">Eu sou o mesmo de sempre. Você sabe, algo sobre
+esta cidade tranquila parece apagar a passagem do tempo.&lt;wait&gt;</Entry>
+  <Entry Index="628">Vou a igreja todos os dias.&lt;wait&gt;</Entry>
+  <Entry Index="629">Carter é um cara interessante.
+Ele é padre, mas não se comporta como tal..&lt;wait&gt;</Entry>
+  <Entry Index="630">Ter você perto me dá coragem de ser
+eu mesmo, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="631">Ter você perto me dá coragem de ser
+eu mesmo, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="632">De todos os lugares que morei, devo dizer
+que Mineral Town rapidamente se tornou a
+minha favorita.&lt;wait&gt;</Entry>
+  <Entry Index="633">Você é muito forte, &lt;playername&gt;.
+É admirável.&lt;wait&gt;</Entry>
+  <Entry Index="634">Você é muito forte, &lt;playername&gt;.
+É admirável.&lt;wait&gt;</Entry>
+  <Entry Index="635">Ei, &lt;playername&gt;?
+Como vai você?&lt;wait&gt;</Entry>
+  <Entry Index="636">Ei, &lt;playername&gt;?
+Como vai você?&lt;wait&gt;</Entry>
+  <Entry Index="637">Ultimamente, tenho pensado muito em você. No que você faz,
+em seus objetivos...&lt;wait&gt;</Entry>
+  <Entry Index="638">Ultimamente, tenho pensado muito em você. No que você faz,
+em seus objetivos...&lt;wait&gt;</Entry>
   <Entry Index="639">¡&lt;playername&gt;!
-¿Cómo te trata la vida en la granja?
-¿Estás trabajando mucho?&lt;wait&gt;</Entry>
+Como a vida na fazenda está te tratando?
+Você está trabalhando demais?&lt;wait&gt;</Entry>
   <Entry Index="640">¡&lt;playername&gt;!
-¿Cómo te trata la vida en la granja?
-¿Estás trabajando mucho?&lt;wait&gt;</Entry>
-  <Entry Index="641">Eres lo que me inspira a seguir dando lo mejor de mí cada
-día, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="642">Eres lo que me inspira a seguir dando lo mejor de mí cada
-día, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="643">Estaba pensando en qué debería hacer ahora que he
-llegado a esta ciudad.&lt;wait&gt;</Entry>
-  <Entry Index="644">Cuanto menos, pienso quedarme en la pensión mientras
-pueda permitírmelo.&lt;wait&gt;</Entry>
-  <Entry Index="645">¿Que por qué estoy todavía viviendo en la habitación de
-invitados? Ja, ja, ja, la verdad es que yo mismo le pregunté
-a Dudley si podía hacerlo.&lt;wait&gt;</Entry>
-  <Entry Index="646">Las cosas van bien con Ran.
-Pero tengo la sensación de que se preocupa demasiado
-por mí.&lt;wait&gt;</Entry>
-  <Entry Index="647">Es una chica muy dulce.
-Es amable hasta con personas como yo.&lt;wait&gt;</Entry>
-  <Entry Index="648">Su sonrisa tiene... ese aire nostálgico.&lt;wait&gt;</Entry>
-  <Entry Index="649">Ran es una persona muy atenta.
-Incluso con un tipo como yo.&lt;wait&gt;</Entry>
-  <Entry Index="650">Ran me recuerda a mi hermana pequeña.
-Tienen la misma sonrisa.&lt;wait&gt;</Entry>
-  <Entry Index="651">Hola. ¿Qué pensarías si te dijera que voy a quedarme aquí
-para siempre?
-¡En la pensión, me refiero!&lt;wait&gt;</Entry>
-  <Entry Index="652">No hay ninguna intención oculta.
-Es solo que... me gusta esta ciudad. Eso es todo.&lt;wait&gt;</Entry>
-  <Entry Index="653">Ahora que ha nacido &lt;childname&gt;,
-creo que he encontrado una razón para estar vivo.&lt;wait&gt;&lt;page&gt;
-Mi propósito en la vida es conocerte a ti y tener a
+Como a vida na fazenda está te tratando?
+Você está trabalhando demais?&lt;wait&gt;</Entry>
+  <Entry Index="641">Você é o que me inspira a continuar dando o meu melhor a cada
+dia, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="642">Você é o que me inspira a continuar dando o meu melhor a cada
+dia, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="643">Eu estava pensando o que devo fazer agora que eu
+vim para esta cidade.&lt;wait&gt;</Entry>
+  <Entry Index="644">No mínimo, pretendo ficar na Pousada enquanto
+eu puder pagar isso.&lt;wait&gt;</Entry>
+  <Entry Index="645">Por que ainda estou morando no quarto de
+hóspedes? Hahaha, a verdade é que eu mesmo perguntei para
+Dudley se eu podia fazer isso.&lt;wait&gt;</Entry>
+  <Entry Index="646">As coisas estão indo bem com Ran.
+Mas tenho a sensação de que ele se importa demais
+comigo.&lt;wait&gt;</Entry>
+  <Entry Index="647">Ela é uma menina muito doce.
+Ele é gentil até com pessoas como eu.&lt;wait&gt;</Entry>
+  <Entry Index="648">Aquele sorriso dela é... nostálgico, de alguma forma.&lt;wait&gt;</Entry>
+  <Entry Index="649">Ran é uma pessoa muito atenciosa.
+Mesmo com um cara como eu.&lt;wait&gt;</Entry>
+  <Entry Index="650">Ran me lembra minha irmãzinha.
+Elas tem o mesmo sorriso.&lt;wait&gt;</Entry>
+  <Entry Index="651">Ei. O que você pensaria se eu dissesse que vou ficar aqui
+para sempre?
+Na Pousada, quero dizer!&lt;wait&gt;</Entry>
+  <Entry Index="652">Não há segundas intenções.
+É que... eu gosto desta cidade. Isso é tudo.&lt;wait&gt;</Entry>
+  <Entry Index="653">Agora que ela nasceu &lt;childname&gt;,
+Acho que encontrei uma razão para estar vivo.&lt;wait&gt;&lt;page&gt;
+Meu propósito na vida é conhecê-lo e...
 &lt;childname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="654">Tengo mucho por lo que estar agradecido.
-Llegar hasta esta ciudad...
-y conocerte, &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="655">Para mí, la iglesia es el corazón de la ciudad. Aquí
-comenzó todo.&lt;wait&gt;</Entry>
-  <Entry Index="656">Cuando vengo, recuerdo cómo me sentí la primera vez que
-llegué a Ciudad Mineral.&lt;wait&gt;</Entry>
-  <Entry Index="657">He estado mucho tiempo comiéndome la cabeza, pero mi
-perspectiva ha cambiado desde que te conozco,
+  <Entry Index="654">Eu tenho muito a agradecer.
+Chegar a esta cidade...
+e te conhecer, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="655">Para mim, a igreja é o coração da cidade. Aqui
+tudo comecou.&lt;wait&gt;</Entry>
+  <Entry Index="656">Quando venho aqui, lembro como me senti na primeira vez
+que cheguei na Mineral Town.&lt;wait&gt;</Entry>
+  <Entry Index="657">Há muito tempo venho me martirizando,
+mas minha perspectiva mudou desde que te conheci,
 &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="658">Tengo mucho por lo que estar agradecido.
-Llegar hasta esta ciudad...
-y conocerte, &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="659">Hasta ahora, venía a la iglesia como una penitencia. Pero
-eso ha cambiado. Ahora vengo a expresar mi
-agradecimiento.&lt;wait&gt;</Entry>
-  <Entry Index="660">Tengo mucho por lo que estar agradecido.
-Llegar hasta esta ciudad...
-Conocer a Ran...&lt;wait&gt;&lt;page&gt;
-Y conocerte a ti también.&lt;wait&gt;</Entry>
-  <Entry Index="661">Mmm...&lt;wait&gt;</Entry>
+  <Entry Index="658">Eu tenho muito a agradecer.
+Chegar a esta cidade...
+e te conhecer, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="659">Até agora, eu vinha à igreja como penitência. Mas
+isso mudou. Agora venho expressar minha
+gratidão.&lt;wait&gt;</Entry>
+  <Entry Index="660">Eu tenho muito a agradecer.
+Chegar a esta cidade...
+Conhecer a Ran...&lt;wait&gt;&lt;page&gt;
+E conhecer você também.&lt;wait&gt;</Entry>
+  <Entry Index="661">Hmm...&lt;wait&gt;</Entry>
   <Entry Index="662">Ah, &lt;playername&gt;.
-Me he quedado sin dinero... No creo que pueda quedarme
-aquí mucho más tiempo.&lt;wait&gt;</Entry>
+Eu fiquei sem dinheiro... não acho que posso ficar
+aqui muito mais tempo.&lt;wait&gt;</Entry>
   <Entry Index="663">Ah, &lt;playername&gt;.
-Me he quedado sin dinero...
-No creo que pueda quedarme aquí mucho más tiempo.&lt;wait&gt;</Entry>
-  <Entry Index="664">Me estoy esforzando mucho en el viñedo.
-Gracias de nuevo por guiarme en la dirección correcta,
+Fiquei sem dinheiro...
+Eu não acho que posso ficar aqui por muito mais tempo.&lt;wait&gt;</Entry>
+  <Entry Index="664">Estou trabalhando muito na vinha.
+Obrigado novamente por me guiar na direção certa,
 &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="665">Me estoy esforzando mucho en el viñedo.
-Gracias de nuevo por guiarme en la dirección correcta,
+  <Entry Index="665">Estou trabalhando muito na vinha.
+Obrigado novamente por me guiar na direção certa,
 &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="666">Carter me dijo que haber encontrado un trabajo era una
-señal de que debería quedarme en esta ciudad.&lt;wait&gt;</Entry>
-  <Entry Index="667">No he podido encontrar trabajo, así que he decidido irme
-de la ciudad. Gracias por todo.&lt;wait&gt;</Entry>
-  <Entry Index="668">Oye...
-¿Te parece bien si...?&lt;wait&gt;</Entry>
-  <Entry Index="669">¿Estás bien, &lt;nickname&gt;? No me gustaría que el
-bebé se resfriara. ¿Crees que podría pasar algo así?&lt;wait&gt;</Entry>
-  <Entry Index="670">Me alegro de que hayas venido a verme, pero deberías
-evitar venir a sitios tan fríos en la medida de lo posible,
-¿vale?&lt;wait&gt;</Entry>
-  <Entry Index="671">&lt;gender&gt;("Bienvenido","Bienvenida"), &lt;nickname&gt;.
-¿Qué tal está &lt;childname&gt;? ¿Todo bien?</Entry>
-  <Entry Index="672">Aquí hace fresquito y se está bien. La temperatura está
-controlada para que el vino se conserve en las mejores
-condiciones.&lt;wait&gt;&lt;page&gt;
-¿Cómo era lo que decía Duke...? ¡Ah, sí! Al parecer, así es
-como mejor "madura".&lt;wait&gt;</Entry>
+  <Entry Index="666">Carter me disse que se eu encontrasse um emprego era um
+sinal de que eu deveria ficar nesta cidade.&lt;wait&gt;</Entry>
+  <Entry Index="667">Eu não conseguia encontrar um emprego, então decidi sair
+da cidade. Obrigado por tudo.&lt;wait&gt;</Entry>
+  <Entry Index="668">Ei...
+Está tudo bem com você...?&lt;wait&gt;</Entry>
+  <Entry Index="669">Está bem, &lt;nickname&gt;? Não gostaria que o bebê o 
+pegasse um resfriado aqui. Você acha que algo assim pode acontecer?&lt;wait&gt;</Entry>
+  <Entry Index="670">Estou feliz que você veio me ver, mas você deveria
+evitar ao máximo vir a lugares tão frios,
+certo?&lt;wait&gt;</Entry>
+  <Entry Index="671">&lt;gender&gt;("Bem Vindo","Bem vinda"), &lt;nickname&gt;.
+Como está &lt;childname&gt;? Tudo bem?</Entry>
+  <Entry Index="672">É bom e legal aqui. A temperatura é
+controlada para que o vinho seja conservado nas melhores
+condições.&lt;wait&gt;&lt;page&gt;
+Como foi o que Duke disse...? Ah, isso mesmo - aparentemente,
+"amadurece" melhor por aqui.&lt;wait&gt;</Entry>
   <Entry Index="673">...
 ...
 ...&lt;wait&gt;</Entry>
-  <Entry Index="674">Ahora mismo estoy trabajando.
-Lo siento...&lt;wait&gt;</Entry>
-  <Entry Index="675">&lt;gender&gt;("Bienvenido","Bienvenida").&lt;wait&gt;</Entry>
-  <Entry Index="676">¿Hay alguna emergencia?
-Si no es así, te pido que te vayas.&lt;wait&gt;</Entry>
-  <Entry Index="677">&lt;gender&gt;("Bienvenido","Bienvenida").
-Oh, &lt;nickname&gt;. ¿Qué pasa?&lt;wait&gt;</Entry>
-  <Entry Index="678">¿A ti también te gusta estar aquí, &lt;nickname&gt;?
-Es muy relajante.
-Me siento muy unido a este sitio.&lt;wait&gt;</Entry>
-  <Entry Index="679">&lt;gender&gt;("Bienvenido","Bienvenida"), &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="680">¿Has venido a verme?
-Aprecio el gesto, pero ahora mismo estoy trabajando.
-Hablemos más tarde.&lt;wait&gt;</Entry>
-  <Entry Index="681">Hola, &lt;nickname&gt;.
-Tómatelo con calma, ¿vale?&lt;wait&gt;</Entry>
-  <Entry Index="682">Mi trabajo en el viñedo me llena muchísimo. Tengo que
-esforzarme para estar a tu nivel, &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="683">¡Hola! Aquí en el sótano hace una temperatura muy
-fresca y agradable.&lt;wait&gt;&lt;page&gt;
-Me siento genial cuando descanso en un lugar cómodo,
-puede que a los vinos les ocurra lo mismo.&lt;wait&gt;</Entry>
-  <Entry Index="684">A veces pienso que la gente de Ciudad Mineral es así de
-simpática porque el sitio en sí es un lugar muy agradable...&lt;wait&gt;</Entry>
-  <Entry Index="685">Ah... Oye.&lt;wait&gt;</Entry>
-  <Entry Index="686">¿Necesitas algo?&lt;wait&gt;</Entry>
-  <Entry Index="687">Hola, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="688">Hola, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="689">Aquí hay un montón de vino durmiendo.
-¿Mmm? ¿Que el vino no duerme?
-Yo pienso lo contrario.&lt;wait&gt;</Entry>
+  <Entry Index="674">Agora estou trabalhando.
+Sinto muito...&lt;wait&gt;</Entry>
+  <Entry Index="675">&lt;gender&gt;("Bem vindo","Bem vinda").&lt;wait&gt;</Entry>
+  <Entry Index="676">Existe uma emergência?
+Se não, peço que vá.&lt;wait&gt;</Entry>
+  <Entry Index="677">&lt;gender&gt;("Bem vindo","Bem vinda").
+Oh, &lt;nickname&gt;. O que está acontecendo?&lt;wait&gt;</Entry>
+  <Entry Index="678">Você também gosta de estar aqui?, &lt;nickname&gt;?
+É muito relaxante.
+Me sinto muito apegado a esta fazenda.&lt;wait&gt;</Entry>
+  <Entry Index="679">&lt;gender&gt;("Bem vindo","Bem vinda"), &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="680">Você veio me ver?
+Agradeço o gesto, mas neste momento estou a trabalhar.
+Vamos conversar depois.&lt;wait&gt;</Entry>
+  <Entry Index="681">Olá, &lt;nickname&gt;.
+Faça-o com calma, certo?&lt;wait&gt;</Entry>
+  <Entry Index="682">Meu trabalho na Vinha é realmente gratificante. Tenho que
+se esforçar para estar no seu nível, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="683">Olá! Aquí no sótão tem uma temperatura muito
+fresca e agradável.&lt;wait&gt;&lt;page&gt;
+Eu me sinto bem quando descanso em um lugar confortável,
+o mesmo pode acontecer com os vinhos.&lt;wait&gt;</Entry>
+  <Entry Index="684">Eu me pergunto se todos que moram aqui são tão legais.
+Porque Mineral Town em si é um lugar muito legal...&lt;wait&gt;</Entry>
+  <Entry Index="685">Ah... Oi.&lt;wait&gt;</Entry>
+  <Entry Index="686">Precisa de algo?&lt;wait&gt;</Entry>
+  <Entry Index="687">Olá, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="688">Olá, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="689">Tem muito vinho dormindo aqui.
+Hm?... Vinho não dorme?
+Eu acho o contrario.&lt;wait&gt;</Entry>
   <Entry Index="690">Ah, &lt;playername&gt;.
-De vuelta a la rutina diaria. ¿Y tú?&lt;wait&gt;</Entry>
+De volta à rotina diária. ¿Y tú?&lt;wait&gt;</Entry>
   <Entry Index="691">Ah, &lt;playername&gt;.
-De vuelta a la rutina diaria. ¿Y tú?&lt;wait&gt;</Entry>
-  <Entry Index="692">¿Te gusta el vino, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="693">¿Te gusta el vino, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="694">El trabajo me mantiene ocupado, pero es una ocupación
-que hago con gusto. Gracias otra vez por ayudarme a
-conseguir este trabajo, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="695">El trabajo me mantiene ocupado, pero es una ocupación
-que hago con gusto. Gracias otra vez por ayudarme a
-conseguir este trabajo, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="696">El trabajo en el viñedo es perfecto para mí.&lt;wait&gt;</Entry>
-  <Entry Index="697">¿Qué hay, &lt;playername&gt;?
-¿Va bien la vida en la granja?&lt;wait&gt;</Entry>
-  <Entry Index="698">¿Qué hay, &lt;playername&gt;?
-¿Va bien la vida en la granja?&lt;wait&gt;</Entry>
-  <Entry Index="699">Me encanta vivir aquí.&lt;wait&gt;</Entry>
-  <Entry Index="700">Hola, &lt;playername&gt;. ¿Cómo estás?
-Yo bien.&lt;wait&gt;</Entry>
-  <Entry Index="701">Hola, &lt;playername&gt;. ¿Cómo estás?
-Yo bien.&lt;wait&gt;</Entry>
-  <Entry Index="702">Si no hubiera venido a esta ciudad, &lt;playername&gt;,
-quién sabe qué sería de mí hoy en día y qué estaría
-haciendo.&lt;wait&gt;</Entry>
-  <Entry Index="703">Si no hubiera venido a esta ciudad, &lt;playername&gt;,
-quién sabe qué sería de mí hoy en día y qué estaría
-haciendo.&lt;wait&gt;</Entry>
-  <Entry Index="704">La verdad es que me encanta trabajar aquí.
-Me siento muy afortunado de haberte conocido,
+De volta à rotina diária. ¿Y tú?&lt;wait&gt;</Entry>
+  <Entry Index="692">Você gosta de vinho, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="693">Você gosta de vinho, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="694">O trabalho me mantém ocupado, mas é um bom
+tipo de trabalho. Obrigado novamente por me ajudar
+conseguir este emprego, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="695">O trabalho me mantém ocupado, mas é um bom
+tipo de trabalho. Obrigado novamente por me ajudar
+conseguir este emprego, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="696">O trabalho na vinha é perfeito para mim.&lt;wait&gt;</Entry>
+  <Entry Index="697">Ei, &lt;playername&gt;?
+A vida na fazenda está indo bem?&lt;wait&gt;</Entry>
+  <Entry Index="698">Ei, &lt;playername&gt;?
+A vida na fazenda está indo bem?&lt;wait&gt;</Entry>
+  <Entry Index="699">Eu amo morar aqui.&lt;wait&gt;</Entry>
+  <Entry Index="700">Olá, &lt;playername&gt;. Como vai?
+Estou bem.&lt;wait&gt;</Entry>
+  <Entry Index="701">Olá, &lt;playername&gt;. Como vai?
+Estou bem.&lt;wait&gt;</Entry>
+  <Entry Index="702">Se eu não tivesse vindo para esta cidade, &lt;playername&gt;,
+quem sabe o que seria de mim hoje e o que estaria
+fazendo.&lt;wait&gt;</Entry>
+  <Entry Index="703">Se eu não tivesse vindo para esta cidade, &lt;playername&gt;,
+quem sabe o que seria de mim hoje e o que estaria
+fazendo.&lt;wait&gt;</Entry>
+  <Entry Index="704">A verdade é que adoro trabalhar aqui.
+Eu me sinto muito sortudo por ter conhecido você,
 &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="705">La verdad es que me encanta trabajar aquí.
-Me siento muy afortunado de haberte conocido,
+  <Entry Index="705">A verdade é que adoro trabalhar aqui.
+Eu me sinto muito sortudo por ter conhecido você,
 &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="706">Tiene que haber alguna manera de agradecerte toda la
-amabilidad que has mostrado conmigo. Quiero hacer algo.&lt;wait&gt;</Entry>
-  <Entry Index="707">Tiene que haber alguna manera de agradecerte toda la
-amabilidad que has mostrado conmigo. Quiero hacer algo.&lt;wait&gt;</Entry>
-  <Entry Index="708">Hola, &lt;nickname&gt;.
+  <Entry Index="706">Tem que haver alguma maneira de agradecer a você por todos as
+bondades que você me mostrou. Eu quero fazer algo.&lt;wait&gt;</Entry>
+  <Entry Index="707">Tem que haver alguma maneira de agradecer a você por todos as
+bondades que você me mostrou. Eu quero fazer algo.&lt;wait&gt;</Entry>
+  <Entry Index="708">Olá, &lt;nickname&gt;.
 Así que has venido.&lt;wait&gt;</Entry>
-  <Entry Index="709">Cuando &lt;childname&gt; crezca, Manna tendrá un
-oponente digno en lo que se refiere a darle a la sin hueso.&lt;wait&gt; </Entry>
-  <Entry Index="710">Hola, &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="711">Cuando llegué por primera vez aquí, jamás me imaginé que
-llegaría a formar una familia.&lt;wait&gt;</Entry>
-  <Entry Index="712">Oye, ¿cómo va la granja? No pierdas el ánimo, pase lo que
-pase.&lt;wait&gt;</Entry>
-  <Entry Index="713">Últimamente, desayuno, como y ceno en la pensión. Como
-todo es comida casera, nunca me canso de comer allí.&lt;wait&gt;</Entry>
-  <Entry Index="714">Hoy es el día que como con Duke y Manna.&lt;wait&gt;</Entry>
-  <Entry Index="715">Aunque no compartamos lazos sanguíneos,
-los considero mi familia.&lt;wait&gt;</Entry>
-  <Entry Index="716">Hoy es el día que como con Duke y Manna.&lt;wait&gt;</Entry>
-  <Entry Index="717">Me da un poco de vergüenza que se preocupen tanto por
-mí, pero ya estoy acostumbrado y lo aprecio.&lt;wait&gt;&lt;page&gt;
-Todo es gracias a ti, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="718">Me da un poco de vergüenza que se preocupen tanto por
-mí, pero ya estoy acostumbrado y lo aprecio.&lt;wait&gt;&lt;page&gt;
-Todo es gracias a ti, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="719">Me voy ya a trabajar.
-No trabajes de más, ¿vale?&lt;wait&gt;</Entry>
-  <Entry Index="720">Tienes que tener cuidado, ahora que eres responsable de
-dos personas.&lt;wait&gt;</Entry>
-  <Entry Index="721">Me voy ya a trabajar.
-Yo también tengo que trabajar duro por
+  <Entry Index="709">Quando &lt;childname&gt; crescer, Manna terá um
+oponente digno quando se trata de acertar o dinheiro.&lt;wait&gt; </Entry>
+  <Entry Index="710">Olá, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="711">Quando eu cheguei aqui, nunca imaginei que
+começaria uma família.&lt;wait&gt;</Entry>
+  <Entry Index="712">Ei, como vai a fazenda? Não desanime, não importa o quê
+aconteça.&lt;wait&gt;</Entry>
+  <Entry Index="713">Ultimamente tomo café da manhã, janto na pousada. Como
+tudo é comida caseira, nunca me canso de comer lá.&lt;wait&gt;</Entry>
+  <Entry Index="714">Hoje é o dia que eu como com Duke e Manna.&lt;wait&gt;</Entry>
+  <Entry Index="715">Embora não compartilhemos laços de sangue,
+eu os considero minha família.&lt;wait&gt;</Entry>
+  <Entry Index="716">Hoje é o dia que eu como com Duke e Manna.&lt;wait&gt;</Entry>
+  <Entry Index="717">Estou um pouco envergonhado por eles se importarem tanto
+comigo, mas estou acostumado e agradeço.&lt;wait&gt;&lt;page&gt;
+É tudo graças a você, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="718">Estou um pouco envergonhado por eles se importarem tanto
+comigo, mas estou acostumado e agradeço.&lt;wait&gt;&lt;page&gt;
+É tudo graças a você, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="719">Vou trabalhar agora.
+Não exagere, ok?&lt;wait&gt;</Entry>
+  <Entry Index="720">Você tem que ter cuidado, agora que você é responsável por
+duas pessoas.&lt;wait&gt;</Entry>
+  <Entry Index="721">Vou trabalhar.
+Eu também tenho que trabalhar duro para
 &lt;childname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="722">Cuida bien de &lt;childname&gt;.
-Intentaré volver pronto.&lt;wait&gt;</Entry>
-  <Entry Index="723">¿&lt;nickname&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="724">Me voy ya al trabajo.&lt;wait&gt;</Entry>
-  <Entry Index="725">Me voy ya a trabajar.&lt;wait&gt;&lt;page&gt;
-No te quedes trabajando hasta tarde, &lt;nickname&gt;.
-Estaría bien si por una vez vinieras a casa temprano.&lt;wait&gt;</Entry>
-  <Entry Index="726">¿Tú también te vas ya, &lt;nickname&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="727">Parece que tienes bastante trabajo en la granja. Si hay
-algo que pueda hacer para ayudarte, dímelo.&lt;wait&gt;</Entry>
-  <Entry Index="728">Me voy ya al trabajo.
-¿Tú también te vas, &lt;nickname&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="729">Siento un gran alivio al llegar a casa... porque estás tú
-aquí, &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="730">Bueno, me voy ya a trabajar.
-¿Me acompañas luego a casa, &lt;nickname&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="731">Me estoy empezando a acostumbrar
-a la vida en la granja.&lt;wait&gt;&lt;page&gt;
-Me alegro de poder compartir
-esto contigo, &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="732">Me estoy empezando a acostumbrar
-a la vida en la granja.&lt;wait&gt;&lt;page&gt;
-Me alegro de poder compartir
-esto contigo, &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="733">Me voy a casa ahora mismo. No hay nada urgente que
-requiera atención, ¿no?&lt;wait&gt;</Entry>
-  <Entry Index="734">No deberías estar todo el día de un lado para otro.
-Recuerda que llevas a nuestro hijo.&lt;wait&gt;</Entry>
+  <Entry Index="722">Tome conta de &lt;childname&gt;.
+Vou tentar voltar em breve.&lt;wait&gt;</Entry>
+  <Entry Index="723">&lt;nickname&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="724">Vou trabalhar agora.&lt;wait&gt;</Entry>
+  <Entry Index="725">Vou trabalhar agora.&lt;wait&gt;&lt;page&gt;
+Não fique trabalhando até tarde, &lt;nickname&gt;.
+Seria bom se você chegasse em casa mais cedo pela primeira vez.&lt;wait&gt;</Entry>
+  <Entry Index="726">Você também vai embora, &lt;nickname&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="727">Parece que você tem bastante trabalho na fazenda. Se há
+qualquer coisa que eu possa fazer para te ajudar, me fale.&lt;wait&gt;</Entry>
+  <Entry Index="728">Vou trabalhar agora.
+Você está indo embora também?, &lt;nickname&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="729">Sinto um grande alívio quando chego em casa... porque você está
+aqui, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="730">Bem, eu vou trabalhar agora.
+Você vai me levar para casa mais tarde, &lt;nickname&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="731">Estou começando a me acostumar
+com a vida na fazenda.&lt;wait&gt;&lt;page&gt;
+Estou feliz por poder compartilhar
+isso com você, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="732">Estou começando a me acostumar
+com a vida na fazenda.&lt;wait&gt;&lt;page&gt;
+Estou feliz por poder compartilhar
+isso com você, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="733">Estou indo para casa agora. Não há nada urgente
+que requer atenção, certo?&lt;wait&gt;</Entry>
+  <Entry Index="734">Você não deveria andar muito.
+Lembre-se que você carrega nosso filho.&lt;wait&gt;</Entry>
   <Entry Index="735">Oh, &lt;nickname&gt;.
-Iba de camino a casa.&lt;wait&gt;</Entry>
-  <Entry Index="736">¿Qué tal está &lt;childname&gt;?
-Qué ganas tengo de llegar.&lt;wait&gt;</Entry>
+Eu estava a caminho de casa.&lt;wait&gt;</Entry>
+  <Entry Index="736">Está indo bem &lt;childname&gt;?
+Mal posso esperar para chegar em casa.&lt;wait&gt;</Entry>
   <Entry Index="737">...
 &lt;nickname&gt;...&lt;wait&gt;</Entry>
-  <Entry Index="738">Voy de camino a casa.
-¿Sigues trabajando?&lt;wait&gt;</Entry>
-  <Entry Index="739">Me voy a casa.&lt;wait&gt;</Entry>
-  <Entry Index="740">Tú también deberías ir pronto, &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="741">Me voy ya a casa.&lt;wait&gt;</Entry>
-  <Entry Index="742">¿Has salido para verme?
-Oh. No has cambiado un ápice, &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="743">¿Has salido para verme?
-Oh. No has cambiado un ápice, &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="744">¿Estás trabajando, &lt;nickname&gt;?
-Ven pronto a casa.
-Tengo muchas cosas que hablar contigo.&lt;wait&gt;</Entry>
-  <Entry Index="745">Oh, &lt;nickname&gt;. Iba de camino a casa. Es tan
-agradable tener un lugar al que llamar hogar.&lt;wait&gt;</Entry>
-  <Entry Index="746">A donde el corazón se inclina, el pie camina. Cuando estoy
-solo, tener un hogar me recuerda que hay una familia que
-me quiere.&lt;wait&gt;</Entry>
-  <Entry Index="747">Los fuegos artificiales son mañana. Mirar al cielo lleno de
-fuegos artificiales suena increíble.&lt;wait&gt;</Entry>
-  <Entry Index="748">La Noche a la Luz de la Luna, ¿eh? Podría ser divertido...&lt;wait&gt;</Entry>
-  <Entry Index="749">Cuesta creer que haya pasado otro año. Estoy seguro de
-que nos lo pasaremos bien y será un buen año.&lt;wait&gt;</Entry>
-  <Entry Index="750">¡Eh! ¿Qué tal? Me llamo Zack. Soy el transportista de la
-zona. ¿Hay algo que quieras enviar?&lt;wait&gt;&lt;page&gt;
-Me pasaré a diario por tu granja y recogeré todo lo que
-quieras enviar, excepto los días festivos. Espero que
-hagamos buenos negocios juntos.&lt;wait&gt;</Entry>
-  <Entry Index="751">¡Hola, &lt;playername&gt;! ¿Sabes cuándo es mi
-cumpleaños? Eres una buena persona, ¿lo sabías? ¡Te lo
-agradezco!&lt;wait&gt;</Entry>
-  <Entry Index="752">¡Gracias!
-Te has pasado, ¿no crees?&lt;wait&gt;</Entry>
-  <Entry Index="753">Gracias. Te lo agradezco.&lt;wait&gt;</Entry>
-  <Entry Index="754">Todo un detalle de tu parte.&lt;wait&gt;</Entry>
-  <Entry Index="755">Umm. Bueno, esto... Te agradezco el detalle, pero no creo
-que le saque mucho uso.&lt;wait&gt;</Entry>
-  <Entry Index="756">¡Qué demonios! ¿Estás mal de la cabeza? Agh, no sé en qué
-estabas pensando...&lt;wait&gt;</Entry>
-  <Entry Index="757">Adorable... ¿Qué? Me gustan los animales, ¿pasa algo? ¿Es
-un crimen en tu pueblo o qué?&lt;wait&gt;</Entry>
+  <Entry Index="738">Estou a caminho de casa.
+Continua trabalhando?&lt;wait&gt;</Entry>
+  <Entry Index="739">Estou indo para casa.&lt;wait&gt;</Entry>
+  <Entry Index="740">Você deveria ir logo também, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="741">Estou indo para casa agora.&lt;wait&gt;</Entry>
+  <Entry Index="742">Você saiu para me ver?
+Ah. Você não mudou um pingo, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="743">Você saiu para me ver?
+Ah. Você não mudou um pingo, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="744">Está trabalhando, &lt;nickname&gt;?
+Venha logo para casa.
+Eu tenho muitas coisas para falar com você.&lt;wait&gt;</Entry>
+  <Entry Index="745">Ah, &lt;nickname&gt;. Eu estava a caminho de casa. É tão
+bom ter um lugar para chamar de lar.&lt;wait&gt;</Entry>
+  <Entry Index="746">Lar é onde meu coração está. Mesmo quando estou sozinho,
+a casa é um lembrete de que tenho uma família
+que me ama.&lt;wait&gt;</Entry>
+  <Entry Index="747">Os fogos de artifícios serão amanhã. olhar o céu cheio de
+fogos de artifício parece incrível.&lt;wait&gt;</Entry>
+  <Entry Index="748">Noite de luar, hein? Poderia ser divertido...&lt;wait&gt;</Entry>
+  <Entry Index="749">É difícil acreditar que mais um ano se passou. Tenho certeza de
+que nos divertiremos e será um bom ano.&lt;wait&gt;</Entry>
+  <Entry Index="750">Ei! Que tal? Meu nome é Zach. Eu sou o comprador da
+cidade. Há algo que você deseja vender?&lt;wait&gt;&lt;page&gt;
+Visitarei sua fazenda todos os dias e recolherei tudo o que
+deseja vender, exceto em feriados. Espero que
+faremos bons negócios juntos.&lt;wait&gt;</Entry>
+  <Entry Index="751">Olá, &lt;playername&gt;! Sabe quando é meu aniversário?
+Cara, vocês são boas pessoas, sabia disso? 'Agradeço!&lt;wait&gt;</Entry>
+  <Entry Index="752">Obrigado!
+Agora, este não é um número pequeno?&lt;wait&gt;</Entry>
+  <Entry Index="753">Obrigado. Eu aprecio isso.&lt;wait&gt;</Entry>
+  <Entry Index="754">Cada detalhe seu.&lt;wait&gt;</Entry>
+  <Entry Index="755">Hum. Bem, isso... eu aprecio os detalhes, mas eu acho não poder
+tirar muito proveito disso.&lt;wait&gt;</Entry>
+  <Entry Index="756">Que diabos! Está mal da cabeça? Ai, não sei o que
+você estava pensando...&lt;wait&gt;</Entry>
+  <Entry Index="757">Adorável... o quê? Eu gosto de animais, há algo de errado? É
+um crime em sua cidade ou o quê?&lt;wait&gt;</Entry>
   <Entry Index="758">¡Glups! O-oye, eh, ¿no me has oído?
 No soy tan bueno con los bichos, ¿sabes?&lt;wait&gt;</Entry>
   <Entry Index="759">Guau, ¿de verdad me lo das?
