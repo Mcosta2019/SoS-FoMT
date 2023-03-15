@@ -1756,46 +1756,47 @@ dia... e com você, nada menos,
 Voce tem muito trabalho?&lt;wait&gt;</Entry>
   <Entry Index="772">Continue empacotando aquela caixa de remessa cheia, ouviu? Se não for
 quebrando suas costas, você não está trabalhando duro o suficiente!&lt;wait&gt;</Entry>
-  <Entry Index="773">Ser um correio é um trabalho bem interessante.&lt;wait&gt;</Entry>
+  <Entry Index="773">Trabalhar como correio é um trabalho bem interessante.&lt;wait&gt;</Entry>
   <Entry Index="774">Eu viajo para todos os lugares e faço todos os tipos de amigos.&lt;wait&gt;&lt;page&gt;
 Converse com as pessoas e aprenda sobre
 a vida deles é fascinante.&lt;wait&gt;</Entry>
-  <Entry Index="775">¿Qué tal va la granja?
-¿Trabajas duro o apenas sudas? ¡Ja, ja!&lt;wait&gt;</Entry>
-  <Entry Index="776">Voy a pasar alrededor de las 17:00 para hacer la
-recogida habitual. Espero ver una caja enorme, ¿me oyes?&lt;wait&gt;</Entry>
-  <Entry Index="777">Mira, &lt;playername&gt;. Te voy a contar un pequeño
-secreto.&lt;wait&gt;&lt;page&gt;
-Hace algunos años, le entregué mi corazón a una mujer.
-Pero está casada, así que mantendremos el anonimato.&lt;wait&gt;</Entry>
-  <Entry Index="778">¿Cuándo volverá a casa el viejo Rod? Estoy muy
-preocupado por él.&lt;wait&gt;</Entry>
-  <Entry Index="779">Eh, &lt;playername&gt;. No te esfuerces demasiado, ¿me
-oyes?&lt;wait&gt;</Entry>
-  <Entry Index="780">¿Has terminado ya de empaquetar esa caja tan bonita
-para mí? No me decepciones ahora, ¿me oyes? Lo digo en
-serio.&lt;wait&gt;</Entry>
-  <Entry Index="781">¡Gracias, colega! Te lo agradezco. Espero impaciente el
-envío de mañana.&lt;wait&gt;</Entry>
-  <Entry Index="782">Eh, &lt;playername&gt;. ¿&lt;gender&gt;("Listo","Lista") para descansar después
-de un duro día de trabajo?&lt;wait&gt;&lt;page&gt;
-¡Eh! Seguro que ya has echado tus horas. Y con mucho
-gusto, además.&lt;wait&gt;</Entry>
-  <Entry Index="783">Eh, &lt;playername&gt;. Ya le he entregado esas piedras al
-viejo Saibara.&lt;wait&gt;</Entry>
-  <Entry Index="784">Si las trabaja, puedo venderlas por un alto precio, ¿sabes?.&lt;wait&gt;</Entry>
-  <Entry Index="785">¿Qué hay, &lt;playername&gt;? Si alguien... le diera un
-regalo a una dama sin conocerla de nada, ¿crees que se
-asustaría?&lt;wait&gt;</Entry>
-  <Entry Index="786">Mmmm... ¿sabes qué? Da igual.
-Olvida lo que te he dicho.&lt;wait&gt;</Entry>
-  <Entry Index="787">¡Eh! ¿Has terminado ya de empaquetar esa caja tan
-bonita para mí? No me decepciones ahora, ¿me oyes? Lo
-digo en serio.&lt;wait&gt;</Entry>
-  <Entry Index="788">1... 2... 3... ¿Mmm? Deben de ser como las 17:00... Espera,
-¡¿son casi las 18:00?! ¡¿Eh?!&lt;wait&gt;</Entry>
-  <Entry Index="789">¡Eh! ¡&lt;playername&gt;! Estoy intentando trabajar,
-¿sabes?&lt;wait&gt;</Entry>
+  <Entry Index="775">Como vai a fazenda?
+Trabalhando duro ou pouco? Haha!&lt;wait&gt;</Entry>
+  <Entry Index="776">Passarei por volta das 17:00 para fazer a 
+coleta regular. Espero ver uma caixa enorme, está me ouvindo?&lt;wait&gt;</Entry>
+  <Entry Index="777">Olha, &lt;playername&gt;. Vou te contar um pequeno
+secredo.&lt;wait&gt;&lt;page&gt;
+Há alguns anos, dei meu coração a uma mulher.
+Mas ela é casada, então permaneceremos anônimos.&lt;wait&gt;</Entry>
+  <Entry Index="778">Quando o velho Rod voltará para casa? Estou muito
+preocupado com ele.&lt;wait&gt;</Entry>
+  <Entry Index="779">Ei, &lt;playername&gt;. Não se esforce demais,
+ouviu?&lt;wait&gt;</Entry>
+  <Entry Index="780">Já terminou de arrumar aquela linda caixa?
+para mim? Não me decepcione agora, ouviu? eu digo isso
+seriamente.&lt;wait&gt;</Entry>
+  <Entry Index="781">Obrigado, amigo! eu aprecio isso. Estou ansioso pelo
+envio amanhã.&lt;wait&gt;</Entry>
+  <Entry Index="782">Ei, &lt;playername&gt;. ¿&lt;gender&gt;("Preparado","Preparada") para descansar 
+depois de um dia duro de trabalho?&lt;wait&gt;&lt;page&gt;
+Huh! Com certeza você dedica suas horas. Com muito
+gosto, além do mais.&lt;wait&gt;</Entry>
+  <Entry Index="783">Ei, &lt;playername&gt;. Eu já entreguei aquelas pedras ao
+velho Saibara.&lt;wait&gt;</Entry>
+  <Entry Index="784">Posso vendê-los por um preço mais alto se ele o trabalhar
+em algo primeiro, você sabe.&lt;wait&gt;</Entry>
+  <Entry Index="785">Ei, &lt;playername&gt;? Se alguém... digamos...
+que deu um presente para uma senhora, sem conhecê-la,  você acha que
+ela se sentiria assustada?&lt;wait&gt;</Entry>
+  <Entry Index="786">Hum... quer saber? Tanto faz.
+Esqueça o que eu te disse.&lt;wait&gt;</Entry>
+  <Entry Index="787">Ei! Já terminou de arrumar aquela caixa?
+bonita para mim? Não me decepcione agora, ouviu? Estou
+falando sério.&lt;wait&gt;</Entry>
+  <Entry Index="788">1... 2... 3... Hmm? Deve ser por volta das 17:00... Espera,
+São quase 18:00?! Ei?!&lt;wait&gt;</Entry>
+  <Entry Index="789">Ei! ¡&lt;playername&gt;! Estou tentando trabalhar,
+sabia?&lt;wait&gt;</Entry>
   <Entry Index="790">¡Eh! ¿Has terminado ya de empaquetar esa caja tan
 bonita para mí? Cuento contigo, ¿me oyes? Lo digo en
 serio.&lt;wait&gt;</Entry>
