@@ -1027,17 +1027,17 @@ uma tijela. Pode ser comido, mas não pode ser vendido.</Entry>
   <Entry Index="634">Cozido</Entry>
   <Entry Index="635">Um ensopado caseiro com verduras. te
 aquece e te deixa sonolento. Pode ser comido, mas
-não pode ser enviado.</Entry>
+não pode ser vendido.</Entry>
   <Entry Index="636">Carpaccio</Entry>
   <Entry Index="637">Um prato de peixe cru cortado em rodelas
-finas. Pode ser comido, mas não pode ser enviado.</Entry>
+finas. Pode ser comido, mas não pode ser vendido.</Entry>
   <Entry Index="638">Quiche</Entry>
   <Entry Index="639">Uma torta salgada preparada com ovos. Pode
-ser comido, mas não pode ser enviado.</Entry>
+ser comido, mas não pode ser vendido.</Entry>
   <Entry Index="640">Suflê de Queijo</Entry>
   <Entry Index="641">[Doces]
 Uma sobremesa de queijo superfofa e macia. Pode
-ser comido, mas não pode ser enviado.</Entry>
+ser comido, mas não pode ser vendido.</Entry>
   <Entry Index="642">Bagna Cauda</Entry>
   <Entry Index="643">Um prato que enriquece o sabor de todas as
 verduras. Pode ser comida, mas não pode ser
@@ -1051,14 +1051,14 @@ de molho de tomate. Pode ser comida, mas não pode
 ser enviada.</Entry>
   <Entry Index="648">Risoto de Queijo</Entry>
   <Entry Index="649">Um sofisticado prato de queijo e arroz. Pode ser
-comido, mas não pode ser enviado.</Entry>
+comido, mas não pode ser vendido.</Entry>
   <Entry Index="650">Bolhinos de Peixe</Entry>
   <Entry Index="651">Peixe frito ao estilo ocidental. Pode ser
-comido, mas não pode ser enviado.</Entry>
+comido, mas não pode ser vendido.</Entry>
   <Entry Index="652">Nasi Goreng</Entry>
   <Entry Index="653">[Bolinho de Arroz]
 Um prato de arroz frito. Coloque ketchup! Pode
-ser comido, mas não enviado.</Entry>
+ser comido, mas não vendido.</Entry>
   <Entry Index="654">Madaleine</Entry>
   <Entry Index="655">[Doces]
 Bolinho fofo com formato de concha. Pode
@@ -1070,29 +1070,29 @@ pode ser enviada.</Entry>
   <Entry Index="658">Bibimbap</Entry>
   <Entry Index="659">[Bolinho de Arroz]
 Saboroso prato de arroz com ovos passados por água.
-Pode ser comido, mas não enviado.</Entry>
+Pode ser comido, mas não vendido.</Entry>
   <Entry Index="660">Pizza de Legumes</Entry>
   <Entry Index="661">Uma pizza italiana com legumes. Pode ser
 comida, mas não pode ser enviada.</Entry>
   <Entry Index="662">Gratinado de Cogumelos</Entry>
   <Entry Index="663">Champinhons ao forno gratinados. Cuidado,
-queimam! Pode ser comido, mas não enviado.</Entry>
+queimam! Pode ser comido, mas não vendido.</Entry>
   <Entry Index="664">Ramen</Entry>
   <Entry Index="665">Uma sopa de macarrão sofisticada, pode
 acrescentar-lhe uns ovos. Pode ser comido, mas não
-pode ser enviado.</Entry>
+pode ser vendido.</Entry>
   <Entry Index="666">Daifuku</Entry>
   <Entry Index="667">[Doces]
 Revestimento doce de massa de feijões azuki
-em mochi. Pode ser comido, mas não enviado.</Entry>
+em mochi. Pode ser comido, mas não vendido.</Entry>
   <Entry Index="668">Dorayaki</Entry>
   <Entry Index="669">[Doces]
 Um doce japonês preparado com massa de azuki.
-Pode ser comido, mas não pode ser enviado.</Entry>
+Pode ser comido, mas não pode ser vendido.</Entry>
   <Entry Index="670">Orangette</Entry>
   <Entry Index="671">[Doces]
 Aperitivo de laranjas com um sabor bastante
-forte. Pode ser comido, mas não enviado.</Entry>
+forte. Pode ser comido, mas não vendido.</Entry>
   <Entry Index="672">Casca Cristalizadas</Entry>
   <Entry Index="673">[Doces]
 Aperitivo de casca de laranja coberta de açúcar.
@@ -1100,7 +1100,7 @@ Pode ser comida, mas não enviada.</Entry>
   <Entry Index="674">Folhado de laranja</Entry>
   <Entry Index="675">[Pão]
 Um bolo de pão e laranjas. Pode ser comido,
-mas não enviado.</Entry>
+mas não vendido.</Entry>
   <Entry Index="676">Zenzai</Entry>
   <Entry Index="677">[Doces]
 Uma sobremesa de feijões azuki. Acrescente mochis! Pode
@@ -1108,38 +1108,38 @@ ser comido, mas não enviar.</Entry>
   <Entry Index="678">Arroz com Castanhas</Entry>
   <Entry Index="679">[Bolinho de Arroz]
 Um prato de arroz com castanhas. Pode ser
-comido, mas não pode ser enviado.</Entry>
+comido, mas não pode ser vendido.</Entry>
   <Entry Index="680">Castanha Assada</Entry>
   <Entry Index="681">Um prato que está composto simplesmente de
 castanhas assadas. Muito qunte! Pode ser
-comido, mas não pode ser enviado.</Entry>
+comido, mas não pode ser vendido.</Entry>
   <Entry Index="682">Monte Branco</Entry>
   <Entry Index="683">[Doces]
 Uma sobremesa de castanhas com forma de montanha.
-Pode ser comido, mas não enviado.</Entry>
+Pode ser comido, mas não vendido.</Entry>
   <Entry Index="684">Bife com Pimenta Picante</Entry>
   <Entry Index="685">Bife condimentado com pimenta e pimentão
 verde. Deliciosamente picante! Pode ser comido,
-mas não pode ser enviado.</Entry>
+mas não pode ser vendido.</Entry>
   <Entry Index="686">Ramen Picante</Entry>
   <Entry Index="687">Ramen com pimenta. Sentirá um delicioso calor
 na língua! Pode ser comido, mas não pode ser
-enviado.</Entry>
+vendido.</Entry>
   <Entry Index="688">Salteado de Verduras Picantes</Entry>
   <Entry Index="689">Verduras salteadas em uma frigideira com
 pimenta. Quente, quente, quente! Pode ser comido, mas não pode
-ser enviado.</Entry>
+ser vendido.</Entry>
   <Entry Index="690">Sanduíche Picante</Entry>
   <Entry Index="691">Uma sanduíche com um toque picante.
 Como queima! Pode ser comido, mas não pode ser
-enviado.</Entry>
+vendido.</Entry>
   <Entry Index="692">Pizza Margarita Picante</Entry>
   <Entry Index="693">Pizza Margarita com pimenta. Cuidado, esta
 pizza queima bastante! Pode ser comida, mas
 não pode ser enviad.</Entry>
   <Entry Index="694">Sopa de Peixe</Entry>
   <Entry Index="695">Um prato de peixe estufado em caldo. Pode
-ser comido, mas não pode ser enviado.</Entry>
+ser comido, mas não pode ser vendido.</Entry>
   <Entry Index="696"></Entry>
   <Entry Index="697"></Entry>
   <Entry Index="698"></Entry>
@@ -1462,12 +1462,12 @@ Entregue-o a alguém como presente!</Entry>
 Entregue-o a alguém como presente!</Entry>
   <Entry Index="950">Erva Daninha</Entry>
   <Entry Index="951">Cresce no campo desde a primavera até o
-outono. Pode ser enviado, mas ninguém dará
+outono. Pode ser vendido, mas ninguém
 pagará muito por ela.</Entry>
   <Entry Index="952">Pedra</Entry>
   <Entry Index="953">Pode ser quebrada com um martelo. Também pode
 ser colocada sobre o solo lavrado para
-volta-lo ao normal.</Entry>
+voltá-lo ao normal.</Entry>
   <Entry Index="954">Galho</Entry>
   <Entry Index="955">Pode ser partido com um machado para fazer
 madeira. Também pode ser colocado sobre o
@@ -1710,27 +1710,27 @@ sabemos a qual Duende corresponde!</Entry>
   <Entry Index="1107"></Entry>
   <Entry Index="1108">Pêlo de Coelho de Angora (S)</Entry>
   <Entry Index="1109">Pêlo tosquiado de um coelho de Angora.
-Fofinho. Pode ser enviado.</Entry>
+Fofinho. Pode ser vendido.</Entry>
   <Entry Index="1110">Pêlo de coelho de Angora (M)</Entry>
   <Entry Index="1111">Pêlo tosquiado de um coelho de Angora com
 um nível de afeto relativamente alto. Fofo e
-macio. Pode ser enviado.</Entry>
+macio. Pode ser vendido.</Entry>
   <Entry Index="1112">Pêlo de Coelho de Angora (L)</Entry>
   <Entry Index="1113">Pêlo tosquiado de um coelho de Angora com
 um nível de afeto muito alto. Fofo e
-muito macio. Pode ser enviado.</Entry>
+muito macio. Pode ser vendido.</Entry>
   <Entry Index="1114">Pêlo de Coelho de Angora (G)</Entry>
   <Entry Index="1115">Pêlo tosquiado de um coelho de Angora com
 um nível de afeto muito alto. Fofo e
-extremamente macio. Pode ser enviado.</Entry>
+extremamente macio. Pode ser vendido.</Entry>
   <Entry Index="1116">Pêlo de Coelho de Angora (P)</Entry>
   <Entry Index="1117">Pêlo tosquiado de um coelho de Angora com
 um nível de afeto muito alto. Superfofo e macio.
-Pode ser enviado.</Entry>
+Pode ser vendido.</Entry>
   <Entry Index="1118">Pêlo de Coelho de Angora (X)</Entry>
   <Entry Index="1119">Pêlo tosquiado de um coelho de Angora. Com
 um nível de afeto muito alto. Macio e aveludado.
-Pode ser enviado
+Pode ser vendido
 .</Entry>
   <Entry Index="1120">Fibra de Alpaca (S)</Entry>
   <Entry Index="1121">Fibra tosquiada de uma alpaca. fofinha.
