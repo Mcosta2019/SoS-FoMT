@@ -1820,60 +1820,61 @@ apostar que estou pronto! Vou comer meu peso em mochi!&lt;wait&gt;</Entry>
 É o clássico agora, e vai ser um dos bons!&lt;wait&gt;</Entry>
   <Entry Index="798">Se você participar do clássico de amanhã, estarei torcendo por você!
 até ficar sem ar!&lt;wait&gt;</Entry>
-  <Entry Index="799">¡Oye! ¿Qué se cuece? ¡El concurso gastronómico, ya verás!
-¿Vas a cocinar algo?&lt;wait&gt;</Entry>
-  <Entry Index="800">¡Ser jurado del concurso gastronómico suena guay, pero
-hay muchos cocineros estupendos en esta ciudad! Tiene
-que ser difícil escoger un ganador.&lt;wait&gt;</Entry>
-  <Entry Index="801">¡Estoy más que listo para el torneo de frisbi! ¿Y tú,
+  <Entry Index="799">Ei! O que está cozinhando? A Exposição de Culinária deste ano
+está chegando, Você vai cozinhar alguma coisa?&lt;wait&gt;</Entry>
+  <Entry Index="800">Ser júri de concurso gastronômico parece legal, mas
+há muitos grandes cozinheiros nesta cidade! Deve
+ser difícil escolher um vencedor.&lt;wait&gt;</Entry>
+  <Entry Index="801">Estou mais do que pronto para o torneio de disco! E você,
 &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="802">¡Mañana es el torneo de frisbi! ¡No llegues tarde!&lt;wait&gt;</Entry>
-  <Entry Index="803">¡Mañana es el derbi, &lt;playername&gt;! ¿Tienes ganas?
-¡Porque yo sí!&lt;wait&gt;</Entry>
-  <Entry Index="804">¡Mañana voy a comprar unos boletos! Si participas en el
-derbi, ¡apostaré por ti!&lt;wait&gt;</Entry>
-  <Entry Index="805">¿Puedo ayudarte en algo?&lt;wait&gt;&lt;page&gt;
-Ya veo. Eres la persona que se ha mudado a esa granja,
-como me dijo el alcalde.&lt;wait&gt;&lt;page&gt;
-Mi nombre es Doctor. Y como puedes ver, soy médico.
-Es un placer conocerte.&lt;wait&gt;</Entry>
-  <Entry Index="806">Gracias. Tenía la sensación de que eras el tipo de persona
-que recuerda estas cosas, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
-Me alegra que te acordaras de mi cumpleaños.&lt;wait&gt;</Entry>
+  <Entry Index="802">Amanhã é o torneio de discos! Não chegue tarde!&lt;wait&gt;</Entry>
+  <Entry Index="803">Amanhã é o festival, &lt;playername&gt;! Você quer fazer isso?
+Porque eu sim!&lt;wait&gt;</Entry>
+  <Entry Index="804">Vou comprar alguns ingressos amanhã! Se você participar do
+festival, apostarei em você!&lt;wait&gt;</Entry>
+  <Entry Index="805">Posso te ajudar em algo?&lt;wait&gt;&lt;page&gt;
+Percebo. Você é a pessoa que se mudou para aquela fazenda,
+como o prefeito me disse.&lt;wait&gt;&lt;page&gt;
+Meu nome é Doutor. E como você pode ver, eu sou um médico.
+É um prazer te conhecer.&lt;wait&gt;</Entry>
+  <Entry Index="806">Obrigado. Tive a sensação de que você era o tipo de pessoa
+que lembra dessas coisas, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
+Fico feliz que tenha lembrado do meu aniversário.&lt;wait&gt;</Entry>
   <Entry Index="807">Madre mía. Menudo detalle.
-Hoy es mi cumpleaños, además.&lt;wait&gt;&lt;page&gt;
-Muchas gracias por el regalo.&lt;wait&gt;</Entry>
-  <Entry Index="808">Gracias.&lt;wait&gt;&lt;page&gt;
-No hay nada mejor que la leche de nuestra granja,
-&lt;nickname&gt;. La aceptaré con mucho gusto.&lt;wait&gt;</Entry>
-  <Entry Index="809">Gracias. Es un regalo muy considerado.&lt;wait&gt;&lt;page&gt;
-Con el reciente aumento de fracturas óseas que estamos
-sufriendo, la leche es un complemento indispensable para
-llevar una dieta equilibrada.&lt;wait&gt;</Entry>
-  <Entry Index="810">¡Gracias, &lt;nickname&gt;!
-Siempre eres tan considerada.
-Ahora que eres mi mujer, eso no ha cambiado nada.&lt;wait&gt;</Entry>
-  <Entry Index="811">¡Gracias, &lt;nickname&gt;!
-Siempre eres tan considerado.
-Ahora que eres mi marido, eso no ha cambiado nada.&lt;wait&gt;</Entry>
-  <Entry Index="812">¡Guau, gracias! Seguro que le daré mucho uso.&lt;wait&gt;</Entry>
-  <Entry Index="813">¡Gracias, &lt;nickname&gt;!
-Después de todo, espero de mi mujer que controle su
-ingesta nutricional.&lt;wait&gt;</Entry>
-  <Entry Index="814">¡Gracias, &lt;nickname&gt;!
-Después de todo, espero de mi marido que controle su
-ingesta nutricional.&lt;wait&gt;</Entry>
-  <Entry Index="815">Ah, ¿es para mí? Es un detalle.&lt;wait&gt;</Entry>
-  <Entry Index="816">Gracias, &lt;nickname&gt;.
+Hoje é meu aniversário, você vê.&lt;wait&gt;&lt;page&gt;
+Muito obrigado pelo presente.&lt;wait&gt;</Entry>
+  <Entry Index="808">Obrigado.&lt;wait&gt;&lt;page&gt;
+Não há nada melhor do que o leite da nossa fazenda,
+&lt;nickname&gt;. Eu aceitarei com prazer.&lt;wait&gt;</Entry>
+  <Entry Index="809">Obrigado. É um presente muito atencioso.&lt;wait&gt;&lt;page&gt;
+Com o recente aumento de fraturas ósseas que estamos
+sofrendo, o leite é um complemento indispensável para
+Para ter uma dieta equilibrada.&lt;wait&gt;</Entry>
+  <Entry Index="810">Obrigado, &lt;nickname&gt;!
+Você é sempre tão atencioso.
+Agora que você é minha mulher, isso não mudou nem um pouco.&lt;wait&gt;</Entry>
+  <Entry Index="811">Obrigado, &lt;nickname&gt;!
+Você é sempre tão atencioso.
+Agora que você é meu marido, isso não mudou nem um pouco.&lt;wait&gt;</Entry>
+  <Entry Index="812">Uau, obrigado! Com certeza vou usar muito.&lt;wait&gt;</Entry>
+  <Entry Index="813">Obrigado!, &lt;nickname&gt;!
+Espero plenamente que minha esposa esteja consciente de sua ingestão
+nutricional, afinal.&lt;wait&gt;</Entry>
+  <Entry Index="814">Obrigado, &lt;nickname&gt;!
+Afinal, espero que meu marido controle sua
+ingestão nutricional.&lt;wait&gt;</Entry>
+  <Entry Index="815">Oh, você está dando isso para mim?.&lt;wait&gt;</Entry>
+  <Entry Index="816">Obrigado, &lt;nickname&gt;.
 Parece útil.&lt;wait&gt;</Entry>
-  <Entry Index="817">Oh, gracias. Lo aceptaré.&lt;wait&gt;</Entry>
-  <Entry Index="818">Gracias, &lt;nickname&gt;.
-Por esta vez lo aceptaré, pero que no se repita más.&lt;wait&gt;</Entry>
-  <Entry Index="819">Puaj... G-gracias, pero no es algo que me guste.&lt;wait&gt;</Entry>
-  <Entry Index="820">&lt;nickname&gt;, deja de dar vueltas con eso por ahí. Te
-vas a manchar las manos.&lt;wait&gt;</Entry>
-  <Entry Index="821">Asegúrate de lavarte bien las manos después de tocar
-eso, ¿eh?&lt;wait&gt;&lt;page&gt;
+  <Entry Index="817">Obrigado. Eu vou aceitar.&lt;wait&gt;</Entry>
+  <Entry Index="818">Obrigado, &lt;nickname&gt;.
+Vou aceitá-lo hoje, mas, por favor, abstenha-se de fazer
+isso de novo.&lt;wait&gt;</Entry>
+  <Entry Index="819">Ugh... O-obrigado, mas não é algo que eu particulamente goste.&lt;wait&gt;</Entry>
+  <Entry Index="820">&lt;nickname&gt;, Peço-lhe que pare de dar voltas com 
+isso por aí. Suas mãos vão ficar sujas.&lt;wait&gt;</Entry>
+  <Entry Index="821">Certifique-se de lavar bem as mãos depois de tocar
+nisso, hein?&lt;wait&gt;&lt;page&gt;
 Espera... ¿eso es... para mí?&lt;wait&gt;</Entry>
   <Entry Index="822">¿Pasa algo malo?&lt;wait&gt;&lt;page&gt;
 No, no es nada.
