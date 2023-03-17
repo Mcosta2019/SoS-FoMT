@@ -2040,134 +2040,134 @@ com uma comida nutritiva.&lt;wait&gt;</Entry>
   <Entry Index="884">Olá, &lt;nickname&gt;. Você deve relaxar e tomá-lo
 com calma.&lt;wait&gt;&lt;page&gt;
 Sempre que quiser pode vir aqui fazer uma pausa.&lt;wait&gt;</Entry>
-  <Entry Index="885">Seja especialmente cuidadoso quando sair de casa. Você poderia
+  <Entry Index="885">Seja muito cuidadoso quando sair de casa. Você poderia
 tropeçar e cair.&lt;wait&gt;</Entry>
   <Entry Index="886">Como está &lt;childname&gt;?
 Tudo bem?</Entry>
-  <Entry Index="887">Este es el período más difícil de la crianza de los hijos. Si
-no puedes más, descansa un rato, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
-Somos una familia, así que no dudes en pedirme algo
-cuando lo necesites.&lt;wait&gt;</Entry>
-  <Entry Index="888">¿Necesitas algo?&lt;wait&gt;</Entry>
-  <Entry Index="889">¡Entonces vete!&lt;wait&gt;</Entry>
-  <Entry Index="890">Oh, &lt;nickname&gt;. ¿Pasa algo?&lt;wait&gt;</Entry>
-  <Entry Index="891">Si no tienes nada que hacer aquí, por favor, vete. Estoy
-trabajando.&lt;wait&gt;</Entry>
-  <Entry Index="892">&lt;gender&gt;("Bienvenido","Bienvenida"), &lt;nickname&gt;. ¿Has venido a verme?
-Siéntete como si estuvieras en casa.&lt;wait&gt;</Entry>
-  <Entry Index="893">Intenta no molestar a mis pacientes mientras estés aquí.&lt;wait&gt;&lt;page&gt;
-El material médico es peligroso, así que no te recomiendo
-que toques nada.&lt;wait&gt;</Entry>
-  <Entry Index="894">Vaya, pero si es &lt;nickname&gt;. ¿Tienes algo que
-hacer por aquí cerca?
-Siéntete como si estuvieras en casa.&lt;wait&gt;</Entry>
-  <Entry Index="895">¡Voy a darlo todo!
-¡Por la gente del pueblo y también por ti,
+  <Entry Index="887">Este é o período mais difícil da paternidade. Se
+você não aguenta mais, descanse um pouco, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
+Somos uma família, então não hesite em me perguntar qualquer coisa
+quando você precisar.&lt;wait&gt;</Entry>
+  <Entry Index="888">Precisa de algo?&lt;wait&gt;</Entry>
+  <Entry Index="889">Então vá!&lt;wait&gt;</Entry>
+  <Entry Index="890">Oh, &lt;nickname&gt;. Há algo de errado?&lt;wait&gt;</Entry>
+  <Entry Index="891">Se você não tem nada para fazer aqui, por favor, vá. Eu estou
+trabalhando.&lt;wait&gt;</Entry>
+  <Entry Index="892">&lt;gender&gt;("Bem vindo","Bem vinda"), &lt;nickname&gt;. Você veio me ver?
+Sinta-se em casa.&lt;wait&gt;</Entry>
+  <Entry Index="893">Tente não incomodar meus pacientes enquanto estiver aqui.&lt;wait&gt;&lt;page&gt;
+O material médico é perigoso, por isso não recomendo
+que não toque em nada.&lt;wait&gt;</Entry>
+  <Entry Index="894">Ah, se não for &lt;nickname&gt;. Você tem algo a
+fazer por aqui?
+Sinta-se em casa.&lt;wait&gt;</Entry>
+  <Entry Index="895">Estou me esforçando ao máximo!
+Para as pessoas da cidade e também para você,
 &lt;nickname&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="896">Oh, &lt;nickname&gt;. &lt;gender&gt;("Bienvenido","Bienvenida").
-Siéntete como si estuvieras en casa.&lt;wait&gt;</Entry>
-  <Entry Index="897">¡Me alegra que tengas tiempo en tu apretada agenda
-para venir a verme!&lt;wait&gt;</Entry>
-  <Entry Index="898">¡Me alegra que tengas tiempo en tu apretada agenda
-para venir a verme!&lt;wait&gt;</Entry>
-  <Entry Index="899">Estaba hablando con Elly sobre el alivio que supone que te
-hayas casado, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-¿Mmm? ¿Quieres saber por qué?&lt;wait&gt;</Entry>
-  <Entry Index="900">Porque antes no había nadie para darse cuenta si algún
-día te desmayabas o tardabas demasiado en volver a casa.
-Era una posición un tanto precaria.&lt;wait&gt;</Entry>
-  <Entry Index="901">A pesar de las apariencias, Elly es una profesional
-excelente y muy amable.
-Ella es la que me sostiene.&lt;wait&gt;</Entry>
-  <Entry Index="902">La clínica seguirá estando como siempre, por lo que no
-hay de qué preocuparse.&lt;wait&gt;</Entry>
-  <Entry Index="903">Hola. ¿Cómo te encuentras?&lt;wait&gt;</Entry>
-  <Entry Index="904">Si te encuentras mal, ven a verme cuando quieras. Te
-echaré un vistazo.&lt;wait&gt;&lt;page&gt;
-Aunque tendré que cobrarte. Después de todo, la clínica
-se tiene que mantener a flote.&lt;wait&gt;</Entry>
-  <Entry Index="905">Hola, &lt;playername&gt;. ¿Cómo estás de salud?&lt;wait&gt;</Entry>
-  <Entry Index="906">Elly es una asistente fantástica.
-Su ayuda me es inestimable.&lt;wait&gt;</Entry>
-  <Entry Index="907">¡Ay! Ojalá fuera más fuerte...&lt;wait&gt;</Entry>
-  <Entry Index="908">Hace poco estuve algo deprimido, porque me sentía inútil
-como médico. En fin...&lt;wait&gt;</Entry>
-  <Entry Index="909">Elly siempre se preocupa por mí.&lt;wait&gt;</Entry>
-  <Entry Index="910">Un médico no debería permitirse estar así. Necesito salir
-adelante.&lt;wait&gt;</Entry>
-  <Entry Index="911">Cuando Elly está conmigo, me siento como si fuera capaz
-de hacer cualquier cosa.&lt;wait&gt;</Entry>
-  <Entry Index="912">Elly y yo nos apoyamos mutuamente, solo así podemos
-alcanzar nuestro máximo potencial. O al menos, eso es lo
-que yo pienso.&lt;wait&gt;</Entry>
-  <Entry Index="913">Si tengo un hijo, me gustaría que fuera médico. Y
-obviamente, que ejerciera en este pueblo.&lt;wait&gt;</Entry>
-  <Entry Index="914">Hablando de niños, Yu es bastante travieso y siempre
-está dando problemas. Aunque probablemente solo lo hace
-para llamar la atención.&lt;wait&gt;</Entry>
-  <Entry Index="915">Ah, &lt;playername&gt;. Todavía no me creo que nos
-casemos dentro de poco.&lt;wait&gt;</Entry>
-  <Entry Index="916">Después de todo, mi personalidad es... bastante única,
-digamos.&lt;wait&gt;&lt;page&gt;
-Casi nadie me entiende.
-Tú eres la excepción, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
-Te quiero.&lt;wait&gt;</Entry>
-  <Entry Index="917">Oh, ¿te encuentras mal?&lt;wait&gt;</Entry>
-  <Entry Index="918">A la mínima que te encuentres mal, ven a verme.&lt;wait&gt;</Entry>
-  <Entry Index="919">¿Eh? ¿Va todo bien? ¿Es una emergencia?&lt;wait&gt;</Entry>
-  <Entry Index="920">Puede que sea mi día libre, pero ven a verme sin
-problemas si te encuentras mal.&lt;wait&gt;</Entry>
-  <Entry Index="921">Ah, &lt;playername&gt;. ¿Cómo va la granja?&lt;wait&gt;</Entry>
-  <Entry Index="922">En lugar de enviar todos los productos que cultivas,
-guarda algunos y úsalos para hacer comidas saludables.&lt;wait&gt;</Entry>
-  <Entry Index="923">Hola, &lt;playername&gt;. ¿Te encuentras bien?&lt;wait&gt;</Entry>
-  <Entry Index="924">Como nadie más vive contigo, debes prestar mucha
-atención a tu salud.&lt;wait&gt;</Entry>
-  <Entry Index="925">Hola, &lt;playername&gt;.
-¿Cómo te encuentras hoy?&lt;wait&gt;</Entry>
-  <Entry Index="926">Para ser sincero, me preocupa tu dieta nutricional, ya
-que es probable que estés trabajando más de la cuenta.&lt;wait&gt;</Entry>
-  <Entry Index="927">¿De dónde sacas tanta energía?&lt;wait&gt;</Entry>
-  <Entry Index="928">Soy médico, y no trabajo ni la mitad que tú. Me dejas en
-vergüenza.&lt;wait&gt;&lt;page&gt;
-Supongo que la fuerza y ​​la resistencia existen para que
-personas como tú las usen.&lt;wait&gt;</Entry>
-  <Entry Index="929">Últimamente tus hábitos alimentarios me quitan
-el sueño, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="930">Como vives &lt;gender&gt;("solo","sola"), imagino que comes cualquier cosa.
-Mmmm. Eso es un problema.&lt;wait&gt;</Entry>
-  <Entry Index="931">¿Qué soy para ti, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="932">Estar contigo me llena de vitalidad y optimismo.&lt;wait&gt;&lt;page&gt;
-Respeto tu manera de proporcionar a la gente
-hábitos saludables, tan distinta a la que puedo
-ofrecerles yo como médico.&lt;wait&gt;</Entry>
-  <Entry Index="933">¿Sí? ¿Pasa algo?&lt;wait&gt;</Entry>
-  <Entry Index="934">Deberíamos irnos a la cama pronto. Lo siento.&lt;wait&gt;</Entry>
-  <Entry Index="935">¿Sí? ¿Pasa algo?&lt;wait&gt;
-¿Te encuentras mal?&lt;wait&gt;</Entry>
-  <Entry Index="936">Si no necesitas nada de mí,
-me gustaría dar por terminado el día.&lt;wait&gt;</Entry>
-  <Entry Index="937">Oh, ¿has venido a buscar material de lectura,
+  <Entry Index="896">Oh, &lt;nickname&gt;. &lt;gender&gt;("Bem vindo","Bem vinda").
+Sinta-se em casa.&lt;wait&gt;</Entry>
+  <Entry Index="897">Fico feliz que você tenha tempo em sua agenda lotada
+para vir me ver!&lt;wait&gt;</Entry>
+  <Entry Index="898">Fico feliz que você tenha tempo em sua agenda lotada
+para vir me ver!&lt;wait&gt;</Entry>
+  <Entry Index="899">Eu estava conversando com Elly sobre como é um alívio ver
+você. você se casou, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Hum? Você quer saber por quê?&lt;wait&gt;</Entry>
+  <Entry Index="900">Porque antes não havia ninguém para perceber se algum
+dia em que você desmaiou ou demorou muito para voltar para casa.
+Era uma posição um tanto precária.&lt;wait&gt;</Entry>
+  <Entry Index="901">Apesar das aparências, Elly é uma profissional
+excelente e muito gentil.
+Ela é quem me segura.&lt;wait&gt;</Entry>
+  <Entry Index="902">A clínica continuará funcionando normalmente, então não
+há o que se preocupar.&lt;wait&gt;</Entry>
+  <Entry Index="903">Olá. Como você está se sentindo?&lt;wait&gt;</Entry>
+  <Entry Index="904">Se você se sentir mal, venha me ver sempre que quiser. Eu
+vou te examinar.&lt;wait&gt;&lt;page&gt;
+Mas eu terei que cobrar de você. Afinal, a clínica
+tem que se manter à tona.&lt;wait&gt;</Entry>
+  <Entry Index="905">Olá, &lt;playername&gt;. Como você está de saúde?&lt;wait&gt;</Entry>
+  <Entry Index="906">Elly é uma assistente fantástica.
+Sua ajuda é inestimável para mim.&lt;wait&gt;</Entry>
+  <Entry Index="907">Oh! eu queria ser mais forte...&lt;wait&gt;</Entry>
+  <Entry Index="908">Recentemente eu estava um pouco deprimido, porque me sentia inútil
+como um médico. Em fim...&lt;wait&gt;</Entry>
+  <Entry Index="909">Elly sempre se preocupa comigo.&lt;wait&gt;</Entry>
+  <Entry Index="910">Não é um estado para um médico estar. Eu preciso
+intensificar.&lt;wait&gt;</Entry>
+  <Entry Index="911">Quando Elly está comigo, sinto que sou capaz
+de fazer qualquer coisa.&lt;wait&gt;</Entry>
+  <Entry Index="912">Elly e eu nos apoiamos, só assim podemos
+atingir todo o nosso potencial. Ou pelo menos é o que
+o que eu penso.&lt;wait&gt;</Entry>
+  <Entry Index="913">Se eu tiver um filho, gostaria que ele fosse médico. E
+obviamente, que exercesse nesta cidade.&lt;wait&gt;</Entry>
+  <Entry Index="914">Falando em crianças, Yu é bastante travesso e sempre
+está causando problemas. Embora provavelmente só faça
+para chamar a atenção.&lt;wait&gt;</Entry>
+  <Entry Index="915">Ah, &lt;playername&gt;. Eu ainda não acredito que nós
+vamos nos casar logo.&lt;wait&gt;</Entry>
+  <Entry Index="916">Afinal, minha personalidade é... bem única,
+Digamos.&lt;wait&gt;&lt;page&gt;
+Quase ninguém me entende.
+Você é a exceção, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Eu te amo.&lt;wait&gt;</Entry>
+  <Entry Index="917">Oh, você está se sentindo mal?&lt;wait&gt;</Entry>
+  <Entry Index="918">Assim que você se sentir mal, venha me ver.&lt;wait&gt;</Entry>
+  <Entry Index="919">Ei? Está tudo bem? É uma emergência?&lt;wait&gt;</Entry>
+  <Entry Index="920">Pode ser meu dia de folga, mas venha me ver sem
+problemas se você se sentir mal.&lt;wait&gt;</Entry>
+  <Entry Index="921">Ei, &lt;playername&gt;. Como vai a fazenda?&lt;wait&gt;</Entry>
+  <Entry Index="922">Em vez de enviar todos os produtos que você cultiva,
+guarde alguns e use-os para fazer refeições saudáveis.&lt;wait&gt;</Entry>
+  <Entry Index="923">Olá, &lt;playername&gt;. Você está bem?&lt;wait&gt;</Entry>
+  <Entry Index="924">Como ninguém mais mora com você, você tem que ter muita
+atenção à sua saúde.&lt;wait&gt;</Entry>
+  <Entry Index="925">Olá, &lt;playername&gt;.
+Como você está hoje?&lt;wait&gt;</Entry>
+  <Entry Index="926">Para ser honesto, estou preocupado com sua dieta nutricional, pois
+você provavelmente está trabalhando mais do que o necessário.&lt;wait&gt;</Entry>
+  <Entry Index="927">De onde você tira tanta energia?&lt;wait&gt;</Entry>
+  <Entry Index="928">Você trabalha duro o suficiente para deixar até mesmo um médico como eu
+envergonhado.&lt;wait&gt;&lt;page&gt;
+Eu acho que a força e ​​a resistência existe de modo que
+pessoas como você as usam.&lt;wait&gt;</Entry>
+  <Entry Index="929">Ultimamente seus hábitos alimentares estão me tirando
+o sono, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="930">Como voce vive &lt;gender&gt;("sozinho","sozinha"), Imagino que você coma qualquer coisa.
+Hmm. Isso é um problema.&lt;wait&gt;</Entry>
+  <Entry Index="931">Quem sou eu para você, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="932">Estar com você me enche de vitalidade e otimismo.&lt;wait&gt;&lt;page&gt;
+Respeito sua forma de atender as pessoas com
+hábitos saudáveis, tão diferentes do que posso
+oferecer-lhe como médico.&lt;wait&gt;</Entry>
+  <Entry Index="933">Sim? Há algo de errado?&lt;wait&gt;</Entry>
+  <Entry Index="934">Ambos devem ir para a cama em breve. Desculpe.&lt;wait&gt;</Entry>
+  <Entry Index="935">Sim? Há algo de errado?&lt;wait&gt;
+Você está se sentindo mal?&lt;wait&gt;</Entry>
+  <Entry Index="936">Se você não precisa de nada de mim,
+eu gostaria de terminar o dia.&lt;wait&gt;</Entry>
+  <Entry Index="937">Oh, você veio pegar algum material de leitura,
 &lt;nickname&gt;?&lt;wait&gt;&lt;page&gt;
-Deberías leerle también a nuestro hijo mientras está en
-la barriga. Si sientes una patada, es que te está
-escuchando. ♪&lt;wait&gt;</Entry>
-  <Entry Index="938">Aunque no sea leer un libro, dicen que hablarle al bebé
-dentro de la barriga tiene muchos efectos positivos.&lt;wait&gt;</Entry>
-  <Entry Index="939">Ojalá tuviera libros con ilustraciones.&lt;wait&gt;</Entry>
-  <Entry Index="940">¿Crees que esto no es para &lt;childname&gt; todavía?&lt;wait&gt;&lt;page&gt;
-Eso no es verdad. Exponer a &lt;childname&gt; a los
-libros desde joven podría despertar su interés por la
-literatura.&lt;wait&gt;</Entry>
-  <Entry Index="941">¿Necesitas algo de mí?&lt;wait&gt;</Entry>
-  <Entry Index="942">Me gustaría leer en paz.&lt;wait&gt;</Entry>
-  <Entry Index="943">¿&lt;nickname&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="944">Por favor, no me hables.
-Me estás desconcentrando.&lt;wait&gt;</Entry>
-  <Entry Index="945">Vaya. Qué coincidencia. ¿También has venido a leer,
+Você também deve ler para o nosso filho enquanto ele está em
+sua barriga. Se você sentir um chute, então
+isso significa que está ouvindo. ♪&lt;wait&gt;</Entry>
+  <Entry Index="938">Mesmo que não seja lendo um livro, dizem que conversando com o bebê
+dentro da barriga tem muitos efeitos positivos.&lt;wait&gt;</Entry>
+  <Entry Index="939">Eu gostaria que houvesse livros ilustrados aqui também.&lt;wait&gt;</Entry>
+  <Entry Index="940">Você acha que isso não é para &lt;childname&gt; ainda?&lt;wait&gt;&lt;page&gt;
+Isso não é verdade. simplesmente expondo &lt;childname&gt; aos
+livros, podem despertar um interesse pela 
+literatura desde pequeno.&lt;wait&gt;</Entry>
+  <Entry Index="941">Você precisa de algo de mim?&lt;wait&gt;</Entry>
+  <Entry Index="942">Eu gostaria de ler em paz.&lt;wait&gt;</Entry>
+  <Entry Index="943">?&lt;nickname&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="944">Por favor, não fale comigo.
+você está me distraindo.&lt;wait&gt;</Entry>
+  <Entry Index="945">Oh. Que coincidência. Você também veio ler,
 &lt;nickname&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="946">¿Soy el único que tiene la impresión de que esta biblioteca
-está construida especialmente para ti?&lt;wait&gt;</Entry>
+  <Entry Index="946">Só eu tenho a impressão de que esta biblioteca
+é construído especialmente para você?&lt;wait&gt;</Entry>
   <Entry Index="947">¿Has sacado algún provecho de los libros de esta
 colección, &lt;nickname&gt;? &lt;wait&gt;</Entry>
   <Entry Index="948">Ojalá la gente del pueblo se interesara más en la lectura.
