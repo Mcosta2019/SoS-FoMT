@@ -2266,115 +2266,115 @@ Meu nome é Blueberry. É um prazer te conhecer.&lt;wait&gt;</Entry>
 festas do chá!&lt;wait&gt;</Entry>
   <Entry Index="987">Você trouxe um convite? Sim! Ouçam todos, é hora de 
 irem arrumando a mesa para a festa do chá!&lt;wait&gt;</Entry>
-  <Entry Index="988">Todavía no se ha reunido todo el grupo. No podemos
-empezar la fiesta sin ellos.&lt;wait&gt;</Entry>
-  <Entry Index="989">Ahora mismo no es momento para la fiesta del té. ¡Es
-importante esperar al momento adecuado!&lt;wait&gt;</Entry>
-  <Entry Index="990">Oooh... No podemos celebrar la fiesta del té aquí.&lt;wait&gt;</Entry>
-  <Entry Index="991">¿Sabes qué? ¡Hoy es mi cumpleaños!
-¡Gracias por el regalo!&lt;wait&gt;</Entry>
-  <Entry Index="992">¡Bieeeen! ¡Yeeee! ¡Gracias, gracias, gracias! ¡Me encanta!&lt;wait&gt;</Entry>
-  <Entry Index="993">¡Bieeeen! ¡Gracias! ¡Me gusta mucho!&lt;wait&gt;</Entry>
-  <Entry Index="994">Gracias por el regalo.&lt;wait&gt;</Entry>
-  <Entry Index="995">Um... No me gusta mucho.&lt;wait&gt;</Entry>
-  <Entry Index="996">¡Oh!&lt;wait&gt;</Entry>
-  <Entry Index="997">Hola, compi. Me encanta mi trabajo. Si necesitas ayuda,
-dímelo. ¿Vale?&lt;wait&gt;</Entry>
-  <Entry Index="998">¡Ah! ¡Qué sorpresa!&lt;wait&gt;</Entry>
-  <Entry Index="999">¡Ooooh! ¡Qué brillaaaanteee!
-Es como si tuvieras una estrella en la mano.&lt;wait&gt;</Entry>
-  <Entry Index="1000">Oooh, ¡gracias! ¿Seguro que no te importa
-regalarme algo tan bonito?&lt;wait&gt;</Entry>
-  <Entry Index="1001">Mmm, ¡qué olor más raro!
-No hay nada en el bosque que huela así.&lt;wait&gt;</Entry>
-  <Entry Index="1002">¡Oooh, una pluma bonita! Es preciosa, seguro que tiene
-poderes especiales.&lt;wait&gt;</Entry>
-  <Entry Index="1003">¿Sabes qué? He oído un rumor de que hay otros como
-nosotros viviendo en el Valle Nomeolvides.&lt;wait&gt;</Entry>
-  <Entry Index="1004">La primavera es para las fiestas del té.
-Las fiestas del té son para la primavera.
-¡Estoy deseando que llegue!&lt;wait&gt;</Entry>
-  <Entry Index="1005">El trabajo es importante, pero también lo son
-las fiestas del té.&lt;wait&gt;</Entry>
-  <Entry Index="1006">¿Qué te gusta más, &lt;playername&gt;?
-¿El trabajo o las fiestas del té?&lt;wait&gt;</Entry>
-  <Entry Index="1007">Estoy deseando que vengas a nuestra próxima fiesta del
-té, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1008">Hacemos muchas cosas divertidas en nuestras fiestas del
-té. Comemos aperitivos, bebemos té, hablamos con los
-amigos... ¡Es lo mejor!&lt;wait&gt;</Entry>
-  <Entry Index="1009">Mmmm... Si tuvieras que elegir entre el trabajo o la fiesta
-del té, ¿qué elegirías? Bueno...&lt;wait&gt;</Entry>
-  <Entry Index="1010">Los amigos son el ingrediente secreto para que una fiesta
-del té sea más divertida.</Entry>
-  <Entry Index="1011">¡Ooh, &lt;playername&gt;! Si vienes, ¡podemos tomarnos un
-descanso y celebrar una fiesta del té!&lt;wait&gt;</Entry>
-  <Entry Index="1012">¿Has venido para pedirme ayuda con algo?&lt;wait&gt;</Entry>
-  <Entry Index="1013">&lt;gender&gt;("Bienvenido","Bienvenida"). ¿Necesitas ayuda?&lt;wait&gt;</Entry>
-  <Entry Index="1014">¡&lt;gender&gt;("Bienvenido","Bienvenida")! ¿Podemos ayudarte con el trabajo?&lt;wait&gt;</Entry>
-  <Entry Index="1015">¡&lt;playername&gt;! ¡Sabía que vendrías pronto!&lt;wait&gt;</Entry>
-  <Entry Index="1016">Mmm... Me gusta trabajar, pero...&lt;wait&gt;</Entry>
-  <Entry Index="1017">Me gusta ayudar. Es divertido.&lt;wait&gt;</Entry>
-  <Entry Index="1018">Es difícil decir que no a un amigo que te pide ayuda con el
-trabajo.&lt;wait&gt;</Entry>
-  <Entry Index="1019">¡Estoy deseando ver tu granja, &lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="1020">¿Necesitas algo?&lt;wait&gt;</Entry>
-  <Entry Index="1021">Pedir ayuda.</Entry>
-  <Entry Index="1022">Jugar juntos.</Entry>
-  <Entry Index="1023">Da igual.</Entry>
-  <Entry Index="1024">¡Vale! Mañana trabajaremos muy duro.&lt;wait&gt;</Entry>
-  <Entry Index="1025">Nos gusta ayudar a nuestros amigos.
-Si fuéramos más amigos, también te ayudaríamos a ti.&lt;wait&gt;</Entry>
-  <Entry Index="1026">¿Qué te gustaría que hiciéramos?&lt;wait&gt;</Entry>
-  <Entry Index="1027">Regar los cultivos.</Entry>
-  <Entry Index="1028">Cosechar.</Entry>
-  <Entry Index="1029">Cuidar del ganado.</Entry>
-  <Entry Index="1030">Da igual.</Entry>
-  <Entry Index="1031">¿Cuánto tiempo quieres que reguemos los cultivos?&lt;wait&gt;</Entry>
-  <Entry Index="1032">Un día</Entry>
-  <Entry Index="1033">Tres días</Entry>
-  <Entry Index="1034">Una semana</Entry>
-  <Entry Index="1035">¡Vale! Regaremos tus cultivos durante un día.&lt;wait&gt;</Entry>
-  <Entry Index="1036">¡Vale! Regaremos tus cultivos durante tres días.&lt;wait&gt;</Entry>
-  <Entry Index="1037">¡Vale! Regaremos tus cultivos durante una semana.&lt;wait&gt;</Entry>
-  <Entry Index="1038">¿Cuánto tiempo quieres que recojamos tus cultivos?&lt;wait&gt;</Entry>
-  <Entry Index="1039">¡Vale! Recogeremos tus cultivos durante un día.&lt;wait&gt;</Entry>
-  <Entry Index="1040">¡Vale! Recogeremos tus cultivos durante tres días.&lt;wait&gt;</Entry>
-  <Entry Index="1041">¡Vale! Recogeremos tus cultivos durante una semana.&lt;wait&gt;</Entry>
-  <Entry Index="1042">¿Cuánto tiempo quieres que cuidemos del ganado?&lt;wait&gt;</Entry>
-  <Entry Index="1043">¡Vale! Cuidaremos del ganado durante un día.&lt;wait&gt;</Entry>
-  <Entry Index="1044">¡Vale! Cuidaremos del ganado durante tres días.&lt;wait&gt;</Entry>
-  <Entry Index="1045">¡Vale! Cuidaremos del ganado durante una semana.&lt;wait&gt;</Entry>
-  <Entry Index="1046">¿Qué? Oh...&lt;wait&gt;</Entry>
-  <Entry Index="1047">Ya hemos jugado juntos hoy.
-Juguemos otra vez mañana.&lt;wait&gt;</Entry>
-  <Entry Index="1048">Nos gusta jugar con nuestros amigos.
-Si fuéramos más amigos, también jugaríamos contigo.&lt;wait&gt;</Entry>
-  <Entry Index="1049">¿A qué juego quieres jugar?&lt;wait&gt;</Entry>
-  <Entry Index="1050">¡Juguemos al juego de la regadera!&lt;wait&gt;</Entry>
-  <Entry Index="1051">Seguro que ahora se me da mejor regar los cultivos.&lt;wait&gt;</Entry>
-  <Entry Index="1052">¡Oh! La he liado. Supongo que ahora se me dará peor
-regar los cultivos...&lt;wait&gt;</Entry>
-  <Entry Index="1053">¡Juguemos al juego de la cosecha!&lt;wait&gt;</Entry>
-  <Entry Index="1054">Apuesto a que ahora se me dará mejor
-recoger la cosecha.&lt;wait&gt;</Entry>
-  <Entry Index="1055">¡Oh! La he liado. Parece que ahora se me dará un poco
-peor recoger la cosecha...&lt;wait&gt;</Entry>
-  <Entry Index="1056">¡Juguemos al juego del ganado!&lt;wait&gt;</Entry>
-  <Entry Index="1057">Seguro que ahora se me dará mejor cuidar del ganado.&lt;wait&gt;</Entry>
-  <Entry Index="1058">¡Oh! La he liado. Parece que ahora se me dará peor
-cuidar del ganado...&lt;wait&gt;</Entry>
-  <Entry Index="1059">¡Oh! ¿No quieres jugar?&lt;wait&gt;</Entry>
-  <Entry Index="1060">Vale. ¡Vuelve pronto!&lt;wait&gt;</Entry>
-  <Entry Index="1061">Ya hemos terminado nuestro trabajo por hoy.&lt;wait&gt;&lt;page&gt;</Entry>
-  <Entry Index="1062">Mmm, no estoy acostumbrado a esto todavía, así que no
-soy muy bueno.&lt;wait&gt;</Entry>
-  <Entry Index="1063">¡Creo que le estoy pillando el truco!&lt;wait&gt;</Entry>
-  <Entry Index="1064">¡Recoger la cosecha es divertido!
-¡Voy a seguir practicando!&lt;wait&gt;</Entry>
-  <Entry Index="1065">¡Sí! ¡Soy un maestro recolector! ¡Dejadme la tarea de
-recoger la cosecha a mí!&lt;wait&gt;</Entry>
-  <Entry Index="1066">¡Regar es muy divertido!
+  <Entry Index="988">Todo o grupo ainda não se encontrou. Não podemos
+começar a festa sem eles.&lt;wait&gt;</Entry>
+  <Entry Index="989">Agora não é hora para a festa do chá. É
+importante esperar o momento certo!&lt;wait&gt;</Entry>
+  <Entry Index="990">Oooh... Não podemos fazer a festa do chá aqui.&lt;wait&gt;</Entry>
+  <Entry Index="991">Adivinha? Hoje é meu aniversário!
+Obrigado pelo presente!&lt;wait&gt;</Entry>
+  <Entry Index="992">Eba! Uau! Obrigado, obrigado, obrigado! Eu amo cada pedacinho!&lt;wait&gt;</Entry>
+  <Entry Index="993">Uau! Obrigado! Gosto muito!&lt;wait&gt;</Entry>
+  <Entry Index="994">Obrigado pelo presente.&lt;wait&gt;</Entry>
+  <Entry Index="995">Hum... não gosto muito.&lt;wait&gt;</Entry>
+  <Entry Index="996">Oh!&lt;wait&gt;</Entry>
+  <Entry Index="997">Olá, amiguinho. É muito divertido fazer o meu trabalho.
+Se precisar de ajuda, me avise. OK?&lt;wait&gt;</Entry>
+  <Entry Index="998">Ah! Que surpresa!&lt;wait&gt;</Entry>
+  <Entry Index="999">Ooooh! Muuuuito brilhante!
+É como se você tivesse uma estrela na mão.&lt;wait&gt;</Entry>
+  <Entry Index="1000">Obrigado! você tem certeza que não se importa?
+de dar algo tão bom?&lt;wait&gt;</Entry>
+  <Entry Index="1001">Hum, que cheiro estranho!
+Não há nada na floresta que cheire assim.&lt;wait&gt;</Entry>
+  <Entry Index="1002">Oooh, uma caneta bonita! É lindo, tenho certeza que tem
+poderes especiais.&lt;wait&gt;</Entry>
+  <Entry Index="1003">Adivinha? Eu ouvi um boato de que outros como nós vivem no
+Vale Esquecido.&lt;wait&gt;</Entry>
+  <Entry Index="1004">A primavera é para festas de chá.
+As festas do chá são para a primavera.
+Mal posso esperar!&lt;wait&gt;</Entry>
+  <Entry Index="1005">O trabalho é importante, mas as festas 
+de chá também são.&lt;wait&gt;</Entry>
+  <Entry Index="1006">O que você gosta mais, &lt;playername&gt;?
+Trabalho ou festas de chá?&lt;wait&gt;</Entry>
+  <Entry Index="1007">Mal posso esperar para você vir à nossa próxima festa de
+chá, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1008">Fazemos muitas coisas divertidas em nossas festas de
+chá. Comemos lanches, tomamos chá, conversamos com o
+amigos... É o melhor de tudo!&lt;wait&gt;</Entry>
+  <Entry Index="1009">Hummm... Se você tivesse que escolher entre o trabalho ou a festa
+de chá, o que você escolheria? Bem...&lt;wait&gt;</Entry>
+  <Entry Index="1010">Amigos são os ingredientes secretos para uma festa
+de chá mais divertido.</Entry>
+  <Entry Index="1011">Ooh, &lt;playername&gt;! Se você vier, podemos ter um
+descanso e fazer a festa do chá!&lt;wait&gt;</Entry>
+  <Entry Index="1012">Você veio me pedir ajuda em alguma coisa?&lt;wait&gt;</Entry>
+  <Entry Index="1013">&lt;gender&gt;("Bem vindo","Bem vinda"). Precisa de ajuda?&lt;wait&gt;</Entry>
+  <Entry Index="1014">&lt;gender&gt;("Bem vindo","Bem vinda")! Podemos ajudá-lo com o trabalho?&lt;wait&gt;</Entry>
+  <Entry Index="1015">&lt;playername&gt;! Eu sabia que você viria logo!&lt;wait&gt;</Entry>
+  <Entry Index="1016">Hmm... Eu gosto de trabalhar, mas...&lt;wait&gt;</Entry>
+  <Entry Index="1017">Eu gosto de ajudar. É divertido.&lt;wait&gt;</Entry>
+  <Entry Index="1018">É difícil dizer não a um amigo que lhe pede ajuda com o
+trabalho.&lt;wait&gt;</Entry>
+  <Entry Index="1019">Estou ansioso para ver sua fazenda, &lt;playername&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="1020">Precisa de algo?&lt;wait&gt;</Entry>
+  <Entry Index="1021">Pedir ajuda.</Entry>
+  <Entry Index="1022">Jogar juntos.</Entry>
+  <Entry Index="1023">Tanto faz.</Entry>
+  <Entry Index="1024">OK! Amanhã vamos trabalhar muito.&lt;wait&gt;</Entry>
+  <Entry Index="1025">Gostamos de ajudar nossos amigos.
+Se fôssemos mais amigos, também te ajudaríamos.&lt;wait&gt;</Entry>
+  <Entry Index="1026">O que você gostaria que fizéssemos?&lt;wait&gt;</Entry>
+  <Entry Index="1027">Regar as colheitass.</Entry>
+  <Entry Index="1028">Colheita.</Entry>
+  <Entry Index="1029">Cuidar do gado.</Entry>
+  <Entry Index="1030">Tanto faz.</Entry>
+  <Entry Index="1031">Por quanto tempo você quer que irrigemos as plantações?&lt;wait&gt;</Entry>
+  <Entry Index="1032">Um dia</Entry>
+  <Entry Index="1033">Três dias</Entry>
+  <Entry Index="1034">Uma semana</Entry>
+  <Entry Index="1035">OK! Vamos irrigar suas plantações por um dia.&lt;wait&gt;</Entry>
+  <Entry Index="1036">OK! Vamos irrigar suas plantações por três dias.&lt;wait&gt;</Entry>
+  <Entry Index="1037">OK! Vamos irrigar suas plantações por uma semana.&lt;wait&gt;</Entry>
+  <Entry Index="1038">Por quanto tempo você quer que coletemos suas colheitas?&lt;wait&gt;</Entry>
+  <Entry Index="1039">OK! Vamos colher suas colheitas por um dia.&lt;wait&gt;</Entry>
+  <Entry Index="1040">OK! Coletaremos suas colheitas por três dias.&lt;wait&gt;</Entry>
+  <Entry Index="1041">OK! Coletaremos suas colheitas por uma semana.&lt;wait&gt;</Entry>
+  <Entry Index="1042">Por quanto tempo você quer que cuidemos do gado?&lt;wait&gt;</Entry>
+  <Entry Index="1043">OK! Vamos cuidar do gado por um dia.&lt;wait&gt;</Entry>
+  <Entry Index="1044">OK! Cuidaremos do gado por três dias.&lt;wait&gt;</Entry>
+  <Entry Index="1045">OK! Vamos cuidar do gado por uma semana.&lt;wait&gt;</Entry>
+  <Entry Index="1046">Que? Ooh...&lt;wait&gt;</Entry>
+  <Entry Index="1047">Já jogamos juntos hoje.
+Vamos jogar de novo amanhã.&lt;wait&gt;</Entry>
+  <Entry Index="1048">Nós gostamos de brincar com nossos amigos.
+Se fôssemos mais amigos, também brincaríamos com você.&lt;wait&gt;</Entry>
+  <Entry Index="1049">Que jogo você quer jogar?&lt;wait&gt;</Entry>
+  <Entry Index="1050">Vamos jogar o jogo de aspersão!&lt;wait&gt;</Entry>
+  <Entry Index="1051">Tenho certeza de que estou melhor em regar as plantações agora.&lt;wait&gt;</Entry>
+  <Entry Index="1052">Oh! Eu estraguei tudo. Acho que agora vou ser o pior
+regador de plantações...&lt;wait&gt;</Entry>
+  <Entry Index="1053">Vamos jogar o jogo da colheita!&lt;wait&gt;</Entry>
+  <Entry Index="1054">Aposto que vou ser melhor nisso agora,
+para colher a colheita.&lt;wait&gt;</Entry>
+  <Entry Index="1055">Awww! Eu estraguei tudo. Parece que fiquei um pouco pior em
+estar colhendo as colheitas...&lt;wait&gt;</Entry>
+  <Entry Index="1056">Vamos jogar o jogo do gado!&lt;wait&gt;</Entry>
+  <Entry Index="1057">Tenho certeza que vou cuidar melhor do gado agora.&lt;wait&gt;</Entry>
+  <Entry Index="1058">Awww! Eu estraguei tudo. Parece que fiquei um pouco pior em
+cuidar de gado...&lt;wait&gt;</Entry>
+  <Entry Index="1059">Oh! Não quer jogar?&lt;wait&gt;</Entry>
+  <Entry Index="1060">OK. Volta em breve!&lt;wait&gt;</Entry>
+  <Entry Index="1061">Nós terminamos nosso trabalho por hoje.&lt;wait&gt;&lt;page&gt;</Entry>
+  <Entry Index="1062">Hmm, eu não estou acostumado com isso ainda, então não
+sou muito bom.&lt;wait&gt;</Entry>
+  <Entry Index="1063">Acho que estou pegando o jeito!&lt;wait&gt;</Entry>
+  <Entry Index="1064">Colhendo a colheita é divertido!
+Vou continuar praticando!&lt;wait&gt;</Entry>
+  <Entry Index="1065">Yay! Eu sou um mestre da colheita! deixe-me a tarefa de
+colher a colheita para mim!&lt;wait&gt;</Entry>
+  <Entry Index="1066">Regar é muito divertido!
 ¡Voy a seguir practicando!&lt;wait&gt;</Entry>
   <Entry Index="1067">¡Sí! ¡Soy un maestro del regado! ¡Dejadme la tarea de
 regar a mí!&lt;wait&gt;</Entry>
