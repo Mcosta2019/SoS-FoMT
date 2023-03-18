@@ -15,7 +15,7 @@ Prazer em conhecê-lo!&lt;wait&gt;</Entry>
   <Entry Index="2">Uau, obrigado! Eu te amo, &lt;nickname&gt;.&lt;wait&gt;&lt;page&gt;
 Eu sabia que você se lembraria do meu aniversário.&lt;wait&gt;</Entry>
   <Entry Index="3">Uau! Obrigado! Hoje também é meu aniversário!&lt;wait&gt;</Entry>
-  <Entry Index="4">Uau, obrigado! E esta é a minha comida favorita.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="4">Uau, Obrigado! E esta é a minha comida favorita.&lt;wait&gt;&lt;page&gt;
 Que detalhista você é, &lt;nickname&gt;. Nossa, agora eu
 vou ter que te dar algo também. Hmm... o que
 pode ser?&lt;wait&gt;</Entry>
@@ -2329,7 +2329,7 @@ Se fôssemos mais amigos, também te ajudaríamos.&lt;wait&gt;</Entry>
   <Entry Index="1027">Regar as colheitass.</Entry>
   <Entry Index="1028">Colheita.</Entry>
   <Entry Index="1029">Cuidar do gado.</Entry>
-  <Entry Index="1030">Tanto faz.</Entry>
+  <Entry Index="1030">Deixar para lá.</Entry>
   <Entry Index="1031">Por quanto tempo você quer que irrigemos as plantações?&lt;wait&gt;</Entry>
   <Entry Index="1032">Um dia</Entry>
   <Entry Index="1033">Três dias</Entry>
@@ -2370,116 +2370,115 @@ cuidar de gado...&lt;wait&gt;</Entry>
   <Entry Index="1062">Hmm, eu não estou acostumado com isso ainda, então não
 sou muito bom.&lt;wait&gt;</Entry>
   <Entry Index="1063">Acho que estou pegando o jeito!&lt;wait&gt;</Entry>
-  <Entry Index="1064">Colhendo a colheita é divertido!
+  <Entry Index="1064">Colher a colheita é divertido!
 Vou continuar praticando!&lt;wait&gt;</Entry>
   <Entry Index="1065">Yay! Eu sou um mestre da colheita! deixe-me a tarefa de
 colher a colheita para mim!&lt;wait&gt;</Entry>
   <Entry Index="1066">Regar é muito divertido!
-¡Voy a seguir practicando!&lt;wait&gt;</Entry>
-  <Entry Index="1067">¡Sí! ¡Soy un maestro del regado! ¡Dejadme la tarea de
-regar a mí!&lt;wait&gt;</Entry>
-  <Entry Index="1068">¡Cuidar del ganado es muy divertido! ¡Voy a seguir
-aprendiendo!&lt;wait&gt;</Entry>
-  <Entry Index="1069">¡Sí! ¡Soy un maestro ganadero! ¡Deja a mi cuidado a tus
-animales cuando quieras!&lt;wait&gt;</Entry>
-  <Entry Index="1070">¡Sigue así!</Entry>
-  <Entry Index="1071">Mañana no hace falta que trabajéis más.</Entry>
-  <Entry Index="1072">¡Vale! Trabajaré duro mañana de nuevo por ti.&lt;wait&gt;</Entry>
-  <Entry Index="1073">¡Vale! Después de trabajar hoy, habré terminado.&lt;wait&gt;</Entry>
-  <Entry Index="1074">¿Necesitas algo?&lt;wait&gt;</Entry>
-  <Entry Index="1075">Pedir ayuda.</Entry>
-  <Entry Index="1076">Jugar juntos.</Entry>
-  <Entry Index="1077">Da igual.</Entry>
-  <Entry Index="1078">¡Vale! Mañana trabajaré muy duro.&lt;wait&gt;</Entry>
-  <Entry Index="1079">Nos gusta ayudar a nuestros amigos. Si fuéramos más
-amigos, también te ayudaríamos a ti.&lt;wait&gt;</Entry>
-  <Entry Index="1080">¿Con qué tareas podemos ayudarte?&lt;wait&gt;</Entry>
-  <Entry Index="1081">Regar los cultivos.</Entry>
-  <Entry Index="1082">Cosechar.</Entry>
-  <Entry Index="1083">Cuidar del ganado.</Entry>
-  <Entry Index="1084">Da igual.</Entry>
-  <Entry Index="1085">¡Vale! ¡Empezaremos a ayudarte mañana! ¿Cuánto tiempo
-quieres que te ayudemos?&lt;wait&gt;</Entry>
-  <Entry Index="1086">Un día</Entry>
-  <Entry Index="1087">Tres días</Entry>
-  <Entry Index="1088">Siete días</Entry>
-  <Entry Index="1089">Regar los cultivos durante un día.
-Eso es lo que quieres que hagamos, ¿verdad?&lt;wait&gt;</Entry>
-  <Entry Index="1090">Regar los cultivos durante tres días.
-Eso es lo que quieres que hagamos, ¿verdad?&lt;wait&gt;</Entry>
-  <Entry Index="1091">Regar los cultivos durante una semana.
-Eso es lo que quieres que hagamos, ¿verdad?&lt;wait&gt;</Entry>
-  <Entry Index="1092">¡Vale! ¡Empezaremos a ayudarte mañana! ¿Cuánto tiempo
-quieres que te ayudemos?&lt;wait&gt;</Entry>
-  <Entry Index="1093">Cosechar los cultivos durante un día.
-Eso es lo que quieres que hagamos, ¿verdad?&lt;wait&gt;</Entry>
-  <Entry Index="1094">Cosechar los cultivos durante tres días.
-Eso es lo que quieres que hagamos, ¿verdad?&lt;wait&gt;</Entry>
-  <Entry Index="1095">Cosechar los cultivos durante una semana.
-Eso es lo que quieres que hagamos, ¿verdad?&lt;wait&gt;</Entry>
-  <Entry Index="1096">¡Vale! ¡Empezaremos a ayudarte mañana! ¿Cuánto tiempo
-quieres que te ayudemos?&lt;wait&gt;</Entry>
-  <Entry Index="1097">Cuidar del ganado durante un día. Eso es lo que quieres
-que hagamos, ¿verdad?&lt;wait&gt;</Entry>
-  <Entry Index="1098">Cuidar del ganado durante tres días. Eso es lo que quieres
-que hagamos, ¿verdad?&lt;wait&gt;</Entry>
-  <Entry Index="1099">Cuidar del ganado durante una semana. Eso es lo que
-quieres que hagamos, ¿verdad?&lt;wait&gt;</Entry>
-  <Entry Index="1100">¿Eh? Oh...&lt;wait&gt;</Entry>
-  <Entry Index="1101">¿Sabes qué? Da igual.</Entry>
-  <Entry Index="1102">Me refería a una tarea diferente.</Entry>
-  <Entry Index="1103">¡Vale! A ver si lo he entendido bien.&lt;wait&gt;</Entry>
-  <Entry Index="1104">¡Sí, eso es!</Entry>
-  <Entry Index="1105">Me refería a una tarea diferente.</Entry>
-  <Entry Index="1106">Me refería a un número diferente de días.</Entry>
-  <Entry Index="1107">¡Sí, eso es!</Entry>
-  <Entry Index="1108">Si lo metes en el frigorífico, el envoltorio se despegará.
-¿Te parece bien?&lt;wait&gt;</Entry>
-  <Entry Index="1109">Vaya. ¿Eres &lt;playername&gt;?&lt;wait&gt;&lt;page&gt;
-Me llamo Menta.&lt;wait&gt;</Entry>
-  <Entry Index="1110">Gracias. Hoy es mi cumpleaños.
-Es un regalo superbonito...&lt;wait&gt;</Entry>
-  <Entry Index="1111">Gracias. Me gusta mucho.&lt;wait&gt;</Entry>
-  <Entry Index="1112">Gracias. Me gusta.&lt;wait&gt;</Entry>
-  <Entry Index="1113">Gracias.&lt;wait&gt;</Entry>
-  <Entry Index="1114">Um... No me gusta mucho.&lt;wait&gt;</Entry>
-  <Entry Index="1115">¡Oh! Menuda sorpresa.&lt;wait&gt;</Entry>
-  <Entry Index="1116">Oooh, qué bonito. Me encantan los animalitos.&lt;wait&gt;</Entry>
-  <Entry Index="1117">¡Ah! Qué susto.
-Llévatelo. ¡Por favor, llévatelo!&lt;wait&gt;</Entry>
-  <Entry Index="1118">Gracias. ¿Seguro que quieres darme eso tan bonito a mí?&lt;wait&gt;</Entry>
-  <Entry Index="1119">Ooooh... Snif... Snif...
-Huele muy bien.&lt;wait&gt;</Entry>
-  <Entry Index="1120">Qué pluma más bonita. Tiene algo hipnópico.
-¿Lo he dicho bien?&lt;wait&gt;</Entry>
-  <Entry Index="1121">Es primavera. La primavera significa que habrá fiestas
-del té.&lt;wait&gt;</Entry>
-  <Entry Index="1122">A nosotros... um... nos gusta hacer las fiestas de té con
-nuestros amigos.&lt;wait&gt;</Entry>
-  <Entry Index="1123">¿Tú también tienes ganas de participar en una fiesta del
-té, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="1124">Me gusta cuando vienes a nuestras fiestas del té,
+Vou continuar praticando!&lt;wait&gt;</Entry>
+  <Entry Index="1067">Yay! Eu sou um mestre em regar! Você pode deixar a tarefa de
+regar para mim!&lt;wait&gt;</Entry>
+  <Entry Index="1068">Cuidar do gado é muito divertido! Vou seguir
+aprendendo!&lt;wait&gt;</Entry>
+  <Entry Index="1069">Sim! Yay! Sou mestre em cuidar de animais! Você pode
+deixar-os sob meus cuidados quando quiser!&lt;wait&gt;</Entry>
+  <Entry Index="1070">Continue assim!</Entry>
+  <Entry Index="1071">Amanhã você não precisa mais trabalhar.</Entry>
+  <Entry Index="1072">OK! Eu vou trabalhar muito novamente amanhã para você.&lt;wait&gt;</Entry>
+  <Entry Index="1073">OK! Depois que eu terminar hoje, estarei pronto.&lt;wait&gt;</Entry>
+  <Entry Index="1074">Precisa de algo?&lt;wait&gt;</Entry>
+  <Entry Index="1075">Pedir ajuda.</Entry>
+  <Entry Index="1076">Jogar juntos.</Entry>
+  <Entry Index="1077">Deixar para lá.</Entry>
+  <Entry Index="1078">OK! Vou trabalhar muito amanhã.&lt;wait&gt;</Entry>
+  <Entry Index="1079">Gostamos de ajudar nossos amigos. Se fôssemos mais
+amigos, nós também ajudaríamos vocês.&lt;wait&gt;</Entry>
+  <Entry Index="1080">Em quais tarefas podemos ajudá-lo?&lt;wait&gt;</Entry>
+  <Entry Index="1081">Irrigar as plantações.</Entry>
+  <Entry Index="1082">Colheita.</Entry>
+  <Entry Index="1083">Cuidar do gado.</Entry>
+  <Entry Index="1084">Deixar para lá.</Entry>
+  <Entry Index="1085">OK! Começaremos a ajudá-lo amanhã! Quanto tempo
+você quer que nós o ajudemos?&lt;wait&gt;</Entry>
+  <Entry Index="1086">Um dia</Entry>
+  <Entry Index="1087">Tres dias</Entry>
+  <Entry Index="1088">Sete dias</Entry>
+  <Entry Index="1089">Regar as plantações por um dia.
+Isso é o que você quer que façamos, certo?&lt;wait&gt;</Entry>
+  <Entry Index="1090">Regar as plantações por três dias.
+Isso é o que você quer que façamos, certo?&lt;wait&gt;</Entry>
+  <Entry Index="1091">Regue as plantações por uma semana.
+Isso é o que você quer que façamos, certo?&lt;wait&gt;</Entry>
+  <Entry Index="1092">OK! Começaremos a ajudá-lo amanhã! Quanto tempo
+você quer que nós o ajudemos?&lt;wait&gt;</Entry>
+  <Entry Index="1093">Colher as colheitas por um dia.
+Isso é o que você quer que façamos, certo?&lt;wait&gt;</Entry>
+  <Entry Index="1094">Colher as colheitas por três dias.
+Isso é o que você quer que façamos, certo?&lt;wait&gt;</Entry>
+  <Entry Index="1095">Colher as colheitas por uma semana.
+Isso é o que você quer que façamos, certo?&lt;wait&gt;</Entry>
+  <Entry Index="1096">OK! Começaremos a ajudá-lo amanhã! Quanto tempo
+você quer que nós o ajudemos?&lt;wait&gt;</Entry>
+  <Entry Index="1097">Cuidar do gado por um dia. Isso é o que você quer
+que façamos, certo?&lt;wait&gt;</Entry>
+  <Entry Index="1098">Cuidar do gado por três dias. Isso é o que você quer
+que façamos, certo?&lt;wait&gt;</Entry>
+  <Entry Index="1099">Cuidar do gado por uma semana. Isso é o que você quer
+que façamos, certo?&lt;wait&gt;</Entry>
+  <Entry Index="1100">Ei? ooh...&lt;wait&gt;</Entry>
+  <Entry Index="1101">Quer saber? Deixa para lá.</Entry>
+  <Entry Index="1102">Eu quis dizer uma tarefa diferente.</Entry>
+  <Entry Index="1103">OK! Deixa eu ver se eu entendi direito.&lt;wait&gt;</Entry>
+  <Entry Index="1104">Sim é isso!</Entry>
+  <Entry Index="1105">Eu quis dizer uma tarefa diferente.</Entry>
+  <Entry Index="1106">Eu quis dizer um número diferente de dias.</Entry>
+  <Entry Index="1107">Sim é isso!</Entry>
+  <Entry Index="1108">Ok, vamos nos unir e dar o nosso melhor
+amanhã!&lt;wait&gt;</Entry>
+  <Entry Index="1109">.Ah. Você é &lt;playername&gt;?&lt;wait&gt;&lt;page&gt;
+Meu nome é Mint.&lt;wait&gt;</Entry>
+  <Entry Index="1110">Obrigado. Hoje é meu aniversário.
+É um presente super fofo...&lt;wait&gt;</Entry>
+  <Entry Index="1111">Obrigado. Eu gosto muito.&lt;wait&gt;</Entry>
+  <Entry Index="1112">Obrigado. Eu gosto disso.&lt;wait&gt;</Entry>
+  <Entry Index="1113">Obrigado.&lt;wait&gt;</Entry>
+  <Entry Index="1114">Hum... não gosto muito.&lt;wait&gt;</Entry>
+  <Entry Index="1115">Oh! Que surpresa.&lt;wait&gt;</Entry>
+  <Entry Index="1116">Uau, que lindo. Eu amo animais.&lt;wait&gt;</Entry>
+  <Entry Index="1117">Ah! Que susto.
+Leve embora. Por favor, leve-o embora!&lt;wait&gt;</Entry>
+  <Entry Index="1118">Obrigado. Tem certeza que quer me dar aquela coisa linda?&lt;wait&gt;</Entry>
+  <Entry Index="1119">Ooooh... Cheire... Cheire...
+Cheira tão bem.&lt;wait&gt;</Entry>
+  <Entry Index="1120">Que Pena linda. Tem algo hipnótico.
+Eu disse bem?&lt;wait&gt;</Entry>
+  <Entry Index="1121">É primavera. Primavera significa que haverá festas
+do chá.&lt;wait&gt;</Entry>
+  <Entry Index="1122">Nós... hum... gostamos de tomar chá com os
+nossos amigos.&lt;wait&gt;</Entry>
+  <Entry Index="1123">Você também quer participar de uma festa do
+chá, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="1124">Eu gosto quando você vem às nossas festas de chá,
 &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1125">Mmm.&lt;wait&gt;</Entry>
-  <Entry Index="1126">Me gusta la primavera por dos razones:
-la primera, que hace buen tiempo. La segunda, por las
-fiestas del té.&lt;wait&gt;</Entry>
-  <Entry Index="1127">Las fiestas del té son la ocasión perfecta para ponerse al
-día con los amigos.&lt;wait&gt;</Entry>
-  <Entry Index="1128">Espero que vengas a visitarnos cuando la primavera se
-acabe.&lt;wait&gt;</Entry>
-  <Entry Index="1129">No estoy triste. Simplemente me da un poco de corte...&lt;wait&gt;</Entry>
-  <Entry Index="1130">&lt;gender&gt;("Bienvenido...","Bienvenida...").</Entry>
-  <Entry Index="1131">Mm, ¿&lt;playername&gt;? No te vas a poner &lt;gender&gt;("mandón","mandona")
-conmigo, ¿verdad?&lt;wait&gt;</Entry>
-  <Entry Index="1132">Si quieres pedirme un favor, &lt;playername&gt;, te
-escucho.&lt;wait&gt;</Entry>
-  <Entry Index="1133">Me gusta ayudar, pero es agotador...&lt;wait&gt;</Entry>
-  <Entry Index="1134">Sé que puedo confiar en ti, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1135">Eres muy amable, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1136">¿Mmm? Oh...&lt;wait&gt;</Entry>
-  <Entry Index="1137">Vale. Empezaré mañana.
-Prometo que trabajaré duro.&lt;wait&gt;</Entry>
+  <Entry Index="1125">Hmm.&lt;wait&gt;</Entry>
+  <Entry Index="1126">Eu gosto da primavera por dois motivos:
+a primeira, clima quente. A segunda, pelas
+festas do chá.&lt;wait&gt;</Entry>
+  <Entry Index="1127">As festas do chá são a ocasião perfeita para colocar o papo em
+dia com os amigos.&lt;wait&gt;</Entry>
+  <Entry Index="1128">Espero que você venha nos visitar mesmo quando a primavera acabar.&lt;wait&gt;</Entry>
+  <Entry Index="1129">Não estou triste. Só estou apenas tímido...&lt;wait&gt;</Entry>
+  <Entry Index="1130">&lt;gender&gt;("Bem vindo...","Bem vinda...").</Entry>
+  <Entry Index="1131">Hm, ¿&lt;playername&gt;? Você não vai vestir &lt;gender&gt;("mandão","mandona")
+em mim, vai?&lt;wait&gt;</Entry>
+  <Entry Index="1132">Se você quiser me pedir um favor, &lt;playername&gt;, estou 
+ouvindo.&lt;wait&gt;</Entry>
+  <Entry Index="1133">Eu gosto de ajudar, mas é cansativo...&lt;wait&gt;</Entry>
+  <Entry Index="1134">Eu sei que posso confiar em você, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1135">Você é muito legal, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1136">Hum? Ooh...&lt;wait&gt;</Entry>
+  <Entry Index="1137">OK. Vou começar amanhã.
+Prometo que vou trabalhar duro.&lt;wait&gt;</Entry>
   <Entry Index="1138">Hola. ¿Cómo estás?
 ¿Así que te llamas &lt;playername&gt;? Ya veo.&lt;wait&gt;&lt;page&gt;
 Mi nombre es Calabaza.
