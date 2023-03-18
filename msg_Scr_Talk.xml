@@ -2479,74 +2479,75 @@ ouvindo.&lt;wait&gt;</Entry>
   <Entry Index="1136">Hum? Ooh...&lt;wait&gt;</Entry>
   <Entry Index="1137">OK. Vou começar amanhã.
 Prometo que vou trabalhar duro.&lt;wait&gt;</Entry>
-  <Entry Index="1138">Hola. ¿Cómo estás?
-¿Así que te llamas &lt;playername&gt;? Ya veo.&lt;wait&gt;&lt;page&gt;
-Mi nombre es Calabaza.
-Es un placer conocerte.&lt;wait&gt;</Entry>
-  <Entry Index="1139">Oh, ¡guau! ¿Sabías que hoy era mi cumpleaños? ¡Muchas
-gracias!&lt;wait&gt;</Entry>
-  <Entry Index="1140">¡Guauuuu! ¡Bieeeen! ¡Gracias, gracias!
-¡Me encanta!&lt;wait&gt;</Entry>
-  <Entry Index="1141">¡Muchas gracias! ¡Me gusta mucho!&lt;wait&gt;</Entry>
-  <Entry Index="1142">Oh, esto no era lo que quería...&lt;wait&gt;</Entry>
-  <Entry Index="1143">¡Oh!&lt;wait&gt;</Entry>
-  <Entry Index="1144">¡Oh, qué bonito! Pero, por favor, no metas animales dentro
-de la casa.&lt;wait&gt;</Entry>
-  <Entry Index="1145">¡Madre mía! No me morderá, ¿verdad?&lt;wait&gt;</Entry>
-  <Entry Index="1146">¡Oh, qué interesante! ¿Cómo se juega? ¿Eh?
-¿No es un juguete?&lt;wait&gt;</Entry>
-  <Entry Index="1147">¡Mmm! Huele muy bien.&lt;wait&gt;</Entry>
-  <Entry Index="1148">¡Nunca antes había visto una pluma azul! Me pregunto de
-qué clase de pájaro proviene.&lt;wait&gt;</Entry>
-  <Entry Index="1149">¡La primavera significa fiestas del té! Todos nuestros
-amigos vienen a nuestras fiestas del té.&lt;wait&gt;</Entry>
-  <Entry Index="1150">¿Te gustan las fiestas del té, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="1151">Si hiciéramos una fiesta del té todos los días, ¿vendrías
-siempre, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="1152">En primavera, pienso en las fiestas del té durante todo el
-día.&lt;wait&gt;</Entry>
-  <Entry Index="1153">Solamente mandamos invitaciones para nuestra fiesta del
-té a nuestros mejores amigos.&lt;wait&gt;</Entry>
-  <Entry Index="1154">Una fiesta del té tiene que tener la decoración adecuada,
-si no, no sería una fiesta del té.&lt;wait&gt;</Entry>
-  <Entry Index="1155">Ojalá fuera primavera durante todo el año. ¡Sería un no
-parar de fiestas del té!&lt;wait&gt;</Entry>
-  <Entry Index="1156">¿Mmm? ¡Ah! &lt;gender&gt;("Bienvenido","Bienvenida").&lt;wait&gt;</Entry>
-  <Entry Index="1157">&lt;gender&gt;("Bienvenido","Bienvenida"). ¡Qué aburrimiento! ¡Ojalá tuviera algo que
-hacer!&lt;wait&gt;</Entry>
-  <Entry Index="1158">¡&lt;gender&gt;("Bienvenido","Bienvenida")! ¿Quieres jugar conmigo?&lt;wait&gt;</Entry>
-  <Entry Index="1159">¡Bieeen! ¡&lt;playername&gt; está aquí! ¡&lt;playername&gt;
-está aquí! ¡Sabía que vendrías!&lt;wait&gt;</Entry>
-  <Entry Index="1160">No me gustan los aguafiestas.&lt;wait&gt;</Entry>
-  <Entry Index="1161">¡Jugar siempre es mejor que trabajar!&lt;wait&gt;</Entry>
-  <Entry Index="1162">¡Oooh! ¡Oooh! ¿A qué jugamos hoy?
-¡Ya me están entrando nervios de la emoción!&lt;wait&gt;</Entry>
-  <Entry Index="1163">¡Me divierto más cuando juegas conmigo,
+  <Entry Index="1138">Olá. Como vai?
+Entendo, então seu nome é &lt;playername&gt;? Já vejo.&lt;wait&gt;&lt;page&gt;
+Meu nome é Pumpkin.
+É um prazer te conhecer.&lt;wait&gt;</Entry>
+  <Entry Index="1139">Uau! Você sabia que hoje é meu aniversário? Muito
+obrigado!&lt;wait&gt;</Entry>
+  <Entry Index="1140">Uau! Eba! Obrigado, obrigado!
+Me encanta!&lt;wait&gt;</Entry>
+  <Entry Index="1141">Muito obrigado! Gosto muito!&lt;wait&gt;</Entry>
+  <Entry Index="1142">Ah, não era isso que eu queria...&lt;wait&gt;</Entry>
+  <Entry Index="1143">Oh!&lt;wait&gt;</Entry>
+  <Entry Index="1144">Ahh, fofo! Mas, por favor, não traga animais para dentro
+da casa.&lt;wait&gt;</Entry>
+  <Entry Index="1145">OH SENHOR! I-Isso não vai me morder, vai?&lt;wait&gt;</Entry>
+  <Entry Index="1146">Ai que interessante! Como se joga? Ei?
+Não é um brinquedo?&lt;wait&gt;</Entry>
+  <Entry Index="1147">Hum! cheira tão bem.&lt;wait&gt;</Entry>
+  <Entry Index="1148">Eu nunca vi uma pena azul antes! Eu me pergunto sobre
+de que tipo de pássaro ele vem.&lt;wait&gt;</Entry>
+  <Entry Index="1149">Primavera significa festas de chá! Todos os nossos
+amigos vêm para nossas festas de chá.&lt;wait&gt;</Entry>
+  <Entry Index="1150">Você gosta de festas de chá, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="1151">Se tivéssemos uma festa do chá todos os dias, você viria
+sempre, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="1152">Na primavera, penso nos chás todos os
+dias.&lt;wait&gt;</Entry>
+  <Entry Index="1153">Nós só enviamos convites dos nossos chás para os nossos
+melhores amigos.&lt;wait&gt;</Entry>
+  <Entry Index="1154">Uma festa do chá tem que ter a decoração certa,
+senão não seria uma festa do chá.&lt;wait&gt;</Entry>
+  <Entry Index="1155">Eu gostaria que fosse primavera o ano todo. Então seria
+festas de chá sem parar!&lt;wait&gt;</Entry>
+  <Entry Index="1156">Hum? Oh! &lt;gender&gt;("Bem vindo","Bem vinda").&lt;wait&gt;</Entry>
+  <Entry Index="1157">&lt;gender&gt;("Bem vindo","Bem vinda"). Que aborrecimento! Eu gostaria de ter algo para
+fazer!&lt;wait&gt;</Entry>
+  <Entry Index="1158">&lt;gender&gt;("Bem vindo","Bem vinda")! Você quer jogar comigo?&lt;wait&gt;</Entry>
+  <Entry Index="1159">OK! ¡&lt;playername&gt; está aqui! ¡&lt;playername&gt;
+está aqui! Eu sabia que você viria!&lt;wait&gt;</Entry>
+  <Entry Index="1160">Eu não gosto de estraga-prazeres.&lt;wait&gt;</Entry>
+  <Entry Index="1161">Jogar é sempre melhor do que trabalhar!&lt;wait&gt;</Entry>
+  <Entry Index="1162">Oooh! Oooh! O que estamos jogando hoje?
+Já estou ficando nervoso de emoção!&lt;wait&gt;</Entry>
+  <Entry Index="1163">Eu me divirto mais quando você brinca comigo,
 &lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="1164">¡Oh! Buu. Qué mal.&lt;wait&gt;</Entry>
-  <Entry Index="1165">¡Vale! ¡Empezaremos a ayudarte mañana!
-¡Te prometo que trabajaré mucho más duro!&lt;wait&gt;</Entry>
-  <Entry Index="1166">¡Para! ¿Quién anda ahí? ¡¿Un ladrón!?&lt;wait&gt;&lt;page&gt;
-Umm... no me pareces un ladrón. Tu nombre es
-&lt;playername&gt;, ¿eh? Ya veo. Hola. Me llamo Ciruela.&lt;wait&gt;</Entry>
-  <Entry Index="1167">Vaya, ¿sabías que hoy es mi cumpleaños? ¡Gracias por el
-regalo!&lt;wait&gt;</Entry>
-  <Entry Index="1168">¡Oye! ¡Muchas gracias!
-¡Me encanta!&lt;wait&gt;</Entry>
-  <Entry Index="1169">Asqueroso. No me gusta nada.&lt;wait&gt;</Entry>
-  <Entry Index="1170">¡Oh, es muy bonito!&lt;wait&gt;</Entry>
-  <Entry Index="1171">¡Y-yo... n-no me he asustado! ¡Solo me has sorprendido un
-poco! Eso es todo.&lt;wait&gt;</Entry>
-  <Entry Index="1172">Gracias. Lo cuidaré muy bien.&lt;wait&gt;</Entry>
-  <Entry Index="1173">¡Qué pluma más bonita! Es tan preciosa que siento como si
-no mereciera mirarla.&lt;wait&gt;</Entry>
-  <Entry Index="1174">En primavera, celebramos fiestas del té.
-Así es como debe ser.&lt;wait&gt;</Entry>
-  <Entry Index="1175">Solo mandamos invitaciones a las fiestas del té a nuestros
-mejores amigos.&lt;wait&gt;</Entry>
-  <Entry Index="1176">Te gustan las fiestas del té, ¿verdad, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="1177">¡Si eso significa que vendrás a visitarme, haría una fiesta
-del té todos los días!&lt;wait&gt;</Entry>
+  <Entry Index="1164">Awww! Baah. Isso é ruim.&lt;wait&gt;</Entry>
+  <Entry Index="1165">OK! Começaremos a ajudá-lo amanhã!
+Prometo que vou trabalhar muito mais!&lt;wait&gt;</Entry>
+  <Entry Index="1166">PAREM! Quem está aí? Um ladrão?!&lt;wait&gt;&lt;page&gt;
+Umm... você não me parece um ladrão. O seu nome é
+&lt;playername&gt;, Huh? Peguei você.
+Oi. Eu sou o Plum.&lt;wait&gt;</Entry>
+  <Entry Index="1167">Uau, você sabia que hoje é meu aniversário? Obrigado pelo
+presente!&lt;wait&gt;</Entry>
+  <Entry Index="1168">Ei! Muito obrigado!
+Eu gosto muuuuito!&lt;wait&gt;</Entry>
+  <Entry Index="1169">NOJENTO. eu não gosto de nada disso.&lt;wait&gt;</Entry>
+  <Entry Index="1170">Ah, é muito bonito!&lt;wait&gt;</Entry>
+  <Entry Index="1171">E-eu... eu-eu não estava com medo! Você acabou de me surpreender
+um pouco! Isso é tudo.&lt;wait&gt;</Entry>
+  <Entry Index="1172">Obrigado. Vou cuidar bem dele.&lt;wait&gt;</Entry>
+  <Entry Index="1173">Que pena linda! É tão precioso que sinto como se
+eu não fosse digno de olhar para ela.&lt;wait&gt;</Entry>
+  <Entry Index="1174">Na primavera, celebramos com festas de chá.
+Assim é como deve ser.&lt;wait&gt;</Entry>
+  <Entry Index="1175">Só enviamos convites para chás aos nossos
+melhores amigos.&lt;wait&gt;</Entry>
+  <Entry Index="1176">Você gosta de festas de chá, certo?, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="1177">Se isso significa que você vem me visitar, eu daria uma festa de
+chá todos os dias!&lt;wait&gt;</Entry>
   <Entry Index="1178">¡Si algún ladrón se atreve a interrumpir una de nuestras
 fiestas del té, se las verá conmigo!&lt;wait&gt;</Entry>
   <Entry Index="1179">Personalmente, prefiero celebrar fiestas del té en vez de
