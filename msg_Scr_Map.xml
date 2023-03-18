@@ -1251,7 +1251,7 @@ Episódio &lt;string0&gt;</Entry>
   <Entry Index="934">[Vaso] 
 Você pode colocar flores nele.&lt;wait&gt;</Entry>
   <Entry Index="935">Quero jogar fora esta flor?</Entry>
-  <Entry Index="936">Vinho&lt;wait&gt;</Entry>
+  <Entry Index="936">Vinha&lt;wait&gt;</Entry>
   <Entry Index="937">Caixa de Correio&lt;wait&gt;</Entry>
   <Entry Index="938">Iluminação Pública&lt;wait&gt;</Entry>
   <Entry Index="939">Ah! Há uma Joia da Verdade escondida sob este poste.&lt;wait&gt;</Entry>
@@ -1262,8 +1262,8 @@ Você pode colocar flores nele.&lt;wait&gt;</Entry>
   <Entry Index="942">Uma estátua da Deusa da Colheita. Ela é linda...&lt;wait&gt;</Entry>
   <Entry Index="943">Ainda não terminei de arrumar o andar de cima, sabe. 
 Você não pode ir até lá agora, por favor?&lt;wait&gt;</Entry>
-  <Entry Index="944">Banco de Parque&lt;wait&gt;</Entry>
-  <Entry Index="945">Ei, &lt;playername&gt;! Exatamente o que você pensa que está
+  <Entry Index="944">Banco do Parque&lt;wait&gt;</Entry>
+  <Entry Index="945">Ei, &lt;playername&gt;! O que exatamente você pensa que está
 fazendo colocando aquela cerca de ouro brega
 na sua fazenda?!&lt;wait&gt;</Entry>
   <Entry Index="946">☆O FESTIVAL DO MOCHI está chegando! 
@@ -1272,7 +1272,7 @@ Onde: Praça das Rosas&lt;wait&gt;&lt;page&gt;
 Todos, juntem-se a nós para desfrutar de um 
 mochi fresco e saboroso! São todos bem-vindos. 
 -O Prefeito&lt;wait&gt;</Entry>
-  <Entry Index="947">☆O DÉRBI DE PRIMAVERA está chegando! 
+  <Entry Index="947">☆O FESTIVAL DE PRIMAVERA está chegando! 
 Quando: 18 de primavera, 10h00~ 
 Onde: Praça das Rosas&lt;wait&gt;&lt;page&gt; 
 Prêmios maravilhosos aguardam os vencedores! 
@@ -1284,7 +1284,7 @@ Onde: Praça das Rosas&lt;wait&gt;&lt;page&gt;
 Você está confiante em sua cozinha? 
 Venha mostrar suas habilidades! 
 -O Prefeito&lt;wait&gt;</Entry>
-  <Entry Index="949">☆O FETISVAL FRISBEE está chegando! 
+  <Entry Index="949">☆O FESTIVAL DE FRISBEE está chegando! 
 Quando: 1º de verão, 10h00~ 
 Onde: Praia Mineral&lt;wait&gt;&lt;page&gt; 
 Comece o verão com um concurso divertido! 
@@ -1294,13 +1294,13 @@ Traga seus animais de estimação!
 Quando: 7 de verão, 10h00~ 
 Onde: Praça das Rosas&lt;wait&gt;&lt;page&gt; 
 Sua galinha pode reivindicar a coroa? 
-Qual pássaro irá cantar para a vitória?! 
+Qual galinha irá cantar para a vitória?! 
 -O Prefeito&lt;wait&gt;</Entry>
 <Entry Index="951">☆O FESTIVAL MOO-MOO está chegando! 
 Quando: 20 de verão, 10h00~ 
 Onde: Praça das Rosas&lt;wait&gt;&lt;page&gt; 
 Faça um MOOsey com sua melhor vaca e 
-mostre a todos o quão maravilhosos eles são! 
+mostre a todos o quão maravilhosos elas são! 
 -O Prefeito&lt;wait&gt;</Entry>
   <Entry Index="952">☆A EXIBIÇÃO DE FOGOS DE ARTIFÍCIO está chegando! 
 Quando: 24 de verão, 18h00~ 
@@ -1320,7 +1320,7 @@ Onde: Praça das Rosas&lt;wait&gt;&lt;page&gt;
 Venha e junte-se a este evento comunitário
  e celebre as deliciosas comidas da época! 
 -O Prefeito&lt;wait&gt;</Entry>
-  <Entry Index="955">☆O DÉRBI DE OUTONO está chegando! 
+  <Entry Index="955">☆O FESTIVAL DE OUTONO está chegando! 
 Quando: 18 de outono, 10h00~ 
 Onde: Praça das Rosas&lt;wait&gt;&lt;page&gt; 
 Vá para a vitória e ganhe um prêmio! 
