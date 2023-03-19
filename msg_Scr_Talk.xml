@@ -2638,68 +2638,68 @@ Você sabe o que eu gosto.&lt;wait&gt;</Entry>
 sintir muito feliz.&lt;wait&gt;</Entry>
   <Entry Index="1221">Na primavera, celebramos as festas do chá. Todo
 mundo está ansioso por isso.&lt;wait&gt;</Entry>
-  <Entry Index="1222">Yo me encargo de escribir las invitaciones de la fiesta del
-té para todos nuestros amigos.&lt;wait&gt;</Entry>
-  <Entry Index="1223">¿Te gustan las fiestas del té, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="1224">Si vas a venir a nuestra próxima fiesta de té,
-&lt;playername&gt;, seguramente nos lo pasaremos muy
-bien.&lt;wait&gt;</Entry>
-  <Entry Index="1225">Yo escribo las invitaciones para nuestra fiesta del té.
-Solo pueden acompañarnos nuestros mejores amigos.&lt;wait&gt;</Entry>
-  <Entry Index="1226">Estoy buscando un bonito mantel que podamos usar para
-nuestra fiesta de té.&lt;wait&gt;</Entry>
-  <Entry Index="1227">Me gusta vestirme con ropa elegante para nuestras
-fiestas. Espero que vengas a ver cómo me queda,
+  <Entry Index="1222">Eu sou responsável por escrever os convites para a festa de aniversário,
+chá para todos os nossos amigos.&lt;wait&gt;</Entry>
+  <Entry Index="1223">Você gosta de festas do chá, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="1224">Se você vai estar em nossa próxima festa do chá,
+&lt;playername&gt;, nós certamente nos divertiremos
+muito.&lt;wait&gt;</Entry>
+  <Entry Index="1225">Eu escrevo os convites para os nossos chás.
+Apenas nossos melhores amigos podem se juntar a nós.&lt;wait&gt;</Entry>
+  <Entry Index="1226">Estou procurando uma toalha de mesa que seja bonita para que 
+possamos usar em nossa festa do chá.&lt;wait&gt;</Entry>
+  <Entry Index="1227">Eu gosto de me vestir com roupas extravagantes para as nossas
+festas. Espero que venha ver como fica em mim,
 &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1228">¡&lt;gender&gt;("Bienvenido","Bienvenida")! Procura no causar muchos problemas.&lt;wait&gt;</Entry>
-  <Entry Index="1229">¡Oh, bien! ¡Es &lt;playername&gt;!
-Me alegro de que estés aquí.&lt;wait&gt;</Entry>
-  <Entry Index="1230">¡Oooh! Sabía que entenderías mi gusto por la moda,
+  <Entry Index="1228">&lt;gender&gt;("Bem vindo","Bem vinda")! Tente não causar muitos problemas.&lt;wait&gt;</Entry>
+  <Entry Index="1229">Ah sim! É &lt;playername&gt;!
+Estou feliz que você esteja aqui.&lt;wait&gt;</Entry>
+  <Entry Index="1230">Oooh! Eu sabia que você entenderia meu gosto pela moda,
 &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1231">Me gustan las cosas bonitas y arregladas.&lt;wait&gt;</Entry>
-  <Entry Index="1232">Cuando trabajo, mi ropa se ensucia...&lt;wait&gt;</Entry>
-  <Entry Index="1233">El azul claro es el mejor color.
-Mucha gente no se da cuenta, pero es verdad.&lt;wait&gt;</Entry>
-  <Entry Index="1234">¡Dejaré tu granja muy bonita y limpia!&lt;wait&gt;</Entry>
-  <Entry Index="1235">Oh, ¿no quieres?&lt;wait&gt;</Entry>
-  <Entry Index="1236">¡Vale! ¡Empezaré a ayudarte mañana!
-¡Prepárate para que te limpie la casa! ¡Literalmente!&lt;wait&gt;</Entry>
-  <Entry Index="1237">¿Mmm? Oh. Hola. ¿Así que te llamas &lt;playername&gt;?
-Vale.&lt;wait&gt;&lt;page&gt;
-Me llamo Sol. Es un placer conocerte.&lt;wait&gt;</Entry>
-  <Entry Index="1238">¡Oye! ¡Esto no me gusta nada!&lt;wait&gt;</Entry>
-  <Entry Index="1239">No me gusta cómo me mira... Creo que me mira como si
-fuera su cena...&lt;wait&gt;</Entry>
-  <Entry Index="1240">¡Sí! ¡Gracias! Me gusta mucho.&lt;wait&gt;</Entry>
-  <Entry Index="1241">¡Oooh! Bonita pluma. Pero la última vez que probé una, no
-sabía nada bien.&lt;wait&gt;</Entry>
-  <Entry Index="1242">Estoy deseando que llegue la primavera para celebrar
-fiestas del té. &lt;playername&gt;, ¿te gustan las fiestas
-del té?&lt;wait&gt;</Entry>
-  <Entry Index="1243">Si supiera que vas a venir, &lt;playername&gt;, te aseguro
-que me encargaría de organizar fiestas del té todos los
-días.&lt;wait&gt;</Entry>
-  <Entry Index="1244">Me gustan las fiestas del té porque puedo comer todo
-tipo de aperitivos deliciosos.&lt;wait&gt;</Entry>
-  <Entry Index="1245">Cereza se ocupa de que todo esté delicioso en nuestras
-fiestas del té.&lt;wait&gt;</Entry>
-  <Entry Index="1246">Ojalá fuera primavera todo el año. Así podríamos celebrar
-fiestas del té todo el tiempo.&lt;wait&gt;</Entry>
-  <Entry Index="1247">Tengo hambre...&lt;wait&gt;</Entry>
-  <Entry Index="1248">¿Me has traído algo rico para comer?&lt;wait&gt;</Entry>
-  <Entry Index="1249">¡Bieeen! ¡&lt;playername&gt; está aquí!
-¿Tienes algún regalo para mí hoy?
-¿Puede que algo... delicioso?&lt;wait&gt;</Entry>
-  <Entry Index="1250">¡Parece que siempre apareces cuando tengo hambre,
+  <Entry Index="1231">Eu gosto de coisas bonitas e arrumadas.&lt;wait&gt;</Entry>
+  <Entry Index="1232">Quando eu trabalho, minhas roupas ficam sujas...&lt;wait&gt;</Entry>
+  <Entry Index="1233">Azul claro é a melhor cor.
+Muitas pessoas não percebem, mas é verdade.&lt;wait&gt;</Entry>
+  <Entry Index="1234">Vou deixar sua fazenda muito bonita e limpa!&lt;wait&gt;</Entry>
+  <Entry Index="1235">Oh, você não quer?&lt;wait&gt;</Entry>
+  <Entry Index="1236">OK! Vou começar a te ajudar amanhã!
+Prepare-se para eu limpar sua casa! Literalmente!&lt;wait&gt;</Entry>
+  <Entry Index="1237">Hum? Oh. Olá. Então, qual é o seu nome? &lt;playername&gt;?
+OK.&lt;wait&gt;&lt;page&gt;
+Meu nome é Sol. É um prazer te conhecer.&lt;wait&gt;</Entry>
+  <Entry Index="1238">Ei! Eu não gosto de nada disso!&lt;wait&gt;</Entry>
+  <Entry Index="1239">Eu não gosto do jeito que ele olha para mim... eu acho que 
+ele olha para mim como se fosse o jantar dele...&lt;wait&gt;</Entry>
+  <Entry Index="1240">Sim! Obrigado! Gosto muito.&lt;wait&gt;</Entry>
+  <Entry Index="1241">Oooh! Linda pena. Mas da última vez que verifiquei,
+penas não têm um gosto muito bom.&lt;wait&gt;</Entry>
+  <Entry Index="1242">Estou ansioso pela primavera para comemorar as
+festas do chá. &lt;playername&gt;, você gosta de festas
+de chá?&lt;wait&gt;</Entry>
+  <Entry Index="1243">Se eu soubesse que você viria, &lt;playername&gt;, te garanto
+que eu estaria encarregado de organizar festas do chá todos os
+dias.&lt;wait&gt;</Entry>
+  <Entry Index="1244">Eu gosto de festas do chá porque posso comer todos
+tipos de lanches deliciosos.&lt;wait&gt;</Entry>
+  <Entry Index="1245">A Cherry cuida para que tudo seja delicioso em nossas
+festas do chá.&lt;wait&gt;</Entry>
+  <Entry Index="1246">Eu queria que fosse primavera o ano todo. Para que pudéssemos comemorar
+festas de chá o tempo todo.&lt;wait&gt;</Entry>
+  <Entry Index="1247">Tenho fome...&lt;wait&gt;</Entry>
+  <Entry Index="1248">Você me trouxe algo delicioso para comer?&lt;wait&gt;</Entry>
+  <Entry Index="1249">Ebaaaa! ¡&lt;playername&gt; está aqui!
+Você tem um presente para mim hoje?
+Talvez algo... delicioso?&lt;wait&gt;</Entry>
+  <Entry Index="1250">Você sempre aparece quando estou com fome,
 &lt;playername&gt;!&lt;wait&gt;</Entry>
-  <Entry Index="1251">Me han dicho que soy pura glotonería.
-¿Qué significa eso?&lt;wait&gt;</Entry>
-  <Entry Index="1252">No puedo trabajar si no tengo energía.
-Tengo que comer para reponer fuerzas.&lt;wait&gt;</Entry>
-  <Entry Index="1253">Solo tú sabes la clase de aperitivos que me gustan,
+  <Entry Index="1251">Disseram-me que sou pura gula.
+O que significa isso?&lt;wait&gt;</Entry>
+  <Entry Index="1252">Não posso trabalhar se não tiver energia.
+Eu tenho que comer para recuperar as forças.&lt;wait&gt;</Entry>
+  <Entry Index="1253">Só você sabe o tipo de aperitivo que eu gosto,
 &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1254">Si es por ti, &lt;playername&gt;, no me importa trabajar
-incluso aunque tenga algo de hambre.&lt;wait&gt;</Entry>
+  <Entry Index="1254">Se é para você, &lt;playername&gt;, eu não me importo de trabalhar
+mesmo se eu estiver com um pouco de fome.&lt;wait&gt;</Entry>
   <Entry Index="1255">¿No quieres?&lt;wait&gt;</Entry>
   <Entry Index="1256">¡Vale! Mañana lo haré lo mejor que pueda.
 ¡Seguiré trabajando aunque me ruja el estómago!&lt;wait&gt;</Entry>
