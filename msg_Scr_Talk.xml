@@ -2323,12 +2323,12 @@ trabalho.&lt;wait&gt;</Entry>
   <Entry Index="1022">Jogar juntos.</Entry>
   <Entry Index="1023">Tanto faz.</Entry>
   <Entry Index="1024">OK! Amanhã vamos trabalhar muito.&lt;wait&gt;</Entry>
-  <Entry Index="1025">Gostamos de ajudar nossos amigos.
+  <Entry Index="1025">Gostamos de ajudar os nossos amigos.
 Se fôssemos mais amigos, também te ajudaríamos.&lt;wait&gt;</Entry>
   <Entry Index="1026">O que você gostaria que fizéssemos?&lt;wait&gt;</Entry>
-  <Entry Index="1027">Regar as colheitass.</Entry>
+  <Entry Index="1027">Regar as colheitas.</Entry>
   <Entry Index="1028">Colheita.</Entry>
-  <Entry Index="1029">Cuidar do gado.</Entry>
+  <Entry Index="1029">Cuidar de gado.</Entry>
   <Entry Index="1030">Deixar para lá.</Entry>
   <Entry Index="1031">Por quanto tempo você quer que irrigemos as plantações?&lt;wait&gt;</Entry>
   <Entry Index="1032">Um dia</Entry>
@@ -2392,16 +2392,16 @@ deixar-os sob meus cuidados quando quiser!&lt;wait&gt;</Entry>
   <Entry Index="1077">Deixar para lá.</Entry>
   <Entry Index="1078">OK! Vou trabalhar muito amanhã.&lt;wait&gt;</Entry>
   <Entry Index="1079">Gostamos de ajudar nossos amigos. Se fôssemos mais
-amigos, nós também ajudaríamos vocês.&lt;wait&gt;</Entry>
+amigos, nós também ajudaríamos você.&lt;wait&gt;</Entry>
   <Entry Index="1080">Em quais tarefas podemos ajudá-lo?&lt;wait&gt;</Entry>
   <Entry Index="1081">Irrigar as plantações.</Entry>
   <Entry Index="1082">Colheita.</Entry>
-  <Entry Index="1083">Cuidar do gado.</Entry>
+  <Entry Index="1083">Cuidar de gado.</Entry>
   <Entry Index="1084">Deixar para lá.</Entry>
   <Entry Index="1085">OK! Começaremos a ajudá-lo amanhã! Quanto tempo
 você quer que nós o ajudemos?&lt;wait&gt;</Entry>
   <Entry Index="1086">Um dia</Entry>
-  <Entry Index="1087">Tres dias</Entry>
+  <Entry Index="1087">Três dias</Entry>
   <Entry Index="1088">Sete dias</Entry>
   <Entry Index="1089">Regar as plantações por um dia.
 Isso é o que você quer que façamos, certo?&lt;wait&gt;</Entry>
@@ -2421,9 +2421,9 @@ Isso é o que você quer que façamos, certo?&lt;wait&gt;</Entry>
 você quer que nós o ajudemos?&lt;wait&gt;</Entry>
   <Entry Index="1097">Cuidar do gado por um dia. Isso é o que você quer
 que façamos, certo?&lt;wait&gt;</Entry>
-  <Entry Index="1098">Cuidar do gado por três dias. Isso é o que você quer
+  <Entry Index="1098">Cuidar de gado por três dias. Isso é o que você quer
 que façamos, certo?&lt;wait&gt;</Entry>
-  <Entry Index="1099">Cuidar do gado por uma semana. Isso é o que você quer
+  <Entry Index="1099">Cuidar de gado por uma semana. Isso é o que você quer
 que façamos, certo?&lt;wait&gt;</Entry>
   <Entry Index="1100">Ei? ooh...&lt;wait&gt;</Entry>
   <Entry Index="1101">Quer saber? Deixa para lá.</Entry>
@@ -2871,12 +2871,13 @@ que pode lhe interessar os fazendeiros são as sementes. Eu sugiro que você com
 bastante. Tantos quanto você pode pagar.&lt;wait&gt;&lt;page&gt;
 Te falo serio. Mas, Olha... Escolha com cuidado. Sim. Para isso
 isso se chama compra inteligente.&lt;wait&gt;</Entry>
-  <Entry Index="1320">Olá. Você deve ter dificuldade, com tudo isso de
-trabalho manual. Cuidado para manter seu nível de estresse sob controle.&lt;wait&gt;</Entry>
+  <Entry Index="1320">Olá. Você sentir dificuldade, com tudo isso de
+trabalho que tem. Cuidado, Lembre-se de manter seu nível de estresse sob
+controle.&lt;wait&gt;</Entry>
   <Entry Index="1321">Eu sugiro que você faça tantos amigos quanto puder.
 Afinal, esta é uma cidade pequena..&lt;wait&gt;&lt;page&gt;
-Sim, é uma boa idéia ser simpático com todo mundo. Ah, Não.
-Está tudo bem. Estou bem.&lt;wait&gt;</Entry>
+Sim, é sempre uma boa idéia ser simpático com todo mundo. 
+Ah, Não. Está tudo bem. Estou bem.&lt;wait&gt;</Entry>
   <Entry Index="1322">Olá, &lt;playername&gt;.
 Como vai a fazenda?&lt;wait&gt;&lt;page&gt;
 Tenho notado que está começando a ter um bom
