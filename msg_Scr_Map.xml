@@ -29,12 +29,12 @@ então não posso pegá-la.&lt;wait&gt;</Entry>
   <Entry Index="20">Tudo bem! Então vamos colocar esse show na estrada!&lt;wait&gt;</Entry>
   <Entry Index="21">Tudo bem. Apenas venha falar comigo 
 quando estiver pronto para começar.&lt;wait&gt;</Entry>
-  <Entry Index="22">Cixa Fechado&lt;wait&gt;</Entry>
-  <Entry Index="23">Está bloqueado...&lt;wait&gt;</Entry>
+  <Entry Index="22">Caixa Fechado&lt;wait&gt;</Entry>
+  <Entry Index="23">Está fechado...&lt;wait&gt;</Entry>
   <Entry Index="24">O Festival de Fogos de Artifício está 
 prestes a começar. Aonde você está indo?&lt;wait&gt;</Entry>
   <Entry Index="25">Ei, ei! Onde você está indo? 
-Estamos prestes a começar o Festival Frisbee.&lt;wait&gt;</Entry>
+Estamos prestes a começar o Festival de Frisbee.&lt;wait&gt;</Entry>
   <Entry Index="26">Ahhh, isso foi divertido. Bem, de volta ao trabalho...&lt;wait&gt;</Entry>
   <Entry Index="27">Pilha de madeira&lt;wait&gt;</Entry>
   <Entry Index="28">Cadeira&lt;wait&gt;</Entry>
@@ -46,7 +46,7 @@ Estamos prestes a começar o Festival Frisbee.&lt;wait&gt;</Entry>
   <Entry Index="34">Mesa&lt;wait&gt;</Entry>
   <Entry Index="35">Aonde você pensa que está indo?&lt;wait&gt;</Entry>
   <Entry Index="36">Ah, essa área está fora dos limites agora, querido. 
-O segundo andar está uma bagunça terrível no momento.&lt;wait&gt;</Entry>
+O segundo andar está bem bagunçado agora.&lt;wait&gt;</Entry>
   <Entry Index="37">Ah, você poderia ficar aqui embaixo, por favor? 
 O segundo andar está bem bagunçado agora.&lt;wait&gt;</Entry>
   <Entry Index="38">Você não pode subir, tudo bem?&lt;wait&gt;</Entry>
@@ -61,7 +61,7 @@ quarto que estou limpando. Por favor, não suba lá.&lt;wait&gt;</Entry>
   <Entry Index="46">Pintura de Montanha&lt;wait&gt;</Entry>
   <Entry Index="47">Fotografia&lt;wait&gt;</Entry>
   <Entry Index="48">Cômoda&lt;wait&gt;</Entry>
-  <Entry Index="49">Candelabro&lt;wait&gt;</Entry>
+  <Entry Index="49">Lustre&lt;wait&gt;</Entry>
   <Entry Index="50">Algo está acontecendo?&lt;wait&gt;</Entry>
   <Entry Index="51">Há mais alguma coisa em que eu possa ajudá-lo?&lt;wait&gt;</Entry>
   <Entry Index="52">Desequipar uma ferramenta amaldiçoada.</Entry>
