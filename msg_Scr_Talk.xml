@@ -2923,7 +2923,7 @@ Agh, meu estômago dói só de pensar nisso..&lt;wait&gt;</Entry>
 chega, parece que o verão chegou oficialmente.&lt;wait&gt;</Entry>
   <Entry Index="1339">Assistir à competição é divertido, sim, mas adoraria
 relaxar e tomar sol...&lt;wait&gt;</Entry>
-  <Entry Index="1340">Você vai participar do concerto?&lt;wait&gt;&lt;page&gt;
+  <Entry Index="1340">Você vai participar do festival de comida?&lt;wait&gt;&lt;page&gt;
 Karen me disse que ela vai cantar de novo este ano.&lt;wait&gt;</Entry>
   <Entry Index="1341">Eu já estou com frio na barriga por causa do show de
 amanhã e ainda nem chegou! Espero que Karen se saia
@@ -3281,10 +3281,10 @@ vai ganhar com certeza.&lt;wait&gt;</Entry>
 que eles vão escolher?&lt;wait&gt;</Entry>
   <Entry Index="1521">Muito bem! Eu vou fazer o meu melhor e amanhã
 vou começar a trabalhar!&lt;wait&gt;</Entry>
-  <Entry Index="1522">Já está chegando a hora do Concerto, né?
+  <Entry Index="1522">Já está chegando a hora do festival de comida, né?
 melhor eu começar a praticar no meu solo.&lt;wait&gt;</Entry>
   <Entry Index="1523">Por favor, por faaavor, não me deixe estragar os vocais no
-concerto de amanhã...&lt;wait&gt;</Entry>
+festival de comida de amanhã...&lt;wait&gt;</Entry>
   <Entry Index="1524">Você também vai ver os fogos de artifício amanhã,
 não? Espero que você esteja tão animado quanto eu!&lt;wait&gt;</Entry>
   <Entry Index="1525">Hmm... Ah, Olá, &lt;playername&gt;! Eu estou pensando o que
@@ -3807,180 +3807,181 @@ Ele diz que deveria se comportar de forma mais feminina.
 Isso não é horrível? Caramba, o que isso quer dizer?&lt;wait&gt;</Entry>
   <Entry Index="1763">Cliff coloca todo o seu esforço em seu trabalho.
 Eu admiro essa qualidade dele.&lt;wait&gt;</Entry>
-  <Entry Index="1764">No sé qué hacer. Cliff y papá se han hecho muy amiguitos,
-¡y siento que me están dejando de lado!&lt;wait&gt;</Entry>
-  <Entry Index="1765">Hola, &lt;playername&gt;.
-¿Cómo te va hoy?&lt;wait&gt;</Entry>
-  <Entry Index="1766">¿Qué hay, &lt;playername&gt;? Una pregunta:
-¿tú crees que Cliff es realmente feliz?&lt;wait&gt;&lt;page&gt;
-Le noto muy alicaído.&lt;wait&gt;</Entry>
-  <Entry Index="1767">Es difícil ahora que no tenemos a papá dando vueltas por
-aquí.
-¡Hoy cerramos a las 17:00, por cierto!&lt;wait&gt;</Entry>
-  <Entry Index="1768">Hoy se cumple un año del fallecimiento de mamá.
-No tengo recuerdos de ella, pero papá sí, por supuesto...&lt;wait&gt;</Entry>
-  <Entry Index="1769">¿Cómo es la vida de casados, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="1770">¿Cómo es la vida de casados, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="1771">¿Cómo es tener un marido?&lt;wait&gt;&lt;page&gt;
-No sabría decir exactamente por qué, pero cuando estás
-con la familia te sientes en paz, ¿verdad?&lt;wait&gt;</Entry>
-  <Entry Index="1772">¿A que es genial volver a casa y tener a tu adorable
-esposa esperándote?&lt;wait&gt;</Entry>
-  <Entry Index="1773">Hola, &lt;playername&gt;.
-¿Cómo está tu marido?&lt;wait&gt;</Entry>
-  <Entry Index="1774">Hola, &lt;playername&gt;.
-¿Cómo está tu mujer?&lt;wait&gt;</Entry>
-  <Entry Index="1775">No olvides mandarle un saludo de parte de Ran.&lt;wait&gt;</Entry>
-  <Entry Index="1776">No olvides mandarle un saludo de parte de Ran.&lt;wait&gt;</Entry>
-  <Entry Index="1777">¿Qué hay, &lt;playername&gt;?
-Parece que has estado trabajando duro.&lt;wait&gt;</Entry>
-  <Entry Index="1778">¿Qué hay, &lt;playername&gt;?
-Parece que has estado trabajando duro.&lt;wait&gt;</Entry>
-  <Entry Index="1779">¿A que es genial tener un marido?&lt;wait&gt;&lt;page&gt;
-Cuando estás soltero, tienes que encargarte tú solo de
-todo, y todos sabemos que eso es lo peor.&lt;wait&gt;</Entry>
-  <Entry Index="1780">Tener una mujer a tu lado hace que el trabajo merezca la
-pena, ¿eh?&lt;wait&gt;</Entry>
-  <Entry Index="1781">Matrimonio, ¿eh? No sé por qué, pero me da vergüenza
-hablar de esto.&lt;wait&gt;</Entry>
-  <Entry Index="1782">Papá se ha enfadado conmigo por tener la cabeza en las
-nubes cuando se suponía que debía estar trabajando.&lt;wait&gt;&lt;page&gt;
-Pero no puedo evitarlo, ¿sabes?
-¡Tengo mucho en lo que pensar, &lt;playername&gt;!
-¡Muchas cosas!&lt;wait&gt;</Entry>
-  <Entry Index="1783">¡Eh! Hola.&lt;wait&gt;</Entry>
-  <Entry Index="1784">Si quieres pedir algo de comer, habla con mi padre.&lt;wait&gt;</Entry>
-  <Entry Index="1785">¡Saludos!&lt;wait&gt;</Entry>
-  <Entry Index="1786">Siéntete como si fuera tu propia casa.&lt;wait&gt;</Entry>
-  <Entry Index="1787">No soy una chica muy femenina.
-Papá siempre me está regañando por eso.&lt;wait&gt;</Entry>
-  <Entry Index="1788">Pero estoy orgullosa de la persona en la que me he
-convertido y quiero a mi padre por dejarme ser quien soy.&lt;wait&gt;&lt;page&gt;
-Aunque no encuentre el amor, estoy tranquila.&lt;wait&gt;</Entry>
-  <Entry Index="1789">&lt;gender&gt;("Bienvenido","Bienvenida"). ¿Cómo va la vida en la granja?&lt;wait&gt;</Entry>
-  <Entry Index="1790">Como tenemos una granja cerca, podemos contar
-con ingredientes frescos siempre en el menú.
-¡Y además, están deliciosos! ♪&lt;wait&gt;</Entry>
-  <Entry Index="1791">¡Oh, &lt;playername&gt;!
-&lt;gender&gt;("Bienvenido","Bienvenida"). Siéntete como si fuera tu propia casa.&lt;wait&gt;</Entry>
-  <Entry Index="1792">¡Oh, &lt;playername&gt;!
-&lt;gender&gt;("Bienvenido","Bienvenida"). Siéntete como si fuera tu propia casa.&lt;wait&gt;</Entry>
-  <Entry Index="1793">Oye, ¿crees que hay alguna regla no escrita que dicta que
-las chicas tienen que ser todas cursis? A veces me lo
-pregunto...&lt;wait&gt;</Entry>
+  <Entry Index="1764">Não sei o que fazer. Cliff e o pai tornaram-se muito próximos,
+E eu sinto que estou sendo deixado de lado!&lt;wait&gt;</Entry>
+  <Entry Index="1765">Olá, &lt;playername&gt;.
+Como vai você?&lt;wait&gt;</Entry>
+  <Entry Index="1766">Hey, &lt;playername&gt;? Uma pergunta:
+Você acha que Cliff está realmente feliz?&lt;wait&gt;&lt;page&gt;
+Eu noto ele muito abatido.&lt;wait&gt;</Entry>
+  <Entry Index="1767">É difícil agora que não temos o pai por perto
+aqui.
+Ah, a propósito, fechamos às 17h hoje!&lt;wait&gt;</Entry>
+  <Entry Index="1768">Hoje faz um ano que minha mãe faleceu..
+Não tenho lembranças dela, mas papai tem, é claro...&lt;wait&gt;</Entry>
+  <Entry Index="1769">Como é a vida de casado, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="1770">Como é a vida de casado, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="1771">Como é ter um marido?&lt;wait&gt;&lt;page&gt;
+Eu não poderia dizer exatamente por que, mas quando você está
+com a família, você se sente em paz, né?&lt;wait&gt;</Entry>
+  <Entry Index="1772">Não é ótimo voltar para casa e ter sua adorável
+esposa esperando por você?&lt;wait&gt;</Entry>
+  <Entry Index="1773">Olá, &lt;playername&gt;.
+Como está o seu marido?&lt;wait&gt;</Entry>
+  <Entry Index="1774">Olá, &lt;playername&gt;.
+Como está a sua esposa?&lt;wait&gt;</Entry>
+  <Entry Index="1775">Não se esqueça de enviar uma saudação de Ran.&lt;wait&gt;</Entry>
+  <Entry Index="1776">Não se esqueça de enviar uma saudação de Ran.&lt;wait&gt;</Entry>
+  <Entry Index="1777">Hey, &lt;playername&gt;?
+Parece que você tem trabalhado duro.&lt;wait&gt;</Entry>
+  <Entry Index="1778">Hey, &lt;playername&gt;?
+Parece que você tem trabalhado duro.&lt;wait&gt;</Entry>
+  <Entry Index="1779">Não é ótimo ter um marido?&lt;wait&gt;&lt;page&gt;
+Quando você está solteiro, você tem que cuidar de
+tudo, e todos nós sabemos que isso é o pior.&lt;wait&gt;</Entry>
+  <Entry Index="1780">Ter uma mulher ao seu lado faz o trabalho valer a
+pena, né?&lt;wait&gt;</Entry>
+  <Entry Index="1781">Casamento hein? Não sei porque, mas tenho vergonha de
+falar sobre isso.&lt;wait&gt;</Entry>
+  <Entry Index="1782">Papai ficou com raiva de mim por ter colocado minha cabeça nas
+nuvens quando eu deveria estar trabalhando.&lt;wait&gt;&lt;page&gt;
+Mas não consigo evitar, sabe?
+tenho muito em que pensar, &lt;playername&gt;!
+Muitas coisas!&lt;wait&gt;</Entry>
+  <Entry Index="1783">Ei! Olá.&lt;wait&gt;</Entry>
+  <Entry Index="1784">Se você quiser pedir algo para comer, fale com meu pai.&lt;wait&gt;</Entry>
+  <Entry Index="1785">Saudações!&lt;wait&gt;</Entry>
+  <Entry Index="1786">Sinta-se como se fosse sua própria casa.&lt;wait&gt;</Entry>
+  <Entry Index="1787">Eu não sou uma garota muito feminina.
+Papai está sempre me repreendendo por isso.&lt;wait&gt;</Entry>
+  <Entry Index="1788">Mas estou orgulhosa da pessoa que me
+tornei e eu amo meu pai por me deixar ser quem eu sou.&lt;wait&gt;&lt;page&gt;
+Mesmo que eu não encontre o amor, estou tranquila.&lt;wait&gt;</Entry>
+  <Entry Index="1789">&lt;gender&gt;("Bem vindo","Bem vinda"). Como é a vida na fazenda?&lt;wait&gt;</Entry>
+  <Entry Index="1790">Como temos uma fazenda próxima, podemos contar com
+com ingredientes frescos, sempre no cardápio.
+E além disso, são deliciosos! ♪&lt;wait&gt;</Entry>
+  <Entry Index="1791">Oh, &lt;playername&gt;!
+&lt;gender&gt;("Bem vindo","Bem vinda"). Sinta-se como se fosse sua própria casa.&lt;wait&gt;</Entry>
+  <Entry Index="1792">Oh, &lt;playername&gt;!
+&lt;gender&gt;("Bem vindo","Bem vinda"). Sinta-se como se fosse sua própria casa.&lt;wait&gt;</Entry>
+  <Entry Index="1793">Ei, você acha que existe alguma regra não escrita que diz que
+as meninas têm que ser todas fofas? Às vezes eu
+me pergunto...&lt;wait&gt;</Entry>
   <Entry Index="1794">Ah...
-&lt;gender&gt;("Bienvenido","Bienvenida").&lt;wait&gt;</Entry>
-  <Entry Index="1795">He estado pensando mucho últimamente,
-y por eso he roto varios platos sin querer.&lt;wait&gt;</Entry>
-  <Entry Index="1796">Mmm.&lt;wait&gt;</Entry>
-  <Entry Index="1797">Oh, perdona.
-Eh... ¿Necesitas algo?&lt;wait&gt;</Entry>
-  <Entry Index="1798">A veces, durante la temporada baja, todas las
-habitaciones están sin ocupar. Es como una ciudad
-fantasma... la Pensión Fantasmal, ja, ja, ja...&lt;wait&gt;</Entry>
-  <Entry Index="1799">Cuando era pequeña y no teníamos clientes, siempre pedía
-dormir en las habitaciones de los huéspedes.&lt;wait&gt;&lt;page&gt;
-Me imaginaba mis propias historias en la cabeza.&lt;wait&gt;</Entry>
-  <Entry Index="1800">Buenos días. ¿Ya estás trabajando tan temprano por la
-mañana?&lt;wait&gt;</Entry>
-  <Entry Index="1801">Uf. Eso es duro.
-Será mejor que yo también encienda los motores.&lt;wait&gt;</Entry>
-  <Entry Index="1802">Tengo que limpiar la habitación antes de que Cliff vuelva
-del trabajo.&lt;wait&gt;</Entry>
-  <Entry Index="1803">Sí, todavía sigue quedándose en la habitación de invitados.&lt;wait&gt;</Entry>
-  <Entry Index="1804">¡Vivo para limpiar! Lo irónico es que tanto limpiar solo me
-hace estar más sucia, pero después de esto, me daré un
-buen baño caliente.&lt;wait&gt;</Entry>
-  <Entry Index="1805">Últimamente, los negocios van viento en popa.
-¡Es maravilloso acoger a tantos huéspedes!&lt;wait&gt;</Entry>
-  <Entry Index="1806">¿Qué haces aquí a estas horas?&lt;wait&gt;</Entry>
-  <Entry Index="1807">Sí, tenemos habitaciones, pero no pensarás
-quedarte con nosotros, ¿no?&lt;wait&gt;</Entry>
-  <Entry Index="1808">Las aguas termales de la diosa son buenas para el cuerpo.
-¡Al parecer, el aire está cargado de iones negativos esta
-mañana!&lt;wait&gt;&lt;page&gt;
-¡La catarata también es un gran sitio!
-O al menos, eso es lo que dice Marie.&lt;wait&gt;</Entry>
-  <Entry Index="1809">¡Muy bien, es hora de ponerse las pilas! Espero que hoy
-tengamos muchos clientes.&lt;wait&gt;</Entry>
-  <Entry Index="1810">Aaah... Estoy tan feliz.&lt;wait&gt;</Entry>
-  <Entry Index="1811">Si estás buscando a Cliff, creo que aún está en su
-habitación.&lt;wait&gt;</Entry>
-  <Entry Index="1812">¿Eh? ¡Vaya, hola!
-Qué sorpresa verte por aquí, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1813">¿Eh? ¡Vaya, hola!
-Qué sorpresa verte por aquí, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="1814">¡No hay nada mejor que un poco de aire fresco de la
-montaña bien temprano!&lt;wait&gt;</Entry>
-  <Entry Index="1815">¡Voy a atiborrarme en la Verbena del Mochi mañana! No
-van a tener que preocuparse por las sobras, je, je, je.&lt;wait&gt;</Entry>
-  <Entry Index="1816">¡Oye! ¿Vas a participar en el Derbi de Primavera? ¡Yo voy
-seguro!&lt;wait&gt;</Entry>
-  <Entry Index="1817">¡Mañana es el derbi! ¡Me emociono solo de pensarlo!&lt;wait&gt;</Entry>
-  <Entry Index="1818">Espero que el tema del concurso gastronómico de este
-año tenga que ver con huevos, porque se me dan genial.
-Pero quién sabe...&lt;wait&gt;</Entry>
-  <Entry Index="1819">¡Por fin es la hora del concurso gastronómico! ¡Tengo que
-preparar algo que le haga justicia a la pensión!&lt;wait&gt;</Entry>
-  <Entry Index="1820">Ah, es verdad, ya mismo es el concierto... Tengo que
-ponerme a practicar en serio. No quiero que Elly tenga
-que cubrirme...&lt;wait&gt;</Entry>
-  <Entry Index="1821">¡El concierto de mañana va a salir perfecto! O eso espero.
-¡Ya verás! Estoy segura de que saldrá bien... más o menos.&lt;wait&gt;</Entry>
-  <Entry Index="1822">¡Qué ganas de que sean los fuegos artificiales mañana! ¿Y
-tú, &lt;playername&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="1823">Estoy pensando qué voy llevar al Festival de la Cosecha
-de este año...&lt;wait&gt;</Entry>
-  <Entry Index="1824">¡Eh, &lt;playername&gt;! ¡Nos lo pasaremos genial en el
-Festival de la Cosecha de mañana!&lt;wait&gt;</Entry>
-  <Entry Index="1825">¡La luna en otoño es preciosa! ¡Qué ganas de que sea la
-Noche a la Luz de la Luz mañana!&lt;wait&gt;</Entry>
-  <Entry Index="1826">Pues sí que se ha pasado rápido el año. Me entristece que
-se haya acabado, ¡pero le tendremos que dar la bienvenida
-al nuevo año con unos fideos soba!&lt;wait&gt;</Entry>
-  <Entry Index="1827">Hoy es mi cumple.&lt;wait&gt;</Entry>
-  <Entry Index="1828">¡Caray! Tiene una pinta para chuparse los dedos. ¿Mmm?
-¿Que me lo das?&lt;wait&gt;&lt;page&gt;
-Voy a saborear hasta el último bocado, ¡que no te quepa
-duda! Te lo agradezco mucho.&lt;wait&gt;</Entry>
-  <Entry Index="1829">¡Caray! ¿Me lo das?
-¡Pero mira que eres un encanto!
-Te lo agradezco mucho.&lt;wait&gt;</Entry>
-  <Entry Index="1830">Te lo agradezco mucho.&lt;wait&gt;</Entry>
-  <Entry Index="1831">Em... Lo siento, pero esto no es mi rollo. Ni por asomo.&lt;wait&gt;&lt;page&gt;
-Bueno. Supongo que lo que importa es la intención. No
-pienso tirarlo ni mucho menos.&lt;wait&gt;</Entry>
-  <Entry Index="1832">¿Es que he hecho algo que te haya sentado mal? ¡Que te
-den esto como regalo es como recibir un guantazo en la
+&lt;gender&gt;("Bem vindo","Bem vinda").&lt;wait&gt;</Entry>
+  <Entry Index="1795">Eu tenho pensado muito ultimamente
+e é por isso que acidentalmente quebrei vários pratos.&lt;wait&gt;</Entry>
+  <Entry Index="1796">Hmm.&lt;wait&gt;</Entry>
+  <Entry Index="1797">Oh, desculpe.
+Ei... precisa de alguma coisa?&lt;wait&gt;</Entry>
+  <Entry Index="1798">Às vezes, durante a baixa temporada, todos
+quartos estão desocupados. É como uma cidade
+fantasma... a Pousada Fantasma, hahaha...&lt;wait&gt;</Entry>
+  <Entry Index="1799">Quando eu era pequeno e não tínhamos clientes, eu sempre pedia
+para dormir em quartos de hóspedes.&lt;wait&gt;&lt;page&gt;
+Eu imaginei minhas próprias histórias na minha cabeça.&lt;wait&gt;</Entry>
+  <Entry Index="1800">Bom Dia. Você já está trabalhando tão cedo pela
+manhã?&lt;wait&gt;</Entry>
+  <Entry Index="1801">Caramba. Isso é difícil.
+Acho que é melhor colocá-lo em prática também.&lt;wait&gt;</Entry>
+  <Entry Index="1802">Tenho que limpar o quarto antes que Cliff volte
+do trabalho.&lt;wait&gt;</Entry>
+  <Entry Index="1803">Sim, ele ainda está hospedado em um quarto de hóspedes aqui.&lt;wait&gt;</Entry>
+  <Entry Index="1804">Eu vivo para limpar! A ironia é que tem tanta limpeza que
+isso me deixa mais sujo, mas depois disso, vou me dar um
+bom banho quente.&lt;wait&gt;</Entry>
+  <Entry Index="1805">Ultimamente, os negócios estão crescendo.
+É maravilhoso receber tantos convidados!&lt;wait&gt;</Entry>
+  <Entry Index="1806">O que você faz aqui neste momento?&lt;wait&gt;</Entry>
+  <Entry Index="1807">Bem, sim, temos vagas, mas você não está prestes a
+passar a noite aqui, não é?&lt;wait&gt;</Entry>
+  <Entry Index="1808">As fontes termais da Deusa são boas para o corpo.
+Aparentemente, o ar está carregado de íons negativos nesta
+manhã!&lt;wait&gt;&lt;page&gt;
+A cachoeira também é um ótimo local!
+Ou pelo menos é o que Marie diz.&lt;wait&gt;</Entry>
+  <Entry Index="1809">Tudo bem, hora de agir em conjunto! Espero que hoje
+tenhamos muitos clientes.&lt;wait&gt;</Entry>
+  <Entry Index="1810">Aaaa... Estou tão feliz.&lt;wait&gt;</Entry>
+  <Entry Index="1811">Se você está procurando por Cliff, acho que ele ainda
+está em seu quarto.&lt;wait&gt;</Entry>
+  <Entry Index="1812">Ei? Opa, olá!
+Que surpresa te ver aqui, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1813">Ei? Opa, olá!
+Que surpresa te ver aqui, &lt;playername&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="1814">Não há nada melhor do que um pouco de ar fresco da
+montanha muito cedo!&lt;wait&gt;</Entry>
+  <Entry Index="1815">Eu vou comer MUITO mochi no Mochi Bonança de 
+amanhã! Eles não terão que se preocupar com sobras,
+hahaha.&lt;wait&gt;</Entry>
+  <Entry Index="1816">Ei! Você vai participar do Festival de Primavera? Eu vou é
+claro!&lt;wait&gt;</Entry>
+  <Entry Index="1817">Amanhã é o festival! Eu fico animado só de pensar nisso!&lt;wait&gt;</Entry>
+  <Entry Index="1818">Espero que o tema do concurso gastronômico deste
+ano tem a ver com ovos, porque sou especialista em cozinhar com eles.
+Mas quem sabe...&lt;wait&gt;</Entry>
+  <Entry Index="1819">Finalmente chegou a hora do Concurso de Comida! Tenho que
+preparar algo que faça jus à pousada!&lt;wait&gt;</Entry>
+  <Entry Index="1820">Ah, isso mesmo, é o festival agora... Eu tenho que
+levar a sério a prática. Eu não quero que Elly tenha
+que me cobrir...&lt;wait&gt;</Entry>
+  <Entry Index="1821">O concurso de amanhã vai ser perfeito! Espero eu.
+Você verá! Tenho certeza que tudo vai dar certo... de alguma forma.&lt;wait&gt;</Entry>
+  <Entry Index="1822">Mal posso esperar para os fogos de artifício serem amanhã! E
+você, &lt;playername&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="1823">Estou pensando em que vou levar para a Festa da Colheita
+deste ano...&lt;wait&gt;</Entry>
+  <Entry Index="1824">Ei, &lt;playername&gt;! Vamos nos divertir muito no
+Festival da Colheita de amanhã!&lt;wait&gt;</Entry>
+  <Entry Index="1825">A lua no outono é linda! Eu estou tão anciosa para a
+Noite de Luar amanhã!&lt;wait&gt;</Entry>
+  <Entry Index="1826">Bem, o ano passou rápido. Mee entristece que
+acabou, mas teremos que dar as boas-vindas!
+Comemore o ano novo com macarrão soba!&lt;wait&gt;</Entry>
+  <Entry Index="1827">Hoje é o meu aniversário.&lt;wait&gt;</Entry>
+  <Entry Index="1828">Oh, Meu Deus! Agora, isso não parece bom para lamber os dedos? hum?
+Você está dando para mim?&lt;wait&gt;&lt;page&gt;
+Vou saborear cada mordida, você pode apostar suas calças
+naquilo! Te agradeço muito.&lt;wait&gt;</Entry>
+  <Entry Index="1829">Caramba! Você está dando isso para mim?
+Mas olha como você é doce!
+Te agradeço muito.&lt;wait&gt;</Entry>
+  <Entry Index="1830">Te agradeço muito.&lt;wait&gt;</Entry>
+  <Entry Index="1831">Hum... Me desculpe, mas isso não é coisa minha. nem de longe.&lt;wait&gt;&lt;page&gt;
+Ah bem. É a intenção que conta.
+Eu não vou jogá-lo nem nada.&lt;wait&gt;</Entry>
+  <Entry Index="1832">Será que eu fiz algo que fez você se sentir mal? Que te
+dar isso de presente é como levar um tapa na
 cara!&lt;wait&gt;&lt;page&gt;
-Si quieres decirme algo, deberías decírmelo a la cara, ¿no
-crees?&lt;wait&gt;</Entry>
-  <Entry Index="1833">Ooooh, qué monada.
-Eso es.&lt;wait&gt; Qué bien se porta.&lt;wait&gt;</Entry>
-  <Entry Index="1834">¿Se puede saber en qué narices estabas pensando? ¡Si lo
-has hecho a propósito, deja que te diga un par de cosas...!&lt;wait&gt;</Entry>
-  <Entry Index="1835">¡Caray! ¿Es para mí? Pero no puedo aceptar un lujo así.&lt;wait&gt;&lt;page&gt;
-Me hace feliz solo pensarlo... ¿De verdad? ¿Seguro?&lt;wait&gt;&lt;page&gt;
-Vale, si insistes... Pero... No le vayas a decir nada a mi
-maridito.
-Te lo agradezco mucho.&lt;wait&gt;</Entry>
-  <Entry Index="1836">¡Caray! ¿Es para mí? Pero no puedo aceptar un lujo así.&lt;wait&gt;&lt;page&gt;
-Me hace feliz solo pensarlo... ¿De verdad? ¿Seguro?&lt;wait&gt;&lt;page&gt;
-Vale, si insistes... Pero... No le vayas a decir nada a mi
-maridito.
-Te lo agradezco mucho.&lt;wait&gt;</Entry>
-  <Entry Index="1837">Mmm, algo huele tremendamente bien.
-¿Es para mí?&lt;wait&gt;&lt;page&gt;
-Te lo agradezco enormemente. Lo cuidaré muy bien.&lt;wait&gt;</Entry>
-  <Entry Index="1838">Vaya, qué pluma más bonita.
-¿Mmm? ¿No es lo que se utiliza para proponerle
-matrimonio a alguien por estos lares?&lt;wait&gt;&lt;page&gt;
-¡No me digas! ¡Qué romántico! ¿Entiendo que vas a ir a
-pedirle matrimonio a tu media naranja?&lt;wait&gt;&lt;page&gt;
-Te deseo toda la suerte del mundo. ¡Estoy contigo!&lt;wait&gt;</Entry>
-  <Entry Index="1839">Uno de mis vecinos en el Valle Nomeolvides era
-&lt;linkedplayername&gt;. ¡Y te juro que sabía pescar como
-nadie!&lt;wait&gt;&lt;page&gt;
+Se você quer me dizer algo, você deve dizer na minha cara, certo?
+que tal você apenas dizer isso, hein?&lt;wait&gt;</Entry>
+  <Entry Index="1833">Ooooh, que fofo.
+Isso é.&lt;wait&gt; um bom bicho.&lt;wait&gt;</Entry>
+  <Entry Index="1834">Você pode dizer o que diabos você estava pensando? Sim,
+você fez isso de propósito, deixe-me dizer uma coisa ou duas...!&lt;wait&gt;</Entry>
+  <Entry Index="1835">Caramba! É para mim? Mas eu não posso aceitar tal luxo.&lt;wait&gt;&lt;page&gt;
+Fico feliz só de pensar nisso... Sério? Certeza?&lt;wait&gt;&lt;page&gt;
+Tudo bem, se você insiste... Mas... Não diga nada ao meu
+marido.
+Te agradeço muito.&lt;wait&gt;</Entry>
+  <Entry Index="1836">Caramba! É para mim? Mas eu não posso aceitar tal luxo.&lt;wait&gt;&lt;page&gt;
+Fico feliz só de pensar nisso... Sério? Certeza?&lt;wait&gt;&lt;page&gt;
+Tudo bem, se você insiste... Mas... Não diga nada ao meu
+marido.
+Te agradeço muito.&lt;wait&gt;</Entry>
+  <Entry Index="1837">Hmm, algo cheira muito bem.
+É para mim?&lt;wait&gt;&lt;page&gt;
+Agradeço-lhe muito. Vou cuidar bem dele.&lt;wait&gt;</Entry>
+  <Entry Index="1838">Nossa, que pluma linda.
+Hum? Isto é o que vocês usam para fazer pedidos de 
+casamento por aqui?&lt;wait&gt;&lt;page&gt;
+Não me diga! Que romântico! Eu entendo que você vai
+propor a sua namorada?&lt;wait&gt;&lt;page&gt;
+Desejo-lhe toda a sorte do mundo. Estou com você!&lt;wait&gt;</Entry>
+  <Entry Index="1839">Um dos meus vizinhos em Vale Esquecido, nasceu
+&lt;linkedplayername&gt;. E eu juro que ele sabia pescar como
+ninguém!&lt;wait&gt;&lt;page&gt;
 En serio. Te sorprendería la destreza que tenía para
 coger la caña y atrapar peces al instante.&lt;wait&gt;</Entry>
   <Entry Index="1840">Viendo todos los ingredientes que tenéis al alcance en
