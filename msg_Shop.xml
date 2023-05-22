@@ -232,14 +232,14 @@ Bem...</Entry>
   <Entry Index="174">Forno</Entry>
   <Entry Index="175">Usado para assar alimentos.</Entry>
   <Entry Index="176">Condimentos</Entry>
-  <Entry Index="177">Uma série de condimentos para apimentar o
+  <Entry Index="177">Uma série de condimentos para apimentar a
 comida.</Entry>
   <Entry Index="178">Energy Berry </Entry>
   <Entry Index="179">Aumenta sua resistência máxima em 15 quando
-coma.</Entry>
+comer.</Entry>
   <Entry Index="180">Enxada de cobre</Entry>
   <Entry Index="181">Até uma área maior de terra
-que a enxada do prefeito.</Entry>
+que a enxada de bronze.</Entry>
   <Entry Index="182">Enxada de Prata</Entry>
   <Entry Index="183">Até uma área maior de terra
 do que a enxada de cobre.</Entry>
@@ -254,7 +254,7 @@ do que a enxada de ouro.</Entry>
 aquela enxada amaldiçoada/abençoada.</Entry>
   <Entry Index="190">Foice de Cobre</Entry>
   <Entry Index="191">Corta em um raio maior que a foice
-prefeito.</Entry>
+de bronze.</Entry>
   <Entry Index="192">Foice de Prata</Entry>
   <Entry Index="193">Corta em um raio maior que a foice
 cobre.</Entry>
@@ -657,14 +657,14 @@ branco.</Entry>
   <Entry Index="515">Qual nome você gostaria?</Entry>
   <Entry Index="516">Tem certeza de que deseja vender?</Entry>
   <Entry Index="517">Existem muitas fazendas que desejam animais saudáveis. Vocês
-Encontrarei um bom lar, não se preocupe.&lt;wait&gt;</Entry>
-  <Entry Index="518">Ah. No final você não vende?&lt;wait&gt;</Entry>
-  <Entry Index="519">Uau. Um de seus animais está prestes a dar à luz,
-para que você não tenha mais espaço na caneta. </Entry>
-  <Entry Index="520">Uau. Sua caneta já está cheia de animais e ovos
+encontraram um bom lar, não se preocupe.&lt;wait&gt;</Entry>
+  <Entry Index="518">Ah. você não vai querer vender?&lt;wait&gt;</Entry>
+  <Entry Index="519">Wow. Um de seus animais está prestes a dar à luz,
+mas você não tenha mais espaço no celeiro. </Entry>
+  <Entry Index="520">Wow. Seu celeiro já está cheia de animais e ovos
 incubando.</Entry>
   <Entry Index="521">Uau. Você tem animais que vão dar à luz e ovos
-incubando. Não há mais espaço na caneta.</Entry>
+incubando. Não há mais espaço na celeiro.</Entry>
   <Entry Index="522"></Entry>
   <Entry Index="523"></Entry>
   <Entry Index="524"></Entry>
@@ -723,16 +723,16 @@ bin do quadrado!&lt;wait&gt;</Entry>
   <Entry Index="567"></Entry>
   <Entry Index="568">Muito obrigado.&lt;wait&gt;</Entry>
   <Entry Index="569">Sua mochila está cheia. vou levar o resto para a geladeira
-sua casa.&lt;wait&gt;</Entry>
+da sua casa.&lt;wait&gt;</Entry>
   <Entry Index="570">Sua mochila está cheia. Eu vou levar o resto para o seu armário
-home.&lt;wait&gt;</Entry>
-  <Entry Index="571">O seu bolso de ferramentas está cheio. eu te levo o resto
-para sua caixa de ferramentas inicial.&lt;wait&gt;</Entry>
+da sua casa.&lt;wait&gt;</Entry>
+  <Entry Index="571">A sua mochila está cheia. Eu levarei o resto
+para sua caixa de ferramentas.&lt;wait&gt;</Entry>
   <Entry Index="572">Sua mochila está cheia e parece que sua geladeira também.
 Libere algum espaço primeiro, ok?&lt;wait&gt;</Entry>
   <Entry Index="573">Sua mochila está cheia e parece que seu guarda-roupa também.
 Libere algum espaço primeiro, ok?&lt;wait&gt;</Entry>
-  <Entry Index="574">Seu bolso de ferramentas está cheio e parece que seu
+  <Entry Index="574">Sua mochila está cheia e parece que sua
 caixa de ferramentas também. Libere algum espaço
 primeiro, ok?&lt;wait&gt;</Entry>
   <Entry Index="575">Sua mochila está cheia. Libere algum espaço primeiro,
@@ -753,17 +753,17 @@ ok?&lt;wait&gt;</Entry>
   <Entry Index="589"></Entry>
   <Entry Index="590"></Entry>
   <Entry Index="591">Hmm. Você carrega a mochila para o topo. Suponho que
-Vou enviar o resto para sua geladeira.&lt;wait&gt;</Entry>
+vou enviar o resto para sua geladeira.&lt;wait&gt;</Entry>
   <Entry Index="592">Hmm. Você carrega a mochila para o topo. Suponho que
-Vou enviar o resto para o seu armário.&lt;wait&gt;</Entry>
-  <Entry Index="593">Hmm. Seu bolso de ferramentas está cheio. Suponho que
-Enviarei o restante para sua caixa de ferramentas.&lt;wait&gt;</Entry>
-  <Entry Index="594">Ah. Parece que sua mochila e geladeira estão cheias.
+vou enviar o resto para o seu armário.&lt;wait&gt;</Entry>
+  <Entry Index="593">Hmm. Sua mochila está cheia. enviarei
+o restante para sua caixa de ferramentas.&lt;wait&gt;</Entry>
+  <Entry Index="594">Ah. Parece que sua mochila e a geladeira estão cheias.
 Organize suas coisas, ok? E depois venha me ver.&lt;wait&gt;</Entry>
-  <Entry Index="595">Parece que sua mochila e armário estão cheios.
+  <Entry Index="595">Parece que sua mochila e caixa de ferramentas estão cheios.
 Organize suas coisas, ok? E depois venha me ver.&lt;wait&gt;</Entry>
-  <Entry Index="596">Parece que seu bolso de ferramentas está cheio e seu
-caixa de ferramentas está cheia. Organize suas coisas e
+  <Entry Index="596">Parece que sua mochila está cheia e sua
+caixa de ferramentas também está. Organize suas coisas e
 então venha me ver.&lt;wait&gt;</Entry>
   <Entry Index="597">Volte em breve, ok?&lt;wait&gt;</Entry>
   <Entry Index="598"></Entry>
@@ -771,7 +771,7 @@ então venha me ver.&lt;wait&gt;</Entry>
   <Entry Index="600"></Entry>
   <Entry Index="601"></Entry>
   <Entry Index="602"></Entry>
-  <Entry Index="603">Ei, sua mochila está cheia! vou levar o resto para o armário
+  <Entry Index="603">Ei, sua mochila está cheia! Vou levar o resto para o armário
 da sua casa, ok?&lt;wait&gt;</Entry>
   <Entry Index="604"></Entry>
   <Entry Index="605"></Entry>
@@ -783,16 +783,16 @@ Organize suas coisas!&lt;wait&gt;</Entry>
   <Entry Index="610"></Entry>
   <Entry Index="611"></Entry>
   <Entry Index="612"></Entry>
-  <Entry Index="613">Uau! Parece que você tem uma mochila cheia. vou enviar o
-descanse na geladeira, ok?&lt;wait&gt;</Entry>
-  <Entry Index="614">Uau! Parece que você tem uma mochila cheia. vou enviar o
-descanse no seu armário, ok?&lt;wait&gt;</Entry>
-  <Entry Index="615">Uau! Parece que seu bolso de ferramentas está
-cheio. Vou enviar o resto para sua caixa de ferramentas, ok?&lt;wait&gt;</Entry>
-  <Entry Index="616">Uau! Sua mochila e sua geladeira estão cheias. você pode
-fazer um buraco primeiro?&lt;wait&gt;</Entry>
-  <Entry Index="617">Uau! Sua mochila e seu armário estão cheios. você pode
-fazer um buraco primeiro?&lt;wait&gt;</Entry>
+  <Entry Index="613">Ei! Parece que você tem uma mochila cheia. Vou enviar o
+restante na sua geladeira, ok?&lt;wait&gt;</Entry>
+  <Entry Index="614">Ei! Parece que você tem uma mochila cheia. Vou enviar o
+restante no seu armário, ok?&lt;wait&gt;</Entry>
+  <Entry Index="615">Ei! Parece que sua mochila está
+cheia. Vou enviar o resto para sua caixa de ferramentas, ok?&lt;wait&gt;</Entry>
+  <Entry Index="616">Ei! Sua mochila e sua geladeira estão cheias. Você poderia
+liberar espaço primeiro?&lt;wait&gt;</Entry>
+  <Entry Index="617">Ei! Sua mochila e seu armário estão cheios. Você poderia
+liberar espaço primeiro?&lt;wait&gt;</Entry>
   <Entry Index="618">Uau! Seu bolso de ferramentas está cheio e sua caixa de
 ferramentas também. Você pode fazer um buraco para ele?&lt;wait&gt;</Entry>
   <Entry Index="619"></Entry>
@@ -874,18 +874,18 @@ fazer um buraco primeiro?&lt;wait&gt;</Entry>
 ferramentas estão cheias. você pode fazer um buraco
 primeiro?&lt;wait&gt;</Entry>
   <Entry Index="674">Ok, dê um nome.&lt;wait&gt;</Entry>
-  <Entry Index="675">Uau. Parece que sua mochila está cheia.&lt;wait&gt;&lt;page&gt;
-Vou pedir para Rick levar o resto para você no moinho de água.
+  <Entry Index="675">Ei. Parece que sua mochila está cheia.&lt;wait&gt;&lt;page&gt;
+Vou pedir para Rick levar o resto para você no moinho de água
 então.&lt;wait&gt;</Entry>
-  <Entry Index="676">Uau. Parece que a mochila e o moinho de vento estão cheios.&lt;wait&gt;&lt;page&gt;
+  <Entry Index="676">Ei. Parece que a mochila e o moinho de vento estão cheios.&lt;wait&gt;&lt;page&gt;
 Importa-se de fazer um buraco primeiro?&lt;wait&gt;</Entry>
   <Entry Index="677">Existem muitas fazendas que desejam animais saudáveis. Vocês
 Encontrarei um bom lar, não se preocupe.&lt;wait&gt;</Entry>
-  <Entry Index="678">Uau. Um de seus animais está prestes a dar à luz,
+  <Entry Index="678">Ei. Um de seus animais está prestes a dar à luz,
 para que você não tenha mais espaço na caneta. </Entry>
-  <Entry Index="679">Uau. Sua caneta já está cheia de animais e ovos
+  <Entry Index="679">Ei. Sua caneta já está cheia de animais e ovos
 incubando.</Entry>
-  <Entry Index="680">Uau. Você tem animais que vão dar à luz e ovos
+  <Entry Index="680">Ei. Você tem animais que vão dar à luz e ovos
 incubando. Não há mais espaço na caneta.</Entry>
   <Entry Index="681">Sua mochila está cheia. Vou mandar o resto para a geladeira.&lt;wait&gt;</Entry>
   <Entry Index="682">Sua mochila está cheia. Vou mandar o resto para o armário.&lt;wait&gt;</Entry>
@@ -1092,10 +1092,10 @@ Termina agora. Era assim que funcionava.&lt;wait&gt;</Entry>
   <Entry Index="825"></Entry>
   <Entry Index="826"></Entry>
   <Entry Index="827"></Entry>
-  <Entry Index="828">Compre animais</Entry>
+  <Entry Index="828">Comprar animais</Entry>
   <Entry Index="829">Comprar equipamentos e itens </Entry>
   <Entry Index="830">Vender animais</Entry>
-  <Entry Index="831">Compre animais</Entry>
+  <Entry Index="831">Comprar animais</Entry>
   <Entry Index="832">Comprar equipamentos e itens </Entry>
   <Entry Index="833">Vender animais</Entry>
   <Entry Index="834">Melhorar ferramentas</Entry>
